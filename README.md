@@ -3,6 +3,24 @@
 Ce dépôt contient une liste de noms de domaine pointant vers des
 organismes remplissant des missions de service public.
 
+Les domaines dans le fichier `domaines-organismes-publics.txt` doivent
+être accessible en HTTP ou HTTPS.
+
+Le dossier `sources/` contient tous les domaines connus, accessibles ou non.
+
+
+# Les domaines inaccessibles
+
+La liste des domaines qui sont dans le dossier `sources/` mais ne sont
+pas dans le fichier `domaines-organismes-publics.txt` sont
+inaccessibles en HTTP ou HTTPS (n'ont pas d'adresse IP, ne répondent
+pas, ...).
+
+Pour obtenir cette liste vous pouvez utiliser :
+
+    export LC_COLLATE=C
+    comm -13 domaines-organismes-publics.txt <(sort sources/*.txt)
+
 
 # Contribution
 
