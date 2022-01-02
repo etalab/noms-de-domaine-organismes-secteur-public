@@ -12,31 +12,45 @@ import random
 
 import aiohttp
 from yarl import URL
+from tqdm.asyncio import tqdm
+
 
 logger = logging.getLogger("consolidate")
 
 
 async def check_host(
-    host: str, client: aiohttp.ClientSession, kindness: int = 0
+    host: str, client: aiohttp.ClientSession, sem: asyncio.Semaphore
 ) -> Tuple[str, bool]:
     """Check if the given host replies an ok-ish response over HTTP or HTTPS.
 
     kindness range from 0 to 3 included (from fast to very kind).
     """
     for protocol in "https", "http":
-        await asyncio.sleep((1 + random.random() * 5) * kindness ** 2)
         try:
             url = f"{protocol}://{host}"
-            async with client.head(url, allow_redirects=True) as response:
-                if response.status == 200:
-                    logger.info("%s: OK", url)
-                    return host, True
+            async with sem:
+                logger.debug("%s: Querying...", url)
+                async with client.head(url, allow_redirects=True) as response:
+                    if response.status == 200:
+                        logger.info("%s: OK", url)
+                        return host, True
                 logger.info("%s: failure, status={response.status}", url)
         except aiohttp.ClientError as err:
             logger.info("%s: failure: %s", url, err)
+            if "Name or service not known" in str(err) and not host.startswith("www."):
+                _, works_with_www = await check_host("www." + host, client, sem)
+                if works_with_www:
+                    logger.info(
+                        "%s: (Would have worked prefixed with 'www.', "
+                        "please fix in sources/.)",
+                        url,
+                    )
+                    return host, False
         except asyncio.TimeoutError:
             logger.info("%s: failure: Timeout", url)
         except UnicodeError as err:  # Can happen on malformed IDNA.
+            logger.info("%s: failure: %s", url, err)
+        except ValueError as err:  # Can happen while following redirections
             logger.info("%s: failure: %s", url, err)
     return host, False
 
@@ -116,14 +130,14 @@ async def main():
     logging.basicConfig(
         level=[logging.ERROR, logging.INFO, logging.DEBUG][args.verbose]
     )
+    sem = asyncio.Semaphore([20, 10, 5, 2][args.kindness])
+    gather = asyncio.gather if args.verbose else tqdm.gather
     async with aiohttp.ClientSession(
         raise_for_status=True,
-        connector=aiohttp.TCPConnector(
-            limit=1 if args.kindness else 10, limit_per_host=1
-        ),
+        timeout=aiohttp.ClientTimeout(total=20),
     ) as client:
-        results = await asyncio.gather(
-            *[check_host(host, client, args.kindness) for host in unknown_hosts]
+        results = await gather(
+            *[check_host(host, client, sem) for host in unknown_hosts]
         )
     accepted = {host for host, is_up in results if is_up}
     args.output.write_text(
