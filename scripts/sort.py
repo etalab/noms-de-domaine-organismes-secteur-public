@@ -1,6 +1,6 @@
 """Just sort the given files.
 
-And remove blank lines.
+And remove blank lines, and remove duplicates.
 """
 
 import argparse
@@ -18,10 +18,9 @@ def main():
     for file in args.file:
         path = Path(file)
         lines = path.read_text(encoding="UTF-8").splitlines()
-        lines = [line for line in lines if line]
-        lines.sort()
-        path.write_text("\n".join(lines) + "\n", encoding="UTF-8")
+        lines = {line for line in lines if line}
+        path.write_text("\n".join(sorted(lines)) + "\n", encoding="UTF-8")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

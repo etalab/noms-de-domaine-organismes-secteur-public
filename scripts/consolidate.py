@@ -1,4 +1,4 @@
-"""Consolidate a bunch of files containing hosts names to a single
+"""Consolidate a bunch of files containing domains names to a single
 file containing those replying 200 over HTTP.
 """
 
@@ -17,42 +17,89 @@ from tqdm.asyncio import tqdm
 
 logger = logging.getLogger("consolidate")
 
+# Domains that are commonly found behind redurections but are not public service:
+BLACKLISTED_DOMAINS = {"www.sendinblue.com", "www.sarbacane.com"}
 
-async def check_host(
-    host: str, client: aiohttp.ClientSession, sem: asyncio.Semaphore
+
+def ingest_good_response(
+    first_domain: str, last_domain: str, source_domains
 ) -> Tuple[str, bool]:
-    """Check if the given host replies an ok-ish response over HTTP or HTTPS.
+    """Given a 200 HTTP response, tell if it should be added to
+    domaines-organismes-publics.txt."""
+    if last_domain not in source_domains:
+        if last_domain not in BLACKLISTED_DOMAINS:
+            logger.warning(
+                "%s: Redirects to unknown domain: %s", first_domain, last_domain
+            )
+        return first_domain, False
+    if first_domain != last_domain:
+        logger.info(
+            "%s: Redirects to another known domain (%s), skipping.",
+            first_domain,
+            last_domain,
+        )
+        return first_domain, False
+    return first_domain, True
 
-    kindness range from 0 to 3 included (from fast to very kind).
-    """
+
+async def check_if_adding_www_helps(
+    domain: str,
+    err: Exception,
+    client: aiohttp.ClientSession,
+    sem: asyncio.Semaphore,
+    source_domains: set[str],
+) -> None:
+    """When we fail resolving a domain, it may be good to test with a www prefix."""
+    if "Name or service not known" not in str(err) or domain.startswith("www."):
+        return
+    if "www." + domain in source_domains:
+        return
     for protocol in "https", "http":
         try:
-            url = f"{protocol}://{host}"
+            async with sem:
+                async with client.head(f"{protocol}://{domain}") as response:
+                    if response.status == 200:
+                        logger.warning(
+                            "%s: (Would have worked prefixed with 'www.': "
+                            "sed -i s/%s/%s/ sources/*.txt",
+                            domain,
+                            domain,
+                            "www." + domain,
+                        )
+                    return
+        except (aiohttp.ClientError, asyncio.TimeoutError, ValueError):
+            pass
+
+
+async def check_domain(
+    domain: str,
+    client: aiohttp.ClientSession,
+    sem: asyncio.Semaphore,
+    source_domains: set[str],
+) -> Tuple[str, bool]:
+    """Check if the given domain replies an ok-ish response over HTTP or HTTPS."""
+    for protocol in "https", "http":
+        try:
+            url = f"{protocol}://{domain}"
             async with sem:
                 logger.debug("%s: Querying...", url)
                 async with client.head(url, allow_redirects=True) as response:
                     if response.status == 200:
                         logger.info("%s: OK", url)
-                        return host, True
-                logger.info("%s: failure, status={response.status}", url)
+                        return ingest_good_response(
+                            domain, response.url.host, source_domains
+                        )
+                logger.info("%s: KO, status={response.status}", url)
         except aiohttp.ClientError as err:
-            logger.info("%s: failure: %s", url, err)
-            if "Name or service not known" in str(err) and not host.startswith("www."):
-                _, works_with_www = await check_host("www." + host, client, sem)
-                if works_with_www:
-                    logger.info(
-                        "%s: (Would have worked prefixed with 'www.', "
-                        "please fix in sources/.)",
-                        url,
-                    )
-                    return host, False
+            logger.info("%s: KO: %s", url, err)
+            await check_if_adding_www_helps(domain, err, client, sem, source_domains)
         except asyncio.TimeoutError:
-            logger.info("%s: failure: Timeout", url)
+            logger.info("%s: KO: Timeout", url)
         except UnicodeError as err:  # Can happen on malformed IDNA.
-            logger.info("%s: failure: %s", url, err)
+            logger.info("%s: KO: %s", url, err)
         except ValueError as err:  # Can happen while following redirections
-            logger.info("%s: failure: %s", url, err)
-    return host, False
+            logger.info("%s: KO: %s", url, err)
+    return domain, False
 
 
 def parse_args():
@@ -96,52 +143,45 @@ def parse_args():
         default=0,
         help="Verbosity: use -v or -vv.",
     )
+    parser.add_argument(
+        "-s", "--silent", action="store_true", help="Disable progress bar"
+    )
     args = parser.parse_args()
     args.verbose = min(args.verbose, 2)
     return args
 
 
-def clean_host(line):
-    """Check if the given line looks like a hostname.
-
-    Clean as needed, raise as needed.
-    """
-    line = line.strip()
-    if not line:
-        return None
-    host = line.split()[0]
-    if "/" in host:
-        raise ValueError(f"Unexpected '/' in host: {line}")
-    return host.lower()
-
-
 def parse_files(*files) -> set[str]:
-    """Parse one or many files containing lines of hosts."""
-    lines = chain(*[file.read_text(encoding="UTF-8").split("\n") for file in files])
-    return {host for line in lines if (host := clean_host(line))}
+    """Parse one or many files containing lines of domains."""
+    return set(
+        chain(*[file.read_text(encoding="UTF-8").splitlines() for file in files])
+    )
 
 
 async def main():
     args = parse_args()
-    source_hosts = parse_files(*args.files)
-    known_hosts = parse_files(args.output)
-    unknown_hosts = list(source_hosts - known_hosts)
-    random.shuffle(unknown_hosts)
+    source_domains = parse_files(*args.files)
+    known_domains = parse_files(args.output)
+    unknown_domains = list(source_domains - known_domains)
+    random.shuffle(unknown_domains)
     logging.basicConfig(
-        level=[logging.ERROR, logging.INFO, logging.DEBUG][args.verbose]
+        level=[logging.WARNING, logging.INFO, logging.DEBUG][args.verbose]
     )
     sem = asyncio.Semaphore([20, 10, 5, 2][args.kindness])
-    gather = asyncio.gather if args.verbose else tqdm.gather
+    gather = asyncio.gather if (args.verbose or args.silent) else tqdm.gather
     async with aiohttp.ClientSession(
         raise_for_status=True,
         timeout=aiohttp.ClientTimeout(total=20),
     ) as client:
         results = await gather(
-            *[check_host(host, client, sem) for host in unknown_hosts]
+            *[
+                check_domain(domain, client, sem, source_domains)
+                for domain in unknown_domains
+            ]
         )
-    accepted = {host for host, is_up in results if is_up}
+    accepted = {domain for domain, is_up in results if is_up}
     args.output.write_text(
-        "\n".join(sorted(list(known_hosts | accepted))) + "\n",
+        "\n".join(sorted(list(known_domains | accepted))) + "\n",
         encoding="UTF-8",
     )
     await asyncio.sleep(
