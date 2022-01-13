@@ -36,6 +36,6 @@ acceptés.
 
 # Licence
 
-2020, DINUM et les contributeurs du dépôt.
+2020-2021, DINUM et les contributeurs du dépôt.
 
 Le contenu de ce dépôt est sous [licence Ouverte 2.0](LICENCE.md).
