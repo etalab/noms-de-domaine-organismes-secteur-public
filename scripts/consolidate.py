@@ -18,7 +18,20 @@ from tqdm.asyncio import tqdm
 logger = logging.getLogger("consolidate")
 
 # Domains that are commonly found behind redurections but are not public service:
-BLACKLISTED_DOMAINS = {"www.sendinblue.com", "www.sarbacane.com"}
+NON_PUBLIC_DOMAINS = {
+    "cloud.wewmanager.com",
+    "github.com",
+    "go.crisp.chat",
+    "journal-officiel-datadila.opendatasoft.com",
+    "login.microsoftonline.com",
+    "socialgouv.github.io",
+    "www.3dathome.fr",
+    "www.creps.ovh",
+    "www.ovh.co.uk",
+    "www.sarbacane.com",
+    "www.sendinblue.com",
+    "www.wewmanager.com",
+}
 
 
 def ingest_good_response(
@@ -27,7 +40,7 @@ def ingest_good_response(
     """Given a 200 HTTP response, tell if it should be added to
     domaines-organismes-publics.txt."""
     if last_domain not in source_domains:
-        if last_domain not in BLACKLISTED_DOMAINS:
+        if last_domain not in NON_PUBLIC_DOMAINS:
             logger.warning(
                 "%s: Redirects to unknown domain: %s", first_domain, last_domain
             )
