@@ -23,6 +23,7 @@ NON_PUBLIC_DOMAINS = {
     "github.com",
     "go.crisp.chat",
     "journal-officiel-datadila.opendatasoft.com",
+    "host-web.com",
     "login.microsoftonline.com",
     "socialgouv.github.io",
     "www.3dathome.fr",
