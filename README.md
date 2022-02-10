@@ -25,7 +25,18 @@ Pour obtenir cette liste vous pouvez utiliser :
 # Contribution
 
 Ajoutez le ou les domaines que vous connaissez dans un des fichiers du
-dossier `sources/` et exécutez :
+dossier `sources/`.
+
+Pour trier le fichier que vous venez de modifier, vous pouvez utiliser :
+
+    python scripts/sort.py sources/*.txt
+
+Pour vérifier que tout va bien :
+
+    python scripts/check.py
+
+Et éventuellement pour consolider dans
+`domaines-organismes-publics.txt` (mais c'est long) :
 
     python scripts/consolidate.py sources/*.txt
 
