@@ -45,6 +45,14 @@ dans lequels seuls les domaines répondant en HTTP par une 200 sont
 acceptés.
 
 
+## Scripts de collecte
+
+Le dossier `scripts/` contient plusieurs scripts de collecte :
+
+- import-base-nationale-sur-les-intercommunalites.py
+- import-from-ct-logs.py
+
+
 # Licence
 
 2020-2021, DINUM et les contributeurs du dépôt.
