@@ -19,15 +19,18 @@ logger = logging.getLogger("consolidate")
 
 # Domains that are commonly found behind redurections but are not public service:
 NON_PUBLIC_DOMAINS = {
+    "128k.io",
     "cloud.wewmanager.com",
     "github.com",
     "go.crisp.chat",
     "journal-officiel-datadila.opendatasoft.com",
+    "www.changementadresse-carte-grise.com",  # squatte www.roussillo-conflent.fr
     "host-web.com",
     "login.microsoftonline.com",
     "socialgouv.github.io",
     "www.3dathome.fr",
     "www.creps.ovh",
+    "www.cyberfinder.com",
     "www.ovh.co.uk",
     "www.sarbacane.com",
     "www.sendinblue.com",
