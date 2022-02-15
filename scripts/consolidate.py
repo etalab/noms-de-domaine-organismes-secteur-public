@@ -20,6 +20,7 @@ logger = logging.getLogger("consolidate")
 # Domains that are commonly found behind redurections but are not public service:
 NON_PUBLIC_DOMAINS = {
     "128k.io",
+    "accounts.google.com",
     "cloud.wewmanager.com",
     "github.com",
     "go.crisp.chat",

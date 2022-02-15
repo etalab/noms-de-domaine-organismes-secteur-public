@@ -34,18 +34,51 @@ def check_lowercased(file, lineno, line):
         err(f"{file}:{lineno}: {line!r} is not lowercased.")
 
 
+def check_gouvfr(file, lineno, line):
+    if file.name == "gouvfr-divers.txt" and not line.endswith(".gouv.fr"):
+        err(f"{file}:{lineno}: {line!r} does is not a '.gouv.fr' domain")
+
+
+def check_nongouvfr(file, lineno, line):
+    if file.name == "nongouvfr-divers.txt" and line.endswith(".gouv.fr"):
+        err(f"{file}:{lineno}: {line!r} should be in file 'gouvfr-divers.txt'")
+
+
 class DuplicateChecker:
     def __init__(self):
         self.seen = {}
 
-    def __call__(self, file, lineno, line):
-        if line in self.seen:
+    def check_if_already_seen(self, file, lineno, domain):
+        """Checks if the given domain has already been seen."""
+        if domain in self.seen:
+            seen_in_file, seen_at_line = self.seen[domain]
             err(
-                f"{file}:{lineno}: Duplicate domain {line!r} "
-                f"(already seen in {self.seen[line]})"
+                f"{file}:{lineno}: Duplicate domain {domain!r} "
+                f"(already seen in {seen_in_file}:{seen_at_line})"
             )
-        else:
-            self.seen[line] = f"{file}:{lineno}"
+
+    def check_if_seen_in_other_file(self, file, lineno, domain):
+        """Called twice, checks either we've seen the same domain with or without 'www.'
+        in another file.
+
+        As both (www and non-www) should probably lie in the same file.
+        """
+        if domain not in self.seen:
+            return
+        seen_in_file, seen_at_line = self.seen[domain]
+        if seen_in_file != file:
+            err(
+                f"{file}:{lineno}: Domain {domain} and its www-prefixed counterpart "
+                "should reside in the same file, the other one is in "
+                f"{seen_in_file}:{seen_at_line}"
+            )
+
+    def __call__(self, file, lineno, line):
+        self.check_if_already_seen(file, lineno, line)
+        self.check_if_seen_in_other_file(file, lineno, "www." + line)
+        if line.startswith("www."):
+            self.check_if_seen_in_other_file(file, lineno, line[4:])
+        self.seen[line] = (file, lineno)
 
     @cached_property
     def all_domains(self):
@@ -61,6 +94,7 @@ def main():
             check_is_valid_domain(file, lineno, line)
             check_duplicate_line(file, lineno, line)
             check_lowercased(file, lineno, line)
+            check_gouvfr(file, lineno, line)
 
     consolidated = (
         Path("domaines-organismes-publics.txt").read_text(encoding="UTF-8").splitlines()
