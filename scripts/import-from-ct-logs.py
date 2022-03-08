@@ -66,7 +66,7 @@ def main():
     sort_files(SOURCES.glob("*.txt"))
     print("Don't forgot to run `python scripts/check.py`, then:")
     print("    git add sources/*.txt")
-    print(f'    git commit -m "Import from CT logs up to id {last_id}.')
+    print(f'    git commit -m "Import from CT logs up to id {last_id}."')
 
 
 if __name__ == "__main__":
