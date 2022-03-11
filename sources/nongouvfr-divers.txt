@@ -31,7 +31,6 @@ app.testing.passculture.team
 arcep.fr
 archives-map-admin.culture.fr
 archives-map-bo.culture.fr
-artsetmetiers.fr
 asap.dsna.fr
 asi-aeroports.fr
 asn.fr
@@ -231,7 +230,6 @@ ipsl.fr
 ird.fr
 irsn.fr
 irstea.fr
-isae-supaero.fr
 isere.histologe.fr
 jobsinattendus.fr
 juradm.fr
@@ -371,8 +369,8 @@ smica.fr
 soluris.fr
 sonum.tlscp.fr
 sorbonne-nouvelle.fr
+sso.asap.dsna.fr
 sso.culture.fr
-sso.enssib.fr
 st-theoffrey-rn85.fr
 suivi-ouverture.app.etalab.studio
 supmaritme.frenac.fr
@@ -381,7 +379,6 @@ telerecours.fr
 test.justice.fr
 theses.fr
 ugap.fr
-unc.nc
 usagers.antai.fr
 vie-publique.fr
 vivezafone.afoneparticipations.com
@@ -401,7 +398,6 @@ www.antai.fr
 www.apgl64.fr
 www.arcep.fr
 www.archires.archi.fr
-www.artsetmetiers.fr
 www.asn.fr
 www.asp-public.fr
 www.assemblee-afe.fr
@@ -497,6 +493,7 @@ www.ifpenergiesnouvelles.fr
 www.ifsttar.fr
 www.ihest.fr
 www.iledefrance-meudon.cnrs.fr
+www.imperva.com
 www.inalco.fr
 www.ineris.fr
 www.informations-publiques.fr
@@ -511,7 +508,6 @@ www.ipsl.fr
 www.ird.fr
 www.irsn.fr
 www.irstea.fr
-www.isae-supaero.fr
 www.isere.histologe.fr
 www.jobsinattendus.fr
 www.juridoc.gouv.nc
