@@ -88,7 +88,11 @@ class DuplicateChecker:
 def main():
     check_duplicate_line = DuplicateChecker()
     for file in Path("sources/").glob("*.txt"):
-        lines = file.read_text(encoding="UTF-8").splitlines()
+        lines = [
+            line.split("#", maxsplit=1)[0].strip()
+            for line in file.read_text(encoding="UTF-8").splitlines()
+            if not line.startswith("#")
+        ]
         check_is_sorted(file, lines)
         for lineno, line in enumerate(lines, start=1):
             check_is_valid_domain(file, lineno, line)
