@@ -4,6 +4,7 @@ file containing those replying 200 over HTTP.
 
 import argparse
 import asyncio
+from functools import total_ordering
 from dataclasses import dataclass
 from itertools import chain
 from pathlib import Path
@@ -54,7 +55,8 @@ NON_PUBLIC_DOMAINS = {
 }
 
 
-@dataclass(order=True)
+@total_ordering
+@dataclass
 class Domain:
     name: str
     source_file: Path
@@ -73,6 +75,9 @@ class Domain:
 
     def __hash__(self):
         return hash(self.name)
+
+    def __lt__(self, other):
+        return self.name.split(".")[::-1] < other.name.split(".")[::-1]
 
     def __repr__(self):
         if self.comment:

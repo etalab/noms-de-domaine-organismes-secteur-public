@@ -10,7 +10,7 @@
 import sys
 from pathlib import Path
 from functools import cached_property
-
+from consolidate import Domain
 import validators
 
 
@@ -20,7 +20,8 @@ def err(*args, **kwargs):
 
 
 def check_is_sorted(file, lines):
-    if lines != sorted(lines):
+    domains = [Domain.from_file_line(file, line) for line in lines]
+    if domains != sorted(domains):
         err(f"{file}: Is not sorted, run `python scripts/sort.py sources/*.txt`")
 
 
