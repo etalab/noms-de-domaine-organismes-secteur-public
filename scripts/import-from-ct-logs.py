@@ -19,7 +19,7 @@ from pathlib import Path
 
 import psycopg2
 from sort import sort_files
-from consolidate import NON_PUBLIC_DOMAINS
+from consolidate import Domain, NON_PUBLIC_DOMAINS
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "sources"
@@ -40,7 +40,7 @@ def query_ct_logs(last_id):
         open(SOURCES / "nongouvfr-divers.txt", "a", encoding="UTF-8") as nongouv_fr,
     ):
         for pk, domain, subject in cur.fetchall():
-            if domain in NON_PUBLIC_DOMAINS:
+            if Domain(domain).is_not_public():
                 continue
             if any(non_public in subject for non_public in NON_PUBLIC_DOMAINS):
                 continue

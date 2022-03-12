@@ -342,6 +342,7 @@ www.ecpad.fr
 educagri.fr
 education.fr
 adc.education.fr
+auth.apps.education.fr  # (redirection from nuage01.apps.education.fr)
 beta.apps.education.fr  # from https://crt.sh/?id=5192474144
 whoami.beta.apps.education.fr  # Found in cert of C=FR, L=Paris, O=Ministère de l'Education Nationale et de la Jeunesse, CN=whoami.beta.apps.education.fr, see https://crt.sh/?id=5192474144
 metabase.apps.education.fr
@@ -430,12 +431,6 @@ garde-nationale.fr  # Found in cert of CN=www.garde-nationale.fr, see https://cr
 www.garde-nationale.fr  # Found in cert of CN=www.garde-nationale.fr, see https://crt.sh/?id=5209391305
 gendinfo.fr
 www.gendinfo.fr
-smaprod.dume.chorus-pro.gouv.fr
-smatest.dume.chorus-pro.gouv.fr
-sma.esignature.chorus-pro.gouv.fr
-smatest.esignature.chorus-pro.gouv.fr
-place-client-prd.chorus-pro.gouv.fr
-place-client-recette.chorus-pro.gouv.fr
 gouvernement.fr
 www.gouvernement.fr
 granddebat.fr

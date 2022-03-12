@@ -22,36 +22,34 @@ logger = logging.getLogger("consolidate")
 # Domains that are commonly found behind redurections but are not public service:
 NON_PUBLIC_DOMAINS = {
     "128k.io",
-    "accounts.google.com",
+    "3dathome.fr",
     "attichy.com",
-    "cloud.wewmanager.com",
+    "bellevillesurmeuse.com",  # Domaine squatté
+    "changementadresse-carte-grise.com",  # squatte www.roussillo-conflent.fr
+    "cloudflaressl.com",
     "communecter.org",  # Une association
+    "creps.ovh",
+    "cyberfinder.com",
+    "dropcatch.com",  # squtte mairie-clarensac.com
+    "gitbook.com",
     "github.com",
+    "github.io",
     "go.crisp.chat",
+    "google.com",
     "host-web.com",
     "imperva.com",
     "incapsula.com",
-    "journal-officiel-datadila.opendatasoft.com",
-    "login.microsoftonline.com",
     "mesvres.com",  # Domaine squatté
+    "microsoftonline.com",
+    "milfshorny.com",  # squatte www.opoul.fr et villelefousseret.fr.
+    "opendatasoft.com",
+    "ovh.co.uk",
+    "passeport-mairie.com",  # squatte www.mairiedeliverdy.fr et www.mairieozon.fr
+    "sarbacane.com",
+    "sendinblue.com",
     "sioracderiberac.com",
-    "sites.google.com",
-    "sni.cloudflaressl.com",
-    "socialgouv.github.io",
     "varchetta.fr",  # squatte www.commune-la-chapelle-de-brain.fr
-    "ww25.bellevillesurmeuse.com",  # Domaine squatté
-    "www.3dathome.fr",
-    "www.bellevillesurmeuse.com",  # Domaine squatté
-    "www.changementadresse-carte-grise.com",  # squatte www.roussillo-conflent.fr
-    "www.creps.ovh",
-    "www.cyberfinder.com",
-    "www.dropcatch.com",  # squtte mairie-clarensac.com
-    "www.mesvres.com",  # Domaine squatté
-    "www.ovh.co.uk",
-    "www.passeport-mairie.com",  # squatte www.mairiedeliverdy.fr et www.mairieozon.fr
-    "www.sarbacane.com",
-    "www.sendinblue.com",
-    "www.wewmanager.com",
+    "wewmanager.com",
 }
 
 
@@ -59,7 +57,7 @@ NON_PUBLIC_DOMAINS = {
 @dataclass
 class Domain:
     name: str
-    source_file: Path
+    source_file: Path = None
     comment: str = ""
     is_up: bool = False
     redirects_to: str | None = None
@@ -72,6 +70,10 @@ class Domain:
         else:
             domain, comment = line, ""
         return Domain(domain.strip().lower(), file, comment=comment.strip())
+
+    def is_not_public(self) -> bool:
+        """Returns False if the domain is clearly not public (in NON_PUBLIC_DOMAINS)."""
+        return any(self.name.endswith(non_public) for non_public in NON_PUBLIC_DOMAINS)
 
     def __hash__(self):
         return hash(self.name)
@@ -91,6 +93,8 @@ class Domain:
         return self.name == other.name
 
     def is_interesting(self) -> bool:
+        if self.is_not_public():
+            return False
         if self.redirects_to is not None:
             return False
         return self.is_up
@@ -113,6 +117,7 @@ async def check_domain(
                         if response.url.host != domain.name:
                             domain.redirects_to = response.url.host
                         domain.is_up = True
+                        return
                 logger.info("%s: KO, status={response.status}", url)
         except aiohttp.ClientError as err:
             logger.info("%s: KO: %s", url, err)
@@ -205,7 +210,7 @@ async def main():
         await gather(*[check_domain(domain, client, sem) for domain in unknown_domains])
     accepted = {domain for domain in unknown_domains if domain.is_interesting()}
     args.output.write_text(
-        "\n".join([str(domain) for domain in sorted(known_domains | accepted)]) + "\n",
+        "\n".join([domain.name for domain in sorted(known_domains | accepted)]) + "\n",
         encoding="UTF-8",
     )
     # In case the domain redirects to an interesting other one,
@@ -213,7 +218,7 @@ async def main():
     for domain in unknown_domains:
         if not domain.redirects_to:
             continue
-        if domain.redirects_to in NON_PUBLIC_DOMAINS:
+        if Domain(domain.redirects_to).is_not_public():
             continue
         if domain.redirects_to in source_domains:
             continue
