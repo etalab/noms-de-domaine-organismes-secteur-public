@@ -99,6 +99,7 @@ def main():
             check_duplicate_line(file, lineno, line)
             check_lowercased(file, lineno, line)
             check_gouvfr(file, lineno, line)
+            check_nongouvfr(file, lineno, line)
 
     consolidated = (
         Path("domaines-organismes-publics.txt").read_text(encoding="UTF-8").splitlines()

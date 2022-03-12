@@ -1,5 +1,6 @@
 0030858s.esidoc.fr
 1ambassadeur1entrepreneur.fr
+1jeune1solution.pole-emploi.fr
 a450-a7.fr
 abes.fr
 accueil-integration-refugies.fr
@@ -9,11 +10,16 @@ acte-etat-civil.fr
 adc.education.fr
 ademe.fr
 admin.evenementiels.culture.fr
+adminbrocker.ira-nantes.fr
+administration.roulez-eco.fr
+adminrdsgateway.ira-nantes.fr
 aefe-proche-orient.net
 aesn.fr
 afbiodiversite.fr
 afd.fr
 afd.opendatasoft.com
+agence-francaise-anticorruption.fr
+agence-francaise-anticorruption.net
 agence-regionale-sante.fr
 agence.eau-loire-bretagne.fr
 agencedusport.fr
@@ -23,6 +29,9 @@ alumni.ena.fr
 amue.fr
 anah.fr
 anses.fr
+anssi.eu  # from https://crt.sh/?id=5325128770
+anssi.fr  # from https://crt.sh/?id=5325128770
+anssi.info  # from https://crt.sh/?id=5325128770
 ant.cerema.fr
 antai.fr
 apgl64.fr
@@ -47,13 +56,28 @@ audioconf.incubateur.net
 aurbse.org
 aurh.fr
 authentication.enim.eu
+autodiscover.dila.fr  # from https://crt.sh/?id=5908470849
 autorite-statistique-publique.fr
 autoritedelaconcurrence.fr
+backend.integration.passculture.app  # from https://crt.sh/?id=5344084366
+backend.integration.passculture.pro  # from https://crt.sh/?id=5344084366
+backend.passculture.app  # from https://crt.sh/?id=5315716638
+backend.passculture.pro  # from https://crt.sh/?id=5315716638
+backend.staging.passculture.team  # from https://crt.sh/?id=5253312670
+backend.testing.passculture.team  # from https://crt.sh/?id=5249028770
 banque-france.fr
+beta.apps.education.fr  # from https://crt.sh/?id=5192474144
 biomedecine.fr
 bnf.fr
+bo-ris.ademe.fr  # from https://crt.sh/?id=5251047983
 board.quaidorsay.fr
 brgm.fr
+bundle-ministre-justice-20210829-01-ssl.on-web.fr  # from https://crt.sh/?id=5125423314
+bundle-ministre-justice-20210830-01-ssl.on-web.fr  # from https://crt.sh/?id=5130564606
+bundle-ministre-justice-20210831-01-ssl.on-web.fr  # from https://crt.sh/?id=5136844033
+bundle-ministre-justice-20210929-01-ssl.on-web.fr  # from https://crt.sh/?id=5306882149
+bundle-ministre-justice-20210930-01-ssl.on-web.fr  # from https://crt.sh/?id=5312324491
+bundle-ministre-justice-20211221-01-ssl.on-web.fr  # from https://crt.sh/?id=5836912338
 bundle-ministre-justice-20220220-01-ssl.on-web.fr
 cabinet.education.fr
 cades.fr
@@ -61,17 +85,23 @@ cae-eco.fr
 caissedesdepots.fr
 carmen.naturefrance.fr
 carrefourdescouleures.fr
+cas0.culture.fr  # from https://crt.sh/?id=5307308077
 cci.fr
 ccomptes.fr
 ccsp.fr
 ccsp.juradm.fr
 cea.fr
 cerema.fr
+certauth.fs.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
 certificationprofessionnelle.fr
 chat.anais.fabnum.fr
+chorus-dt-etab.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=chorus-dt-etab.in.orion.education.fr, see https://crt.sh/?id=5940317401
+chorus-dt.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=chorus-dt.in.orion.education.fr, see https://crt.sh/?id=5940337055
+chorus-dt.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=chorus-dt.orion.education.fr, see https://crt.sh/?id=5940273493
 cines.fr
 civen.fr
 clavis.anah.fr
+cmu.fr  # Found in cert of CN=complementaire-sante-solidaire-gouv.fr, see https://crt.sh/?id=5054678498
 cnaf.fr
 cnam.fr
 cnamts.fr
@@ -93,6 +123,8 @@ cnr-elysee.fr
 cnrs-dir.fr
 cnrs.fr
 cnsa.fr
+collabora.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
+colsbleus.fr
 comite-du-label.fr
 comite-du-secret.fr
 comite-ethique.fr
@@ -109,20 +141,33 @@ creps-aquitaine.fr
 creps-nancy.fr
 creps-paca.fr
 creps-reunion.fr
+creps86.fr  # Found in cert of CN=creps86.fr, see https://crt.sh/?id=5081224340
 csa.fr
 csirt.docapost.fr
 csnp.fr
 ctsb.fr
 culture.fr
+dashboard-pp.si-cap.fr  # Found in cert of C=FR, ST=Paris, O=AGENCE DU NUMERIQUE EN SANTE, CN=dashboard-pp.bi.esante.gouv.fr, see https://crt.sh/?id=5356037627
+dashboard-pp.si-samu.fr  # Found in cert of C=FR, ST=Paris, O=AGENCE DU NUMERIQUE EN SANTE, CN=dashboard-pp.bi.esante.gouv.fr, see https://crt.sh/?id=5356037627
+dashboard.si-cap.fr  # Found in cert of C=FR, ST=Paris, O=AGENCE DU NUMERIQUE EN SANTE, CN=dashboard.bi.esante.gouv.fr, see https://crt.sh/?id=5356032707
+dashboard.si-samu.fr  # Found in cert of C=FR, ST=Paris, O=AGENCE DU NUMERIQUE EN SANTE, CN=dashboard.bi.esante.gouv.fr, see https://crt.sh/?id=5356032707
+datalab.si-cap.fr  # Found in cert of C=FR, ST=Paris, L=PARIS, O=AGENCE DU NUMERIQUE EN SANTE, CN=datalab.bi.esante.gouv.fr, see https://crt.sh/?id=5884281425
+datalab.si-samu.fr  # Found in cert of C=FR, ST=Paris, L=PARIS, O=AGENCE DU NUMERIQUE EN SANTE, CN=datalab.bi.esante.gouv.fr, see https://crt.sh/?id=5884281425
+datatourisme.fr  # Found in cert of CN=info.datatourisme.gouv.fr, see https://crt.sh/?id=5266909168
 debatpublic.fr
 defenseurdesdroits.fr
 demarches-simplifiees.fr
+deposer-offre.1jeune1solution.pole-emploi.fr
+designation-prudhommes.candidatures.justice.fr  # Found in cert of C=FR, L=PARIS, O=MINISTERE DE LA JUSTICE, OU=0002 11001001400014, CN=www.designation-prudhommes.justice.gouv.fr, serialNumber=S218401826, see https://crt.sh/?id=5626820637
 desinfo.quaidorsay.fr
 devdiplonet.quaidorsay.fr
+developpement.prix-carburants.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
+developpement2020.prix-carburants.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
 devenirpolicier.fr
 devfd-cav.quaidorsay.fr
 devfdiplo.quaidorsay.fr
 deviationduteil.fr
+dgccrf.roulez-eco.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
 dgs-sisacenq.cegedim.cloud
 dgtpe.fr
 dialogue-trianon.fr
@@ -130,17 +175,23 @@ dila.fr
 dir-cnrs.fr
 discovery.renater.fr
 disinfo.quaidorsay.fr
+donnees.roulez-eco.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
 dossierfacile.fr
 dr19.cnrs.fr
 dr20.cnrs.fr
 dr5.cnrs.fr
+dscr.eurodislog.com  # Found in cert of CN=dscr.eurodislog.com, see https://crt.sh/?id=5307704396
+e-learning.ira-nantes.fr  # Found in cert of CN=adminbrocker.ira-nantes.fr, see https://crt.sh/?id=5706223632
+eaiao.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 eau-international-france.fr
 eaurmc.fr
 echangeur-varizelle.fr
 ecp.fr
 ecpad.fr
+edu.osp.cat
 educagri.fr
 education.fr
+eig-redirect.app.etalab.studio  # Found in cert of CN=eig-redirect.app.etalab.studio, see https://crt.sh/?id=5236558079
 elysee.fr
 ena.fr
 enm.justice.fr
@@ -151,36 +202,64 @@ enqueteur.nord-picardie.cerema.fr
 enqueteur.ouest.cerema.fr
 enqueteur.sud-ouest.cerema.fr
 enqueteur.territoires-ville.cerema.fr
+ensastage.net  # Found in cert of CN=zensa.ensm.org, see https://crt.sh/?id=5244517637
+enterpriseregistration.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
 entreprendre.service-public.fr
+entreprises.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=partenaires.antai.gouv.fr, serialNumber=S223470911, see https://crt.sh/?id=5926749720
+envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 epaf.asso.fr
 esidoc.fr
+etalab-tiles.fr  # Found in cert of CN=tiles.geo.api.gouv.fr, see https://crt.sh/?id=5181385737
+etherpad.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 eureennormandie.fr
 europol.europa.eu
 europolhq.net
+evenements.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
+ewscli0.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
 experimentation-fej.injep.fr
 externes.justice.fr
 extranet.lafrancesengage.fr
 extranet.upcasse.syndicat.min-e2.fr
 fete-gastronomie.fr
+fim-hn-02-etab.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02-etab.in.orion.education.fr, see https://crt.sh/?id=5272299849
+fim-hn-02-idp-etab.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02-idp-etab.in.orion.education.fr, see https://crt.sh/?id=5272338077
+fim-hn-02-idp.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02-idp.in.orion.education.fr, see https://crt.sh/?id=5272313023
+fim-hn-02-idp.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02-idp.orion.education.fr, see https://crt.sh/?id=5302120755
+fim-hn-02-mitreid.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02-mitreid.in.orion.education.fr, see https://crt.sh/?id=5638799985
+fim-hn-02-mitreid.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02-mitreid.orion.education.fr, see https://crt.sh/?id=5638815102
+fim-hn-02.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02.in.orion.education.fr, see https://crt.sh/?id=5272317024
 fim-hn-02.orion.education.fr
+fim-hn-03-etab.in.orion.education.fr  # Found in cert of C=FR, L=Paris, O=Ministère de l'Education Nationale et de la Jeunesse, CN=fim-hn-03-etab.in.orion.education.fr, see https://crt.sh/?id=5193445332
+fim-hn-03-idp-etab.in.orion.education.fr  # Found in cert of C=FR, L=Paris, O=Ministère de l'Education Nationale et de la Jeunesse, CN=fim-hn-03-idp-etab.in.orion.education.fr, see https://crt.sh/?id=5193440126
+fim-hn-03-idp.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-03-idp.in.orion.education.fr, see https://crt.sh/?id=5272324394
+fim-hn-03-idp.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-03-idp.orion.education.fr, see https://crt.sh/?id=5302136215
+fim-hn-03.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-03.in.orion.education.fr, see https://crt.sh/?id=5272328891
 fim-hn-03.orion.education.fr
+fim-ts-02-idp.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-ts-02-idp.orion.education.fr, see https://crt.sh/?id=5302140229
+fim-ts-02.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-ts-02.orion.education.fr, see https://crt.sh/?id=5302144503
 fnap-logement.fr
+formulaires.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=www.formulaires.service-public.fr, serialNumber=S216950614, see https://crt.sh/?id=5530639724
 fr.europol.net
 france-universite-numerique.fr
 francearchives.fr
 francecompetences.fr
 francemobilites.fr
 frenchmobility.fr
+fs.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
 fun-mooc.fr
+garde-nationale.fr  # Found in cert of CN=www.garde-nationale.fr, see https://crt.sh/?id=5209391305
 gendarmerie.net
 gendarmerie.org
 gendinfo.fr
+gestion.roulez-eco.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
 git.quaidorsay.fr
 glfl.edu.lb
 gouv.nc
 gouvernement.fr
 granddebat.fr
 grenelle.osp.cat
+guide.ensastage.net  # Found in cert of CN=zensa.ensm.org, see https://crt.sh/?id=5244517637
+gw.designation-prudhommes.candidatures.justice.fr  # Found in cert of C=FR, L=PARIS, O=MINISTERE DE LA JUSTICE, OU=0002 11001001400014, CN=www.designation-prudhommes.justice.gouv.fr, serialNumber=S220012604, see https://crt.sh/?id=5729098769
 hadopi.fr
 has-sante.fr
 hautconseilclimat.fr
@@ -195,6 +274,7 @@ hermes.talkspirit.com
 histologe.agglo-pau.fr
 histologe.info
 hub-cas.orion.education.fr
+hub.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 huma-num.fr
 i-carre.net
 ifce.fr
@@ -212,6 +292,8 @@ ineris.fr
 informations-publiques.fr
 inforoutes.fr
 inhesj.fr
+init.app.etalab.studio  # Found in cert of CN=init.app.etalab.studio, see https://crt.sh/?id=5619787155
+init.etalab.studio  # Found in cert of CN=init.app.etalab.studio, see https://crt.sh/?id=5619787155
 injep.fr
 inpi.fr
 inra.fr
@@ -227,10 +309,15 @@ integrateurs-cps.asipsante.fr
 integration.passculture.app
 integration.passculture.pro
 ipsl.fr
+ira-learning.beeznest.com  # Found in cert of CN=e-learning.ira-metz.gouv.fr, see https://crt.sh/?id=5307462322
+ira-lille.eu  # Found in cert of CN=ira-lille.gouv.fr, see https://crt.sh/?id=5395670537
+ira-lille.fr  # Found in cert of CN=ira-lille.gouv.fr, see https://crt.sh/?id=5395670537
 ird.fr
 irsn.fr
 irstea.fr
 isere.histologe.fr
+iva.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=iva.orion.education.fr, see https://crt.sh/?id=5765070648
+jni.edu.osp.cat  # Found in cert of CN=jni21.education.gouv.fr, see https://crt.sh/?id=5055970844
 jobsinattendus.fr
 juradm.fr
 juridoc.gouv.nc
@@ -240,11 +327,18 @@ lak.edu.lb
 linkchecker.quaidorsay.fr
 lycee-verdun.edu.lb
 machilly-thonon.fr
+magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
+mahara.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
+mail.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=messagerie.dila.fr, serialNumber=S223182729, see https://crt.sh/?id=5908470849
+map.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
+map.roulez-eco.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
 marmiton.quaidorsay.fr
+mattermost.asap.dsna.fr  # Found in cert of CN=vulcain.asap.dsna.fr, see https://crt.sh/?id=5133291970
 mattermost.quaidorsay.fr
 maximilien.fr
 mcc-admin.6tzen.fr
 medecine-de-proximite.fr
+media.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 mes-conseils-covid.com
 mes-conseils-covid.fr
 mesconseilcovid.fr
@@ -253,8 +347,11 @@ mesconseilscovid.com
 mesconseilscovid.fr
 mesconseilscovid19.com
 mesconseilscovid19.fr
+messagerie.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=messagerie.dila.fr, serialNumber=S223182729, see https://crt.sh/?id=5908470849
+metabase.apps.education.fr
 meteo.fr
 meteofrance.com
+meteovoile.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 ministre-justice.fr
 ministre.justice.fr
 mnhn.fr
@@ -263,33 +360,63 @@ mon-entreprise.urssaf.fr
 monitoring.anais.fabnum.fr
 monuments-nationaux.fr
 monvr.pf
+moodle.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 mrccfr.eu
 mrscfr.eu
+msg-p0-exc501.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc502.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc503.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc510.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc511.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc512.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc513.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc514.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-exc515.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p0-spv501.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p9-exc520.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p9-exc521.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p9-exc522.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p9-exc523.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p9-exc524.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-p9-exc525.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
 msr83.fr
 mtes-admin.6tzen.fr
 mtes-portail.6tzen.fr
 mysql.ministre-justice.fr
 notification.service-public.fr
 nouvelleschances.fr
+nuage.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage.apps.education.fr, see https://crt.sh/?id=5773091456
+nuage01.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage.apps.education.fr, see https://crt.sh/?id=5773091456
 ofgl.fr
 onacvg.fr
 onf.fr
 onisep.fr
+orelie.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=orelie.orion.education.fr, see https://crt.sh/?id=5759203173
 orthographii.com
 outil2amenagement.cerema.fr
 page.asap.dsna.fr
+partenaires.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=partenaires.antai.gouv.fr, serialNumber=S223470911, see https://crt.sh/?id=5926749720
 passculture.app
+passculture.pro  # Found in cert of CN=pro.passculture.beta.gouv.fr, see https://crt.sh/?id=5132256596
 paysages-territoires-transitions.cerema.fr
 paysdelaloire.cci.fr
+peren.fr  # Found in cert of CN=peren.gouv.fr, see https://crt.sh/?id=5342580590
+peren.org  # Found in cert of CN=peren.gouv.fr, see https://crt.sh/?id=5342580590
 piles.cerema.fr
+pilotage.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
+piwik.mdphenligne.cnsa.fr  # Found in cert of C=FR, L=paris, O=CAISSE NATIONALE SOLIDARITE AUTONOMIE, OU=0002 18009256100026, CN=www.cnsa.fr, serialNumber=S220072180, see https://crt.sh/?id=5728138814
 pix.fr
 place-client-prd.chorus-pro.gouv.fr
 place-client-recette.chorus-pro.gouv.fr
+podeduc.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pod.phm.education.gouv.fr, see https://crt.sh/?id=5541894130
 point-info-famille.fr
 pointinfofamille.fr
 pole-emploi.fr
 pompiersparis.fr
 portail-ants.domaine-alias.com
+pp-chorus-dt-etab.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pp-chorus-dt-etab.in.orion.education.fr, see https://crt.sh/?id=5940306665
+pp-chorus-dt.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pp-chorus-dt.in.orion.education.fr, see https://crt.sh/?id=5940327848
+pp-chorus-dt.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pp-chorus-dt.orion.education.fr, see https://crt.sh/?id=5940259581
 ppa-pp-cdn.wlb.as8677.net
 ppd-ants.domaine-alias.com
 ppd-autoecole-ants.domaine-alias.com
@@ -302,19 +429,31 @@ ppd-mairie-ants.domaine-alias.com
 ppd-passeport-ants.domaine-alias.com
 ppd-permisdeconduire-ants.domaine-alias.com
 ppd-pha-ants.domaine-alias.com
+preprod.piwik.mdphenligne.cnsa.fr  # Found in cert of C=FR, L=paris, O=CAISSE NATIONALE SOLIDARITE AUTONOMIE, OU=0002 18009256100026, CN=www.cnsa.fr, serialNumber=S220072180, see https://crt.sh/?id=5728138814
 presidence-europe.fr
 pro.staging.passculture.team
 pro.testing.passculture.team
+prod-ris.ademe-dri.fr  # Found in cert of CN=www.renovation-info-service.gouv.fr, see https://crt.sh/?id=5251047983
+promo50.ira-lille.fr  # Found in cert of CN=ira-lille.gouv.fr, see https://crt.sh/?id=5395670537
 public.senat.fr
+public.sia-preprod.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
+public.sia-preprodv2.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
+public.sia-recette.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
+public.sia.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
 publisocial.fr
 quaibranly.fr
 quaidorsay.fr
+questionsfsn.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
+rapports-pp.si-samu.fr  # Found in cert of C=FR, ST=Paris, L=PARIS, O=AGENCE DU NUMERIQUE EN SANTE, CN=rapports-pp.bi.esante.gouv.fr, see https://crt.sh/?id=5928551970
+rapports.si-samu.fr  # Found in cert of C=FR, ST=Paris, L=PARIS, O=AGENCE DU NUMERIQUE EN SANTE, CN=rapports.bi.esante.gouv.fr, see https://crt.sh/?id=5928086078
 rec-bo-dge-profile.bercy.actimage.net
 recherche-anmt-admin.culture.fr
 recherche-anmt-bo.culture.fr
 recherche-anom-admin.culture.fr
 recherche-anom-bo.culture.fr
 recia.fr
+redmine.asap.dsna.fr  # Found in cert of CN=vulcain.asap.dsna.fr, see https://crt.sh/?id=5133291970
+reflechir-pratiques.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 region-academique-nouvelle-aquitaine.fr
 region-academique-occitanie.fr
 region-academique-paca.fr
@@ -355,9 +494,17 @@ service-eco.fr
 service-public.fr
 service-public.fr.preprod.ext.dila.fr
 service-public.fr.qualif.ext.dila.fr
+sesam.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=sesam.in.orion.education.fr, see https://crt.sh/?id=5394739943
 shom.fr
+sia-preprod.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
+sia-preprodv2.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
+sia-recette.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
+sia.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=sia.culture.fr, serialNumber=S214210139, see https://crt.sh/?id=5360301045
 sictiam.fr
+sid-pp.si-cap.fr  # Found in cert of C=FR, ST=Paris, L=PARIS, O=AGENCE DU NUMERIQUE EN SANTE, CN=rapports-pp.bi.esante.gouv.fr, see https://crt.sh/?id=5928551970
+sid.si-cap.fr  # Found in cert of C=FR, ST=Paris, L=PARIS, O=AGENCE DU NUMERIQUE EN SANTE, CN=rapports.bi.esante.gouv.fr, see https://crt.sh/?id=5928086078
 sieds.fr
+sip.attachefiscal.org  # Found in cert of C=FR, L=PARIS, O=DIRECTION GENERALE DU TRESOR, OU=0002 12000032800019, CN=dgtresor.gouv.fr, serialNumber=S208650582, see https://crt.sh/?id=5023412859
 site.infocom94.fr
 sitiv.fr
 sma.esignature.chorus-pro.gouv.fr
@@ -372,10 +519,14 @@ sorbonne-nouvelle.fr
 sso.asap.dsna.fr
 sso.culture.fr
 st-theoffrey-rn85.fr
+statistiques.roulez-eco.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
+stats.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 suivi-ouverture.app.etalab.studio
 supmaritme.frenac.fr
 taaf.fr
 telerecours.fr
+territoires.histologe.info
+territoires.store  # Found in cert of CN=store.incubateur.anct.gouv.fr, see https://crt.sh/?id=5237302627
 test.justice.fr
 theses.fr
 ugap.fr
@@ -384,16 +535,25 @@ vie-publique.fr
 vivezafone.afoneparticipations.com
 vnf.fr
 vulcain.asap.dsna.fr
+wap.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
+web.passculture.app  # Found in cert of CN=app.passculture.beta.gouv.fr, see https://crt.sh/?id=5334894991
 webmail.ministre-justice.fr
+whoami.beta.apps.education.fr  # Found in cert of C=FR, L=Paris, O=Ministère de l'Education Nationale et de la Jeunesse, CN=whoami.beta.apps.education.fr, see https://crt.sh/?id=5192474144
+wiki.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 wikidemarches.xwiki.com
 www.acnusa.fr
 www.ademe.fr
 www.afd.fr
+www.agence-francaise-anticorruption.fr  # Found in cert of CN=www.agence-francaise-anticorruption.gouv.fr, see https://crt.sh/?id=5394827909
+www.agence-francaise-anticorruption.net  # Found in cert of CN=www.agence-francaise-anticorruption.gouv.fr, see https://crt.sh/?id=5394827909
 www.agence-regionale-sante.fr
 www.agencedusport.fr
 www.amue.fr
 www.anah.fr
 www.anses.fr
+www.anssi.eu  # Found in cert of CN=anssi.eu, see https://crt.sh/?id=5325128817
+www.anssi.fr  # Found in cert of CN=anssi.eu, see https://crt.sh/?id=5325128817
+www.anssi.info  # Found in cert of CN=anssi.eu, see https://crt.sh/?id=5325128817
 www.antai.fr
 www.apgl64.fr
 www.arcep.fr
@@ -407,6 +567,7 @@ www.aucame.fr
 www.aurbse.org
 www.aurh.fr
 www.autorite-statistique-publique.fr
+www.autoritecomptable.fr  # Found in cert of C=FR, L=PARIS, O=MINISTERE DE L'ECONOMIE, OU=0002 11002001300097, CN=www.anc.gouv.fr, serialNumber=S219361401, see https://crt.sh/?id=5681551251
 www.autoritedelaconcurrence.fr
 www.autoroute.poitiers-limoges.fr
 www.banque-france.fr
@@ -422,6 +583,7 @@ www.cdad-manche.justice.fr
 www.cea.fr
 www.cerema.fr
 www.cines.fr
+www.cmu.fr  # Found in cert of CN=complementaire-sante-solidaire-gouv.fr, see https://crt.sh/?id=5054678498
 www.cnam.fr
 www.cnav.fr
 www.cnc.fr
@@ -439,6 +601,7 @@ www.comite-du-label.fr
 www.comite-du-secret.fr
 www.comite-ethique.fr
 www.commission-refugies.fr
+www.complementaire-sante-solidaire-gouv.fr  # Found in cert of CN=complementaire-sante-solidaire-gouv.fr, see https://crt.sh/?id=5054678498
 www.conseil-concurrence.fr
 www.conseil-constitutionnel.fr
 www.conseil-etat.fr
@@ -448,12 +611,14 @@ www.creps-aquitaine.fr
 www.creps-nancy.fr
 www.creps-paca.fr
 www.creps-reunion.fr
+www.creps86.fr  # Found in cert of CN=creps86.fr, see https://crt.sh/?id=5081224340
 www.csa.fr
 www.ctsb.fr
 www.culture.fr
 www.debatpublic.fr
 www.defenseurdesdroits.fr
 www.demarches-simplifiees.fr
+www.deposer-offre.1jeune1solution.pole-emploi.fr
 www.devenirpolicier.fr
 www.deviationduteil.fr
 www.dgtpe.fr
@@ -462,6 +627,7 @@ www.dossierfacile.fr
 www.dr20.cnrs.fr
 www.dr5.cnrs.fr
 www.dri.fr
+www.eaiao.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 www.eau-international-france.fr
 www.eaurmc.fr
 www.echangeur-varizelle.fr
@@ -470,13 +636,19 @@ www.ecpad.fr
 www.elysee.fr
 www.enim.eu
 www.enm.justice.fr
+www.ensastage.net  # Found in cert of CN=zensa.ensm.org, see https://crt.sh/?id=5244517637
+www.entreprendre.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=entreprendre.service-public.fr, serialNumber=S222572556, see https://crt.sh/?id=5877040901
+www.entreprises.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=partenaires.antai.gouv.fr, serialNumber=S223470911, see https://crt.sh/?id=5926749720
+www.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 www.europol.europa.eu
 www.faire.fr
 www.fete-gastronomie.fr
+www.formulaires.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=www.formulaires.service-public.fr, serialNumber=S216950614, see https://crt.sh/?id=5530639724
 www.france-universite-numerique.fr
 www.francecompetences.fr
 www.francemobilites.fr
 www.fun-mooc.fr
+www.garde-nationale.fr  # Found in cert of CN=www.garde-nationale.fr, see https://crt.sh/?id=5209391305
 www.gendinfo.fr
 www.gouv.nc
 www.gouvernement.fr
@@ -496,6 +668,7 @@ www.iledefrance-meudon.cnrs.fr
 www.imperva.com
 www.inalco.fr
 www.ineris.fr
+www.info-acs.fr  # Found in cert of CN=complementaire-sante-solidaire-gouv.fr, see https://crt.sh/?id=5054678498
 www.informations-publiques.fr
 www.inforoutes.fr
 www.inrae.fr
@@ -505,6 +678,8 @@ www.insee.fr
 www.insep.fr
 www.inserm.fr
 www.ipsl.fr
+www.ira-lille.eu  # Found in cert of CN=ira-lille.gouv.fr, see https://crt.sh/?id=5395670537
+www.ira-lille.fr  # Found in cert of CN=ira-lille.gouv.fr, see https://crt.sh/?id=5395670537
 www.ird.fr
 www.irsn.fr
 www.irstea.fr
@@ -526,11 +701,13 @@ www.mesconseilscovid.com
 www.mesconseilscovid.fr
 www.mesconseilscovid19.com
 www.mesconseilscovid19.fr
+www.meteovoile.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 www.ministre-justice.fr
 www.ministre.justice.fr
 www.mnhn.fr
 www.monuments-nationaux.fr
 www.monvr.pf
+www.moodle.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 www.mrccfr.eu
 www.mrscfr.eu
 www.msr83.fr
@@ -540,18 +717,25 @@ www.onisep.fr
 www.orthographii.com
 www.ouvrirlascience.fr
 www.parlement.fr
+www.partenaires.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=partenaires.antai.gouv.fr, serialNumber=S223470911, see https://crt.sh/?id=5926749720
 www.paysdelaloire.cci.fr
+www.peren.fr  # Found in cert of CN=peren.gouv.fr, see https://crt.sh/?id=5342580590
+www.peren.org  # Found in cert of CN=peren.gouv.fr, see https://crt.sh/?id=5342580590
 www.pole-emploi.fr
 www.pompiersparis.fr
+www.preprod.cnsa.fr  # Found in cert of C=FR, L=paris, O=CAISSE NATIONALE SOLIDARITE AUTONOMIE, OU=0002 18009256100026, CN=www.cnsa.fr, serialNumber=S220072180, see https://crt.sh/?id=5728138814
 www.proces-concorde.justice.fr
+www.promo50.ira-lille.fr  # Found in cert of CN=ira-lille.gouv.fr, see https://crt.sh/?id=5395670537
 www.publisocial.fr
 www.quaidorsay.fr
 www.recia.fr
+www.reflechir-pratiques.envsn.fr  # Found in cert of CN=envsn.fr, see https://crt.sh/?id=5024706955
 www.remixweb10.fr
 www.republique-numerique.fr
 www.reseau-canope.fr
 www.reseaux-et-canalisations.ineris.fr
 www.riep-justice.fr
+www.rip.justice.fr  # Found in cert of CN=bundle-ministre-justice-20210829-01-ssl.on-web.fr, see https://crt.sh/?id=5125423314
 www.rn21-agen-nord.fr
 www.sciencespo.fr
 www.senat.fr
@@ -575,3 +759,5 @@ www.usagers.antai.fr
 www.vie-publique.fr
 www.vnf.fr
 wwz.ifremer.fr
+zensa.ensm.org  # Found in cert of CN=zensa.ensm.org, see https://crt.sh/?id=5244517637
+zensast.cham.fr  # Found in cert of CN=zensa.ensm.org, see https://crt.sh/?id=5244517637

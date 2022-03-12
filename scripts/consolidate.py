@@ -24,24 +24,28 @@ NON_PUBLIC_DOMAINS = {
     "accounts.google.com",
     "attichy.com",
     "cloud.wewmanager.com",
+    "communecter.org",  # Une association
     "github.com",
     "go.crisp.chat",
     "host-web.com",
+    "imperva.com",
+    "incapsula.com",
     "journal-officiel-datadila.opendatasoft.com",
     "login.microsoftonline.com",
+    "mesvres.com",  # Domaine squatté
     "sioracderiberac.com",
     "sites.google.com",
+    "sni.cloudflaressl.com",
     "socialgouv.github.io",
     "varchetta.fr",  # squatte www.commune-la-chapelle-de-brain.fr
     "ww25.bellevillesurmeuse.com",  # Domaine squatté
-    "www.bellevillesurmeuse.com",  # Domaine squatté
-    "mesvres.com",  # Domaine squatté
-    "www.mesvres.com",  # Domaine squatté
     "www.3dathome.fr",
+    "www.bellevillesurmeuse.com",  # Domaine squatté
     "www.changementadresse-carte-grise.com",  # squatte www.roussillo-conflent.fr
     "www.creps.ovh",
     "www.cyberfinder.com",
     "www.dropcatch.com",  # squtte mairie-clarensac.com
+    "www.mesvres.com",  # Domaine squatté
     "www.ovh.co.uk",
     "www.passeport-mairie.com",  # squatte www.mairiedeliverdy.fr et www.mairieozon.fr
     "www.sarbacane.com",
@@ -54,14 +58,27 @@ NON_PUBLIC_DOMAINS = {
 class Domain:
     name: str
     source_file: Path
+    comment: str = ""
     is_up: bool = False
     redirects_to: str | None = None
+
+    @classmethod
+    def from_file_line(cls, file, line):
+        """Creates a Domain instance from a text line."""
+        if "#" in line:
+            domain, comment = line.split("#", maxsplit=1)
+        else:
+            domain, comment = line, ""
+        return Domain(domain.strip().lower(), file, comment=comment.strip())
 
     def __hash__(self):
         return hash(self.name)
 
-    def __str__(self):
-        return self.name
+    def __repr__(self):
+        if self.comment:
+            return f"{self.name}  # {self.comment}"
+        else:
+            return self.name
 
     def __eq__(self, other):
         if isinstance(other, str):
@@ -158,7 +175,7 @@ def parse_files(*files: Path) -> set[Domain]:
     It allows comments in source files, starting with # anywhere in the line.
     """
     return {
-        Domain(line.split("#", maxsplit=1)[0].strip(), file)
+        Domain.from_file_line(file, line)
         for file in files
         for line in file.read_text(encoding="UTF-8").splitlines()
         if not line.startswith("#")
@@ -183,7 +200,7 @@ async def main():
         await gather(*[check_domain(domain, client, sem) for domain in unknown_domains])
     accepted = {domain for domain in unknown_domains if domain.is_interesting()}
     args.output.write_text(
-        "\n".join([domain.name for domain in sorted(known_domains | accepted)]) + "\n",
+        "\n".join([str(domain) for domain in sorted(known_domains | accepted)]) + "\n",
         encoding="UTF-8",
     )
     # In case the domain redirects to an interesting other one,

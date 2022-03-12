@@ -19,6 +19,7 @@ from pathlib import Path
 
 import psycopg2
 from sort import sort_files
+from consolidate import NON_PUBLIC_DOMAINS
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "sources"
@@ -29,8 +30,8 @@ def query_ct_logs(last_id):
     conn.set_session(readonly=True, autocommit=True)
     cur = conn.cursor()
     cur.execute(
-        """SELECT id, x509_notBefore(certificate), x509_altnames(certificate)
-    FROM certificate
+        """SELECT id, altnames.*, x509_subjectname(certificate) subject
+    FROM certificate, LATERAL (SELECT * FROM x509_altnames(certificate)) altnames
     WHERE plainto_tsquery('gouv.fr') @@ identities(certificate) AND id > %s""",
         (last_id,),
     )
@@ -38,13 +39,21 @@ def query_ct_logs(last_id):
         open(SOURCES / "gouvfr-divers.txt", "a", encoding="UTF-8") as gouv_fr,
         open(SOURCES / "nongouvfr-divers.txt", "a", encoding="UTF-8") as nongouv_fr,
     ):
-        for pk, _added, domain in cur.fetchall():
+        for pk, domain, subject in cur.fetchall():
+            if domain in NON_PUBLIC_DOMAINS:
+                continue
+            if any(non_public in subject for non_public in NON_PUBLIC_DOMAINS):
+                continue
             if domain.startswith("*."):
                 domain = domain[2:]
-            if domain.endswith(".gouv.fr"):
-                gouv_fr.write(domain + "\n")
+            if domain.lower().endswith(".gouv.fr"):
+                gouv_fr.write(
+                    f"{domain}  # Found in cert of {subject}, see https://crt.sh/?id={pk}\n"
+                )
             else:
-                nongouv_fr.write(domain + "\n")
+                nongouv_fr.write(
+                    f"{domain}  # Found in cert of {subject}, see https://crt.sh/?id={pk}\n"
+                )
 
     return pk
 
