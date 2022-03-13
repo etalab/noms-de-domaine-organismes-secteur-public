@@ -1,4 +1,5 @@
 www.aspach-le-bas.alsace
+www.bischheim.alsace  # (redirection from www.ville-bischheim.fr)
 www.gueberschwihr.alsace
 niedersoultzbach.hanau-lapetitepierre.alsace
 obersoultzbach.hanau-lapetitepierre.alsace
@@ -34,6 +35,7 @@ ccpld.bzh
 www.cdg29.bzh
 www.chateauneufdufaou.bzh
 clcl.bzh
+www.clcl.bzh  # (redirection from clcl.bzh)
 combrit-saintemarine.bzh
 comcom-crozon.bzh
 www.comcom-crozon.bzh
@@ -115,6 +117,7 @@ www.pleumeur-gautier.bzh
 www.plevin.bzh
 www.plobannalec-lesconil.bzh
 ploerdut.bzh
+www.ploermel.bzh  # (redirection from www.ploermel.com)
 www.ploeuclhermitage.bzh
 ploeven.bzh
 plomelin.bzh
@@ -560,6 +563,7 @@ www.cande-sur-beuvron.com
 www.canet-herault.com
 www.cannes.com
 cantoin.com
+www.canva.com  # (redirection from www.saintouendestoits.fr)
 www.capcir-pyrenees.com
 www.capdecouverte.com
 salice.capitello.com
@@ -2779,6 +2783,7 @@ www.savignac-aveyron.com
 www.savignacleseglises.com
 www.savigne.com
 www.savigneleveque.com
+www.savigny-en-sancerre.com  # (redirection from www.savigny-en-sancerre.fr)
 www.savigny-le-temple.com
 www.savigny-sur-braye.com
 www.savoie-dechets.com
@@ -2995,6 +3000,7 @@ tournondagenais.com
 www.tournondagenais.com
 tourrettessurloup.com
 www.tours-sur-marne.com
+touzac-lot.com  # (redirection from www.touzac-lot.com)
 www.touzac-lot.com
 www.trambly.com
 www.transmancheferries.com
@@ -3450,6 +3456,7 @@ www.beaulieulesloches.eu
 belus.eu
 www.belus.eu
 www.bouvron.eu
+bouxwiller.eu  # (redirection from www.bouxwiller.eu)
 www.bouxwiller.eu
 www.cabrespine.eu
 www.camembert.eu
@@ -3492,6 +3499,7 @@ www.lieuvillers.eu
 www.longchaumois.eu
 louans.eu
 www.mairie-de-lisle.eu
+mairie-ingwiller.eu  # (redirection from www.ingwiller.fr)
 www.mairiedebierville.eu
 www.mairiedebosclehard.eu
 maisonnais-sur-tardoire.eu
@@ -3710,10 +3718,12 @@ www.agglo-troyes.fr
 naves.agglo-tulle.fr
 www.agglo-tulle.fr
 agglo-valdefensch.fr
+www.agglo-valdefensch.fr  # (redirection from agglo-valdefensch.fr)
 www.agglo-valdesambre.fr
 www.agglodebrive.fr
 www.agglopole.fr
 www.agglopolys.fr
+www.aggloroanne.fr  # (redirection from www.roanne.fr)
 www.aghione.fr
 www.agnac47.fr
 www.agneaux.fr
@@ -5974,6 +5984,7 @@ www.castellard-melan.fr
 www.castellare-di-casinca.fr
 www.castelmayran.fr
 castelmorondalbret.fr
+www.castelmorondalbret.fr  # (redirection from castelmorondalbret.fr)
 castelnau-barbarens.fr
 www.castelnau-barbarens.fr
 www.castelnau-chalosse.fr
@@ -6675,6 +6686,7 @@ www.chateauneufdegadagne.fr
 www.chateauneufdemain.fr
 www.chateauneufdurhone.fr
 www.chateauneuflerouge.fr
+www.chateauneuflesmartigues.fr  # (redirection from www.chateauneuf-les-martigues.fr)
 www.chateauneufsurcharente.fr
 www.chateauneufsurcher.fr
 www.chateauneufsurisere.fr
@@ -7535,6 +7547,7 @@ www.coray.fr
 www.corbara.fr
 www.corbarieu.fr
 www.corbehem.fr
+www.corbeil-essonnes.fr  # (redirection from www.corbeil-essonnes.com)
 corbeilcerf.fr
 www.corbeillesengatinais.fr
 www.corbel.fr
@@ -7968,6 +7981,7 @@ www.dampierreenbray.fr
 www.dampierrelesbois.fr
 www.dampierresuravre.fr
 www.dampmart.fr
+damvix.fr  # (redirection from www.damvix.fr)
 www.damvix.fr
 www.dancy.fr
 www.dangeau.fr
@@ -8285,6 +8299,7 @@ ecueille.fr
 www.ecueille.fr
 www.ecuille.fr
 www.ecuisses.fr
+www.ecully.fr  # (redirection from www.ville-ecully.fr)
 www.ecuras.fr
 www.ecurat.fr
 www.ecuvilly.fr
@@ -8518,6 +8533,7 @@ estrablin.fr
 www.estree-blanche.fr
 www.estrees.fr
 www.estreessaintdenis.fr
+www.estuaire-sillon.fr  # (redirection from www.cc-loiresillon.fr)
 perso.estvideo.fr
 www.etables.fr
 www.etagnac.fr
@@ -8593,6 +8609,7 @@ www.fabas82.fr
 www.fabregues.fr
 fabrezan.fr
 www.fabrezan.fr
+www.fagnieres.fr  # (redirection from www.mairie-de-fagnieres.com)
 www.fains-veel.fr
 www.falaise.fr
 www.falicon.fr
@@ -9283,6 +9300,7 @@ www.frontenac.fr
 www.frontenaud.fr
 www.frontenayrr.fr
 www.frontenex.fr
+www.frontignan.fr  # (redirection from www.ville-frontignan.fr)
 frontonas.fr
 www.frontonas.fr
 www.frossay.fr
@@ -9522,6 +9540,7 @@ glun.fr
 www.godewaersvelde.fr
 www.goin.fr
 www.goincourt.fr
+golbey.fr  # (redirection from www.golbey.fr)
 www.golbey.fr
 gomene.fr
 www.gometzlechatel.fr
@@ -9597,6 +9616,7 @@ goyrans.fr
 www.goyrans.fr
 www.grace-uzel.fr
 www.graces.fr
+www.gradignan.fr  # (redirection from www.ville-gradignan.fr)
 www.graffigny.fr
 www.gragnague.fr
 www.graimbouville.fr
@@ -9650,6 +9670,7 @@ grandfresnoy.fr
 www.grandlieu.fr
 www.grandorb.fr
 grandorlyseinebievre.fr
+www.grandorlyseinebievre.fr  # (redirection from grandorlyseinebievre.fr)
 grandparissud.fr
 www.grandparissud.fr
 grandpoitiers.fr
@@ -9919,6 +9940,7 @@ www.hauts-de-bienne.fr
 hauts-de-seine.fr
 www.hauts-de-seine.fr
 hautsdefrance.fr
+www.hautsdefrance.fr  # (redirection from hautsdefrance.fr)
 www.hautvalromey.fr
 www.hautvillers.fr
 www.hautvillers-ouville.fr
@@ -10209,6 +10231,7 @@ www.izeron.fr
 izieu.fr
 www.izon.fr
 www.jablines.fr
+jacob-bellecombette.fr  # (redirection from www.jacob-bellecombette.fr)
 www.jacob-bellecombette.fr
 www.jagny-sous-bois.fr
 jaignes.fr
@@ -10632,6 +10655,7 @@ www.lacelledunoise.fr
 www.lacellelesbordes.fr
 www.lacellesaintavant37.fr
 lacellesaintcloud.fr
+www.lacellesaintcloud.fr  # (redirection from lacellesaintcloud.fr)
 www.lacerlangue.fr
 www.lachabanne.fr
 www.lachailleuse.fr
@@ -11167,6 +11191,7 @@ lasellesurlebied.fr
 www.lasellesurlebied.fr
 www.laselve.fr
 www.lasentinelle.fr
+www.lasorgue.fr  # (redirection from www.lasorgue.com)
 lasouche.fr
 www.lasouche.fr
 lasouterraine.fr
@@ -11263,6 +11288,7 @@ lavigney.fr
 lavilledieu-ardeche.fr
 www.lavilledieu-ardeche.fr
 www.lavilledieudutemple.fr
+www.lavilledubois.fr  # (redirection from www.la-ville-du-bois.fr)
 www.lavilleneuveauchene.fr
 www.lavilleneuveenchevrie.fr
 lavilletelle.fr
@@ -11374,6 +11400,7 @@ www.leboupere.fr
 lebourdet.fr
 www.lebourgetdulac.fr
 www.lebourgneuflaforet.fr
+lebousquetdorb.fr  # (redirection from www.lebousquetdorb.fr)
 www.lebousquetdorb.fr
 www.lebreilsurmerize.fr
 www.lebreuil03.fr
@@ -11515,6 +11542,7 @@ www.lemere.fr
 www.lemerevillois.fr
 www.lemesnilamelot.fr
 lemesnilauval.fr
+www.lemesnilsaintdenis.fr  # (redirection from www.lemesnilsaintdenis.com)
 www.lemesniltheribus.fr
 www.lemeux.fr
 www.lemonastere.fr
@@ -14224,6 +14252,7 @@ www.mairie-stedl.fr
 www.mairie-steenvoorde.fr
 www.mairie-stgenislesollieres.fr
 mairie-stgermainblancheherbe.fr
+www.mairie-stgermainblancheherbe.fr  # (redirection from mairie-stgermainblancheherbe.fr)
 www.mairie-stgermaindesbois18.fr
 www.mairie-stgermaindupuch.fr
 mairie-stgervaisgard.fr
@@ -16657,6 +16686,7 @@ duvy-60800.numairique.fr
 velennes-60510.numairique.fr
 www.nurieux-volognat.fr
 www.obenheim.fr
+www.oberbronn.fr  # (redirection from www.mairie-oberbronn.fr)
 oberbruck.fr
 oberhergheim.fr
 www.obermorschwiller.fr
@@ -16872,6 +16902,7 @@ www.ouillyduhouley.fr
 ouistreham-rivabella.fr
 www.oulins.fr
 www.oulles.fr
+www.oullins.fr  # (redirection from www.ville-oullins.fr)
 oulon.fr
 www.ouroux.fr
 www.ouroux-sur-saone.fr
@@ -17138,6 +17169,7 @@ biert.pays-couserans.fr
 www.pays-couserans.fr
 www.pays-de-corlay-bretagne-centre.fr
 www.pays-de-lure.fr
+www.pays-etain.fr  # (redirection from www.codecom-pays-etain.fr)
 www.cc.pays-fouesnantais.fr
 www.pays-gevaudan-lozere.fr
 pays-landerneau-daoulas.fr
@@ -17614,6 +17646,7 @@ www.pontdemetz.fr
 www.pontdesalars.fr
 www.pontdevaux.fr
 pontduchateau.fr
+www.pontduchateau.fr  # (redirection from pontduchateau.fr)
 ponteils.fr
 www.pontenroyans-vercors.fr
 www.pontenx-les-forges.fr
@@ -18229,6 +18262,7 @@ www.romanswiller.fr
 romazy.fr
 www.romenay.fr
 www.romestaing.fr
+romille.fr  # (redirection from www.romille.fr)
 www.romille.fr
 www.romilly-sur-andelle.fr
 www.romillyduperche.fr
@@ -18237,6 +18271,7 @@ rompon.fr
 www.roncey.fr
 www.ronchamp.fr
 www.roncourt.fr
+www.roncq.fr  # (redirection from www.ville-roncq.fr)
 www.ronno.fr
 www.ronquerolles95.fr
 www.ronsenac.fr
@@ -20740,6 +20775,7 @@ www.smbvas.fr
 www.smbvb.fr
 www.smbvl.fr
 smectom.fr
+www.smectom.fr  # (redirection from smectom.fr)
 www.smed06.fr
 smed13.fr
 www.smed13.fr
@@ -21129,6 +21165,7 @@ www.stpierredesfleurs.fr
 www.stpierredetrivisy.fr
 www.stpierreforcats.fr
 www.stprivatdevallongue.fr
+www.stratis.fr  # (redirection from www.ville-meudon.fr)
 stremysurorne.fr
 strirand.fr
 www.stromain76.fr
@@ -23482,6 +23519,7 @@ ville-saint-nectaire.fr
 www.ville-saint-nectaire.fr
 www.ville-saint-omer.fr
 ville-saint-orens.fr
+www.ville-saint-orens.fr  # (redirection from ville-saint-orens.fr)
 www.ville-saint-pere.fr
 www.ville-saint-pierre-des-corps.fr
 www.ville-saint-priest.fr
@@ -23712,6 +23750,7 @@ ville-vichy.fr
 www.ville-vichy.fr
 www.ville-vierzon.fr
 www.ville-vieux-conde.fr
+ville-vif.fr  # (redirection from www.ville-vif.fr)
 www.ville-vif.fr
 www.ville-villeneuve-sur-lot.fr
 ville-villennes-sur-seine.fr
@@ -23881,6 +23920,7 @@ villemedan.fr
 www.villemer.fr
 www.villemeux.fr
 www.villemoirieu.fr
+www.villemoisson.fr  # (redirection from www.mairie-villemoisson.fr)
 www.villemomble.fr
 www.villemontais.fr
 www.villemotier.fr

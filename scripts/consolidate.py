@@ -16,6 +16,9 @@ import aiohttp
 from yarl import URL
 from tqdm.asyncio import tqdm
 
+USER_AGENT = (
+    "consolidate.py (https://github.com/etalab/noms-de-domaine-organismes-publics)"
+)
 
 logger = logging.getLogger("consolidate")
 
@@ -111,7 +114,11 @@ async def check_domain(
             url = f"{protocol}://{domain.name}"
             async with sem:
                 logger.debug("%s: Querying...", url)
-                async with client.head(url, allow_redirects=True) as response:
+                async with client.head(
+                    url,
+                    allow_redirects=True,
+                    headers={"User-Agent": USER_AGENT},
+                ) as response:
                     if response.status == 200:
                         logger.info("%s: OK", url)
                         if response.url.host != domain.name:
