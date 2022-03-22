@@ -8,9 +8,10 @@ from functools import total_ordering
 from dataclasses import dataclass
 from itertools import chain
 from pathlib import Path
-from typing import Tuple
+from typing import Tuple, Literal
 import logging
 import random
+from urllib.parse import urlparse
 
 import aiohttp
 from yarl import URL
@@ -62,17 +63,28 @@ class Domain:
     name: str
     source_file: Path = None
     comment: str = ""
-    is_up: bool = False
+    scheme: Literal["http", "https", None] = None
     redirects_to: str | None = None
 
     @classmethod
     def from_file_line(cls, file, line):
-        """Creates a Domain instance from a text line."""
+        """Creates a Domain instance from a text line.
+
+        The provided line may just be a domain nane, or a full URL.
+        """
+        domain, comment = line, ""
         if "#" in line:
             domain, comment = line.split("#", maxsplit=1)
-        else:
-            domain, comment = line, ""
-        return Domain(domain.strip().lower(), file, comment=comment.strip())
+        kwargs = {"comment": comment.strip(), "source_file": file}
+        domain = domain.strip().lower()
+        if domain.startswith("http://") or domain.startswith("https://"):
+            return cls.from_url(urlparse(domain), **kwargs)
+        return cls(domain, **kwargs)
+
+    @classmethod
+    def from_url(cls, url, **kwargs):
+        """Constructs a Domain instance from the result of urlparse."""
+        return cls(name=url.netloc, scheme=url.scheme, **kwargs)
 
     def is_not_public(self) -> bool:
         """Returns False if the domain is clearly not public (in NON_PUBLIC_DOMAINS)."""
@@ -100,7 +112,14 @@ class Domain:
             return False
         if self.redirects_to is not None:
             return False
-        return self.is_up
+        return self.scheme is not None
+
+    @property
+    def url(self) -> str:
+        """Representation of this domain as an URL."""
+        if self.scheme is None:
+            raise ValueError("Can't represent Domain as an URL without a scheme")
+        return f"{self.scheme}://{self.name}"
 
 
 async def check_domain(
@@ -123,7 +142,7 @@ async def check_domain(
                         logger.info("%s: OK", url)
                         if response.url.host != domain.name:
                             domain.redirects_to = response.url.host
-                        domain.is_up = True
+                        domain.scheme = protocol
                         return
                 logger.info("%s: KO, status={response.status}", url)
         except aiohttp.ClientError as err:
@@ -134,7 +153,6 @@ async def check_domain(
             logger.info("%s: KO: %s", url, err)
         except ValueError as err:  # Can happen while following redirections
             logger.info("%s: KO: %s", url, err)
-    domain.is_up = False
 
 
 def parse_args():
@@ -145,7 +163,7 @@ def parse_args():
         "--output",
         type=Path,
         help="File to write domains with OK HTTP responses.",
-        default=here.parent / "domaines-organismes-publics.txt",
+        default=here.parent / "urls.txt",
     )
     parser.add_argument(
         "--slow",
@@ -202,7 +220,10 @@ def parse_files(*files: Path) -> set[Domain]:
 async def main():
     args = parse_args()
     source_domains = parse_files(*args.files)
-    known_domains = parse_files(args.output)
+    if args.output.is_file():
+        known_domains = parse_files(args.output)
+    else:
+        known_domains = set()
     unknown_domains = list(source_domains - known_domains)
     random.shuffle(unknown_domains)
     logging.basicConfig(
@@ -217,7 +238,7 @@ async def main():
         await gather(*[check_domain(domain, client, sem) for domain in unknown_domains])
     accepted = {domain for domain in unknown_domains if domain.is_interesting()}
     args.output.write_text(
-        "\n".join([domain.name for domain in sorted(known_domains | accepted)]) + "\n",
+        "\n".join([domain.url for domain in sorted(known_domains | accepted)]) + "\n",
         encoding="UTF-8",
     )
     # In case the domain redirects to an interesting other one,

@@ -1,7 +1,7 @@
 """Script to run a quick consistency check:
 
 - Are all files properly sorted?
-- Are all domains in domaines-organismes-publics.txt also in sources/*.txt?
+- Are all domains in urls.txt also in sources/*.txt?
 - Are there duplicates in sources/*.txt?
 - Are all lines in sources/*.txt domain names?
 """
@@ -10,7 +10,7 @@
 import sys
 from pathlib import Path
 from functools import cached_property
-from consolidate import Domain
+from consolidate import Domain, parse_files
 import validators
 
 
@@ -66,7 +66,7 @@ class DuplicateChecker:
         """
         if domain not in self.seen:
             return
-        seen_in_file, seen_at_line = self.seen[domain]
+        seen_in_file, seen_at_line = self.seen[Domain.from_file_line(file, domain)]
         if seen_in_file != file:
             err(
                 f"{file}:{lineno}: Domain {domain} and its www-prefixed counterpart "
@@ -79,10 +79,10 @@ class DuplicateChecker:
         self.check_if_seen_in_other_file(file, lineno, "www." + line)
         if line.startswith("www."):
             self.check_if_seen_in_other_file(file, lineno, line[4:])
-        self.seen[line] = (file, lineno)
+        self.seen[Domain.from_file_line(file, line)] = (file, lineno)
 
     @cached_property
-    def all_domains(self):
+    def all_domains(self) -> set[Domain]:
         return set(self.seen.keys())
 
 
@@ -102,14 +102,8 @@ def main():
             check_gouvfr(file, lineno, line)
             check_nongouvfr(file, lineno, line)
 
-    consolidated = (
-        Path("domaines-organismes-publics.txt").read_text(encoding="UTF-8").splitlines()
-    )
-    for domain in consolidated:
-        if domain not in check_duplicate_line.all_domains:
-            err(
-                f"domaines-organismes-publics.txt: {domain} not found in sources/*.txt."
-            )
+    for domain in parse_files(Path("urls.txt")) - check_duplicate_line.all_domains:
+        err(f"urls.txt: {domain} not found in sources/*.txt.")
 
 
 if __name__ == "__main__":
