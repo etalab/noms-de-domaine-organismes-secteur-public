@@ -1,25 +1,26 @@
 # Liste de noms de domaine d'organismes publics
 
-Ce dépôt contient une liste de noms de domaine pointant vers des
-organismes remplissant des missions de service public.
+Ce dépôt contient une liste de noms de domaine d'organismes
+remplissant des missions de service public.
 
-Les domaines dans le fichier `domaines-organismes-publics.txt` doivent
-être accessible en HTTP ou HTTPS.
+Le dossier `sources/` contient tous les domaines connus, accessibles
+en HTTP ou non.
 
-Le dossier `sources/` contient tous les domaines connus, accessibles ou non.
+Le fichier `urls.txt` est une liste d'URLs basée sur les domaines du
+dossier `sources/` et répondant `200 OK` en HTTP ou en HTTPS.
 
 
-# Les domaines inaccessibles
+# Les domaines inaccessibles en HTTP(S)
 
 La liste des domaines qui sont dans le dossier `sources/` mais ne sont
-pas dans le fichier `domaines-organismes-publics.txt` sont
-inaccessibles en HTTP ou HTTPS (n'ont pas d'adresse IP, ne répondent
-pas, ...).
+pas dans le fichier `urls.txt` sont inaccessibles en HTTP ou HTTPS
+(n'ont pas d'adresse IP, ne répondent pas en HTTP, répondent autre
+chose que 200 en HTTP, ...).
 
 Pour obtenir cette liste vous pouvez utiliser :
 
     export LC_COLLATE=C
-    comm -13 domaines-organismes-publics.txt <(sort sources/*.txt)
+    comm -13 <(cut -d/ -f3 urls.txt | sort) <(sort sources/*.txt)
 
 
 # Contribution
@@ -35,12 +36,11 @@ Pour vérifier que tout va bien :
 
     python scripts/check.py
 
-Et éventuellement pour consolider dans
-`domaines-organismes-publics.txt` (mais c'est long) :
+Et éventuellement pour consolider dans `urls.txt` (mais c'est long) :
 
     python scripts/consolidate.py sources/*.txt
 
-pour consolider les sources dans `domaines-organismes-publics.txt`,
+pour consolider les sources dans `urls.txt`,
 dans lequels seuls les domaines répondant en HTTP par une 200 sont
 acceptés.
 
