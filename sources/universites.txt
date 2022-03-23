@@ -45,6 +45,7 @@ www.sorbonne-universite.fr
 supmaritime.fr
 www.supmaritime.fr  # (redirection from supmaritime.fr)
 u-bordeaux.fr
+www.u-bordeaux.fr
 u-bordeaux-montaigne.fr
 www.u-bordeaux-montaigne.fr
 u-bourgogne.fr
@@ -78,12 +79,15 @@ www.univ-amu.fr
 univ-angers.fr
 www.univ-angers.fr
 univ-artois.fr
+www.univ-artois.fr
 univ-avignon.fr
 univ-brest.fr
+www.univ-brest.fr
 univ-cotedazur.fr
 univ-evry.fr
 www.univ-evry.fr
 univ-fcomte.fr
+www.univ-fcomte.fr
 univ-guyane.fr
 www.univ-guyane.fr
 univ-larochelle.fr
@@ -95,6 +99,7 @@ www.univ-lemans.fr
 univ-lille.fr
 www.univ-lille.fr
 univ-littoral.fr
+www.univ-littoral.fr
 univ-lorraine.fr
 www.univ-lorraine.fr
 univ-lyon1.fr
@@ -108,15 +113,18 @@ www.univ-montp3.fr
 univ-nantes.fr
 www.univ-nantes.fr
 univ-orleans.fr
+www.univ-orleans.fr
 univ-paris1.fr
 univ-paris13.fr
 www.univ-paris13.fr
 univ-paris3.fr
 www.univ-paris3.fr
 univ-paris8.fr
+www.univ-paris8.fr
 univ-pau.fr
 www.univ-pau.fr
 univ-perp.fr
+www.univ-perp.fr
 univ-poitiers.fr
 univ-reims.fr
 www.univ-reims.fr
@@ -132,11 +140,14 @@ univ-savoie.fr
 www.univ-savoie.fr
 univ-smb.fr
 www.univ-smb.fr
+univ-st-etienne.fr
 cas.univ-st-etienne.fr
 portail.univ-st-etienne.fr
 www.univ-st-etienne.fr
 univ-tln.fr
+www.univ-tln.fr
 univ-tlse2.fr
+www.univ-tlse2.fr
 univ-tlse3.fr
 www.univ-tlse3.fr
 univ-tours.fr
@@ -147,7 +158,9 @@ universite-paris-saclay.fr
 www.universite-paris-saclay.fr
 universiteparis2019.fr
 uphf.fr
+www.uphf.fr
 ut-capitole.fr
+www.ut-capitole.fr
 uvsq.fr
 www.uvsq.fr
 vetagro-sup.fr

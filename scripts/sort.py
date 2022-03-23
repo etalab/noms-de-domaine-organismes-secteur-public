@@ -18,7 +18,8 @@ def sort_files(files):
     for file in files:
         domains = parse_files(file)
         file.write_text(
-            "\n".join([str(d) for d in sorted(domains)]) + "\n", encoding="UTF-8"
+            "\n".join([str(d) for d in sorted(domains) if d.name]) + "\n",
+            encoding="UTF-8",
         )
 
 
