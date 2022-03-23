@@ -34,7 +34,8 @@ NON_PUBLIC_DOMAINS = {
     "communecter.org",  # Une association
     "creps.ovh",
     "cyberfinder.com",
-    "dropcatch.com",  # squtte mairie-clarensac.com
+    "dropcatch.com",  # squatte mairie-clarensac.com
+    "esbooks.co.jp",  # squatte pezenes.info
     "gitbook.com",
     "github.com",
     "github.io",
@@ -49,6 +50,7 @@ NON_PUBLIC_DOMAINS = {
     "opendatasoft.com",
     "ovh.co.uk",
     "passeport-mairie.com",  # squatte www.mairiedeliverdy.fr et www.mairieozon.fr
+    "pre-demande.fr",  # squatte www.ponthevrard-mairie.fr
     "sarbacane.com",
     "sendinblue.com",
     "sioracderiberac.com",

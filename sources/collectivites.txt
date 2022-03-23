@@ -40,6 +40,7 @@ combrit-saintemarine.bzh
 comcom-crozon.bzh
 www.comcom-crozon.bzh
 www.cournon.bzh
+credin.bzh  # (redirection from www.credin.fr)
 daoulas.bzh
 www.elliant.bzh
 www.elven.bzh
@@ -153,6 +154,7 @@ www.quimperle-communaute.bzh
 radenac.bzh
 www.redon.bzh
 www.riecsurbelon.bzh
+www.rochefortenterre-tourisme.bzh  # (redirection from www.rochefort-en-terre.com)
 www.roscoff.bzh
 www.saint-aubin-du-cormier.bzh
 www.saint-ave.bzh
@@ -189,6 +191,7 @@ ville-pontivy.bzh
 ville-pontlabbe.bzh
 www.villedemalestroit.bzh
 www.villeguingamp.bzh
+www.yffiniac.bzh  # (redirection from www.yffiniac.com)
 www.monvillage.cafe
 cernayleglise.nexgate.ch
 www.bestfreecams.club
@@ -385,6 +388,7 @@ www.bettrechies.com
 www.beuzec-cap-sizun.com
 www.bevillelecomte.com
 www.beyssenac.com
+www.biache-saint-vaast.com  # (redirection from www.biachesaintvaast.fr)
 www.bilheres-mairie.com
 www.biltzheim.com
 www.bischwiller.com
@@ -586,6 +590,7 @@ www.castera-verduzan.com
 www.castillon06.com
 castillon09.com
 cauchyalatour.com
+www.cauchyalatour.com  # (redirection from cauchyalatour.com)
 www.caucourt.com
 www.caussesetveyran.com
 www.caussou.com
@@ -1718,6 +1723,7 @@ www.mairie-de-chaussy45.com
 www.mairie-de-cierrey.com
 www.mairie-de-fagnieres.com
 www.mairie-de-givenchy.com
+mairie-de-lonny.com  # (redirection from www.mairie-de-lonny.com)
 www.mairie-de-lonny.com
 www.mairie-de-mache.com
 www.mairie-de-manou.com
@@ -1728,6 +1734,7 @@ www.mairie-de-vezins.com
 www.mairie-de-voinsles.com
 mairie-de-vron.com
 www.mairie-de-vron.com
+mairie-delacoquille.com  # (redirection from www.mairie-delacoquille.com)
 www.mairie-delacoquille.com
 www.mairie-dorans.com
 www.mairie-epargnes.com
@@ -2655,6 +2662,7 @@ www.saintgenies.com
 www.saintgeorgesdebaroille.com
 www.saintgeorgesdoleron.com
 www.saintgeorgesdubois17.com
+saintgeorgessurcher.com  # (redirection from www.saintgeorgessurcher.net)
 www.saintgeorgessurfontaine.com
 saintgermaindarce.com
 www.saintgermaindelle.com
@@ -2781,6 +2789,7 @@ www.sauternes.com
 savignac-aveyron.com
 www.savignac-aveyron.com
 www.savignacleseglises.com
+savigne.com  # (redirection from www.savigne.com)
 www.savigne.com
 www.savigneleveque.com
 www.savigny-en-sancerre.com  # (redirection from www.savigny-en-sancerre.fr)
@@ -2943,6 +2952,7 @@ brettevillesurlaize-cingal.suisse-normande.com
 cauvicourt-cingal.suisse-normande.com
 cintheaux-cingal.suisse-normande.com
 estreeslacampagne-cingal.suisse-normande.com
+saintgermainlevasson-cingal.suisse-normande.com  # (redirection from www.saintgermainlevasson.fr)
 urville-cingal.suisse-normande.com
 www.suisse-normande.com
 www.surgeresco.com
@@ -3109,6 +3119,7 @@ www.vesubian.com
 www.vetrigne.com
 www.vexin-thelle.com
 www.veyle-vivante.com
+vezelise.com  # (redirection from www.vezelise.com)
 www.vezelise.com
 www.vezeronce-curtin.com
 www.vg-agglo.com
@@ -3244,6 +3255,7 @@ villedepegomas.com
 www.villedesaintgobain.com
 villedestroisilets.com
 www.villedomain.com
+villeducarbet.com  # (redirection from www.villeducarbet.com)
 www.villeducarbet.com
 www.villefort-cevennes.com
 www.villefranche-de-panat.com
@@ -3269,6 +3281,7 @@ www.villiers-le-morhier.com
 www.villiers-sur-loir.com
 vimenet.com
 www.vimines.com
+vinzier.com  # (redirection from www.vinzier.com)
 www.vinzier.com
 www.virandeville.com
 www.viry-noureuil.com
@@ -3436,6 +3449,7 @@ mairie-grosseto-prugna-porticcio.corsica
 mairiecastirla.corsica
 www.morosaglia.corsica
 www.olmetadicapocorso.corsica
+www.portivechju.corsica  # (redirection from www.porto-vecchio.fr)
 www.valle-di-mezzana.corsica
 www.olmetadicapocorso.fr.cx
 www.mairie-verlans.ht.cx
@@ -3519,6 +3533,7 @@ www.montigny-les-vesoul.eu
 www.montreuillon.eu
 www.munchhausen.eu
 www.nailhac.eu
+nernier.eu  # (redirection from www.nernier.eu)
 www.nernier.eu
 mairie-jouetsurlaubois-fr.net15.eu  # (redirection from www.mairie-jouetsurlaubois.fr)
 mairie-torteron-fr.net15.eu  # (redirection from www.mairie-torteron.fr)
@@ -3855,6 +3870,7 @@ allondaz.fr
 www.allonne.fr
 allonnes.fr
 www.allonnes.fr
+allonnes-49.fr  # (redirection from www.allonnes-49.fr)
 www.allonnes-49.fr
 allons-alpes-haute-provence.fr
 www.allonzierlacaille.fr
@@ -4008,6 +4024,7 @@ www.ansacq.fr
 www.ansauvillers.fr
 www.ansebertrand.fr
 www.ansignan.fr
+ansouis.fr  # (redirection from www.ansouis.fr)
 www.ansouis.fr
 www.anthelupt.fr
 www.anthy-sur-leman.fr
@@ -4205,6 +4222,7 @@ www.asnelles.fr
 www.asnieres-sous-bois.fr
 www.asnieres-sur-nouere.fr
 asnieres-sur-seine.fr
+asnieres-sur-vegre.fr  # (redirection from www.asnieres-sur-vegre.fr)
 www.asnieres-sur-vegre.fr
 asniereslesdijon.fr
 www.asnoisnievre.fr
@@ -5196,6 +5214,7 @@ www.boisdennebourg.fr
 www.boisgervilly.fr
 www.boisleroy27.fr
 www.boisme.fr
+www.boisseron.fr  # (redirection from www.boisseron.com)
 boisset-cantal.fr
 www.boisset-saint-priest.fr
 www.boissetetgaujac.fr
@@ -5264,6 +5283,7 @@ bonrepos-sur-aussonnelle.fr
 www.bons-en-chablais.fr
 www.bonvillard.fr
 www.bonville-gellainville.fr
+bonvillers.fr  # (redirection from www.bonvillers.fr)
 www.bonvillers.fr
 bonzac.fr
 www.bootzheim.fr
@@ -5930,6 +5950,7 @@ www.carmaux.fr
 www.carnac.fr
 www.carnac-rouffiac.fr
 www.carnas.fr
+carnelle-pays-de-france.fr  # (redirection from www.carnelle-pays-de-france.fr)
 www.carnelle-pays-de-france.fr
 www.carnetin.fr
 www.carnin.fr
@@ -6323,6 +6344,7 @@ ceaux.fr
 www.cebazan.fr
 www.cebazat.fr
 ceffonds.fr
+ceillac.fr  # (redirection from www.ceillac.com)
 www.ceilloux.fr
 www.ceintrey.fr
 www.celle-levescault.fr
@@ -6419,6 +6441,7 @@ www.chailley.fr
 www.chailloue.fr
 www.chailly-en-brie.fr
 chailly-en-gatinais.fr
+www.chailly-en-gatinais.fr  # (redirection from chailly-en-gatinais.fr)
 www.chaillylesennery.fr
 www.chainaz-les-frasses.fr
 www.chaingy.fr
@@ -6496,6 +6519,7 @@ www.champagnelesmarais.fr
 www.champagney.fr
 www.champagnier.fr
 www.champagnole.fr
+champanges.fr  # (redirection from www.champanges.fr)
 www.champanges.fr
 www.champcella.fr
 www.champcenest.fr
@@ -6590,6 +6614,7 @@ www.charbonnieres71.fr
 www.charbonniereslesvarennes.fr
 www.charbuy.fr
 www.charensat.fr
+charente-eaux.fr  # (redirection from www.charente-eaux.fr)
 www.charente-eaux.fr
 www.charenton.fr
 www.charentonducher.fr
@@ -6854,6 +6879,7 @@ www.cherac.fr
 www.cheraute.fr
 cherbourg.fr
 www.cherbourg.fr
+cherence.fr  # (redirection from www.cherence.fr)
 www.cherence.fr
 cherier.fr
 www.chermignac.fr
@@ -7688,6 +7714,7 @@ www.courcelles-la-foret.fr
 www.courcelles-le-comte.fr
 www.courcelles-les-lens.fr
 www.courcelles-les-montbeliard.fr
+courcelles-loiret.fr  # (redirection from www.courcelles-loiret.fr)
 www.courcelles-loiret.fr
 www.courcelles-sapicourt.fr
 courcelles-sur-viosne.fr
@@ -7925,6 +7952,7 @@ www.cussy-en-morvan.fr
 cusy.fr
 www.cusy.fr
 www.cutry.fr
+cuts.fr  # (redirection from www.cuts.fr)
 www.cuts.fr
 www.cuttoli.fr
 www.cuvergnon.fr
@@ -7969,6 +7997,7 @@ www.dammartin-en-serve.fr
 www.dammartinlestempliers.fr
 www.damousies.fr
 www.damouzy.fr
+dampierre-en-burly.fr  # (redirection from www.dampierre-en-burly.fr)
 www.dampierre-en-burly.fr
 www.dampierre-jura.fr
 www.dampierre-sur-boutonne.fr
@@ -8753,6 +8782,7 @@ www.flaxieu.fr
 www.flayosc.fr
 www.fleac.fr
 fleeinfo.fr
+flerelariviere.fr  # (redirection from www.flere-la-riviere.com)
 www.flers-agglo.fr
 www.flers-en-escrebieux.fr
 www.flers-sur-noye.fr
@@ -8835,6 +8865,7 @@ www.fontainedevaucluse.fr
 www.fontainelaguyon.fr
 fontainelamallet.fr
 www.fontainelamallet.fr
+fontainelariviere.fr  # (redirection from www.fontainelariviere.fr)
 www.fontainelariviere.fr
 www.fontainelebourg.fr
 www.fontainelesdijon.fr
@@ -9632,6 +9663,7 @@ www.gramont.fr
 granceylechateauneuvelle.fr
 grand-auverne.fr
 grand-bourg.fr
+www.grand-bourgtheroulde.fr  # (redirection from www.bourgtheroulde.fr)
 www.grand-camp76.fr
 www.grand-couronne.fr
 www.grand-dax.fr
@@ -9720,6 +9752,7 @@ www.grenoblealpesmetropole.fr
 grentheville.fr
 www.grentheville.fr
 www.greolieres.fr
+grepiac.fr  # (redirection from www.grepiac.fr)
 www.grepiac.fr
 www.gresigny-sainte-reine.fr
 www.gresse-en-vercors.fr
@@ -9779,6 +9812,7 @@ www.guemps.fr
 www.guenange.fr
 www.guengat.fr
 guenin56.fr
+www.guenin56.fr  # (redirection from guenin56.fr)
 www.guenroc.fr
 www.guenrouet.fr
 guerard.fr
@@ -9959,6 +9993,7 @@ www.hede-bazouges.fr
 www.hegenheim.fr
 www.heidwiller.fr
 www.heiligenberg.fr
+www.heillecourt.fr  # (redirection from www.mairie-heillecourt.fr)
 www.heilles.fr
 www.heilly.fr
 www.heiltz-le-maurupt.fr
@@ -10078,6 +10113,7 @@ houdreville.fr
 www.houdreville.fr
 www.houeilles.fr
 www.houeillès.fr
+houlbec-cocherel.fr  # (redirection from www.houlbec-cocherel.fr)
 www.houlbec-cocherel.fr
 houldizy.fr
 www.hounoux.fr
@@ -10097,6 +10133,7 @@ www.hudiviller.fr
 www.huisnes-sur-mer.fr
 www.huisseau.fr
 www.huisseausurcosson.fr
+huisseausurmauves.fr  # (redirection from www.huisseausurmauves.fr)
 www.huisseausurmauves.fr
 www.hulluch.fr
 hultehouse.fr
@@ -10235,6 +10272,7 @@ jacob-bellecombette.fr  # (redirection from www.jacob-bellecombette.fr)
 www.jacob-bellecombette.fr
 www.jagny-sous-bois.fr
 jaignes.fr
+jaillans.fr  # (redirection from www.jaillans.fr)
 www.jaillans.fr
 www.jaleyrac.fr
 www.jaligny-sur-besbre.fr
@@ -11147,6 +11185,7 @@ larochemaurice.fr
 www.larochemaurice.fr
 www.larochemillay.fr
 www.larochenard.fr
+larochenoire.fr  # (redirection from www.larochenoire.fr)
 www.larochenoire.fr
 www.larochesurforon.fr
 www.larochesurgrane.fr
@@ -11172,6 +11211,7 @@ www.larra.fr
 www.larrazet.fr
 www.larressore.fr
 www.larreule.fr
+larringes.fr  # (redirection from www.larringes.fr)
 www.larringes.fr
 www.larrivieresaintsavin.fr
 www.laruns.fr
@@ -11560,6 +11600,7 @@ www.lempzours.fr
 www.lemud.fr
 www.lemung.fr
 www.lencloitre.fr
+www.leneubourg.fr  # (redirection from www.le-neubourg.fr)
 www.lenoyerenchampsaur.fr
 lent-01.fr
 www.lent-01.fr
@@ -11765,6 +11806,7 @@ lespilles.fr
 www.lespineaux.fr
 www.lespontsdece.fr
 www.lesportesducoglais.fr
+lesportesenre.fr  # (redirection from www.lesportesenre.fr)
 www.lesportesenre.fr
 www.lespreaux.fr
 www.lespremierssapins.fr
@@ -11871,6 +11913,7 @@ www.mairie.lezat.fr
 www.lezat.fr
 www.lezennes.fr
 www.lezignan-corbieres.fr
+lezignanlacebe.fr  # (redirection from www.mairie-lezignan-la-cebe.fr)
 www.lezigneux.fr
 www.lezoux.fr
 www.lgf83.fr
@@ -12184,6 +12227,7 @@ www.lugny-en-maconnais.fr
 www.luisant.fr
 luitre-dompierre.fr
 www.lullin.fr
+lumbin.fr  # (redirection from www.lumbin.fr)
 www.lumbin.fr
 www.lumes.fr
 lumigny-nesles-ormeaux.fr
@@ -12732,6 +12776,7 @@ mairie-charancieu.fr
 www.mairie-charavines.fr
 www.mairie-charbonnieres-les-bains.fr
 www.mairie-charentay.fr
+mairie-charly.fr  # (redirection from www.mairie-charly.fr)
 www.mairie-charly.fr
 www.mairie-charmoislorgueilleux.fr
 www.mairie-charnoz.fr
@@ -12891,6 +12936,7 @@ www.mairie-dasle.fr
 www.mairie-daux.fr
 www.mairie-de-beaumes-de-venise.fr
 mairie-de-berlou.fr
+mairie-de-bias.fr  # (redirection from www.mairie-de-bias.fr)
 www.mairie-de-bias.fr
 www.mairie-de-bonnevalsurarc.fr
 www.mairie-de-bonrepos-sur-aussonnelle.fr
@@ -13473,6 +13519,7 @@ www.mairie-ludesse.fr
 www.mairie-ludon-medoc.fr
 www.mairie-lugrin.fr
 www.mairie-lumio.fr
+mairie-lunas.fr  # (redirection from www.mairie-lunas.fr)
 www.mairie-lunas.fr
 www.mairie-lunion.fr
 www.mairie-lusanger.fr
@@ -15220,6 +15267,7 @@ www.mareuil-en-perigord.fr
 mareuil-les-meaux.fr
 www.mareuil-les-meaux.fr
 www.mareuilleport.fr
+mareuilsurlay.fr  # (redirection from www.mareuilsurlay.fr)
 www.mareuilsurlay.fr
 www.mareuilsurourcq.fr
 www.margaux-cantenac.fr
@@ -15352,6 +15400,7 @@ www.massillargues-atuech.fr
 massingy-les-vitteaux.fr
 www.massingy74.fr
 www.massoins.fr
+massongy.fr  # (redirection from www.massongy.fr)
 www.massongy.fr
 www.mastaing.fr
 www.matemale.fr
@@ -15689,6 +15738,7 @@ www.mirepeisset.fr
 www.mirepeix.fr
 www.mireval34.fr
 www.miribel.fr
+www.miribel-lanchatre.fr  # (redirection from miribel.lanchatre.free.fr)
 www.miribel-les-echelles.fr
 mise-en-fourriere.fr
 miserey-salines.fr
@@ -16086,6 +16136,7 @@ www.montret71.fr
 www.montreuil.fr
 montreuil-28.fr
 www.montreuil-le-gast.fr
+montreuil-sur-epte.fr  # (redirection from www.montreuil-sur-epte.fr)
 www.montreuil-sur-epte.fr
 www.montreuil-sur-ille.fr
 montreuil-therain.fr
@@ -16711,6 +16762,7 @@ octon.fr
 www.odars.fr
 www.odenas.fr
 www.oderen.fr
+www.moissannes-limousinfr.nzvy5904.odns.fr  # (redirection from moissannes-limousin.fr)
 www.odomez.fr
 www.odratzheim.fr
 www.oermingen.fr
@@ -18148,6 +18200,7 @@ www.rieussec.fr
 www.rieux-morbihan.fr
 www.rieuxminervois.fr
 www.rignac.fr
+rigney.fr  # (redirection from www.rigney.fr)
 www.rigney.fr
 www.rignieux-le-franc.fr
 www.rigny-usse.fr
@@ -18191,6 +18244,7 @@ www.rivieres16.fr
 rivieresaasetgourby.fr
 www.rivieresurtarn.fr
 rivolet.fr
+rixheim.fr  # (redirection from www.rixheim.fr)
 www.rixheim.fr
 www.rizaucourt-buchey.fr
 roaillan.fr
@@ -18223,6 +18277,7 @@ rochespremarieandille.fr
 www.rochessauve.fr
 www.rochetaillee-sur-saone.fr
 www.rochetoirin.fr
+rochetrejoux.fr  # (redirection from www.rochetrejoux.fr)
 www.rochetrejoux.fr
 www.rocheville.fr
 www.rochy-conde.fr
@@ -18608,6 +18663,7 @@ www.saint-berthevin.fr
 www.saint-biez-en-belin.fr
 www.saint-bohaire.fr
 www.saint-boil.fr
+saint-bomer-les-forges.fr  # (redirection from www.saint-bomer-les-forges.fr)
 www.saint-bomer-les-forges.fr
 saint-bonnet-briance.fr
 www.saint-bonnet-de-chavagne.fr
@@ -18706,6 +18762,7 @@ www.saint-dye-sur-loire.fr
 www.saint-egreve.fr
 saint-eliph.fr
 www.saint-eloi-de-gy.fr
+saint-eloi58.fr  # (redirection from www.saint-eloi58.fr)
 www.saint-eloi58.fr
 www.saint-eloy.fr
 www.saint-eloy-les-tuileries.fr
@@ -20135,6 +20192,7 @@ saintvarent.fr
 www.saintvaury.fr
 www.saintverand.fr
 www.saintviance.fr
+saintvictordecessieu.fr  # (redirection from www.saintvictordecessieu.fr)
 www.saintvictordecessieu.fr
 www.saintvictordemorestel.fr
 www.saintvictordesoules.fr
@@ -20658,6 +20716,7 @@ www.sicoval.fr
 www.sictoba.fr
 sictom-bievre.fr
 www.sictom-bievre.fr
+sictom-cb.fr  # (redirection from www.sictom-cb.fr)
 www.sictom-cb.fr
 www.sictom-pezenas-agde.fr
 www.sictombbi.fr
@@ -20708,6 +20767,7 @@ www.siltzheim.fr
 www.simacourbe.fr
 www.simandre.fr
 www.simandres.fr
+simencourt.fr  # (redirection from www.simencourt.fr)
 www.simencourt.fr
 www.simeyrols.fr
 www.simiane-collongue.fr
@@ -20849,6 +20909,7 @@ sonnay.fr
 www.sonnay.fr
 www.sonnaz.fr
 sonthonnax-la-montagne.fr
+sonzay.fr  # (redirection from www.sonzay.fr)
 www.sonzay.fr
 www.soorts-hossegor.fr
 www.soppe-le-bas.fr
@@ -20896,6 +20957,7 @@ www.soulgesurouette.fr
 www.soulignac.fr
 souligne-flace.fr
 souligne-sous-ballon.fr
+souligneflace.fr  # (redirection from souligne-flace.fr)
 www.soulitre.fr
 www.soullans.fr
 www.soultz-les-bains.fr
@@ -21233,11 +21295,13 @@ www.suzannecourt.fr
 suzette-village.fr
 www.svl79.fr
 sycoserp-couserans.fr
+www.sycoserp-couserans.fr  # (redirection from sycoserp-couserans.fr)
 www.syded-lot.fr
 www.syder.fr
 www.sylvainslesmoulins.fr
 www.symar.fr
 www.syndicat-azur.fr
+syndicat-tri-action.fr  # (redirection from www.syndicat-tri-action.fr)
 www.syndicat-tri-action.fr
 www.sypp.fr
 www.ségur-le-château.fr
@@ -21383,6 +21447,7 @@ www.thilay.fr
 www.thillois.fr
 thillot-sous-les-cotes.fr
 www.thilouze.fr
+thimert-gatelles.fr  # (redirection from www.thimert-gatelles.fr)
 www.thimert-gatelles.fr
 thimory.fr
 www.thionville.fr
@@ -21397,6 +21462,7 @@ www.thoirette-coisia.fr
 www.thoiry78.fr
 www.thoissey.fr
 www.thoisy-le-desert.fr
+www.tholome.fr  # (redirection from www.stjeandetholome.fr)
 www.thonac.fr
 thoraise.fr
 www.thorame-basse.fr
@@ -21530,6 +21596,7 @@ www.tourriers.fr
 tours.fr
 www.tours.fr
 www.tours-agglo.fr
+www.tours-sur-marne.fr  # (redirection from www.tours-sur-marne.com)
 www.tours-sur-meymont.fr
 tourtousecommune.fr
 www.tourves.fr
@@ -21732,6 +21799,7 @@ www.ussac.fr
 www.usseau86.fr
 www.ussel.fr
 www.ussel19.fr
+usseldallier.fr  # (redirection from www.usseldallier.fr)
 www.usseldallier.fr
 www.usson-en-forez.fr
 www.ussondupoitou.fr
@@ -22143,6 +22211,7 @@ www.vernou-sur-brenne.fr
 www.vernouillet28.fr
 www.vernoux-en-vivarais.fr
 www.vernouxengatine.fr
+vernoy-village.fr  # (redirection from www.vernoy-village.fr)
 www.vernoy-village.fr
 www.vernsurseiche.fr
 www.verny.fr
@@ -22672,6 +22741,7 @@ www.ville-chaumontel.fr
 www.ville-chauny.fr
 www.ville-chaussin.fr
 www.ville-chavagne.fr
+ville-chavanoz.fr  # (redirection from www.ville-chavanoz.fr)
 www.ville-chavanoz.fr
 www.ville-chavigny.fr
 www.ville-chaville.fr
@@ -22813,6 +22883,7 @@ www.ville-en-sallaz.fr
 www.ville-en-selve.fr
 www.ville-enghienlesbains.fr
 www.ville-ennevelin.fr
+ville-entraigues84.fr  # (redirection from www.ville-entraigues84.fr)
 www.ville-entraigues84.fr
 www.ville-epernon.fr
 www.ville-epinay-senart.fr
@@ -23417,6 +23488,7 @@ ville-pouguesleseaux.fr
 www.ville-pouguesleseaux.fr
 www.ville-poulainville.fr
 www.ville-poussan.fr
+ville-presles.fr  # (redirection from www.ville-presles.fr)
 www.ville-presles.fr
 www.ville-prigonrieux.fr
 www.ville-publier.fr
@@ -23780,6 +23852,7 @@ www.ville-yvreleveque.fr
 ville67.fr
 www.ville67.fr
 www.villeambes.fr
+villebarou.fr  # (redirection from www.villebarou.fr)
 www.villebarou.fr
 www.villebeon.fr
 www.villebernier.fr
@@ -23985,6 +24058,7 @@ www.villeparois.fr
 villeperdrix.fr
 www.villeperdrix.fr
 www.villeperdue.fr
+villepierrelaye.fr  # (redirection from www.villepierrelaye.fr)
 www.villepierrelaye.fr
 www.villepinte11.fr
 villepointenoire.fr
@@ -24083,6 +24157,7 @@ www.villy-le-bouveret.fr
 www.villy-le-pelloux.fr
 www.villylemoutier.fr
 www.vimont.fr
+vimory.fr  # (redirection from www.vimory.fr)
 www.vimory.fr
 www.vimoutiers.fr
 www.vimy.fr
@@ -25173,6 +25248,7 @@ www.villeseque.org
 villesursaulx.org
 vineuil41.org
 www.viviers-les-lavaur.org
+blausasc.ovh  # (redirection from www.blausasc.fr)
 lemanoirsurseine.ovh
 www.montcenis.ovh
 vauxsurvienne.ovh
