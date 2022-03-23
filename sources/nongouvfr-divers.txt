@@ -140,6 +140,7 @@ brgm.fr
 www.brgm.fr
 rhsso-monaiot.brgm-rec.fr  # (redirection from gunrdd.din.developpement-durable.gouv.fr)
 cades.fr
+www.cades.fr  # (redirection from cades.fr)
 cae-eco.fr
 www.cae-eco.fr
 caissedesdepots.fr
@@ -449,6 +450,7 @@ hcfea.fr
 www.hcfea.fr
 hcfp.fr
 www.hcfp.fr
+agglo-pau.histologe.fr  # (redirection from histologe.agglo-pau.fr)
 isere.histologe.fr
 www.isere.histologe.fr
 huma-num.fr
@@ -584,7 +586,9 @@ onf.fr
 www.onf.fr
 onisep.fr
 www.onisep.fr
+openacademie.fr  # (redirection from openacademie.beta.gouv.fr)
 www.ouvrirlascience.fr
+ozensemble.fr  # (redirection from ozensemble.fabrique.social.gouv.fr)
 www.parlement.fr
 peren.fr  # Found in cert of CN=peren.gouv.fr, see https://crt.sh/?id=5342580590
 www.peren.fr  # Found in cert of CN=peren.gouv.fr, see https://crt.sh/?id=5342580590
@@ -733,6 +737,7 @@ audioconf.incubateur.net
 dashlord.incubateur.net
 secretariat.incubateur.net
 regis-dgac.net
+rex-agri.agroecologie.org  # (redirection from peps.beta.gouv.fr)
 attachefiscal.org
 sip.attachefiscal.org  # Found in cert of C=FR, L=PARIS, O=DIRECTION GENERALE DU TRESOR, OU=0002 12000032800019, CN=dgtresor.gouv.fr, serialNumber=S208650582, see https://crt.sh/?id=5023412859
 aurbse.org
