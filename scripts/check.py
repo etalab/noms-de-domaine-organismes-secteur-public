@@ -35,6 +35,11 @@ def check_lowercased(file, lineno, line):
         err(f"{file}:{lineno}: {line!r} is not lowercased.")
 
 
+def check_is_public_domain(file, lineno, line):
+    if Domain.from_file_line(file, line).is_not_public():
+        err(f"{file}:{lineno}: {line!r} is not a public domain.")
+
+
 def check_gouvfr(file, lineno, line):
     if file.name == "gouvfr-divers.txt" and not line.endswith(".gouv.fr"):
         err(f"{file}:{lineno}: {line!r} does is not a '.gouv.fr' domain")
@@ -97,6 +102,7 @@ def main():
         check_is_sorted(file, lines)
         for lineno, line in enumerate(lines, start=1):
             check_is_valid_domain(file, lineno, line)
+            check_is_public_domain(file, lineno, line)
             check_duplicate_line(file, lineno, line)
             check_lowercased(file, lineno, line)
             check_gouvfr(file, lineno, line)

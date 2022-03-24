@@ -55,6 +55,7 @@ chateauneufdufaou.bzh
 www.chateauneufdufaou.bzh
 clcl.bzh
 www.clcl.bzh  # (redirection from clcl.bzh)
+www.combourg.bzh  # (redirection from combourg.com)
 combrit-saintemarine.bzh
 comcom-crozon.bzh
 www.comcom-crozon.bzh
@@ -494,8 +495,6 @@ atexo.com
 www.atexo.com
 attenschwiller.com
 www.attenschwiller.com
-attichy.com
-www.attichy.com
 aubeterresurdronne.com
 www.aubeterresurdronne.com
 aubigne-racan.com
@@ -637,10 +636,6 @@ belleville-sur-meuse.com
 www.belleville-sur-meuse.com
 bellevillesurloire.com
 www.bellevillesurloire.com
-bellevillesurmeuse.com
-ww25.bellevillesurmeuse.com  # (redirection from www.bellevillesurmeuse.com)
-ww38.bellevillesurmeuse.com
-www.bellevillesurmeuse.com
 bellevue-la-montagne.com
 www.bellevue-la-montagne.com
 bellouletrichard.com
@@ -2645,6 +2640,7 @@ loriges.com
 www.loriges.com
 loriol.com
 www.loriol.com
+lorrez-le-bocage-preaux.com  # (redirection from lorrez-le-bocage-preaux.fr)
 lottinghen.com
 www.lottinghen.com
 louannec.com
@@ -3423,8 +3419,6 @@ mesnil-raoul.com
 www.mesnil-raoul.com
 mesnil-saint-pere.com
 www.mesnil-saint-pere.com
-mesvres.com  # (redirection from www.mesvres.com)
-www.mesvres.com
 m.metrolagu123.com
 metropole-savoie.com
 www.metropole-savoie.com
@@ -4839,8 +4833,6 @@ www.sillans-la-cascade.com
 simorre.com
 www.simorre.com
 sionviller.com
-sioracderiberac.com
-www.sioracderiberac.com
 siouville-hague.com
 www.siouville-hague.com
 siredom.com
@@ -12657,6 +12649,7 @@ commune-precieux.fr
 www.commune-precieux.fr
 commune-preserville31.fr
 www.commune-preserville31.fr
+www.commune-prety.fr  # (redirection from prety.fr)
 commune-preuilly.fr
 commune-reyssouze.fr
 commune-riotord.fr
@@ -20504,6 +20497,7 @@ limousis.fr
 www.limousis.fr
 limoux.fr
 www.limoux.fr
+www.limouxin-tourisme.fr  # (redirection from paysdecouiza.com)
 limpiville.fr
 linars.fr
 www.linars.fr
@@ -28752,6 +28746,7 @@ notre-dame-de-lisle.fr
 www.notre-dame-de-lisle.fr
 notre-dame-de-livoye.fr
 www.notre-dame-de-livoye.fr
+notre-dame-des-landes.fr  # (redirection from notredamedeslandes.fr)
 notre-dame-des-millieres.fr
 www.notre-dame-des-millieres.fr
 notre-dame-losier.fr
@@ -29011,6 +29006,7 @@ onesse-laharie.fr
 www.onesse-laharie.fr
 onet-le-chateau.fr
 www.onet-le-chateau.fr
+lameac.onlc.fr  # (redirection from lameac.fr)
 pournoychetive.onlc.fr
 www.pournoychetive.onlc.fr
 salles.sous.bois.online.fr
@@ -35245,6 +35241,7 @@ sauvessanges.fr
 www.sauvessanges.fr
 sauveterre-de-bearn.fr
 www.sauveterre-de-bearn.fr
+www.sauveterre-de-guyenne.fr  # (redirection from sauveterre-de-guyenne.eu)
 sauveterre-de-rouergue.fr
 www.sauveterre-de-rouergue.fr
 sauveterre-saint-denis.fr
@@ -39400,6 +39397,7 @@ ville-de-chauray.fr
 www.ville-de-chauray.fr
 ville-de-cormelles-le-royal.fr
 www.ville-de-cormelles-le-royal.fr
+ville-de-corps-nuds.fr  # (redirection from corps-nuds.fr)
 ville-de-fontainenotredame-59.fr
 www.ville-de-fontainenotredame-59.fr
 ville-de-guignes.fr
@@ -39558,6 +39556,7 @@ www.ville-eze.fr
 ville-fabregues.fr
 www.ville-fabregues.fr
 ville-fachesthumesnil.fr
+webmail.ville-fachesthumesnil.fr  # (redirection from ville-fachesthumesnil.fr)
 www.ville-fachesthumesnil.fr
 ville-fameck.fr
 www.ville-fameck.fr
@@ -40190,6 +40189,7 @@ www.ville-masny.fr
 ville-massy.fr
 demarches.ville-massy.fr
 www.ville-massy.fr
+ville-matoury.fr  # (redirection from mairie-matoury.fr)
 ville-maubeuge.fr
 www.ville-maubeuge.fr
 ville-maurecourt.fr
@@ -42464,6 +42464,7 @@ ville-dumbea.nc
 www.ville-dumbea.nc
 achereslaforet.net
 www.achereslaforet.net
+www.afi-sa.net  # (redirection from cc-montfort.fr)
 agglo-agen.net
 www.agglo-agen.net
 aigaliers.net
@@ -42892,6 +42893,7 @@ www.origny.net
 comnorolles.over-blog.net
 squiffiec.over-blog.net
 squiffiec.overblog.net
+benifox.cluster031.hosting.ovh.net  # (redirection from benifontaine.fr)
 vps256633.ovh.net
 stpierredentremont38.parc-chartreuse.net
 pays-de-matignon.net

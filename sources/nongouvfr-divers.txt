@@ -12,12 +12,14 @@ integration.passculture.app
 backend.integration.passculture.app  # from https://crt.sh/?id=5344084366
 web.passculture.app  # Found in cert of CN=app.passculture.beta.gouv.fr, see https://crt.sh/?id=5334894991
 mairieviesly.biz
+ww38.mairieviesly.biz  # (redirection from www.mairieviesly.biz)
 www.mairieviesly.biz
 cc-broceliande.bzh
 www.cc-broceliande.bzh
 ccdol-baiemsm.bzh
 www.ccdol-baiemsm.bzh
 cchpb.bzh
+www.cchpb.bzh  # (redirection from cchpb.bzh)
 bretagne-ouest.cci.bzh
 www.bretagne-ouest.cci.bzh
 centremorbihancommunaute.bzh
@@ -32,10 +34,12 @@ cma35.bzh
 www.cma35.bzh
 cma56.bzh
 www.cma56.bzh
+crij.bzh  # (redirection from www.ij-bretagne.com)
 golfedumorbihan-vannesagglomeration.bzh
 www.golfedumorbihan-vannesagglomeration.bzh
 hautleoncommunaute.bzh
 www.hautleoncommunaute.bzh
+www.kervignac.bzh  # (redirection from kervignac.com)
 lesmontsdarree.bzh
 loudeac-communaute.bzh
 www.loudeac-communaute.bzh
@@ -49,6 +53,7 @@ morlaix-communaute.bzh
 www.morlaix-communaute.bzh
 muel.bzh
 www.muel.bzh
+pays-broceliande.bzh  # (redirection from pays-broceliande.com)
 pays-iroise.bzh
 www.pays-iroise.bzh
 ploermelcommunaute.bzh
@@ -63,6 +68,7 @@ quimper-bretagne-occidentale.bzh
 www.quimper-bretagne-occidentale.bzh
 redon-agglomeration.bzh
 www.redon-agglomeration.bzh
+www.saintbrieuc-armor-agglo.bzh  # (redirection from www.saintbrieuc-armor-agglo.fr)
 ville-landerneau.bzh
 www.ville-landerneau.bzh
 edu.osp.cat
@@ -72,6 +78,7 @@ dgs-sisacenq.cegedim.cloud
 le4bis-ij.cm
 www.le4bis-ij.cm
 lebercail.co
+abc-blanquefort.com  # (redirection from abc-blanquefort.fr)
 acticity.com
 www.acticity.com
 actionetcompetence-alsace.com
@@ -160,6 +167,7 @@ www.avocat-bergerac-sarlat.com
 avocat-saint-etienne.com
 www.avocat-saint-etienne.com
 avocats-barreau-guyane.com
+www.avocats-barreau-guyane.com  # (redirection from avocats-barreau-guyane.com)
 avocats-blois.com
 www.avocats-blois.com
 avocats-bobigny.com
@@ -259,6 +267,7 @@ barredescevennes.com
 www.barredescevennes.com
 bartres.com
 www.bartres.com
+www.bazaaretcompagnie.com  # (redirection from www.informationjeunesse-centre.fr)
 bazeilles.com
 www.bazeilles.com
 beaujolais-cci.com
@@ -284,14 +293,18 @@ bleymard-montlozere.com
 www.bleymard-montlozere.com
 saint-aubin-en-charollais.blog4ever.com
 www.saint-aubin-en-charollais.blog4ever.com
+clicmortainais.blogspot.com  # (redirection from clicmortainais.blogspot.fr)
 clicsecteur1.blogspot.com
 www.clicsecteur1.blogspot.com
+csclespictons.blogspot.com  # (redirection from csclespictons.blogspot.fr)
 lettreinfo-busigny.blogspot.com
 mairie-recicourt.blogspot.com
+mairieballeroy.blogspot.com  # (redirection from mairieballeroy.blogspot.fr)
 missionlocale-eeb.blogspot.com
 www.missionlocale-eeb.blogspot.com
 missionlocalemiaj.blogspot.com
 www.missionlocalemiaj.blogspot.com
+pijcbbcastelsarrasin.blogspot.com  # (redirection from pijcbbcastelsarrasin.blogspot.fr)
 saintamandsursevre.blogspot.com
 www.saintamandsursevre.blogspot.com
 bocage-valognais.com
@@ -327,6 +340,11 @@ pluzunet.canalblog.com
 cantal-peche.com
 www.cantal-peche.com
 cap-emploi80.com
+www.capemploi-07-26.com  # (redirection from www.capemploi07-26.com)
+www.capemploi-37.com  # (redirection from arps-handi-emploi.fr)
+www.capemploi-57.com  # (redirection from capemploi57.fr)
+www.capemploi-69.com  # (redirection from capemploi69.fr)
+www.capemploi-73-74.com  # (redirection from www.capemploi73-74.com)
 capemploi-95.com
 www.capemploi-95.com
 capemploi04.com
@@ -417,6 +435,7 @@ ccgvm.com
 www.ccgvm.com
 cchautemaurienne.com
 www.cchautemaurienne.com
+www.cciamp.com  # (redirection from ccimp.com)
 ccimp.com
 www.ccimp.com
 ccloise.com
@@ -462,6 +481,7 @@ www.cdg60.com
 cdg971.com
 www.cdg971.com
 cdhj62.com
+ww25.cdhj62.com  # (redirection from cdhj62.com)
 www.cdhj62.com
 cdos01.com
 www.cdos01.com
@@ -469,6 +489,7 @@ cdos57.com
 www.cdos57.com
 cdoslozere.com
 www.cdoslozere.com
+www.centredanimationlesunelles.com  # (redirection from www.lesunelles.com)
 centregutenberg.com
 www.centregutenberg.com
 centrehospitalierduternois.com
@@ -511,10 +532,13 @@ chasse38.com
 www.chasse38.com
 fdc15.chasseauvergnerhonealpes.com
 www.fdc15.chasseauvergnerhonealpes.com
+www.fdc42.chasseauvergnerhonealpes.com  # (redirection from www.fdc42.fr)
 fdc43.chasseauvergnerhonealpes.com
 www.fdc43.chasseauvergnerhonealpes.com
 fdc63.chasseauvergnerhonealpes.com
 www.fdc63.chasseauvergnerhonealpes.com
+www.fdc73.chasseauvergnerhonealpes.com  # (redirection from www.chasseursdesavoie.com)
+www.chasseenvienne.com  # (redirection from chasse-en-vienne.com)
 chassenard.com
 www.chassenard.com
 chasseurdefrance.com
@@ -580,6 +604,7 @@ clicduclunisois.com
 www.clicduclunisois.com
 cliceclairage.com
 www.cliceclairage.com
+clicmontdore.com  # (redirection from www.clicseniormontagne.fr)
 clicsudestmarnais.com
 www.clicsudestmarnais.com
 cma-martinique.com
@@ -588,6 +613,7 @@ cma94.com
 www.cma94.com
 cmavignon.com
 www.cmavignon.com
+codecom-fresnes.com  # (redirection from www.codecomfresnes.com)
 codecomfresnes.com
 www.codecomfresnes.com
 coeurdemaurienne.com
@@ -596,6 +622,7 @@ coeurdesologne.com
 www.coeurdesologne.com
 cdc.coeurduperche.com
 www.cdc.coeurduperche.com
+www.coeurduperche.com  # (redirection from cdc.coeurduperche.com)
 coeurduvar.com
 www.coeurduvar.com
 communaute-auxerrois.com
@@ -620,6 +647,7 @@ communesebourg.com
 www.communesebourg.com
 comunautedecommunedes3foret.com
 www.comunautedecommunedes3foret.com
+www.contacter-veterinaire-de-garde.com  # (redirection from www.ville-de-vernais.com)
 copary.com
 www.copary.com
 cormeillesenpaysdauge.com
@@ -801,10 +829,12 @@ www.fdc25.com
 fdc27.com
 www.fdc27.com
 fdc2b.com
+www.fdc2b.com  # (redirection from fdc2b.com)
 fdc34.com
 www.fdc34.com
 fdc35.com
 www.fdc35.com
+fdc50.com  # (redirection from www.fdc50.fr)
 fdc51.com
 www.fdc51.com
 fdc54.com
@@ -900,6 +930,7 @@ www.var.franceolympique.com
 vaucluse.franceolympique.com
 www.vaucluse.franceolympique.com
 vienne.franceolympique.com
+www.franceolympique.com  # (redirection from www.alpesdehauteprovence.franceolympique.com)
 yonne.franceolympique.com
 www.yonne.franceolympique.com
 prijcoutras-lacali.franceserv.com
@@ -916,10 +947,9 @@ gilocourt.com
 www.gilocourt.com
 gommerville.com
 www.gommerville.com
-sites.google.com
-www.sites.google.com
 goyrans.com
 www.goyrans.com
+www.grand-armagnac.com  # (redirection from www.grandarmagnac.fr)
 grandbelfort.com
 www.grandbelfort.com
 grandparigny.com
@@ -956,6 +986,7 @@ gretani.com
 www.gretani.com
 gretasavoie.com
 www.gretasavoie.com
+www.groupe-entraide.com  # (redirection from entraide-bdr.fr)
 guadeloupeformation.com
 www.guadeloupeformation.com
 guenange.com
@@ -998,8 +1029,6 @@ ijmorez.com
 www.ijmorez.com
 ijsochaux.com
 www.ijsochaux.com
-imperva.com
-www.imperva.com
 info-jeunesse16.com
 www.info-jeunesse16.com
 mairie-frayssinet.info46.com
@@ -1010,6 +1039,7 @@ infojeunesse-clermont.com
 www.infojeunesse-clermont.com
 infojeunesse17.com
 www.infojeunesse17.com
+www.infojeunesvallespir.com  # (redirection from pijvallespir.com)
 rejoindre.innoval.com
 avrilly.interco-abl.com
 ipeicc.com
@@ -1017,11 +1047,14 @@ www.ipeicc.com
 is-sur-tille.com
 www.is-sur-tille.com
 jeunes-fc.com
+ijbelfort.jeunes-fc.com  # (redirection from www.ijbelfort.com)
 ijcopas.jeunes-fc.com
+ijmorez.jeunes-fc.com  # (redirection from ijmorez.com)
 ijpontarlier.jeunes-fc.com
 www.ijpontarlier.jeunes-fc.com
 ijsaintclaude.jeunes-fc.com
 www.ijsaintclaude.jeunes-fc.com
+ijsochaux.jeunes-fc.com  # (redirection from www.ijsochaux.com)
 ijvesoul.jeunes-fc.com
 www.jeunes-fc.com
 commune-de-le-grez.jimbo.com
@@ -1131,6 +1164,7 @@ st-martin-le-redon.jimdo.com
 torderes.jimdo.com
 tremonzey.jimdo.com
 www.tremonzey.jimdo.com
+ulg2.jimdo.com  # (redirection from www.ulg.asso.fr)
 uzelpresloust.jimdo.com
 www.uzelpresloust.jimdo.com
 vauchelles.jimdo.com
@@ -1140,16 +1174,23 @@ www.verdaches.jimdo.com
 villeselve.jimdo.com
 www.villeselve.jimdo.com
 vulaines.jimdo.com
+afarif.jimdofree.com  # (redirection from afarif.jimdo.com)
+cormeilles60.jimdofree.com  # (redirection from cormeilles60.jimdo.com)
+mairie-lagrave-lameije.jimdofree.com  # (redirection from mairie-lagrave-lameije.jimdo.com)
+mairie-saint-priest-taurion.jimdofree.com  # (redirection from www.mairie-saint-priest-taurion.jimdo.com)
+saint-appolinaire.jimdofree.com  # (redirection from saint-appolinaire.jimdo.com)
 paroy-sur-tholon.jindo.com
 www.paroy-sur-tholon.jindo.com
 jura-nord.com
 www.jura-nord.com
+www.juralacs.com  # (redirection from jurasud.net)
 kerpert.com
 www.kerpert.com
 kervignac.com
 www.kervignac.com
 koestlach.com
 www.koestlach.com
+www.la-plagne.com  # (redirection from champagny.com)
 la-renaudie.com
 www.la-renaudie.com
 la-rochette.com
@@ -1174,6 +1215,7 @@ laneuvillegarnier.com
 www.laneuvillegarnier.com
 langeadois.com
 www.langeadois.com
+lareposance.com  # (redirection from www.lareposance.net)
 rejoignez.lataverne-rennes.com
 latourblanche.com
 www.latourblanche.com
@@ -1211,6 +1253,7 @@ lignylesaire.com
 location-gite-salle-reception-arriege.com
 www.location-gite-salle-reception-arriege.com
 lochessudtouraine.com
+www.lochessudtouraine.com  # (redirection from lochessudtouraine.com)
 loconville.com
 www.loconville.com
 losmasos.com
@@ -1432,6 +1475,7 @@ mission-locale-mantois.com
 www.mission-locale-mantois.com
 mission-locale-nordmarnais.com
 www.mission-locale-nordmarnais.com
+www.mission-locale-ouest-eure.com  # (redirection from www.miloe.fr)
 mission-locale-pdf.com
 www.mission-locale-pdf.com
 mission-locale-thiers.com
@@ -1459,6 +1503,7 @@ missionlocaledubergeracois.com
 www.missionlocaledubergeracois.com
 missionlocalegers.com
 www.missionlocalegers.com
+www.missionlocalegierpilat.com  # (redirection from www.ml-gierpilat.org)
 missionlocalemarchesdebourgogne.com
 www.missionlocalemarchesdebourgogne.com
 missionlocalemoyennegaronne.com
@@ -1539,6 +1584,7 @@ www.mlrta.com
 mlsens.com
 www.mlsens.com
 mltechnowest.com
+www.mltechnowest.com  # (redirection from mltechnowest.com)
 mltouraine.com
 www.mltouraine.com
 mlwattrelos.com
@@ -1557,11 +1603,13 @@ www.crij.montpellier.com
 montpezat-agenais.com
 www.montpezat-agenais.com
 montsdelacauneetmontagneduhaulandogue.com
+www.mrcholland.com  # (redirection from mlpa.com)
 saint-bonnet.muresallier.com
 nempont-saint-firmin.com
 www.nempont-saint-firmin.com
 notaires-vendee.com
 www.notaires-vendee.com
+notaires2normandie.com  # (redirection from www.cr-bassenormandie.notaires.fr)
 notaires35.com
 www.notaires35.com
 nouvelle-eglise.com
@@ -1570,9 +1618,9 @@ noyers-sur-cher.com
 www.noyers-sur-cher.com
 omaje.com
 www.omaje.com
-afd.opendatasoft.com
 oradour-cantal.com
 www.oradour-cantal.com
+www.ordre-avocats-bonneville.com  # (redirection from avocats-bonneville.com)
 ordre-avocats-bourgoin-jallieu.com
 www.ordre-avocats-bourgoin-jallieu.com
 ordre-avocats-moulins.com
@@ -1687,6 +1735,7 @@ montmarault.planet-allier.com
 www.montmarault.planet-allier.com
 neuillylereal.planet-allier.com
 villecosnedallier.planet-allier.com
+plateau-de-montbazens.com  # (redirection from cc-plateau-montbazens.fr)
 plateformepassage.com
 www.plateformepassage.com
 pleumeleuc.com
@@ -1857,6 +1906,7 @@ www.urbamet.com  # (redirection from 2ans-urbamet.developpement-durable.gouv.fr)
 valdamour.com
 www.valdamour.com
 valdecher.com
+www.valdecher.com  # (redirection from valdecher.com)
 vallee-du-reveillon.com
 www.vallee-du-reveillon.com
 vallonsdelerdre.com
@@ -1958,6 +2008,7 @@ comvernusse.wixsite.com
 devrouze.wixsite.com
 falck-moselle.wixsite.com
 fdpeche23.wixsite.com
+garniercha43.wixsite.com  # (redirection from www.tiranges.fr)
 lacombemairie.wixsite.com
 liebsdorf.wixsite.com
 mairie-eschbach.wixsite.com
@@ -1966,6 +2017,8 @@ mairie-morey.wixsite.com
 mairie60860.wixsite.com
 mairiecoudun.wixsite.com
 www.mairiecoudun.wixsite.com
+mairiedeblay.wixsite.com  # (redirection from blay.fr)
+mairiedelavallee.wixsite.com  # (redirection from lavallee17.com)
 mairieesclottes.wixsite.com
 mairiefontaine-le-2.wixsite.com
 www.mairiefontaine-le-2.wixsite.com
@@ -2026,6 +2079,7 @@ pietracorbara.corsica
 www.pietracorbara.corsica
 spelunca-liamone.corsica
 www.spelunca-liamone.corsica
+www.universita.corsica  # (redirection from www.univ-corse.fr)
 vivreacateri.corsica
 www.vivreacateri.corsica
 anssi.eu  # from https://crt.sh/?id=5325128770
@@ -2036,6 +2090,7 @@ auroux.eu
 www.auroux.eu
 bourgogne-franche-comte.eu
 www.bourgogne-franche-comte.eu
+www.bourgognefranchecomte.eu  # (redirection from www.bourgogne-franche-comte.eu)
 cc4r.eu
 www.cc4r.eu
 coaraze.eu
@@ -2061,12 +2116,16 @@ mrscfr.eu
 www.mrscfr.eu
 oiron.eu
 www.oiron.eu
+www.op38.eu  # (redirection from capemploi38.com)
+dauphine.psl.eu  # (redirection from dauphine.fr)
 rlv.eu
 www.rlv.eu
 saint-agil.eu
 www.saint-agil.eu
+sportgrandest.eu  # (redirection from lorraine.franceolympique.com)
 trevieres.eu
 www.trevieres.eu
+www6.trevieres.eu  # (redirection from trevieres.eu)
 village-de-malain.eu
 www.village-de-malain.eu
 ville-lachapellesaintaubin.eu
@@ -2222,6 +2281,8 @@ www.ia85.ac-nantes.fr
 greta.ac-nice.fr
 www.greta.ac-nice.fr
 www2.ac-nice.fr
+greta.ac-normandie.fr  # (redirection from greta.ac-rouen.fr)
+gretaformation.ac-orleans-tours.fr  # (redirection from www.greta-vdl.fr)
 cio.ac-poitiers.fr
 www.cio.ac-poitiers.fr
 ftlv.ac-poitiers.fr
@@ -2428,6 +2489,7 @@ agternois.fr
 www.agternois.fr
 aham.fr
 www.aham.fr
+www.aigueblanche.fr  # (redirection from ville-aigueblanche.fr)
 ain.fr
 mdph.ain.fr
 www.mdph.ain.fr
@@ -2439,6 +2501,7 @@ www.ain-profession-sport.fr
 airie-tavernay.fr
 aisne.fr
 www.aisne.fr
+www.ajoca.fr  # (redirection from mloca.fr)
 alata.fr
 www.alata.fr
 albon.fr
@@ -2614,6 +2677,7 @@ centredesmarais.asso.fr
 www.centredesmarais.asso.fr
 centresocial-chemille.asso.fr
 www.centresocial-chemille.asso.fr
+www.cij95.asso.fr  # (redirection from www.cij95.org)
 clavim.asso.fr
 www.clavim.asso.fr
 crij-npdc.asso.fr
@@ -2639,6 +2703,7 @@ milo-saintonge.asso.fr
 www.milo-saintonge.asso.fr
 mission-locale-du-saumurois.asso.fr
 www.mission-locale-du-saumurois.asso.fr
+mission-locale-tarn-sud.asso.fr  # (redirection from mlts.fr)
 mlc.asso.fr
 www.mlc.asso.fr
 mldijon.asso.fr
@@ -2679,6 +2744,7 @@ www.association-saintmartin.fr
 associationduparc.fr
 www.associationduparc.fr
 assoclaac.fr
+www.assoclaac.fr  # (redirection from assoclaac.fr)
 assurance-maladie.fr
 atd31.fr
 www.atd31.fr
@@ -2686,8 +2752,10 @@ consent.atsii.fr
 aube.fr
 www.aube.fr
 aubenton.fr
+www.aubenton.fr  # (redirection from aubenton.fr)
 pij.aubervilliers.fr
 aubinges.fr
+www.aubinges.fr  # (redirection from aubinges.fr)
 aucame.fr
 www.aucame.fr
 aude.fr
@@ -2770,6 +2838,7 @@ avocats-carcassonne.fr
 www.avocats-carcassonne.fr
 avocats-castres.fr
 www.avocats-castres.fr
+www.avocats-chateauroux.fr  # (redirection from avocats-chateauroux.com)
 avocats-compiegne.fr
 www.avocats-compiegne.fr
 avocats-deux-sevres.fr
@@ -2794,6 +2863,7 @@ avocats-pau.fr
 www.avocats-pau.fr
 avocats-quimper.fr
 www.avocats-quimper.fr
+www.avocats-reims.fr  # (redirection from avocats-reims.com)
 avocats-saint-brieuc.fr
 www.avocats-saint-brieuc.fr
 avocats-saint-gaudens.fr
@@ -3055,6 +3125,7 @@ www.brgm.fr
 rhsso-monaiot.brgm-rec.fr  # (redirection from gunrdd.din.developpement-durable.gouv.fr)
 briecomterobert.fr
 www.briecomterobert.fr
+www.briedesrivieresetchateaux.fr  # (redirection from valleesetchateaux-cc77.fr)
 brienangissienne.fr
 www.brienangissienne.fr
 brinon.fr
@@ -3190,6 +3261,7 @@ carsat-centreouest.fr
 www.carsat-centreouest.fr
 carsat-cvl.fr
 www.carsat-cvl.fr
+carsat-hdf.fr  # (redirection from www.carsat-nordpicardie.fr)
 carsat-lr.fr
 www.carsat-lr.fr
 carsat-mp.fr
@@ -3221,6 +3293,7 @@ www.castera-lou.fr
 castetsendorthe.fr
 www.castetsendorthe.fr
 castillondecastets.fr
+www.castres-mazamet.fr  # (redirection from www.castres-mazamet.com)
 caussesaubrac.fr
 www.caussesaubrac.fr
 caussiniojouls.fr
@@ -3247,6 +3320,7 @@ www.cc-alesia-seine.fr
 cc-amognescoeurdunivernais.fr
 cc-aspres.fr
 www.cc-aspres.fr
+www.cc-autourdechenonceaux.fr  # (redirection from cc-blere-valdecher.fr)
 cc-avt.fr
 www.cc-avt.fr
 cc-basarmagnac.fr
@@ -3305,6 +3379,7 @@ cc-comtedeprovence.fr
 www.cc-comtedeprovence.fr
 cc-conques-marcillac.fr
 www.cc-conques-marcillac.fr
+www.cc-coteaux-landes-gascogne.fr  # (redirection from 3clg.fr)
 cc-coteauxbellevue.fr
 www.cc-coteauxbellevue.fr
 cc-cotesdemeuse-woevre.fr
@@ -3334,6 +3409,7 @@ cc-gallymauldre.fr
 www.cc-gallymauldre.fr
 cc-genevois.fr
 www.cc-genevois.fr
+www.cc-gevaudan.fr  # (redirection from www.communes-gevaudan.fr)
 cc-golfedesainttropez.fr
 www.cc-golfedesainttropez.fr
 cc-gorgesardeche.fr
@@ -3363,6 +3439,7 @@ cc-lafertesaintaubin.fr
 www.cc-lafertesaintaubin.fr
 cc-lalbenque-limogne.fr
 www.cc-lalbenque-limogne.fr
+www.cc-laplaine-jurassienne.fr  # (redirection from cc-laplaine-jurassienne.com)
 cc-larzacvallees.fr
 www.cc-larzacvallees.fr
 cc-laveyle.fr
@@ -3438,8 +3515,10 @@ cc-paysdemormal.fr
 www.cc-paysdemormal.fr
 cc-paysderouffach.fr
 www.cc-paysderouffach.fr
+www.cc-paysderouffach-vignobles-chateaux.fr  # (redirection from www.cc-paysderouffach.fr)
 cc-paysdesaintaulaye.fr
 www.cc-paysdesaintaulaye.fr
+www.cc-paysdesecrins.fr  # (redirection from www.cc-paysdesecrins.com)
 cc-paysdestenay-valdunois.fr
 www.cc-paysdestenay-valdunois.fr
 cc-paysdopale.fr
@@ -3585,6 +3664,7 @@ www.cc2vv.fr
 cc3m.fr
 www.cc3m.fr
 cc3p.fr
+www.cc3p.fr  # (redirection from cc3p.fr)
 cc3r.fr
 www.cc3r.fr
 cc4r.fr
@@ -3604,6 +3684,7 @@ www.ccapv.fr
 ccas-agde.fr
 www.ccas-agde.fr
 ccas-avignon.fr
+www.ccas-avignon.fr  # (redirection from ccas-avignon.fr)
 ccas-larochelle.fr
 www.ccas-larochelle.fr
 ccas-nice.fr
@@ -3635,13 +3716,16 @@ ccc-criquetot.fr
 www.ccc-criquetot.fr
 cccauxaustreberthe.fr
 www.cccauxaustreberthe.fr
+www.ccce.fr  # (redirection from www.cc-ce.fr)
 ccchr.fr
 www.ccchr.fr
 cccla.fr
 www.cccla.fr
 ccdessavoirfaire.fr
 www.ccdessavoirfaire.fr
+ccdesvalleesdethones.fr  # (redirection from www.ccvt.fr)
 ccdordogne-bessede.fr
+www.ccdordogne-bessede.fr  # (redirection from ccdordogne-bessede.fr)
 ccdoreallier.fr
 www.ccdoreallier.fr
 ccdp.fr
@@ -3722,6 +3806,7 @@ cantal.cci.fr
 www.cantal.cci.fr
 charente.cci.fr
 www.charente.cci.fr
+www.charente-maritime.cci.fr  # (redirection from www.rochefort.cci.fr)
 cher.cci.fr
 www.cher.cci.fr
 correze.cci.fr
@@ -3799,12 +3884,14 @@ www.lyon-metropole.cci.fr
 maineetloire.cci.fr
 www.maineetloire.cci.fr
 marne.cci.fr
+www.marne.cci.fr  # (redirection from marne.cci.fr)
 martinique.cci.fr
 www.martinique.cci.fr
 mayenne.cci.fr
 www.mayenne.cci.fr
 mayotte.cci.fr
 www.mayotte.cci.fr
+www.metropoledebourgogne.cci.fr  # (redirection from www.saone-et-loire.cci.fr)
 meuse.cci.fr
 www.meuse.cci.fr
 meusehautemarne.cci.fr
@@ -3822,6 +3909,7 @@ www.nantesstnazaire.cci.fr
 nievre.cci.fr
 www.nievre.cci.fr
 nouvelle-aquitaine.cci.fr
+www.nouvelle-aquitaine.cci.fr  # (redirection from nouvelle-aquitaine.cci.fr)
 oise.cci.fr
 www.oise.cci.fr
 ouestnormandie.cci.fr
@@ -3838,6 +3926,7 @@ portesdenormandie.cci.fr
 www.portesdenormandie.cci.fr
 puy-de-dome.cci.fr
 www.puy-de-dome.cci.fr
+www.pyrenees-orientales.cci.fr  # (redirection from www.perpignan.cci.fr)
 reunion.cci.fr
 rochefort.cci.fr
 www.rochefort.cci.fr
@@ -3884,6 +3973,7 @@ cci47.fr
 www.cci47.fr
 cci71.fr
 www.cci71.fr
+www.cci89.fr  # (redirection from www.yonne.cci.fr)
 ccidl.fr
 ccihc.fr
 www.ccihc.fr
@@ -3954,9 +4044,11 @@ ccpom.fr
 www.ccpom.fr
 ccportedujura.fr
 www.ccportedujura.fr
+www.ccportesdesologne.fr  # (redirection from www.cc-lafertesaintaubin.fr)
 ccpouillybligny.fr
 ccpp06.fr
 www.ccpp06.fr
+ccpr24.fr  # (redirection from cc-paysriberacois.fr)
 ccprs.fr
 www.ccprs.fr
 ccptm.fr
@@ -4001,12 +4093,14 @@ ccvendeuvresoulaines.fr
 www.ccvendeuvresoulaines.fr
 ccvg.fr
 www.ccvg.fr
+ccvlv.fr  # (redirection from www.cc-lot-vignoble.fr)
 ccvosgesdusud.fr
 www.ccvosgesdusud.fr
 ccvt.fr
 www.ccvt.fr
 ccvusp.fr
 www.ccvusp.fr
+ccyenne.fr  # (redirection from www.ccyenne73.fr)
 ccyenne73.fr
 www.ccyenne73.fr
 cd-essonne.fr
@@ -4044,6 +4138,7 @@ www.cdc-portesentredeuxmers.fr
 cdc-psq.fr
 www.cdc-psq.fr
 cdc-vexin-normand.fr
+www.cdc-vexin-normand.fr  # (redirection from cdc-vexin-normand.fr)
 cdcaag.fr
 www.cdcaag.fr
 cdcdubazadais.fr
@@ -4212,6 +4307,7 @@ cdos17.fr
 cdos42.fr
 cdos55.fr
 www.cdos55.fr
+www.cdos63.fr  # (redirection from puydedome.franceolympique.com)
 cdos85.fr
 www.cdos85.fr
 cdosmarne.fr
@@ -4224,6 +4320,7 @@ centreanimationsociale-champagne.fr
 www.centreanimationsociale-champagne.fr
 centredesfontaines.fr
 www.centredesfontaines.fr
+assoloiredivatte.centres-sociaux.fr  # (redirection from www.csc-loiredivatte.asso.fr)
 csaqs.centres-sociaux.fr
 www.csaqs.centres-sociaux.fr
 cscdouessin.centres-sociaux.fr
@@ -4258,6 +4355,7 @@ www.centresocial-montbazens.fr
 centresocial-territoiredebeaurepaire.fr
 www.centresocial-territoiredebeaurepaire.fr
 centresocial-thaon.fr
+www.centresocial-thaon.fr  # (redirection from centresocial-thaon.fr)
 centresocialauterive.fr
 centresocialduroussillonnais.fr
 centresocialquartiervitalite.fr
@@ -4368,6 +4466,7 @@ cg971.fr
 www.cg971.fr
 cg974.fr
 www.cg974.fr
+www.cg975.fr  # (redirection from cg972.com)
 cg976.fr
 www.cg976.fr
 cgss-guadeloupe.fr
@@ -4475,14 +4574,20 @@ allier.chambre-agriculture.fr
 www.allier.chambre-agriculture.fr
 ardeche.chambre-agriculture.fr
 www.ardeche.chambre-agriculture.fr
+ardennes.chambre-agriculture.fr  # (redirection from ardennes.chambagri.fr)
+aube.chambre-agriculture.fr  # (redirection from www.aube.chambagri.fr)
 aveyron.chambre-agriculture.fr
 www.aveyron.chambre-agriculture.fr
+charente.chambre-agriculture.fr  # (redirection from www.charente.chambagri.fr)
+charente-maritime.chambre-agriculture.fr  # (redirection from www.charente-maritime.chambagri.fr)
 correze.chambre-agriculture.fr
 www.correze.chambre-agriculture.fr
+deux-sevres.chambre-agriculture.fr  # (redirection from www.deux-sevres.chambagri.fr)
 gard.chambre-agriculture.fr
 www.gard.chambre-agriculture.fr
 gers.chambre-agriculture.fr
 www.gers.chambre-agriculture.fr
+gironde.chambre-agriculture.fr  # (redirection from www.gironde.chambagri.fr)
 guadeloupe.chambre-agriculture.fr
 hapy.chambre-agriculture.fr
 www.hapy.chambre-agriculture.fr
@@ -4490,11 +4595,14 @@ haute-marne.chambre-agriculture.fr
 www.haute-marne.chambre-agriculture.fr
 hautegaronne.chambre-agriculture.fr
 www.hautegaronne.chambre-agriculture.fr
+hautsdefrance.chambre-agriculture.fr  # (redirection from hautsdefrance.chambres-agriculture.fr)
 idf.chambre-agriculture.fr
+landes.chambre-agriculture.fr  # (redirection from www.landes.chambagri.fr)
 loire.chambre-agriculture.fr
 www.loire.chambre-agriculture.fr
 lot.chambre-agriculture.fr
 www.lot.chambre-agriculture.fr
+lot-et-garonne.chambre-agriculture.fr  # (redirection from ca47.fr)
 lozere.chambre-agriculture.fr
 marne.chambre-agriculture.fr
 www.marne.chambre-agriculture.fr
@@ -4505,6 +4613,10 @@ www.meuse.chambre-agriculture.fr
 nord-pas-de-calais.chambre-agriculture.fr
 www.nord-pas-de-calais.chambre-agriculture.fr
 nouvelle-caledonie.chambre-agriculture.fr
+pa.chambre-agriculture.fr  # (redirection from pa.chambagri.fr)
+po.chambre-agriculture.fr  # (redirection from www.pyrenees-orientales.chambagri.fr)
+tarn.chambre-agriculture.fr  # (redirection from www.tarn.chambagri.fr)
+vienne.chambre-agriculture.fr  # (redirection from www.vienne.chambagri.fr)
 vosges.chambre-agriculture.fr
 www.vosges.chambre-agriculture.fr
 chambre-agriculture-14.fr
@@ -4528,6 +4640,11 @@ centre-valdeloire.chambres-agriculture.fr
 www.centre-valdeloire.chambres-agriculture.fr
 corse.chambres-agriculture.fr
 www.corse.chambres-agriculture.fr
+extranet-allier.chambres-agriculture.fr  # (redirection from www.allier.chambre-agriculture.fr)
+extranet-cantal.chambres-agriculture.fr  # (redirection from www.cantal.chambagri.fr)
+extranet-pays-de-la-loire.chambres-agriculture.fr  # (redirection from mayenne.chambagri.fr)
+extranet-puy-de-dome.chambres-agriculture.fr  # (redirection from www.chambre-agri63.com)
+extranet-savoie-mont-blanc.chambres-agriculture.fr  # (redirection from www.services.savoiemontblanc.chambagri.fr)
 hautsdefrance.chambres-agriculture.fr
 www.hautsdefrance.chambres-agriculture.fr
 isere.chambres-agriculture.fr
@@ -4535,6 +4652,7 @@ www.isere.chambres-agriculture.fr
 paca.chambres-agriculture.fr
 pays-de-la-loire.chambres-agriculture.fr
 www.pays-de-la-loire.chambres-agriculture.fr
+www.chambres-agriculture-bretagne.fr  # (redirection from www.agriculteurs22.com)
 chamonix-mont-blanc.fr
 www.chamonix-mont-blanc.fr
 champagnacdebelair.fr
@@ -4575,6 +4693,7 @@ chasse59.fr
 www.chasse59.fr
 chasse85.fr
 www.chasse85.fr
+www.chasseardeche.fr  # (redirection from fdc07.fr)
 chasserenbretagne.fr
 www.chasserenbretagne.fr
 chasseurdelyonne.fr
@@ -4780,6 +4899,8 @@ cm-larochelle.fr
 www.cm-larochelle.fr
 cm-limoges.fr
 www.cm-limoges.fr
+www.cm-lozere.fr  # (redirection from www.cma-lozere.fr)
+www.cm-marne.fr  # (redirection from www.cm-reims.fr)
 cm-reims.fr
 www.cm-reims.fr
 cm-tarn.fr
@@ -4804,6 +4925,7 @@ cma-ardennes.fr
 www.cma-ardennes.fr
 cma-aube.fr
 www.cma-aube.fr
+www.cma-aveyron.fr  # (redirection from www.cm-aveyron.fr)
 cma-bourgogne.fr
 www.cma-bourgogne.fr
 cma-cantal.fr
@@ -4824,6 +4946,7 @@ cma-haute-marne.fr
 www.cma-haute-marne.fr
 cma-hauteloire.fr
 www.cma-hauteloire.fr
+www.cma-hautesavoie.fr  # (redirection from www.cma-74.fr)
 cma-hautsdefrance.fr
 www.cma-hautsdefrance.fr
 cma-herault.fr
@@ -4838,6 +4961,7 @@ cma-lozere.fr
 www.cma-lozere.fr
 cma-lyon.fr
 www.cma-lyon.fr
+www.cma-lyonrhone.fr  # (redirection from cma-lyon.fr)
 cma-meuse.fr
 www.cma-meuse.fr
 cma-moselle.fr
@@ -4864,6 +4988,7 @@ cma36.fr
 www.cma36.fr
 cma37.fr
 www.cma37.fr
+www.cma41.fr  # (redirection from cma-41.fr)
 cma45.fr
 www.cma45.fr
 cma64.fr
@@ -4963,6 +5088,7 @@ www.coeur-yvelines.fr
 coeurdecharente.fr
 www.coeurdecharente.fr
 coeurdechartreuse.fr
+www.coeurdeloire.fr  # (redirection from cclvn.fr)
 coeurdenacre.fr
 www.coeurdenacre.fr
 coeurdesaintonge.fr
@@ -4970,6 +5096,7 @@ www.coeurdesaintonge.fr
 coeurdesavoie.fr
 www.coeurdesavoie.fr
 coeurdetarentaise.fr
+www.coeurdetarentaise.fr  # (redirection from coeurdetarentaise.fr)
 coeurdujura.fr
 www.coeurdujura.fr
 coeuressonne.fr
@@ -5124,6 +5251,7 @@ coordination-gerontologie.fr
 www.coordination-gerontologie.fr
 copamo.fr
 www.copamo.fr
+www.copary.fr  # (redirection from copary.com)
 cor-retraites.fr
 corcelles-les-citeaux.fr
 www.corcelles-les-citeaux.fr
@@ -5136,6 +5264,7 @@ www.corsedusud.fr
 costa-verde.fr
 www.costa-verde.fr
 coteaux-bordelais.fr
+www.coteaux-bordelais.fr  # (redirection from coteaux-bordelais.fr)
 cotedor.fr
 www.cotedor.fr
 cotesdarmor.fr
@@ -5195,11 +5324,14 @@ credit-municipal-roubaix.fr
 www.credit-municipal-roubaix.fr
 credit-municipal-strasbourg.fr
 www.credit-municipal-strasbourg.fr
+www.credit-municipal-toulon.fr  # (redirection from cmt-banque.fr)
 credit-municipal-toulouse.fr
 www.credit-municipal-toulouse.fr
 creditmunicipal.fr
 www.creditmunicipal.fr
+creditmunicipal-bordeaux.fr  # (redirection from ccmps.fr)
 creditmunicipal-nantes.fr
+www.creilsudoise.fr  # (redirection from www.agglocreilloise.fr)
 creps-aquitaine.fr
 www.creps-aquitaine.fr
 creps-nancy.fr
@@ -5241,6 +5373,7 @@ crij-corse.fr
 www.crij-corse.fr
 crij-hdf.fr
 www.crij-hdf.fr
+crij-mayotte.fr  # (redirection from crij-mayotte.com)
 crij-npdc.fr
 www.crij-npdc.fr
 crijinfo.fr
@@ -5325,6 +5458,7 @@ cscvarces.fr
 www.cscvarces.fr
 csehazebrouck.fr
 www.csehazebrouck.fr
+www.csevm.fr  # (redirection from csr-betz.fr)
 csipms.fr
 www.csipms.fr
 csnp.fr
@@ -5411,7 +5545,9 @@ denat-reseaudespetitescommunes.fr
 departement-touraine.fr
 www.departement-touraine.fr
 departement06.fr
+mdph.departement06.fr  # (redirection from www.mdph06.fr)
 www.departement06.fr
+www.departement41.fr  # (redirection from vivreautonome41.fr)
 devenirpolicier.fr
 www.devenirpolicier.fr
 deviationduteil.fr
@@ -5449,6 +5585,7 @@ dolleren.fr
 www.dolleren.fr
 domainedelacadene.fr
 www.domainedelacadene.fr
+www.domes-sancyartense.fr  # (redirection from www.cc-rochefortmontagne.fr)
 domfront-tinchebray-interco.fr
 www.domfront-tinchebray-interco.fr
 domme-villefranche-du-perigord.fr
@@ -5564,6 +5701,7 @@ ehpad-biscarrosse.fr
 www.ehpad-biscarrosse.fr
 ehpad-lamontagne.fr
 www.ehpad-lamontagne.fr
+www.ehpad-maison-retraite-madeleine.fr  # (redirection from ehpadlamadeleine.fr)
 ehpad-millas.fr
 ehpadlamadeleine.fr
 www.ehpadlamadeleine.fr
@@ -5571,8 +5709,10 @@ lachapelaude.eklablog.fr
 www.lachapelaude.eklablog.fr
 elysee.fr
 www.elysee.fr
+www.emploi-bordeaux.fr  # (redirection from missionlocalebordeaux.fr)
 emploi-lystourcoing.fr
 www.emploi-lystourcoing.fr
+emploi-mno.fr  # (redirection from mlmno.fr)
 emploi-nordest77.fr
 www.emploi-nordest77.fr
 emploihandicapfinistere.fr
@@ -5635,6 +5775,7 @@ essonne.fr
 www.essonne.fr
 estdelasomme.fr
 www.estdelasomme.fr
+esterelcotedazur-agglo.fr  # (redirection from cavem.fr)
 estreeslacampagne.fr
 www.estreeslacampagne.fr
 etalab-tiles.fr  # Found in cert of CN=tiles.geo.api.gouv.fr, see https://crt.sh/?id=5181385737
@@ -5804,6 +5945,7 @@ www.francecompetences.fr
 francemobilites.fr
 aides.francemobilites.fr
 www.francemobilites.fr
+www.franceservices-buechdevoluy.fr  # (redirection from www.msap-buechdevoluy.fr)
 francheville-eure.fr
 www.francheville-eure.fr
 frasnedrugeon-cfd.fr
@@ -5826,6 +5968,7 @@ mairie.jussy18.free.fr
 lavicomtesurrance.free.fr
 augerolles.mairie.free.fr
 www.augerolles.mairie.free.fr
+mairiedemiers.free.fr  # (redirection from miers.fr)
 mairiehaget.free.fr
 www.mairiehaget.free.fr
 mairiesaintaubin28.free.fr
@@ -5872,6 +6015,7 @@ furdenheim.fr
 www.furdenheim.fr
 gadancourt.fr
 www.gadancourt.fr
+www.gaillac-graulhet.fr  # (redirection from www.ted.fr)
 gaillardbois-cressenville.fr
 www.gaillardbois-cressenville.fr
 gap-tallard-durance.fr
@@ -5900,11 +6044,13 @@ gensac-de-boulogne.fr
 gerontonord-marseille.fr
 www.gerontonord-marseille.fr
 gers.fr
+matomo.gers.fr  # (redirection from www.cg32.fr)
 www.gers.fr
 gers-peche.fr
 www.gers-peche.fr
 gimont.fr
 www.gimont.fr
+www.gip-competences.fr  # (redirection from www.greta.ac-versailles.fr)
 gipreussir.fr
 www.gipreussir.fr
 givenchy-en-gohelle.fr
@@ -5941,6 +6087,7 @@ grand-figeac.fr
 www.grand-figeac.fr
 grand-langres.fr
 www.grand-langres.fr
+www.grand-senonais.fr  # (redirection from www.cc-senonais.fr)
 grandangouleme.fr
 www.grandangouleme.fr
 grandannecy.fr
@@ -5953,11 +6100,15 @@ grandautunoismorvan.fr
 www.grandautunoismorvan.fr
 grandbourg.fr
 www.grandbourg.fr
+www.grandcalais.fr  # (redirection from www.agglo-calaisis.fr)
 grandchateaudun.fr
 www.grandchateaudun.fr
 granddebat.fr
 grandlyon.fr
 www.grandlyon.fr
+grandouesttoulousain.fr  # (redirection from www.save-touch.org)
+www.grandperigueux.fr  # (redirection from www.agglo-perigueux.fr)
+grandpicsaintloup.fr  # (redirection from www.cc-grandpicsaintloup.fr)
 grandquevilly.fr
 www.grandquevilly.fr
 grandreims.fr
@@ -5991,6 +6142,9 @@ greta-alsace.fr
 www.greta-alsace.fr
 greta-aquitaine.fr
 www.greta-aquitaine.fr
+www.greta-bip93-formation.fr  # (redirection from www.greta-mti93-formation.fr)
+greta-cfa-aquitaine.fr  # (redirection from greta-sud-aquitaine.fr)
+www.greta-cfa-paysdelaloire.fr  # (redirection from greta-paysdelaloire.fr)
 greta-cher.fr
 www.greta-cher.fr
 greta-colmar.fr
@@ -6009,6 +6163,8 @@ gmti77.greta-formation.fr
 www.gmti77.greta-formation.fr
 gmti94.greta-formation.fr
 www.gmti94.greta-formation.fr
+greta-franche-comte.fr  # (redirection from greta.ac-besancon.fr)
+greta-lac.fr  # (redirection from greta-lac.com)
 greta-lillemetropole.fr
 www.greta-lillemetropole.fr
 greta-lorraine.fr
@@ -6084,6 +6240,7 @@ haulchin.fr
 www.haulchin.fr
 haut-vallespir.fr
 www.haut-vallespir.fr
+www.hautbearn.fr  # (redirection from piemont-oloronais.fr)
 hautbugey-agglomeration.fr
 www.hautbugey-agglomeration.fr
 hautconseilclimat.fr
@@ -6205,6 +6362,7 @@ ign.fr
 ihedn.fr
 ihest.fr
 www.ihest.fr
+www.ij-hdf.fr  # (redirection from crij-hdf.fr)
 ijca.fr
 lacolle.ijca.fr
 www.lacolle.ijca.fr
@@ -6214,6 +6372,7 @@ www.ijca.fr
 ile-et-vilaine.fr
 www.ile-et-vilaine.fr
 ille-et-vilaine.fr
+srv7-prod-mdph.ille-et-vilaine.fr  # (redirection from cg35.fr)
 www.ille-et-vilaine.fr
 illedesartene.fr
 imaj32.fr
@@ -6229,8 +6388,11 @@ www.ineris.fr
 www.info-acs.fr  # Found in cert of CN=complementaire-sante-solidaire-gouv.fr, see https://crt.sh/?id=5054678498
 info-jeunes.fr
 isere.info-jeunes.fr
+jeunes01.info-jeunes.fr  # (redirection from www.jeunes01.fr)
 www.info-jeunes.fr
+info-jeunes-grandest.fr  # (redirection from mission-locale-reims.jeunes-ca.fr)
 pij-ay-champagne.info-jeunes-grandest.fr
+www.info-jeunes-normandie.fr  # (redirection from crijnormandie.fr)
 info-jeunesse.fr
 www.info-jeunesse.fr
 info16cognac.fr
@@ -6240,6 +6402,7 @@ www.infoasso32.fr
 site.infocom94.fr
 infofemmes-orne.fr
 www.infofemmes-orne.fr
+www.infojeunes-paca.fr  # (redirection from www.infojeunesse-paca.fr)
 infojeunesse-paca.fr
 www.infojeunesse-paca.fr
 informationjeunesse-centre.fr
@@ -6251,6 +6414,7 @@ inforoutes.fr
 www.inforoutes.fr
 infos-jeunes.fr
 www.infos-jeunes.fr
+www.infoseniors-sud79.fr  # (redirection from www.clic-hautvaldesevre.com)
 ingrandessurloire.fr
 www.ingrandessurloire.fr
 inhesj.fr
@@ -6435,6 +6599,7 @@ lacali.fr
 www.lacali.fr
 laccqb.fr
 www.laccqb.fr
+lachapelle-auzac.fr  # (redirection from commune-lachapelle-auzac.fr)
 lachapelleenvalgaudemar.fr
 www.lachapelleenvalgaudemar.fr
 lachapellegaceline.fr
@@ -6454,6 +6619,7 @@ ladrome.fr
 www.ladrome.fr
 extranet.lafrancesengage.fr
 lagardeenoisans.fr
+www.lagardeenoisans.fr  # (redirection from lagardeenoisans.fr)
 lagardefreinet.fr
 www.lagardefreinet.fr
 lagendarmerierecrute.fr
@@ -6464,6 +6630,7 @@ laguerche-aubois.fr
 www.laguerche-aubois.fr
 laligue45.fr
 www.laligue45.fr
+www.laliguedelenseignement-41.fr  # (redirection from www.laligue41.org)
 laliviniere.fr
 www.laliviniere.fr
 lalizolle.fr
@@ -6495,6 +6662,7 @@ larochesuryonagglomeration.fr
 www.larochesuryonagglomeration.fr
 laroin.fr
 www.laroin.fr
+www.lasabline.fr  # (redirection from mjclussac.org)
 lascazeres.fr
 www.lascazeres.fr
 lassay-les-chateau.fr
@@ -6597,6 +6765,7 @@ lwww.lescheroux.fr
 lesforges56.fr
 www.lesforges56.fr
 lesportesbriardes.fr
+www.lesportesbriardes.fr  # (redirection from lesportesbriardes.fr)
 letonnerroisenbourgogne.fr
 www.letonnerroisenbourgogne.fr
 leuchey.fr
@@ -6688,12 +6857,14 @@ www.lussagnet.fr
 luttenbach-mairie.fr
 www.luttenbach-mairie.fr
 lysed.fr
+www.lysed.fr  # (redirection from lysed.fr)
 lyslezlannoy.fr
 machecoul.fr
 www.machecoul.fr
 machilly-thonon.fr
 www.machilly-thonon.fr
 maconnais-tournugeois.fr
+maforpro-occitanie.fr  # (redirection from gretalr.com)
 magalas.fr
 www.magalas.fr
 magnieres.fr
@@ -7139,6 +7310,7 @@ handicap.manche.fr
 www.handicap.manche.fr
 manderen.fr
 www.manderen.fr
+www.manderen-ritzing.fr  # (redirection from manderen.fr)
 www.maprimechauffagebois.fr
 marcesuresves.fr
 www.marcesuresves.fr
@@ -7276,6 +7448,7 @@ medecine-de-proximite.fr
 www.mediateur-de-la-republique.fr
 medoc-cpi.fr
 www.medoc-cpi.fr
+www.mee-mife.fr  # (redirection from meen-neron.com)
 meef-shs.fr
 www.meef-shs.fr
 mef-beauvaisis.fr
@@ -7288,6 +7461,8 @@ megeve.fr
 www.megeve.fr
 megevette.fr
 www.megevette.fr
+melloisenpoitou.fr  # (redirection from www.ccmellois.fr)
+www.mem-artois.fr  # (redirection from www.mlpa.fr)
 menneville-02.fr
 www.menneville-02.fr
 meroux.fr
@@ -7322,6 +7497,7 @@ meuse-profession-sport-loisirs.fr
 www.meuse-profession-sport-loisirs.fr
 meusegrandsud.fr
 meuserognon.fr
+www.meuserognon.fr  # (redirection from meuserognon.fr)
 mezencloiremeygal.fr
 www.mezencloiremeygal.fr
 accueil.mezos.fr
@@ -7392,6 +7568,7 @@ mission-locale-toulon.fr
 www.mission-locale-toulon.fr
 mission-orientation-bievre.fr
 www.mission-orientation-bievre.fr
+www.missionjeunestarnnord.fr  # (redirection from mjtn.fr)
 missionlocaldugenevois.fr
 missionlocale.fr
 www.missionlocale.fr
@@ -7403,6 +7580,7 @@ missionlocale-aurillac.fr
 www.missionlocale-aurillac.fr
 missionlocale-bassinchellois.fr
 www.missionlocale-bassinchellois.fr
+www.missionlocale-besancon.fr  # (redirection from missionlocale-besancon.org)
 missionlocale-charleville.fr
 www.missionlocale-charleville.fr
 missionlocale-chaumont.fr
@@ -7443,6 +7621,8 @@ missionlocalebrive.fr
 www.missionlocalebrive.fr
 missionlocalebvm.fr
 www.missionlocalebvm.fr
+www.missionlocalecergypontoise.fr  # (redirection from www.avec-ml.fr)
+www.missionlocalecommunautaire.fr  # (redirection from www.mlnice-paca.org)
 missionlocalecorail.fr
 www.missionlocalecorail.fr
 missionlocalecoutances.fr
@@ -7513,6 +7693,7 @@ www.mjcrodez.fr
 mjcverneuil.fr
 www.mjcverneuil.fr
 mjcvic.fr
+www.mjcvic.fr  # (redirection from mjcvic.fr)
 mjtn.fr
 www.mjtn.fr
 ml-cb.fr
@@ -7533,8 +7714,11 @@ ml-nordessonne.fr
 www.ml-nordessonne.fr
 ml-nordmeusien.fr
 ml-paysdedinan.fr
+www.ml-paysdedinan.fr  # (redirection from ml-paysdedinan.fr)
+www.ml-pvm.fr  # (redirection from mle-marnelavallee.fr)
 ml-salon.fr
 www.ml-salon.fr
+www.ml-sudtouraine.fr  # (redirection from www.ml-tourainecotesud.fr)
 ml-tourainecotesud.fr
 www.ml-tourainecotesud.fr
 ml-vendomois.fr
@@ -7559,6 +7743,7 @@ mlca.fr
 www.mlca.fr
 mlclabresse.fr
 www.mlclabresse.fr
+mlcoudongapeau.fr  # (redirection from www.mlcoudongapeau.org)
 mldrouais.fr
 www.mldrouais.fr
 mle-marnelavallee.fr
@@ -7587,6 +7772,7 @@ mljbpa.fr
 www.mljbpa.fr
 mljnarbonne.fr
 www.mljnarbonne.fr
+www.mljpau.fr  # (redirection from www.lesmissionslocalesdubearn.com)
 mlmno.fr
 www.mlmno.fr
 mlmontereau.fr
@@ -7603,6 +7789,7 @@ mlobg.fr
 www.mlobg.fr
 mloca.fr
 www.mloca.fr
+www.mlocva.fr  # (redirection from missionlocale-orlychoisy.fr)
 mlouestprovence.fr
 www.mlouestprovence.fr
 mlpa.fr
@@ -7638,6 +7825,7 @@ www.mlv2al.fr
 mnhn.fr
 www.mnhn.fr
 mon-entreprise.fr
+monavenirpro-hdf.fr  # (redirection from www.greta-lillemetropole.fr)
 monblancmairie.fr
 www.monblancmairie.fr
 oyre.monclocher.fr
@@ -7727,6 +7915,7 @@ mosnac16.fr
 www.mosnac16.fr
 mosssig.fr
 www.mosssig.fr
+www.moultchicheboville.fr  # (redirection from chicheboville.fr)
 mourjou.fr
 www.mourjou.fr
 moussyleneuf.fr
@@ -7734,9 +7923,27 @@ www.moussyleneuf.fr
 moyenmoutier.fr
 www.moyenmoutier.fr
 mptcsrivery.fr
+ain-rhone.msa.fr  # (redirection from www.msa01-69.fr)
+alpesdunord.msa.fr  # (redirection from www.msaalpesdunord.fr)
 auvergne.msa.fr
+bcl.msa.fr  # (redirection from www.msa-beauce-coeurdeloire.fr)
+bourgogne.msa.fr  # (redirection from www.msa-bourgogne.fr)
+corse.msa.fr  # (redirection from www.msa20.fr)
+cotesnormandes.msa.fr  # (redirection from www.msa-cotesnormandes.fr)
+franchecomte.msa.fr  # (redirection from www.msafranchecomte.fr)
 gironde.msa.fr
+grandsud.msa.fr  # (redirection from www.msagrandsud.fr)
+hautenormandie.msa.fr  # (redirection from www.msa-haute-normandie.fr)
+iledefrance.msa.fr  # (redirection from msa-idf.fr)
+limousin.msa.fr  # (redirection from www.msa-limousin.fr)
+lorraine.msa.fr  # (redirection from www.msalorraine.fr)
+maineetloire.msa.fr  # (redirection from www.msa49.fr)
+marne-ardennes-meuse.msa.fr  # (redirection from msa085155.fr)
 martinique.msa.fr
+mpn.msa.fr  # (redirection from www.msa-mpn.fr)
+nord-pasdecalais.msa.fr  # (redirection from www.msa59-62.fr)
+poitou.msa.fr  # (redirection from msapoitou.fr)
+provenceazur.msa.fr  # (redirection from www.msaprovenceazur.fr)
 reunion.msa.fr
 sudchampagne.msa.fr
 msa-alpesvaucluse.fr
@@ -7947,6 +8154,7 @@ oberdorf-spachbach.fr
 www.oberdorf-spachbach.fr
 office-clic-chalons.fr
 www.office-clic-chalons.fr
+officeaffetvilaine.fr  # (redirection from www.officemaurepipriac.fr)
 officemaurepipriac.fr
 www.officemaurepipriac.fr
 ofgl.fr
@@ -8083,6 +8291,7 @@ mairie04.paris.fr
 www.mairie04.paris.fr
 paris-sorbonne.fr
 www.paris-sorbonne.fr
+scuioip.parisnanterre.fr  # (redirection from suio.parisnanterre.fr)
 suio.parisnanterre.fr
 parisot82commune.fr
 www.parisot82commune.fr
@@ -8110,6 +8319,7 @@ pays-loudunais.fr
 www.pays-loudunais.fr
 pays-orthe-arrigans.fr
 www.pays-orthe-arrigans.fr
+www.pays-ploermel.fr  # (redirection from www.paysdeploermel-coeurdebretagne.fr)
 pays-questembert.fr
 www.pays-questembert.fr
 pays-questenbert.fr
@@ -8199,6 +8409,7 @@ peche-saone-et-loire.fr
 www.peche-saone-et-loire.fr
 peche04.fr
 www.peche04.fr
+www.peche06.fr  # (redirection from www.peche-cote-azur.fr)
 peche13.fr
 www.peche13.fr
 peche19.fr
@@ -8211,6 +8422,7 @@ peche36.fr
 www.peche36.fr
 peche41.fr
 www.peche41.fr
+peche42.fr  # (redirection from www.federationpeche42.fr)
 peche52.fr
 www.peche52.fr
 peche55.fr
@@ -8225,6 +8437,7 @@ peche67.fr
 www.peche67.fr
 peche68.fr
 www.peche68.fr
+www.peche69.fr  # (redirection from federation-peche-rhone.fr)
 peche72.fr
 www.peche72.fr
 peche76.fr
@@ -8255,6 +8468,7 @@ perigueux-jeunesse.fr
 www.perigueux-jeunesse.fr
 perpignanmediterraneemetropole.fr
 www.perpignanmediterraneemetropole.fr
+www.personne-agee-aide-issoire.fr  # (redirection from clic-issoire.fr)
 petit-bornand.fr
 www.petit-bornand.fr
 petitecamargue.fr
@@ -8296,6 +8510,7 @@ planguenoual.fr
 www.planguenoual.fr
 plateaudecaux.fr
 www.plateaudecaux.fr
+plateformederepit-volcans.fr  # (redirection from www.plateformederepit63.fr)
 plateformederepit63.fr
 www.plateformederepit63.fr
 plateformelescale.fr
@@ -8383,7 +8598,9 @@ privas-centre-ardeche.fr
 www.privas-centre-ardeche.fr
 developpement.prix-carburants.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
 developpement2020.prix-carburants.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
+alpes-haute-provence.profession-sport-loisirs.fr  # (redirection from provence.profession-sport-loisirs.fr)
 alsace.profession-sport-loisirs.fr
+appascam.profession-sport-loisirs.fr  # (redirection from www.appascam.org)
 apsalc.profession-sport-loisirs.fr
 ariege.profession-sport-loisirs.fr
 www.ariege.profession-sport-loisirs.fr
@@ -8396,10 +8613,12 @@ www.dordogne.profession-sport-loisirs.fr
 eure.profession-sport-loisirs.fr
 www.eure.profession-sport-loisirs.fr
 haute-garonne.profession-sport-loisirs.fr
+herault.profession-sport-loisirs.fr  # (redirection from psl34.org)
 landes.profession-sport-loisirs.fr
 www.landes.profession-sport-loisirs.fr
 loiret.profession-sport-loisirs.fr
 maine-loire.profession-sport-loisirs.fr
+morbihan.profession-sport-loisirs.fr  # (redirection from www.profession-sport-56.com)
 nievre.profession-sport-loisirs.fr
 picardie.profession-sport-loisirs.fr
 poitou-charentes.profession-sport-loisirs.fr
@@ -8407,6 +8626,7 @@ provence.profession-sport-loisirs.fr
 www.provence.profession-sport-loisirs.fr
 pyrenees-atlantiques.profession-sport-loisirs.fr
 www.pyrenees-atlantiques.profession-sport-loisirs.fr
+val-d-oise.profession-sport-loisirs.fr  # (redirection from sevo95.org)
 yvelines.profession-sport-loisirs.fr
 www.yvelines.profession-sport-loisirs.fr
 professionsportaveyron.fr
@@ -8573,6 +8793,7 @@ rocquancourt.fr
 www.rocquancourt.fr
 rocques.fr
 www.rocques.fr
+www.rodezagglo.fr  # (redirection from rodezagglo.com)
 roffiac.fr
 www.roffiac.fr
 romeries.fr
@@ -8610,6 +8831,7 @@ roussillon-conflent.fr
 www.roussillon-conflent.fr
 royeres87.fr
 www.royeres87.fr
+www.ruche-silo.fr  # (redirection from mjcverneuil.fr)
 ruilleenchampagne.fr
 rumilly-terredesavoie.fr
 www.rumilly-terredesavoie.fr
@@ -8763,6 +8985,7 @@ saintlaurentsurmer.fr
 www.saintlaurentsurmer.fr
 saintloube-amades.fr
 saintmarcellin-vercors-isere.fr
+www.missionlocale.saintmarcellin-vercors-isere.fr  # (redirection from www.missionlocale.sud-gresivaudan.org)
 www.saintmarcellin-vercors-isere.fr
 saintmarcellinenforez.fr
 www.saintmarcellinenforez.fr
@@ -8914,6 +9137,7 @@ sinderes.fr
 www.sinderes.fr
 sisteron.fr
 www.sisteron.fr
+site-epj.fr  # (redirection from epj.fr)
 eraines.sitew.fr
 www.eraines.sitew.fr
 nieurletmairieinfo.sitew.fr
@@ -8925,6 +9149,7 @@ www.sjdcrieulon.fr
 smarves.fr
 www.smarves.fr
 smdlyon.fr
+www.smdlyon.fr  # (redirection from smdlyon.fr)
 smica.fr
 www.smica.fr
 social-islejourdain.fr
@@ -9042,6 +9267,7 @@ www.tancrou.fr
 tarcenay.fr
 www.tarcenay.fr
 tarn.fr
+mda.tarn.fr  # (redirection from personnes-agees.tarn.fr)
 personne-agee.tarn.fr
 personnes-agees.tarn.fr
 www.tarn.fr
@@ -9064,6 +9290,7 @@ terredauge.fr
 www.terredauge.fr
 terredecamargue.fr
 www.terredecamargue.fr
+www.terredemeraude.fr  # (redirection from petitemontagne.fr)
 terredepicardie.fr
 www.terredepicardie.fr
 terredes2caps.fr
@@ -9166,6 +9393,7 @@ lille.tribunal-administratif.fr
 limoges.tribunal-administratif.fr
 lyon.tribunal-administratif.fr
 marseille.tribunal-administratif.fr
+martinique.tribunal-administratif.fr  # (redirection from martinique.tribunaladministratif.fr)
 melun.tribunal-administratif.fr
 www.melun.tribunal-administratif.fr
 montpellier.tribunal-administratif.fr
@@ -9213,9 +9441,11 @@ ulp.u-strasbg.fr
 www-ulp.u-strasbg.fr
 petr.uccsa.fr
 www.petr.uccsa.fr
+www.uccsa.fr  # (redirection from petr.uccsa.fr)
 udaf02.fr
 www.udaf02.fr
 udaf07.fr
+www.udaf07.fr  # (redirection from udaf07.fr)
 udaf11.fr
 www.udaf11.fr
 udaf15.fr
@@ -9227,6 +9457,7 @@ www.udaf26.fr
 udaf28.fr
 www.udaf28.fr
 udaf30.fr
+www.udaf30.fr  # (redirection from udaf30.fr)
 udaf31.fr
 www.udaf31.fr
 udaf36.fr
@@ -9321,6 +9552,7 @@ usseau79.fr
 www.usseau79.fr
 uttenheim.fr
 www.uttenheim.fr
+val-darc.fr  # (redirection from randens.fr)
 val-de-sarthe.fr
 www.val-de-sarthe.fr
 valaigo.fr
@@ -9668,6 +9900,7 @@ vosgescotesudouest.fr
 www.vosgescotesudouest.fr
 vouecourt.fr
 www.vouecourt.fr
+www.voulmentin.fr  # (redirection from saint-clementin.jimdo.com)
 vouvant.fr
 www.vouvant.fr
 vrigny-notre-village.fr
@@ -9731,6 +9964,7 @@ guadeloupe.cidff.info
 www.guadeloupe.cidff.info
 hauteloire.cidff.info
 hautesaone.cidff.info
+hautrhin.cidff.info  # (redirection from www.cidff68.fr)
 hautsdeseine-clamart.cidff.info
 www.hautsdeseine-clamart.cidff.info
 hautsdeseine-nord.cidff.info
@@ -9740,6 +9974,7 @@ illeetvilaine.cidff.info
 www.illeetvilaine.cidff.info
 limousin.cidff.info
 www.limousin.cidff.info
+loire.cidff.info  # (redirection from cidff42.fr)
 loireatlantique-nantes.cidff.info
 lozere.cidff.info
 www.lozere.cidff.info
@@ -9765,6 +10000,7 @@ puydedome.cidff.info
 www.puydedome.cidff.info
 pyreneesorientales.cidff.info
 www.pyreneesorientales.cidff.info
+rhonearcalpin-interdepartemental.cidff.info  # (redirection from cidff69.fr)
 saoneetloire.cidff.info
 seineetmarne.cidff.info
 seinesaintdenis.cidff.info
@@ -9911,6 +10147,7 @@ www.puygouson.net
 puygouzon.net
 www.puygouzon.net
 regis-dgac.net
+www.jeunesse.romorantin.net  # (redirection from jeunesse.romorantin.com)
 rougnac.net
 www.rougnac.net
 rouhling.net
@@ -9999,8 +10236,10 @@ adil41.org
 www.adil41.org
 adil42.org
 www.adil42.org
+www.adil42-43.org  # (redirection from www.adil42.org)
 adil45.org
 www.adil45.org
+www.adil45-28.org  # (redirection from www.adil45.org)
 adil46.org
 www.adil46.org
 adil48.org
@@ -10011,6 +10250,7 @@ adil53.org
 www.adil53.org
 adil54.org
 www.adil54.org
+www.adil54-55.org  # (redirection from adil54.org)
 adil56.org
 www.adil56.org
 adil60.org
@@ -10171,6 +10411,7 @@ www.caj-grand-font.org
 calade.org
 www.calade.org
 capemploi22.org
+espaces.capemploi22.org  # (redirection from www.capemploi22.org)
 www.capemploi22.org
 capemploi33.org
 www.capemploi33.org
@@ -10286,6 +10527,7 @@ www.nueilaubiers.csc79.org
 csf-soissons.org
 dangu-mairie.org
 www.dangu-mairie.org
+www.delta7.org  # (redirection from www.delta7.asso.fr)
 doubsbaumois.org
 www.doubsbaumois.org
 adil.dromenet.org
@@ -10293,6 +10535,7 @@ emploi-des-jeunes53.org
 www.emploi-des-jeunes53.org
 emploi-paysvoironnais.org
 www.emploi-paysvoironnais.org
+emploi-pvsg.org  # (redirection from www.emploi-paysvoironnais.org)
 energiespiege.org
 www.energiespiege.org
 enfance-jeunesse.org
@@ -10350,15 +10593,18 @@ huissiers94.org
 www.huissiers94.org
 bijroyan.ij-poitou-charentes.org
 infofemmes-mp.org
+ww38.infofemmes-mp.org  # (redirection from infofemmes-mp.org)
 www.infofemmes-mp.org
 infofemmes-pch.org
 www.infofemmes-pch.org
 infojeune41.org
 www.infojeune41.org
+www.infojeuneslorient.org  # (redirection from www.bij-lorient.org)
 informationjeunesselorraine.org
 www.informationjeunesselorraine.org
 intreville.org
 www.intreville.org
+www.ipsho.org  # (redirection from www.capemploi60.org)
 issionlovalelibournais.org
 jeanne-garnier.org
 www.jeanne-garnier.org
@@ -10366,6 +10612,7 @@ jeuneaniort.org
 www.jeuneaniort.org
 jeunesenlorraine.org
 www.jeunesenlorraine.org
+lafabriquedefi-calaisis.org  # (redirection from www.mission-locale-calais.org)
 laligue-alpesdusud.org
 www.laligue-alpesdusud.org
 laligue03.org
@@ -10386,6 +10633,7 @@ laroseraie.org
 www.laroseraie.org
 larressore.org
 www.larressore.org
+www.lecgs.org  # (redirection from loisireduc.org)
 lespepsra.org
 www.lespepsra.org
 lespossibles.org
@@ -10478,6 +10726,7 @@ www.mj-05.org
 mjclussac.org
 www.mjclussac.org
 ml-cannespaysdelerins.org
+www.ml-cannespaysdelerins.org  # (redirection from ml-cannespaysdelerins.org)
 ml-chablais.org
 www.ml-chablais.org
 ml-dp.org
@@ -10495,6 +10744,7 @@ www.ml-st-etienne.org
 ml-thierache.org
 www.ml-thierache.org
 ml09.org
+en.ml09.org  # (redirection from www.ml09.org)
 www.ml09.org
 ml31.org
 www.ml31.org
@@ -10516,11 +10766,13 @@ www.mlcp.org
 mldieppe.org
 www.mldieppe.org
 mlgenevois.org
+www.mlgenevois.org  # (redirection from mlgenevois.org)
 mlhautegironde.org
 www.mlhautegironde.org
 mliv.org
 www.mliv.org
 mlj-maurienne.org
+app.mlj-maurienne.org  # (redirection from mlj-maurienne.com)
 www.mlj-maurienne.org
 mlj66.org
 www.mlj66.org
@@ -10546,6 +10798,7 @@ mlpv.org
 www.mlpv.org
 mlpv47.org
 www.mlpv47.org
+www.mlpvannes.org  # (redirection from www.mlpv.org)
 mlrennes.org
 www.mlrennes.org
 mlrgpp.org
@@ -10561,9 +10814,8 @@ www.mlvdl.org
 mlvillefranche-beaujolais.org
 ndbs.org
 www.ndbs.org
-nouas.org
-www.nouas.org
 ose-france.org
+www.ose-france.org  # (redirection from ose-france.org)
 patrimoineaurhalpin.org
 www.patrimoineaurhalpin.org
 paysdelachataigneraie.org
@@ -10622,6 +10874,7 @@ www.missionlocale.sud-gresivaudan.org
 jeunes.terresdelorraine.org
 www.jeunes.terresdelorraine.org
 truitecorse.org
+www.truitecorse.org  # (redirection from truitecorse.org)
 udaf03.org
 www.udaf03.org
 udaf42.org
@@ -10632,6 +10885,7 @@ udaf46.org
 www.udaf46.org
 vitrecommunaute.org
 www.vitrecommunaute.org
+we-ker.org  # (redirection from www.mlrennes.org)
 wwwmissionlovalelibournais.org
 yij78.org
 www.yij78.org
