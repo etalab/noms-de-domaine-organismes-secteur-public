@@ -11,32 +11,40 @@ NON_PUBLIC_DOMAINS = {
     "3dathome.fr",
     "attichy.com",
     "bellevillesurmeuse.com",  # Domaine squatté
+    "catchtiger.com",  # squatte www.villedesaintfrancois.fr
     "changementadresse-carte-grise.com",  # squatte www.roussillo-conflent.fr
     "cloudflaressl.com",
+    "commententreprendre.com",  # squatte cma-bourgogne.fr
     "communecter.org",  # Une association
     "creps.ovh",
     "cyberfinder.com",
     "dropcatch.com",  # squatte mairie-clarensac.com
     "esbooks.co.jp",  # squatte pezenes.info
+    "eureka27.fr",  # squatte paulhac15.fr
     "gitbook.com",
     "github.com",
-    "github.io",
     "go.crisp.chat",
     "google.com",
     "host-web.com",
     "imperva.com",
     "incapsula.com",
+    "infomaniak.com",
+    "medium.com",
     "mesvres.com",  # Domaine squatté
     "microsoftonline.com",
     "milfshorny.com",  # squatte www.opoul.fr et villelefousseret.fr.
+    "notes-de-frais.info",  # squatte la mairie de lamotheachard.com
     "opendatasoft.com",
     "ovh.co.uk",
     "passeport-mairie.com",  # squatte www.mairiedeliverdy.fr et www.mairieozon.fr
+    "plafond-pinel.info",  # squatte la CC du Lauragais Sud: www.colaursud.fr
     "pre-demande.fr",  # squatte www.ponthevrard-mairie.fr
     "sarbacane.com",
     "sendinblue.com",
     "sioracderiberac.com",
     "varchetta.fr",  # squatte www.commune-la-chapelle-de-brain.fr
+    "viteundevis.com",  # squatte mairiemarignaclasclares.fr
+    "voxaly.com",
     "wewmanager.com",
 }
 
