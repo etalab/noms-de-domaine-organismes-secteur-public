@@ -52,6 +52,15 @@ Le dossier `scripts/` contient plusieurs scripts de collecte :
 - import-base-nationale-sur-les-intercommunalites.py
 - import-from-ct-logs.py
 
+## Exemples de réutilisations
+### [sources-de-confiance.fr](https://sources-de-confiance.fr)
+Sources de confiance est une extension de navigateur qui permet d'identifier instantanément les résultats issus du secteur public dans son moteur de recherche habituel. Une initiative de l'association [Villes Internet](https://villes-internet.net).
+
+### Audit d'accessibilité avec [Asqatasun](https://adullact.org/service-en-ligne-asqatasun)
+L'association [Addulact](https://addullact.org) souhaite établir des statistiques concernant le respect du RGAA par les sites des organismes publics.
+
+### Audits techniques variés avec [DashLord](https://dashlord.incubateur.net/intro/)
+DashLord est né à la [Fabrique des ministères sociaux](https://fabrique.social.gouv.fr/) pour répondre aux besoins d'évaluation et de mise en oeuvre des bonnes pratiques de développement web.
 
 # Licence
 
