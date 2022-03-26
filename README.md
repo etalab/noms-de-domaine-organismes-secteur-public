@@ -59,7 +59,7 @@ Sources de confiance est une extension de navigateur qui permet d'identifier ins
 ### Audit d'accessibilité avec [Asqatasun](https://adullact.org/service-en-ligne-asqatasun)
 L'association [Addulact](https://addullact.org) souhaite établir des statistiques concernant le respect du RGAA par les sites des organismes publics.
 
-### Audits techniques variés avec [Dashlord](https://dashlord.incubateur.net/intro/)
+### Audits techniques variés avec [DashLord](https://dashlord.incubateur.net/intro/)
 DashLord est né à la [Fabrique des ministères sociaux](https://fabrique.social.gouv.fr/) pour répondre aux besoins d'évaluation et de mise en oeuvre des bonnes pratiques de développement web.
 
 # Licence
