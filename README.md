@@ -1,21 +1,37 @@
-# Liste de noms de domaine d'organismes publics
+# Liste de noms de domaine d’organismes publics
 
-Ce dépôt contient une liste de noms de domaine d'organismes
+Ce dépôt contient une liste de noms de domaine d’organismes
 remplissant des missions de service public.
 
-Le dossier `sources/` contient tous les domaines connus, accessibles
-en HTTP ou non.
 
-Le fichier `urls.txt` est une liste d'URLs basée sur les domaines du
+## La liste des noms de domaines
+
+Le dossier `sources/` contient les domaines connus, qu’ils soient
+accessibles en HTTP ou non.
+
+Les ajouts et suppresion s’y font soit manuellement soit via des
+scripts de collecte.
+
+
+## La liste des URLs
+
+Le fichier `urls.txt` est une liste d’URLs basée sur les domaines du
 dossier `sources/` et répondant `200 OK` en HTTP ou en HTTPS.
 
+Les ajouts et suppresion s’y font automatiquement, il n’est pas
+nécessaire de modifier ce fichier manuellement.
 
-# Les domaines inaccessibles en HTTP(S)
+Attention, cette liste étant basée sur des noms de domaines
+d’organismes publics, certaines pages d’organismes publics comme
+https://sites.google.com/site/mairiedemacey/ ne peuvent pas y figurer.
+
+
+# Les domaines inaccessibles en HTTP/HTTPS
 
 La liste des domaines qui sont dans le dossier `sources/` mais ne sont
 pas dans le fichier `urls.txt` sont inaccessibles en HTTP ou HTTPS
-(n'ont pas d'adresse IP, ne répondent pas en HTTP, répondent autre
-chose que 200 en HTTP, ...).
+(n’ont pas d’adresse IP, ne répondent pas en HTTP, répondent autre
+chose que 200 en HTTP…).
 
 Pour obtenir cette liste vous pouvez utiliser :
 
@@ -36,7 +52,7 @@ Pour vérifier que tout va bien :
 
     python scripts/check.py
 
-Et éventuellement pour consolider dans `urls.txt` (mais c'est long) :
+Et éventuellement pour consolider dans `urls.txt` (mais c’est long) :
 
     python scripts/consolidate.py sources/*.txt
 
