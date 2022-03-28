@@ -19,5 +19,7 @@ jobs:
       - uses: actions/setup-python@v2
         with:
           python-version: "3.10"
+      - name: Install dependencies
+        run: python3.10 -m pip install validators
       - name: Run check.py
         run: python3.10 scripts/check.py

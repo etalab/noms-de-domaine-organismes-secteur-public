@@ -5,7 +5,7 @@ And remove blank lines, and remove duplicates, and lowercase.
 
 import argparse
 from pathlib import Path
-from consolidate import Domain, parse_files
+from public_domain import Domain, parse_files
 
 
 def parse_args():
