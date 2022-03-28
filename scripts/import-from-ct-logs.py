@@ -19,7 +19,7 @@ from pathlib import Path
 
 import psycopg2
 from sort import sort_files
-from consolidate import Domain, NON_PUBLIC_DOMAINS
+from public_domain import Domain, NON_PUBLIC_DOMAINS
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES = ROOT / "sources"

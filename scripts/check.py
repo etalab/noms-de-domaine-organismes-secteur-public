@@ -10,7 +10,7 @@
 import sys
 from pathlib import Path
 from functools import cached_property
-from consolidate import Domain, parse_files
+from public_domain import Domain, parse_files
 import validators
 
 
