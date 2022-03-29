@@ -5427,6 +5427,7 @@ digulleville.fr
 www.digulleville.fr
 dila.fr
 autodiscover.dila.fr  # from https://crt.sh/?id=5908470849
+bdjv2-prod.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=bdjv2-prod.rie.gouv.fr, serialNumber=S230162552, see https://crt.sh/?id=6338727733
 enterpriseregistration.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
 service-public.fr.preprod.ext.dila.fr
 www.service-public.fr.preprod.ext.dila.fr
@@ -8099,6 +8100,7 @@ www.saintbonnetlechastel.over-blog.fr
 oxygene-association.fr
 www.oxygene-association.fr
 ozensemble.fr  # (redirection from ozensemble.fabrique.social.gouv.fr)
+www.ozensemble.fr  # Found in cert of CN=ozensemble-site.fabrique.social.gouv.fr, see https://crt.sh/?id=6390935409
 bessay.sur.allier.pagesperso-orange.fr
 saint.ange77.pagesperso-orange.fr
 mairie.battrans.pagesperso-orange.fr
@@ -9886,6 +9888,9 @@ thierville.info
 www.thierville.info
 valdedrome.info
 www.valdedrome.info
+maedi.brough.io  # Found in cert of CN=maedi.brough.io, see https://crt.sh/?id=6342572980
+mark.brough.io  # Found in cert of CN=maedi.brough.io, see https://crt.sh/?id=6342572980
+test.brough.io  # Found in cert of CN=maedi.brough.io, see https://crt.sh/?id=6342572980
 rejoignez.werecruit.io
 lespetitesarmoises.c.la
 www.lespetitesarmoises.c.la
