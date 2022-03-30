@@ -80,6 +80,7 @@ edu.osp.cat
 jni.edu.osp.cat  # Found in cert of CN=jni21.education.gouv.fr, see https://crt.sh/?id=5055970844
 grenelle.osp.cat
 dgs-sisacenq.cegedim.cloud
+dgs-sisacenq-integ.cegedim.cloud  # (redirection from si-enquetes-integ.sante.gouv.fr)
 le4bis-ij.cm
 www.le4bis-ij.cm
 lebercail.co
@@ -794,6 +795,7 @@ lavernay.eklablog.com
 www.lavernay.eklablog.com
 mjc-uzes.eklablog.com
 www.mjc-uzes.eklablog.com
+www.culture.eligis-web.com  # (redirection from patrimages.culture.gouv.fr)
 emaj78.com
 www.emaj78.com
 emjrcm.com
@@ -1203,6 +1205,7 @@ kerpert.com
 www.kerpert.com
 kervignac.com
 www.kervignac.com
+rct-agefice.kleegroup.com  # (redirection from communaute.agadir.emploi.gouv.fr)
 koestlach.com
 www.koestlach.com
 www.la-plagne.com  # (redirection from champagny.com)
@@ -1896,6 +1899,7 @@ www.sumene-artense.com
 synagri.com
 rhone.synagri.com
 www.synagri.com
+nextcloud-lucas.synten.com  # (redirection from inscription-ira.fonction-publique.gouv.fr)
 hermes.talkspirit.com
 www.terredepeyre-lozere.com  # (redirection from communautedecommunesterredepeyre.fr)
 terredeprovence-agglo.com
@@ -4223,6 +4227,7 @@ cdosmarne.fr
 www.cdosmarne.fr
 cea.fr
 www.cea.fr
+www.cefdg.fr  # (redirection from cefdg2018.enseignementsup-recherche.gouv.fr)
 centre-u-borgu.fr
 www.centre-u-borgu.fr
 centreanimationsociale-champagne.fr
@@ -4274,10 +4279,13 @@ www.centretarn.fr
 centuri.fr
 cerema.fr
 ant.cerema.fr
+www.cdata.cerema.fr  # (redirection from anemoc.cetmef.developpement-durable.gouv.fr)
 enqueteur.centre-est.cerema.fr
+dtrf.cerema.fr  # (redirection from dtrf.setra.equipement.gouv.fr)
 enqueteur.eau-mer-fleuves.cerema.fr
 enqueteur.mediterranee.cerema.fr
 enqueteur.nord-picardie.cerema.fr
+enqueteur.normandie-centre.cerema.fr  # (redirection from enqueteur.cete-normandie-centre.developpement-durable.gouv.fr)
 enqueteur.ouest.cerema.fr
 outil2amenagement.cerema.fr
 paysages-territoires-transitions.cerema.fr
@@ -5412,6 +5420,7 @@ archives-map-bo.culture.fr
 cas0.culture.fr  # from https://crt.sh/?id=5307308077
 admin.evenementiels.culture.fr
 ewscli0.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+pass.culture.fr  # (redirection from passculture.beta.gouv.fr)
 recherche-anmt-admin.culture.fr
 recherche-anmt-bo.culture.fr
 recherche-anom-admin.culture.fr
@@ -5490,6 +5499,7 @@ certauth.fs.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 130009186
 mail.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=messagerie.dila.fr, serialNumber=S223182729, see https://crt.sh/?id=5908470849
 messagerie.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=messagerie.dila.fr, serialNumber=S223182729, see https://crt.sh/?id=5908470849
 wap.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
+www.dilcrah.fr  # (redirection from semaine21mars.tousuniscontrelahaine.gouv.fr)
 dinan-agglomeration.fr
 www.dinan-agglomeration.fr
 dineault.fr
@@ -5572,6 +5582,7 @@ nuage.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministèr
 nuage01.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage.apps.education.fr, see https://crt.sh/?id=5773091456
 podeduc.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pod.phm.education.gouv.fr, see https://crt.sh/?id=5541894130
 cabinet.education.fr
+eduscol.education.fr  # (redirection from www.banqoutils.education.gouv.fr)
 magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 collabora.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 etherpad.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
@@ -8536,6 +8547,7 @@ praderelesbourguets.fr
 prazsurarly.fr
 www.prazsurarly.fr
 prebocageintercom.fr
+prefpolice-leblog.fr  # (redirection from prefpolice-leblog.interieur.gouv.fr)
 presidence-europe.fr
 prey27.fr
 prignac-et-marcamps.fr
@@ -9080,6 +9092,7 @@ www.sijean.fr
 sillans-la-cascade.fr
 simad.fr
 www.simad.fr
+simmbad.fr  # (redirection from biocides.developpement-durable.gouv.fr)
 sinard.fr
 www.sinard.fr
 sinderes.fr
@@ -9863,6 +9876,7 @@ wangenbourgengenthal.fr
 www.wangenbourgengenthal.fr
 wavrechainsousdenain.fr
 www.wavrechainsousdenain.fr
+demo.wdns.fr  # (redirection from ha-inter-rp-96.developpement-durable.gouv.fr)
 web63.fr
 63140.web63.fr
 faux-vesigneul.webnode.fr
@@ -10139,6 +10153,7 @@ westhoffen.net
 www.westhoffen.net
 zevacu.net
 www.zevacu.net
+asp.zone-secure.net  # (redirection from guide-motards.conduire-un-deux-roues.gouv.fr)
 le-mesnil-simon.fr.nf
 acegaa.org
 www.acegaa.org
@@ -10781,6 +10796,7 @@ www.mlvdl.org
 mlvillefranche-beaujolais.org
 ndbs.org
 www.ndbs.org
+journals.openedition.org  # (redirection from www.revue.inventaire.culture.gouv.fr)
 ose-france.org
 www.ose-france.org  # (redirection from ose-france.org)
 patrimoineaurhalpin.org
