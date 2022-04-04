@@ -1,9 +1,13 @@
+import csv
 from dataclasses import dataclass
+from datetime import date
 from functools import total_ordering
+import logging
 from pathlib import Path
 from typing import Literal
 from urllib.parse import urlparse
 
+logger = logging.getLogger(__name__)
 
 # Domains that are commonly found behind redurections but are not public service:
 NON_PUBLIC_DOMAINS = {
@@ -55,8 +59,60 @@ class Domain:
     name: str
     source_file: Path = None
     comment: str = ""
-    scheme: Literal["http", "https", None] = None
-    redirects_to: str | None = None
+    http_status: str | None = None
+    http_last_check: date = date.min
+    https_status: str | None = None
+    https_last_check: date = date.min
+    # http*_status can also starts with "Redirects to: "
+    #
+    # It's encouraged to add any needed attributes pair like:
+    # smtp_status, smtp_status_last_check
+    # ssh_status, ssh_status_last_check
+    # ...
+
+    @classmethod
+    def csv_headers(cls):
+        try:
+            return cls._csv_headers
+        except AttributeError:
+            cls._csv_headers = ("name",) + tuple(
+                attr
+                for attr in dir(cls)
+                if attr.endswith("_status") or attr.endswith("_last_check")
+                if not attr.startswith("set_")
+            )
+        return cls._csv_headers
+
+    def set_status(self, service, status):
+        """Set new status for the given service.
+
+        like: domain.set_status("https", "200 OK")
+        """
+        if f"{service}_status" not in self.csv_headers():
+            raise ValueError(
+                f"Can't set status for service {service}: "
+                f"{service}_status is not a Domain attribute."
+            )
+        if f"{service}_last_check" not in self.csv_headers():
+            raise ValueError(
+                f"Can't set status for service {service}: "
+                f"{service}_last_check is not a Domain attribute."
+            )
+        setattr(self, f"{service}_status", status)
+        setattr(self, f"{service}_last_check", date.today())
+
+    def astuple(self):
+        """Usefull for CSV output."""
+        return tuple(getattr(self, attr) for attr in self.csv_headers())
+
+    @classmethod
+    def fromtuple(cls, t):
+        """Usefull to read from CSV files."""
+        attrs = dict(zip(cls.csv_headers(), t))
+        for key, value in attrs.items():
+            if key.endswith("_last_check"):
+                attrs[key] = date.fromisoformat(value)
+        return cls(**attrs)
 
     @classmethod
     def from_file_line(cls, file, line):
@@ -76,7 +132,10 @@ class Domain:
     @classmethod
     def from_url(cls, url, **kwargs):
         """Constructs a Domain instance from the result of urlparse."""
-        return cls(name=url.netloc, scheme=url.scheme, **kwargs)
+        if url.scheme == "https":
+            return cls(name=url.netloc, https_status="200 OK", **kwargs)
+        else:
+            return cls(name=url.netloc, http_status="200 OK", **kwargs)
 
     def is_not_public(self) -> bool:
         """Returns False if the domain is clearly not public (in NON_PUBLIC_DOMAINS)."""
@@ -99,19 +158,17 @@ class Domain:
             return self.name == other
         return self.name == other.name
 
-    def is_interesting(self) -> bool:
-        if self.is_not_public():
-            return False
-        if self.redirects_to is not None:
-            return False
-        return self.scheme is not None
-
     @property
     def url(self) -> str:
         """Representation of this domain as an URL."""
-        if self.scheme is None:
-            raise ValueError("Can't represent Domain as an URL without a scheme")
-        return f"{self.scheme}://{self.name}"
+        if self.https_status.startswith("200 "):
+            return f"https://{self.name}"
+        elif self.http_status.startswith("200 "):
+            return f"http://{self.name}"
+        else:
+            raise ValueError(
+                "Can't represent Domain as an URL, not sure about the scheme."
+            )
 
 
 def parse_files(*files: Path) -> set[Domain]:
@@ -125,3 +182,27 @@ def parse_files(*files: Path) -> set[Domain]:
         for line in file.read_text(encoding="UTF-8").splitlines()
         if not line.startswith("#")
     }
+
+
+def parse_csv_file(domainsfile):
+    domains = set()
+    try:
+        with open(domainsfile, "r", encoding="UTF-8") as domainsfile:
+            domainsreader = csv.reader(domainsfile)
+            next(domainsreader)
+            for row in domainsreader:
+                domains.add(Domain.fromtuple(row))
+        return domains
+    except FileNotFoundError:
+        return set()
+
+
+def write_csv_file(domainsfile, domains):
+    with open(domainsfile, "w", encoding="UTF-8") as f:
+        domainswriter = csv.writer(f, lineterminator="\n")
+        domainswriter.writerow(Domain.csv_headers())
+        for domain in sorted(domains):
+            try:
+                domainswriter.writerow(domain.astuple())
+            except UnicodeEncodeError:
+                logger.exception(f"Can't write line in CSV file: {domain.astuple()!r}")
