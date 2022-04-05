@@ -5,7 +5,7 @@ import asyncio
 from pathlib import Path
 import logging
 import random
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 
 import aiohttp
 from tqdm.asyncio import tqdm
@@ -17,7 +17,7 @@ USER_AGENT = (
 )
 HEADERS = {"User-Agent": USER_AGENT}
 
-logger = logging.getLogger("consolidate")
+logger = logging.getLogger("http_checker")
 
 
 def avoid_surrogates(s):
@@ -64,10 +64,10 @@ async def http_head(
     if (
         300 < response.status < 400
         and "Location" in response.headers
-        and share_same_domain(url, response.headers["Location"])
+        and share_same_domain(url, dest := urljoin(url, response.headers["Location"]))
         and max_redirects > 0
     ):
-        return await http_head(response.headers["Location"], client, max_redirects - 1)
+        return await http_head(dest, client, max_redirects - 1)
     return response
 
 
@@ -123,7 +123,10 @@ def parse_args():
         default=0,
         dest="kindness",
     )
-    parser.add_argument("--limit", help="Query at most n domains.", type=int)
+    parser.add_argument("--limit", help="Test at most n domains.", type=int)
+    parser.add_argument(
+        "--grep", help="Test only domain matching this argument.", type=str
+    )
     parser.add_argument(
         "--verbose",
         "-v",
@@ -169,6 +172,9 @@ def main():
     to_check = sorted(
         domains, key=lambda domain: min(domain.http_last_check, domain.https_last_check)
     )[: args.limit]
+
+    if args.grep:
+        to_check = [domain for domain in to_check if args.grep in domain.name]
 
     try:
         asyncio.run(rescan_domains(to_check, args.kindness, args.verbose, args.silent))
