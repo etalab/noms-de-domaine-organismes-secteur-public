@@ -66,11 +66,21 @@ Pour vérifier la cohérence des fichiers :
 
 Et éventuellement pour consolider dans `urls.txt` :
 
-    python scripts/http_checker.py
-    python scripts/domains_csv_to_urls_txt.py
+    python scripts/http_checker.py --check-new
 
 Le premier met à jour le fichier `domains.csv`, et le second crée
 `urls.txt` à partir de `domains.csv`.
+
+
+## Maintenance des fichiers consolidés
+
+Pour maintenir à jour `domains.csv` et donc `urls.txt` il est possible
+de lancer périodiquement :
+
+    python scripts/http_checker.py --limit 1000
+
+Dans ce cas les `1000` domaines donc la vérification est la plus
+ancienne sont re-vérifiés, ajustez la limite au besoin.
 
 
 ## Scripts de collecte

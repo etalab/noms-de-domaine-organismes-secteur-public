@@ -2,15 +2,16 @@
 
 import argparse
 import asyncio
+from datetime import date
 from pathlib import Path
 import logging
-import random
 from urllib.parse import urlparse, urljoin
 
 import aiohttp
 from tqdm.asyncio import tqdm
 
 from public_domain import Domain, parse_files, parse_csv_file, write_csv_file
+import domains_csv_to_urls_txt
 
 USER_AGENT = "See https://github.com/etalab/noms-de-domaine-organismes-publics"
 
@@ -20,6 +21,11 @@ logger = logging.getLogger("http_checker")
 
 
 def avoid_surrogates(s):
+    """Drop surrogates from the given string.
+
+    This could happen if aiohttp gives us surrogates, in case a server
+    wrongly encodes HTTP headers.
+    """
     return s.encode("utf-8", "surrogateescape").decode("utf-8", "backslashreplace")
 
 
@@ -95,14 +101,14 @@ async def check_domain(
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    here = Path(__file__).parent
-    default_files = list((here / "sources").glob("*.txt"))
+    project_root = Path(__file__).parent.parent
+    default_files = list((project_root / "sources").glob("*.txt"))
     parser.add_argument("files", type=Path, nargs="*", default=default_files)
     parser.add_argument(
         "--output",
         type=Path,
         help="File to write domains with OK HTTP responses.",
-        default=here.parent / "domains.csv",
+        default=project_root / "domains.csv",
     )
     parser.add_argument(
         "--slow",
@@ -142,6 +148,11 @@ def parse_args():
     parser.add_argument(
         "-s", "--silent", action="store_true", help="Disable progress bar"
     )
+    parser.add_argument(
+        "--check-new",
+        action="store_true",
+        help="Just check new domains.",
+    )
     args = parser.parse_args()
     args.verbose = min(args.verbose, 2)
     if args.limit is None:
@@ -167,26 +178,40 @@ async def rescan_domains(
     )  # Which is fixed in aiohttp 4.
 
 
+def filter_domains(
+    domains: set[Domain], limit: int, check_new: bool, grep: str
+) -> set[Domain]:
+    """Filter domains according to --limit, --grep, and --check-new command line args."""
+    if grep:
+        domains = [domain for domain in domains if grep in domain.name]
+    if check_new:
+        domains = [
+            domain
+            for domain in domains
+            if date.min in (domain.http_last_check, domain.https_last_check)
+        ]
+    return sorted(
+        domains,
+        key=lambda domain: min(domain.http_last_check, domain.https_last_check),
+    )[:limit]
+
+
 def main():
     args = parse_args()
     logging.basicConfig(
         level=[logging.WARNING, logging.INFO, logging.DEBUG][args.verbose]
     )
     domains = parse_csv_file(args.output) | parse_files(*args.files)
-
-    to_check = sorted(
-        domains, key=lambda domain: min(domain.http_last_check, domain.https_last_check)
-    )[: args.limit]
-
-    if args.grep:
-        to_check = [domain for domain in to_check if args.grep in domain.name]
-
+    to_check = filter_domains(domains, args.limit, args.check_new, args.grep)
     try:
         asyncio.run(rescan_domains(to_check, args.kindness, args.verbose, args.silent))
     except KeyboardInterrupt:
         logging.info("Interrupted by keyboard, saving before exiting…")
 
     write_csv_file(args.output, domains)
+
+    # Refresh .txt from .csv, it's fast:
+    domains_csv_to_urls_txt.main()
 
 
 if __name__ == "__main__":
