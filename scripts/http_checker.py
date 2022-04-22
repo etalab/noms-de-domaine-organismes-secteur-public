@@ -12,9 +12,8 @@ from tqdm.asyncio import tqdm
 
 from public_domain import Domain, parse_files, parse_csv_file, write_csv_file
 
-USER_AGENT = (
-    "http_checker.py (https://github.com/etalab/noms-de-domaine-organismes-publics)"
-)
+USER_AGENT = "See https://github.com/etalab/noms-de-domaine-organismes-publics"
+
 HEADERS = {"User-Agent": USER_AGENT}
 
 logger = logging.getLogger("http_checker")
@@ -50,7 +49,7 @@ def share_same_domain(url1: str, url2: str):
 
 
 async def http_head(
-    url: str, client: aiohttp.ClientSession, max_redirects=10
+    url: str, client: aiohttp.ClientSession, max_redirects=10, method="HEAD"
 ) -> aiohttp.ClientResponse:
     """Performs an HTTP GET on the given URL.
 
@@ -58,16 +57,22 @@ async def http_head(
 
     - if http://munster.alsace redirects to http://www.munster.alsace it's a redirection.
     - if http://munster.alsace redirects to http://muster.alsace/fr replying OK it's OK.
+
+    We try to use HEAD requests, but if not allwed we fallback to GET requests.
     """
-    async with client.head(url, headers=HEADERS, allow_redirects=False) as response:
+    async with client.request(
+        method, url, headers=HEADERS, allow_redirects=False
+    ) as response:
         logger.info("%s: %s %s", url, response.status, response.reason)
+    if response.status == 405 and method == "HEAD":  # Method Not Allowed
+        return await http_head(url, client, method="GET")
     if (
         300 < response.status < 400
         and "Location" in response.headers
         and share_same_domain(url, dest := urljoin(url, response.headers["Location"]))
         and max_redirects > 0
     ):
-        return await http_head(dest, client, max_redirects - 1)
+        return await http_head(dest, client, max_redirects - 1, method=method)
     return response
 
 
