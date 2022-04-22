@@ -4797,6 +4797,11 @@ clicseniormontagne.fr
 www.clicseniormontagne.fr
 clinchamps.fr
 www.clinchamps.fr
+lafabriquenumerique-mattermost.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-mattermost.cloud-ed.fr, see https://crt.sh/?id=6447780606
+lafabriquenumerique-nextcloud.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-nextcloud.cloud-ed.fr, see https://crt.sh/?id=6447780074
+lafabriquenumerique-onlyoffice.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-onlyoffice.cloud-ed.fr, see https://crt.sh/?id=6447774642
+lafabriquenumerique-sentry.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-sentry.cloud-ed.fr, see https://crt.sh/?id=6447769241
+lafabriquenumerique-stats.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-stats.cloud-ed.fr, see https://crt.sh/?id=6447772965
 clumanc.fr
 www.clumanc.fr
 cm-86.fr
@@ -8140,6 +8145,7 @@ bundle-ministre-justice-20210929-01-ssl.on-web.fr  # from https://crt.sh/?id=530
 bundle-ministre-justice-20210930-01-ssl.on-web.fr  # from https://crt.sh/?id=5312324491
 bundle-ministre-justice-20211221-01-ssl.on-web.fr  # from https://crt.sh/?id=5836912338
 bundle-ministre-justice-20220220-01-ssl.on-web.fr
+bundle-ministre-justice-20220422-01-ssl.on-web.fr  # Found in cert of CN=bundle-ministre-justice-20220422-01-ssl.on-web.fr, see https://crt.sh/?id=6590262555
 onac-vg.fr
 www.onac-vg.fr
 onacvg.fr
