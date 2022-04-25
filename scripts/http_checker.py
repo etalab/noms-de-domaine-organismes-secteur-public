@@ -136,7 +136,7 @@ def parse_args():
     )
     parser.add_argument("--limit", help="Test at most n domains.", type=int)
     parser.add_argument(
-        "--grep", help="Test only domain matching this argument.", type=str
+        "--grep", help="Test only domain matching this argument.", type=str, nargs="+"
     )
     parser.add_argument(
         "--verbose",
@@ -179,11 +179,15 @@ async def rescan_domains(
 
 
 def filter_domains(
-    domains: set[Domain], limit: int, check_new: bool, grep: str
+    domains: set[Domain], limit: int, check_new: bool, grep: list[str]
 ) -> set[Domain]:
     """Filter domains according to --limit, --grep, and --check-new command line args."""
     if grep:
-        domains = [domain for domain in domains if grep in domain.name]
+        domains = [
+            domain
+            for domain in domains
+            if any(pattern in domain.name for pattern in grep)
+        ]
     if check_new:
         domains = [
             domain
