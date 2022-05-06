@@ -17369,6 +17369,7 @@ https://registry.gitlab-forge.din.developpement-durable.gouv.fr
 https://grandest-scdd.din.developpement-durable.gouv.fr
 https://lune.din.developpement-durable.gouv.fr
 https://mel.din.developpement-durable.gouv.fr
+https://melanissimo-ng.din.developpement-durable.gouv.fr
 https://meloffice.din.developpement-durable.gouv.fr
 https://nexus-forge.din.developpement-durable.gouv.fr
 https://nexus-forge-preprod.din.developpement-durable.gouv.fr
@@ -19277,6 +19278,7 @@ http://www.rdvmun.saone-et-loire.gouv.fr
 http://www.saone-et-loire.gouv.fr
 https://www.rdv.sarthe.gouv.fr
 http://www.sarthe.gouv.fr
+http://www.rdvmun.savoie.gouv.fr
 https://www.savoie.gouv.fr
 http://www.arago.science.gouv.fr
 http://www.foucault.science.gouv.fr
@@ -32326,7 +32328,6 @@ http://www.saintmartindesolmes.fr
 https://saintmartindevaulserre.fr
 https://www.saintmartindheres.fr
 http://www.saintmartindufouilloux49.fr
-https://www.saintmartindumanoir.fr
 https://saintmartindumont.fr
 http://mairie.saintmartinduriage.fr
 https://www.saintmartinduvar.fr
@@ -36458,7 +36459,7 @@ http://www.ville-sainte-radegonde.fr
 http://www.ville-sainte-sigolene.fr
 https://www.ville-sainte-tulle.fr
 https://www.ville-sainteanne.fr
-https://ville-saintecolombeenbruilhois.fr
+http://ville-saintecolombeenbruilhois.fr
 https://ville-saintecroix.fr
 https://www.ville-saintecroix.fr
 http://www.ville-saintemarguerite.fr
