@@ -2468,6 +2468,10 @@ entreprises.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE T
 www.entreprises.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=partenaires.antai.gouv.fr, serialNumber=S223470911, see https://crt.sh/?id=5926749720
 partenaires.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=partenaires.antai.gouv.fr, serialNumber=S223470911, see https://crt.sh/?id=5926749720
 www.partenaires.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=partenaires.antai.gouv.fr, serialNumber=S223470911, see https://crt.sh/?id=5926749720
+pp.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=pp.antai.gouv.fr, serialNumber=S235790907, see https://crt.sh/?id=6693405072
+usagers.pp.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=pp.antai.gouv.fr, serialNumber=S235790907, see https://crt.sh/?id=6693405072
+www.usagers.pp.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=pp.antai.gouv.fr, serialNumber=S235790907, see https://crt.sh/?id=6693405072
+www.pp.antai.fr  # Found in cert of C=FR, L=RENNES, O=AGENCE NATIONALE DE TRAITEMENT AUTOMATISE DES INFRACTIONS, OU=0002 13001454100010, CN=pp.antai.gouv.fr, serialNumber=S235790907, see https://crt.sh/?id=6693405072
 usagers.antai.fr
 www.usagers.antai.fr
 www.antai.fr
@@ -5493,10 +5497,13 @@ digulleville.fr
 www.digulleville.fr
 dila.fr
 autodiscover.dila.fr  # from https://crt.sh/?id=5908470849
+bdjv2-preprod.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=bdjv2-preprod.rie.gouv.fr, serialNumber=S235071978, see https://crt.sh/?id=6647607907
 bdjv2-prod.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=bdjv2-prod.rie.gouv.fr, serialNumber=S230162552, see https://crt.sh/?id=6338727733
+bdjv2-qualif.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=bdjv2-preprod.rie.gouv.fr, serialNumber=S235071978, see https://crt.sh/?id=6647607907
 enterpriseregistration.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
 service-public.fr.preprod.ext.dila.fr
 www.service-public.fr.preprod.ext.dila.fr
+bo.dila.p-m.fr.sc.prod.ext.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=bo.dila.premier-ministre.gouv.fr, serialNumber=S235771964, see https://crt.sh/?id=6693599638
 service-public.fr.qualif.ext.dila.fr
 www.service-public.fr.qualif.ext.dila.fr
 fs.dila.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=fs.dila.gouv.fr, serialNumber=S224792732, see https://crt.sh/?id=6010027641
@@ -5674,6 +5681,8 @@ epernay-agglo.fr
 www.epernay-agglo.fr
 epgtournan.fr
 www.epgtournan.fr
+epic-montsaintmichel.fr  # Found in cert of CN=montsaintmichel.gouv.fr, see https://crt.sh/?id=6668576260
+www.epic-montsaintmichel.fr  # Found in cert of CN=montsaintmichel.gouv.fr, see https://crt.sh/?id=6668576260
 epide.fr
 www.epide.fr
 epj.fr
@@ -6314,6 +6323,7 @@ srv7-prod-mdph.ille-et-vilaine.fr  # (redirection from cg35.fr)
 illedesartene.fr
 imaj32.fr
 www.imaj32.fr
+in-sp.fr  # Found in cert of CN=insp.gouv.fr, see https://crt.sh/?id=6785288150
 inalco.fr
 www.inalco.fr
 indre.fr
@@ -6702,6 +6712,7 @@ lesabondances.fr
 www.lesabondances.fr
 emploi.lesbelleville.fr
 lwww.lescheroux.fr
+api-boursier-operateurs.lescrous.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
 lesforges56.fr
 www.lesforges56.fr
 lesportesbriardes.fr
@@ -7467,6 +7478,7 @@ www.milos28.fr
 mimizan.fr
 www.mimizan.fr
 extranet.upcasse.syndicat.min-e2.fr
+invitewifi.dsic.minint.fr  # Found in cert of C=FR, L=PARIS, O=MINISTERE DE L INTERIEUR, OU=0002 11001401600015, CN=wisiteur1.interieur.gouv.fr, serialNumber=S235480105, see https://crt.sh/?id=6676276209
 ministre-justice.fr
 mysql.ministre-justice.fr
 webmail.ministre-justice.fr
@@ -8108,6 +8120,19 @@ noyantlagravoyere.fr
 www.noyantlagravoyere.fr
 noyelles-les-seclin.fr
 www.noyelles-les-seclin.fr
+cve-2018-controle-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-2018-paiement-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-2019-controle-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-2019-paiement-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-2020-controle-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-2021-controle-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-etablissement-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-paiement-prod.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-pxy.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cve-travaux.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-travaux.nuonet.fr, see https://crt.sh/?id=6626129453
+cvec-2018-ctrl.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cvec-2019-ctrl.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-pxy.nuonet.fr, see https://crt.sh/?id=6614663803
+cvec-info.nuonet.fr  # Found in cert of C=FR, ST=Île-de-France, O=CNOUS, CN=cve-travaux.nuonet.fr, see https://crt.sh/?id=6626129453
 oberdorf-spachbach.fr
 www.oberdorf-spachbach.fr
 office-clic-chalons.fr
@@ -9027,6 +9052,8 @@ sceauxsurhuisne.fr
 www.sceauxsurhuisne.fr
 sciencespo.fr
 www.sciencespo.fr
+secours17.fr  # Found in cert of C=FR, L=Ville, O=DIRECTION GENERALE DE LA GENDARMERIE NATIONALE, OU=0002 15700001900461, CN=secours17.fr, serialNumber=S23599002, see https://crt.sh/?id=6738017135
+www.secours17.fr  # Found in cert of C=FR, L=Ville, O=DIRECTION GENERALE DE LA GENDARMERIE NATIONALE, OU=0002 15700001900461, CN=secours17.fr, serialNumber=S23599002, see https://crt.sh/?id=6738017135
 sees.fr
 www.sees.fr
 seine-et-marne.fr
@@ -10070,6 +10097,7 @@ www.espacemailiso.net
 fr.europol.net
 europolhq.net
 gendarmerie.net
+zammad.dev.getinov.net  # Found in cert of CN=zammad1.diagoriente.beta.gouv.fr, see https://crt.sh/?id=6614894023
 guarbecque.net
 www.guarbecque.net
 haute-saintonge.net
