@@ -2,6 +2,8 @@
 
 name: Refresh some domains
 on:
+  schedule:
+    - cron: '51 4 * * *'
   workflow_dispatch:
 jobs:
   http-checker:
