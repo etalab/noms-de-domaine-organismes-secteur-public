@@ -1,9 +1,9 @@
 ---
 
-name: Refresh some domains
+name: Retry recently failed domains
 on:
   schedule:
-    - cron: '51 4 * * *'
+    - cron: '51 12,20 * * *'
   workflow_dispatch:
 jobs:
   http-checker:
@@ -20,10 +20,7 @@ jobs:
         run: python -m pip install aiohttp tqdm
 
       - name: Check some domains over HTTP
-        run: python scripts/http_checker.py -s --limit 1000
-
-      - name: Recheck removed domains
-        run: python scripts/http_checker.py -s --grep $(git diff urls.txt | grep ^-http | cut -d/ -f3 | head -n 50)
+        run: python scripts/http_checker.py -s --grep $(git log -p urls.txt | grep ^-http | cut -d/ -f3 | head -n 50)
 
       - name: Setup git
         run: |
@@ -33,5 +30,5 @@ jobs:
       - name: Commit
         run: |
           git add urls.txt domains.csv
-          git commit -m "Refreshing 1k domains."
+          git commit -m "Refreshing recently removed domains."
           git push origin master
