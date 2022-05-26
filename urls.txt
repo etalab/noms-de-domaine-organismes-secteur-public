@@ -1164,8 +1164,6 @@ https://www.doixlesfontaines.com
 https://portail-ants.domaine-alias.com
 https://ppd-ants.domaine-alias.com
 https://ppd-autoecole-ants.domaine-alias.com
-https://ppd-immatriculation-ants.domaine-alias.com
-https://ppd-mairie-ants.domaine-alias.com
 https://ppd-passeport-ants.domaine-alias.com
 https://ppd-permisdeconduire-ants.domaine-alias.com
 https://ppd-pha-ants.domaine-alias.com
@@ -4097,7 +4095,6 @@ https://www.isula.corsica
 https://clg-casinca.leia.corsica
 https://clg-du-cap.leia.corsica
 https://clg-giraud.leia.corsica
-https://clg-leon-boujot.leia.corsica
 https://clg-levie.leia.corsica
 https://clg-moltifao.leia.corsica
 https://clg-montesoro.leia.corsica
@@ -8589,7 +8586,6 @@ http://barzun.fr
 http://www.barzun.fr
 https://www.bas-rhin.fr
 https://www.bascons.fr
-http://basedeloisirs-lery-poses.fr
 https://www.basenbasset.fr
 https://baslieux.fr
 https://baslieux-les-fismes.fr
@@ -11698,7 +11694,6 @@ http://www.cierrey.fr
 https://www.cieurac.fr
 https://ciez.fr
 https://www.ciez.fr
-https://www.cig929394.fr
 https://www.cigversailles.fr
 https://cilef-autun.fr
 https://www.cines.fr
@@ -13652,7 +13647,6 @@ https://durenque.fr
 http://www.durfort-lacapelette.fr
 https://www.durmenach.fr
 https://durnes25.fr
-https://durningen.fr
 https://www.durningen.fr
 https://www.durtol.fr
 https://www.duttlenheim.fr
@@ -16732,7 +16726,6 @@ https://biodiversite.gouv.fr
 https://strategie-nationale.biodiversite.gouv.fr
 http://biodiversite-en-action.gouv.fr
 http://www.biodiversite-en-action.gouv.fr
-https://m.bison-fute.gouv.fr
 http://tipi.bison-fute.gouv.fr
 https://www.bison-fute.gouv.fr
 https://www1.bison-fute.gouv.fr
@@ -17123,7 +17116,6 @@ https://www.dems.defense.gouv.fr
 http://link.dicod.defense.gouv.fr
 https://sondages.dicod.defense.gouv.fr
 https://pprod-geres.cnmosis.dirisi.defense.gouv.fr
-https://gitlab.developpement-toulon.dirisi.defense.gouv.fr
 https://nextcloud.developpement-toulon.dirisi.defense.gouv.fr
 https://portal.phebia.dirisi.defense.gouv.fr
 https://www.drsd.defense.gouv.fr
@@ -17843,6 +17835,7 @@ http://ifore.ecologie.gouv.fr
 http://www.ifore.ecologie.gouv.fr
 http://labeau.ecologie.gouv.fr
 http://www.labeau.ecologie.gouv.fr
+https://www.publicite-responsable.ecologie.gouv.fr
 https://territoires-en-transition.ecologie.gouv.fr
 https://www.ecologie.gouv.fr
 https://aife.economie.gouv.fr
@@ -18665,7 +18658,6 @@ https://deux-sevres.questionnaire.interieur.gouv.fr
 https://dgscgc.questionnaire.interieur.gouv.fr
 https://dgscgc-brirc.questionnaire.interieur.gouv.fr
 https://dnum.questionnaire.interieur.gouv.fr
-https://drcpn.questionnaire.interieur.gouv.fr
 https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
 https://enquetes-mi.questionnaire.interieur.gouv.fr
@@ -24611,8 +24603,6 @@ https://mairie-maureilhan.fr
 http://www.mairie-mauremont.fr
 https://www.mairie-maureville.fr
 https://www.mairie-mauzac.fr
-http://mairie-maves.fr
-http://www.mairie-maves.fr
 https://www.mairie-mayet.fr
 http://www.mairie-mazaugues.fr
 https://www.mairie-mazerulles.fr
@@ -25455,7 +25445,6 @@ https://mairie-villecroze.fr
 https://www.mairie-villedavray.fr
 https://www.mairie-villefranchedelauragais.fr
 https://mairie-villegailhenc.fr
-https://www.mairie-villematier31.fr
 http://www.mairie-villemur-sur-tarn.fr
 https://mairie-villeneuvedelariviere.fr
 https://www.mairie-villeneuvesurverberie.fr
@@ -25860,7 +25849,6 @@ https://mairiechiddes.fr
 https://www.mairiechiddes.fr
 https://mairiecobrieux.fr
 https://www.mairiecolleret.fr
-https://mairieconflandey.fr
 https://www.mairiecornille.fr
 https://mairiecosnesurloire.fr
 https://mairiecotignac.fr
@@ -26729,8 +26717,8 @@ http://www.menesplet.fr
 https://menestreau-en-villette.fr
 https://www.menet.fr
 https://www.menetou-salon.fr
-http://menetreuil.fr
-http://www.menetreuil.fr
+https://menetreuil.fr
+https://www.menetreuil.fr
 https://www.menetrol.fr
 https://www.menglon.fr
 https://www.menil53.fr
@@ -29873,7 +29861,6 @@ https://pomponne.fr
 https://www.pomponne.fr
 https://pomps.fr
 https://ponchon.fr
-http://poncin.fr
 http://www.poncin.fr
 https://pondaurat.fr
 https://www.pondaurat.fr
@@ -32122,6 +32109,7 @@ http://www.saintgatiendesbois.fr
 https://saintgein.fr
 https://www.saintgein.fr
 https://www.saintgelais.fr
+https://saintgenesdeblaye.fr
 https://saintgeniesdecomolas.fr
 https://www.saintgeniesdefontedit.fr
 https://www.saintgeniesdemalgoires.fr
@@ -33677,7 +33665,7 @@ https://soumont.fr
 https://soumoulou.fr
 https://www.soumoulou.fr
 http://souppes.fr
-http://www.souppes.fr
+https://www.souppes.fr
 https://www.souprosse.fr
 http://source-seine.fr
 http://www.source-seine.fr
