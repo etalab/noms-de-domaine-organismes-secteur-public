@@ -8494,7 +8494,7 @@ https://baons-le-comte.fr
 https://bapaume.fr
 https://www.bapaume.fr
 https://www.bar-sur-seine.fr
-http://www.baraqueville.fr
+https://www.baraqueville.fr
 http://barbaste.fr
 http://www.barbaste.fr
 http://barbatre.fr
@@ -15226,8 +15226,6 @@ http://www.feugarolles.fr
 https://www.feuges.fr
 https://www.feuguerolles-bully.fr
 https://www.feuquieresenvimeu.fr
-http://feursenforez.fr
-http://www.feursenforez.fr
 https://feyder.fr
 https://www.fiac.fr
 http://fiac-brazis.fr
@@ -17106,6 +17104,7 @@ https://www.air.defense.gouv.fr
 https://archives.defense.gouv.fr
 https://barometre-lpm.defense.gouv.fr
 http://formation.bibliotheques-numeriques.defense.gouv.fr
+http://supervision.bibliotheques-numeriques.defense.gouv.fr
 https://mattermost.cdad-bourges.defense.gouv.fr
 https://www.cicde.defense.gouv.fr
 https://contractuels.civils.defense.gouv.fr
@@ -18581,7 +18580,6 @@ https://eirel8.interieur.gouv.fr
 https://eirel9.interieur.gouv.fr
 https://www.elections.interieur.gouv.fr
 https://www.qa.enquetes-administratives.interieur.gouv.fr
-https://www.enquetes-administratives.interieur.gouv.fr
 https://www.ensp.interieur.gouv.fr
 https://envol2.interieur.gouv.fr
 https://etrangers-en-france.interieur.gouv.fr
@@ -18654,7 +18652,6 @@ https://charente.questionnaire.interieur.gouv.fr
 https://cher.questionnaire.interieur.gouv.fr
 https://dci.questionnaire.interieur.gouv.fr
 https://dcpj.questionnaire.interieur.gouv.fr
-https://deux-sevres.questionnaire.interieur.gouv.fr
 https://dgscgc.questionnaire.interieur.gouv.fr
 https://dgscgc-brirc.questionnaire.interieur.gouv.fr
 https://dnum.questionnaire.interieur.gouv.fr
@@ -19094,7 +19091,6 @@ https://www.commserv.zd-est.pref.gouv.fr
 https://emiz.zd-est.pref.gouv.fr
 https://www.emiz.zd-est.pref.gouv.fr
 https://www.permanence.zd-est.pref.gouv.fr
-https://debug.phi67.zd-est.pref.gouv.fr
 https://www.phi67.zd-est.pref.gouv.fr
 https://www.permanence.zd-nord.pref.gouv.fr
 https://emiz.zd-sudest.pref.gouv.fr
@@ -28354,8 +28350,7 @@ https://www.mugron.fr
 https://www.muhlbachsurbruche.fr
 https://www.muides.fr
 http://www.muidorge.fr
-http://muirancourt.fr
-http://www.muirancourt.fr
+https://muirancourt.fr
 https://www.mulhouse.fr
 https://www.mulhouse-alsace.fr
 https://www.mulsanne.fr
@@ -29605,6 +29600,7 @@ https://www.pierrefitte-sur-sauldre.fr
 https://www.pierrefitte03.fr
 https://pierrefort.fr
 https://www.pierrefort.fr
+https://pierrelaye.fr
 https://pierrepont.fr
 https://www.pierrepont.fr
 http://pierrerue-combejean.fr
@@ -31503,7 +31499,6 @@ https://www.saint-morillon.fr
 http://saint-mury-monteymond.fr
 https://saint-nabor.fr
 https://www.saint-nabord.fr
-https://www.saint-nazaire-de-valentane.fr
 http://saint-nazaire-en-roussillon.fr
 https://www.saint-nazaire-les-eymes.fr
 https://www.saint-nic.fr
@@ -34824,7 +34819,6 @@ https://www.valdize.fr
 https://www.valdoie-formation.fr
 https://valdoise.fr
 https://cij.valdoise.fr
-https://mdph.valdoise.fr
 https://www.mdph.valdoise.fr
 https://www.valdoise.fr
 http://www.valdorger.fr
@@ -35745,7 +35739,6 @@ http://www.ville-courpiere.fr
 https://www.ville-courrieres.fr
 https://www.ville-courtry.fr
 https://www.ville-crach.fr
-https://ville-craon53.fr
 https://www.ville-craon53.fr
 https://ville-creances.fr
 http://ville-crehange.fr
@@ -35812,8 +35805,6 @@ https://www.ville-draguignan.fr
 https://www.ville-drap.fr
 https://www.ville-dreuil-les-amiens.fr
 https://www.ville-dugny.fr
-https://ville-dunkerque.fr
-https://www.ville-dunkerque.fr
 https://www.ville-durtal.fr
 https://www.ville-echillais.fr
 https://www.ville-ecquevilly.fr
