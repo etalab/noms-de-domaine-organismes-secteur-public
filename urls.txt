@@ -1049,7 +1049,7 @@ https://www.commune-de-dienville.com
 http://www.commune-de-fayet.com
 https://commune-de-mardeuil.com
 https://www.commune-de-mardeuil.com
-http://www.commune-de-menat.com
+https://www.commune-de-menat.com
 https://www.commune-de-mereville.com
 https://www.commune-de-plesse.com
 http://commune-de-soye.com
@@ -3124,7 +3124,6 @@ https://www.reunion-sud.com
 http://www.revel-belledonne.com
 https://www.revel-lauragais.com
 http://www.riantec.com
-https://riboux.com
 https://rimbach-zell.com
 https://www.rimbach-zell.com
 https://www.robion-mairie.com
@@ -7772,7 +7771,6 @@ https://www.aumont-en-halatte.fr
 http://aunac.fr
 http://www.aunac.fr
 https://www.aunay-les-bois.fr
-http://aunay-sous-auneau.fr
 https://www.aunay-sous-auneau.fr
 http://www.aunay-sous-crecy.fr
 http://www.auneuil.fr
@@ -11431,6 +11429,7 @@ https://www.chaudeyrolles.fr
 http://www.chauffailles.fr
 https://www.chauffour-les-etrechy.fr
 https://www.chauffour-sur-vell.fr
+https://www.chauffry.fr
 http://www.chaufour-notre-dame.fr
 https://chaufourlesbonnieres.fr
 http://chaulgnes.fr
@@ -13052,7 +13051,7 @@ https://www.crillonlebrave.fr
 https://criquebeuf-seine.fr
 https://www.criquetot-lesneval.fr
 http://criquiers.fr
-http://www.criquiers.fr
+https://www.criquiers.fr
 https://crisenoy.fr
 https://crissaysurmanse.fr
 https://crochte.fr
@@ -16071,8 +16070,6 @@ http://www.gillylesciteaux.fr
 https://gilocourt.fr
 https://gimbrede.fr
 https://www.gimbrede.fr
-https://gimellescascades.fr
-https://www.gimellescascades.fr
 https://www.gimouille.fr
 https://ginasservis.fr
 https://ginclasurboulzane.fr
@@ -16387,6 +16384,7 @@ https://alphatango.aviation-civile.gouv.fr
 https://alphatango-formations.aviation-civile.gouv.fr
 http://atlas.aviation-civile.gouv.fr
 https://caramel.aviation-civile.gouv.fr
+http://carol.aviation-civile.gouv.fr
 https://redevances.dcs.aviation-civile.gouv.fr
 https://aeral.dg.aviation-civile.gouv.fr
 http://documentation.aviation-civile.gouv.fr
@@ -16399,6 +16397,7 @@ https://oceane-candidat.dsac.aviation-civile.gouv.fr
 https://omega.dsac.aviation-civile.gouv.fr
 https://cadas-nc.dsna.aviation-civile.gouv.fr
 http://entract.dsna.aviation-civile.gouv.fr
+http://newspirit.dsna.aviation-civile.gouv.fr
 https://alfresco.dsna-dti.aviation-civile.gouv.fr
 https://cev.dsna-dti.aviation-civile.gouv.fr
 http://cqweb.dsna-dti.aviation-civile.gouv.fr
@@ -16423,6 +16422,7 @@ https://aprevous.sigp.aviation-civile.gouv.fr
 https://gidc.sigp.aviation-civile.gouv.fr
 https://partage.sigp.aviation-civile.gouv.fr
 https://saga.sigp.aviation-civile.gouv.fr
+http://sirius.sigp.aviation-civile.gouv.fr
 https://taxes-aeronautiques-pp.sigp.aviation-civile.gouv.fr
 http://tmasim.sigp.aviation-civile.gouv.fr
 https://webpub.sigp.aviation-civile.gouv.fr
@@ -16465,7 +16465,6 @@ https://sandbox.aidantsconnect.beta.gouv.fr
 https://aides-territoires.beta.gouv.fr
 https://actioncoeurdeville.aides-territoires.beta.gouv.fr
 https://addna.aides-territoires.beta.gouv.fr
-https://alimentation-agriculture-guyane.aides-territoires.beta.gouv.fr
 https://arcinnovation.aides-territoires.beta.gouv.fr
 https://avenir-montagnes.aides-territoires.beta.gouv.fr
 https://biodiversite-adaptation-climat.aides-territoires.beta.gouv.fr
@@ -16494,7 +16493,6 @@ https://france-relance-pdl.aides-territoires.beta.gouv.fr
 https://france-relance-reunion.aides-territoires.beta.gouv.fr
 https://france-transition-ecologique.aides-territoires.beta.gouv.fr
 https://francetierslieux.aides-territoires.beta.gouv.fr
-https://guyane.aides-territoires.beta.gouv.fr
 https://horizon-europe.aides-territoires.beta.gouv.fr
 https://leader.aides-territoires.beta.gouv.fr
 https://lesepl.aides-territoires.beta.gouv.fr
@@ -17225,7 +17223,6 @@ https://loup-ng.application.developpement-durable.gouv.fr
 http://mapserveur.application.developpement-durable.gouv.fr
 http://mobilite.application.developpement-durable.gouv.fr
 http://notes-itpe.application.developpement-durable.gouv.fr
-https://oiso.application.developpement-durable.gouv.fr
 http://orthi.application.developpement-durable.gouv.fr
 http://portailaccidents.application.developpement-durable.gouv.fr
 http://rafael.application.developpement-durable.gouv.fr
@@ -18493,6 +18490,7 @@ https://edi.inao.gouv.fr
 https://extranet.inao.gouv.fr
 https://telechargement.inao.gouv.fr
 https://www.inao.gouv.fr
+https://www.indre.gouv.fr
 https://www.indre-et-loire.gouv.fr
 http://info-ebola.gouv.fr
 http://www.info-ebola.gouv.fr
@@ -19519,7 +19517,7 @@ https://questions.societenumerique.gouv.fr
 https://rapport-inclusion.societenumerique.gouv.fr
 https://riot.societenumerique.gouv.fr
 http://sandbox.societenumerique.gouv.fr
-https://solnum.societenumerique.gouv.fr
+http://solnum.societenumerique.gouv.fr
 https://stats.societenumerique.gouv.fr
 http://stratbackup.societenumerique.gouv.fr
 http://strategie.societenumerique.gouv.fr
@@ -20310,7 +20308,6 @@ https://henrichemont.fr
 https://www.henriville.fr
 http://www.henvic.fr
 https://herault.fr
-http://sage.herault.fr
 https://www.herault-energies.fr
 https://www.herault-transport.fr
 https://www.herbeville.fr
@@ -22687,7 +22684,6 @@ https://www.loutehel.fr
 http://www.louvatange.fr
 https://louverne.fr
 https://www.louverne.fr
-https://www.louvetot.fr
 https://louvie-juzon.fr
 https://www.louvigne.fr
 https://www.louvignedebais.fr
@@ -23659,7 +23655,7 @@ https://mairie-bulgneville.fr
 https://www.mairie-bulgneville.fr
 https://www.mairie-bulles.fr
 https://www.mairie-burie.fr
-http://www.mairie-buvilly.fr
+https://www.mairie-buvilly.fr
 https://mairie-buxiereslesmines.fr
 https://mairie-buzet-sur-tarn.fr
 https://www.mairie-buzet-sur-tarn.fr
@@ -24449,7 +24445,6 @@ http://www.mairie-levillars71.fr
 https://mairie-lezardrieux.fr
 https://www.mairie-lezardrieux.fr
 https://mairie-lezay.fr
-https://www.mairie-lezay.fr
 http://www.mairie-lherm.fr
 http://www.mairie-lhoumeau.fr
 http://www.mairie-lieu-saint-amand.fr
@@ -26258,8 +26253,8 @@ https://www.manteslaville.fr
 https://www.manteyer-mairie.fr
 https://www.manthelan.fr
 https://manthes.fr
-https://mantoche.fr
-https://www.mantoche.fr
+http://mantoche.fr
+http://www.mantoche.fr
 http://www.manzacsurvern.fr
 https://manzat.fr
 http://www.manzat.fr
@@ -31889,8 +31884,6 @@ https://saintdiery.fr
 https://www.saintdiery.fr
 http://saintdizantdugua.fr
 http://www.saintdizantdugua.fr
-http://saintdizierleyrenne.fr
-http://www.saintdizierleyrenne.fr
 https://www.saintdolay.fr
 https://saintdomineuc.fr
 https://www.saintdonan.fr
@@ -37322,6 +37315,7 @@ https://www.yzengremer.fr
 https://www.yzernay.fr
 http://www.yzeron.fr
 https://www.zaessingue.fr
+https://zegerscappel.fr
 http://www.zegerscappel.fr
 http://www.zellenberg.fr
 https://www.zetting-dieding.fr
@@ -37937,6 +37931,7 @@ https://villeneuvesurcher.net
 https://www.vitry-le-francois.net
 https://www.vivadom.net
 http://vornay.net
+http://wangen-alsace.net
 https://webou.net
 https://commune-les-salles-lavauguyon-97.webself.net
 https://websiteout.net
@@ -38521,7 +38516,6 @@ https://www.larressore.org
 https://www.larroque81.org
 https://www.lecgs.org
 https://lepoetlaval.org
-https://www.lespepsra.org
 https://lesplans.org
 https://www.lespossibles.org
 https://www.lethoronet.org
