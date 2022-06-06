@@ -1583,8 +1583,7 @@ https://www.huissiersgironde.com
 https://www.ile-noirmoutier.com
 https://www.iledebatz.com
 https://www.ille-sur-tet.com
-http://illiers-combray.com
-http://www.illiers-combray.com
+https://illiers-combray.com
 https://www.info-jeunesse16.com
 https://www.infojeunesse17.com
 https://www.infojeunesvallespir.com
@@ -3046,7 +3045,7 @@ https://www.port-mort.com
 https://port-vendres.com
 https://www.port-vendres.com
 http://portbarcares.com
-http://ports-37.com
+https://ports-37.com
 https://www.ports-37.com
 https://www.pougny01.com
 https://www.pouilleylesvignes.com
@@ -3200,7 +3199,6 @@ http://www.saint-geoire-en-valdaine.com
 https://www.saint-georges-oleron.com
 https://www.saint-geours-de-maremne.com
 https://saint-germain-de-salles.com
-https://saint-germain-en-cogles.com
 https://www.saint-germain-en-cogles.com
 http://saint-germain-lespinasse.com
 http://www.saint-germain-lespinasse.com
@@ -3849,7 +3847,6 @@ http://www.ville-igoville.com
 http://www.ville-la-loupe.com
 https://ville-la-motte.com
 http://ville-labourboule.com
-http://www.ville-labourboule.com
 http://ville-lafleche.com
 https://www.ville-laverriere.com
 https://ville-lebreuil-bourgogne.com
@@ -4647,7 +4644,6 @@ https://www.lyc-gambetta.ac-aix-marseille.fr
 https://www.lyc-genevoix.ac-aix-marseille.fr
 https://www.lyc-gillesdegennes.ac-aix-marseille.fr
 https://www.lyc-heraud.ac-aix-marseille.fr
-http://lyc-honnorat.ac-aix-marseille.fr
 https://www.lyc-hotelier.ac-aix-marseille.fr
 https://www.lyc-hugo-carpentras.ac-aix-marseille.fr
 https://www.lyc-hugo-marseille.ac-aix-marseille.fr
@@ -9476,8 +9472,6 @@ http://www.brassaclesmines.fr
 http://brassempouy.fr
 http://www.brassempouy.fr
 https://brasseuse.fr
-http://brassy.fr
-http://www.brassy.fr
 https://brax47.fr
 https://www.bray-dunes.fr
 https://www.bray-sur-seine.fr
@@ -10497,7 +10491,6 @@ https://www.cceg.fr
 https://ccel.fr
 http://cceppg.fr
 http://www.cceppg.fr
-https://ccfercher.fr
 https://www.ccfg.fr
 https://www.ccfulgent-essarts.fr
 https://www.ccgr-forumemploi.fr
@@ -12049,7 +12042,6 @@ http://www.college-dumenieu.fr
 https://college-dunois.fr
 http://college-edmondnocard.fr
 https://college-edouard-herriot-luce.fr
-https://www.college-elhuyar.fr
 http://www.college-errobi.fr
 https://college-etiennedolet.fr
 http://college-fernand-gregh.fr
@@ -16273,9 +16265,9 @@ https://review-fix-demo-291fu5.deveco-dev.dev.incubateur.anct.gouv.fr
 https://monsuivisocial.dev.incubateur.anct.gouv.fr
 https://directus.monsuivisocial.dev.incubateur.anct.gouv.fr
 https://directusreview.monsuivisocial.dev.incubateur.anct.gouv.fr
-https://ew-35-complet-378xpn.monsuivisocial.dev.incubateur.anct.gouv.fr
 https://iew-release-0-nby94r.monsuivisocial.dev.incubateur.anct.gouv.fr
 https://search.dev.incubateur.anct.gouv.fr
+https://zammad.dev.incubateur.anct.gouv.fr
 https://deveco.incubateur.anct.gouv.fr
 https://directus.incubateur.anct.gouv.fr
 https://forum.incubateur.anct.gouv.fr
@@ -16384,6 +16376,9 @@ https://medrano-formations-ws.dsac.aviation-civile.gouv.fr
 http://medrano2-ws.dsac.aviation-civile.gouv.fr
 https://oceane-candidat.dsac.aviation-civile.gouv.fr
 https://omega.dsac.aviation-civile.gouv.fr
+http://aer.omega7.dsac.aviation-civile.gouv.fr
+http://pn.omega7.dsac.aviation-civile.gouv.fr
+http://webdas.dsac.aviation-civile.gouv.fr
 https://cadas-nc.dsna.aviation-civile.gouv.fr
 http://entract.dsna.aviation-civile.gouv.fr
 http://newspirit.dsna.aviation-civile.gouv.fr
@@ -16425,6 +16420,7 @@ https://consultation.stac.aviation-civile.gouv.fr
 https://noisedb.stac.aviation-civile.gouv.fr
 https://www.stac.aviation-civile.gouv.fr
 http://bopp.stitch.aviation-civile.gouv.fr
+http://dwadp.stitch.aviation-civile.gouv.fr
 http://fopp.stitch.aviation-civile.gouv.fr
 https://info.stitch.aviation-civile.gouv.fr
 http://mipp.stitch.aviation-civile.gouv.fr
@@ -18891,7 +18887,6 @@ https://scalelite-qua.mentor.gouv.fr
 http://elasticsearch-qua-1.scaleway.mentor.gouv.fr
 https://via.mentor.gouv.fr
 https://video.mentor.gouv.fr
-https://video-pre.mentor.gouv.fr
 https://video-qua.mentor.gouv.fr
 https://mer.gouv.fr
 https://contact.mer.gouv.fr
@@ -19216,7 +19211,6 @@ http://sre39146.fabrique.sante.gouv.fr
 http://sre39881.fabrique.sante.gouv.fr
 http://le-128.sre39881.fabrique.sante.gouv.fr
 http://le-139.sre39881.fabrique.sante.gouv.fr
-http://test-cluster-sre-39881-tfaas.sre39881.fabrique.sante.gouv.fr
 http://test-cluster-sre-39881-tfaas-staging.sre39881.fabrique.sante.gouv.fr
 http://finess.sante.gouv.fr
 https://www.sante-habitat.formation.sante.gouv.fr
@@ -20986,6 +20980,7 @@ http://labatut-riviere.fr
 http://www.labatut-riviere.fr
 http://www.labatut09.fr
 https://www.labatut40.fr
+https://www.labauche.fr
 https://www.labaule.fr
 http://www.labaumecornillane.fr
 https://www.labaussaine.fr
@@ -29558,6 +29553,7 @@ http://www.pietroso.fr
 http://pignan.fr
 http://www.pignan.fr
 https://www.pignans.fr
+https://pigny.fr
 http://www.pigny.fr
 https://pihen-les-guines.fr
 https://www.pilatrhodanien.fr
@@ -31504,6 +31500,7 @@ http://www.saint-pierre-de-cherennes.fr
 http://www.saint-pierre-de-cole.fr
 http://www.saint-pierre-de-curtille.fr
 https://www.saint-pierre-de-maille.fr
+https://saint-pierre-de-mezoargues.fr
 http://www.saint-pierre-de-mezoargues.fr
 https://www.saint-pierre-de-mons.fr
 http://saint-pierre-de-varennes.fr
@@ -32485,7 +32482,7 @@ https://www.saintsebastien.fr
 http://www.saintsebastiendemorsent.fr
 https://www.saintselve.fr
 http://www.saintsenier.fr
-https://www.saintsenoux.fr
+http://www.saintsenoux.fr
 https://saintserninleslavaur.fr
 https://www.saintserninleslavaur.fr
 https://saintservant56.fr
@@ -33557,7 +33554,7 @@ https://www.sornay71.fr
 http://www.sorquainville.fr
 https://www.sort-en-chalosse.fr
 http://sos-gueyze-meylan.fr
-http://www.sos-gueyze-meylan.fr
+https://www.sos-gueyze-meylan.fr
 https://www.sospel.fr
 http://www.sotta.fr
 https://www.sotteville-les-rouen.fr
@@ -36186,7 +36183,7 @@ https://www.ville-nd-bondeville.fr
 https://www.ville-negrepelisse.fr
 http://ville-nerac.fr
 http://www.ville-nerac.fr
-https://ville-nesle.fr
+https://www.ville-nesle.fr
 https://www.ville-neufchatel-hardelot.fr
 https://www.ville-neuvilleauxbois.fr
 http://www.ville-nievroz.fr
@@ -36362,8 +36359,6 @@ http://www.ville-saint-ay.fr
 http://www.ville-saint-barthelemy-anjou.fr
 https://www.ville-saint-benoit.fr
 http://www.ville-saint-benoit-des-ondes.fr
-https://ville-saint-cannat.fr
-https://www.ville-saint-cannat.fr
 https://ville-saint-denis.fr
 https://ville-saint-florent-le-jeune.fr
 https://ville-saint-florent-sur-cher.fr
