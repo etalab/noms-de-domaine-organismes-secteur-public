@@ -2241,7 +2241,7 @@ https://www.mairie-equemauville.com
 https://www.mairie-etel.com
 http://www.mairie-eurre.com
 https://mairie-eyrein.com
-https://www.mairie-eyrein.com
+http://www.mairie-eyrein.com
 https://www.mairie-farino.com
 https://www.mairie-farschviller.com
 https://www.mairie-fleys-89.com
@@ -4085,7 +4085,6 @@ https://www.fdc2a.corsica
 https://focicchia.corsica
 https://www.isula.corsica
 https://clg-casinca.leia.corsica
-https://clg-du-cap.leia.corsica
 https://clg-giraud.leia.corsica
 https://clg-levie.leia.corsica
 https://clg-moltifao.leia.corsica
@@ -9510,7 +9509,6 @@ https://www.bretagnedemarsan.fr
 https://www.bretagneportedeloire.fr
 https://bretagneromantique.fr
 http://breteil.fr
-http://www.breteil.fr
 http://www.breteniere.fr
 https://www.bretenoux.fr
 https://bretigney.fr
@@ -11402,6 +11400,7 @@ https://www.chaudeyrolles.fr
 http://www.chauffailles.fr
 https://www.chauffour-les-etrechy.fr
 https://www.chauffour-sur-vell.fr
+https://chauffry.fr
 https://www.chauffry.fr
 http://www.chaufour-notre-dame.fr
 https://chaufourlesbonnieres.fr
@@ -15777,7 +15776,6 @@ https://fresneleplan.fr
 https://www.fresnes-sur-escaut.fr
 https://www.fresnes-sur-marne.fr
 https://fresnes41.fr
-https://www.fresnes41.fr
 https://www.fresnes94.fr
 http://www.fresneslesmontauban.fr
 https://fresney-le-puceux.fr
@@ -16347,6 +16345,7 @@ https://alphatango-formations.aviation-civile.gouv.fr
 http://atlas.aviation-civile.gouv.fr
 https://caramel.aviation-civile.gouv.fr
 http://carol.aviation-civile.gouv.fr
+http://siam.crna-o.aviation-civile.gouv.fr
 https://redevances.dcs.aviation-civile.gouv.fr
 https://aeral.dg.aviation-civile.gouv.fr
 http://documentation.aviation-civile.gouv.fr
@@ -16385,6 +16384,7 @@ http://olivia.aviation-civile.gouv.fr
 http://www.olivia.aviation-civile.gouv.fr
 https://otess.aviation-civile.gouv.fr
 http://phototheque.aviation-civile.gouv.fr
+http://portos.aviation-civile.gouv.fr
 http://prepavol-ope.sia.aviation-civile.gouv.fr
 https://www.sia.aviation-civile.gouv.fr
 http://angelique.sigp.aviation-civile.gouv.fr
@@ -16980,7 +16980,6 @@ https://widgets.dashboard.covid19.data.gouv.fr
 https://data.widgets.dashboard.covid19.data.gouv.fr
 https://demo.data.gouv.fr
 https://dev.data.gouv.fr
-https://dev-02.data.gouv.fr
 https://doc.data.gouv.fr
 http://production.entreprise.data.gouv.fr
 https://files.data.gouv.fr
@@ -18605,7 +18604,6 @@ https://www.prefecturedepolice.interieur.gouv.fr
 https://preprod-pof.interieur.gouv.fr
 https://programme-candidats.interieur.gouv.fr
 https://qualif-psij.interieur.gouv.fr
-https://alpes-maritimes.questionnaire.interieur.gouv.fr
 https://ansc.questionnaire.interieur.gouv.fr
 https://bas-rhin.questionnaire.interieur.gouv.fr
 https://cher.questionnaire.interieur.gouv.fr
@@ -19168,7 +19166,6 @@ http://rancher.ci39459.fabrique.sante.gouv.fr
 http://rancher.ci39857.fabrique.sante.gouv.fr
 http://ci40320.fabrique.sante.gouv.fr
 http://ci41204.fabrique.sante.gouv.fr
-http://rancher.ci41204.fabrique.sante.gouv.fr
 http://ci41441.fabrique.sante.gouv.fr
 http://rancher.ci41441.fabrique.sante.gouv.fr
 http://rancher.ci41586.fabrique.sante.gouv.fr
@@ -22563,7 +22560,6 @@ https://www.loos.fr
 https://www.loos-en-gohelle.fr
 https://looze.fr
 https://www.looze.fr
-https://www.loperec.fr
 http://www.loqueffret.fr
 https://www.loray.fr
 https://lorbrie.fr
@@ -23183,7 +23179,7 @@ https://www.lycees-albert-londres.fr
 https://www.lycees-dinan.fr
 http://www.lycees-publics-chauny.fr
 https://www.lyceesaintgermain.fr
-http://www.lyceesaintlouis.fr
+https://www.lyceesaintlouis.fr
 https://www.lyceeschamplain.fr
 https://lyceeschweitzer.fr
 https://www.lyceeschwendi.fr
@@ -25280,7 +25276,7 @@ https://www.mairie-ucel.fr
 https://www.mairie-ungersheim.fr
 https://www.mairie-urmatt.fr
 http://mairie-vacheres.fr
-http://www.mairie-vacheres.fr
+https://www.mairie-vacheres.fr
 https://mairie-val-de-meuse.fr
 https://www.mairie-val-de-meuse.fr
 https://mairie-valaurie.fr
@@ -25971,7 +25967,7 @@ https://mairiehardinvast.fr
 https://www.mairiehardinvast.fr
 http://www.mairiehenonville.fr
 https://www.mairieherepian.fr
-http://www.mairieheutregiville.fr
+https://www.mairieheutregiville.fr
 https://mairiehomps.fr
 https://mairiehussignygodbrange.fr
 https://www.mairiehussignygodbrange.fr
@@ -37051,6 +37047,7 @@ http://www.voujeaucourt.fr
 https://voulangis.fr
 https://www.voulmentin.fr
 http://www.voulon.fr
+https://voulx.fr
 http://www.voulx.fr
 http://www.vouneuil-sous-biard.fr
 https://www.vouneuil-sur-vienne.fr
@@ -38796,7 +38793,6 @@ https://www.la-haye.site
 http://conflanssuranille.fr.st
 http://www.conflanssuranille.fr.st
 http://www.copamo.fr.st
-http://init.app.etalab.studio
 https://suivi-ouverture.app.etalab.studio
 http://init.etalab.studio
 https://app.staging.passculture.team
