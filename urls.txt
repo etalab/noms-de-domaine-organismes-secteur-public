@@ -2237,7 +2237,7 @@ https://www.mairie-epreville.com
 https://www.mairie-equemauville.com
 https://www.mairie-etel.com
 http://www.mairie-eurre.com
-https://mairie-eyrein.com
+http://mairie-eyrein.com
 http://www.mairie-eyrein.com
 https://www.mairie-farino.com
 https://www.mairie-farschviller.com
@@ -4353,6 +4353,7 @@ https://www.aasimh.fr
 http://www.abancourt.fr
 https://www.abbaretz.fr
 https://abbecourt.fr
+https://abbeville.fr
 http://www.abbeville.fr
 http://www.abbeville-saint-lucien.fr
 https://www.abbevillelariviere.fr
@@ -6892,8 +6893,7 @@ https://www.alvimare.fr
 https://alzheimer-aidants.fr
 https://www.alzing.fr
 https://www.alzon.fr
-http://alzonne.fr
-http://www.alzonne.fr
+https://www.alzonne.fr
 https://amagne.fr
 https://www.amagne.fr
 https://amagney.fr
@@ -11865,7 +11865,6 @@ https://cm-ajaccio.fr
 https://www.cm-ajaccio.fr
 https://cm-alsace.fr
 https://www.cm-alsace.fr
-https://www.cm-ardennes.fr
 http://cm-aude.fr
 https://www.cm-essonne.fr
 https://www.cm-gap.fr
@@ -12539,7 +12538,7 @@ https://www.communedetanneron.fr
 https://communedetart.fr
 https://www.communedetart.fr
 https://www.communedetavant.fr
-http://www.communedetherouanne.fr
+https://www.communedetherouanne.fr
 https://www.communedetoeufles.fr
 http://www.communedetrades.fr
 https://www.communedevalframbert.fr
@@ -14820,7 +14819,6 @@ https://www.erea86.fr
 https://ereac.fr
 https://www.ereac.fr
 https://ereadolto.fr
-http://www.erealeopoldbellanchamigny.fr
 https://erealouisaragon.fr
 http://www.ereaollainville.fr
 https://www.ergersheim.fr
@@ -14937,6 +14935,7 @@ https://esterelcotedazur-agglo.fr
 http://www.estevelles.fr
 http://estezargues.fr
 https://www.estibeaux.fr
+https://estigarde.fr
 http://estivareilles03.fr
 http://www.estivareilles03.fr
 https://estivareilles42.fr
@@ -17476,7 +17475,7 @@ http://catalogue.geo-ide.developpement-durable.gouv.fr
 https://ogc.geo-ide.developpement-durable.gouv.fr
 http://geoidd.developpement-durable.gouv.fr
 http://www.geoinformations.developpement-durable.gouv.fr
-http://www.geolittoral.developpement-durable.gouv.fr
+https://www.geolittoral.developpement-durable.gouv.fr
 https://geopred.developpement-durable.gouv.fr
 http://geostandards.developpement-durable.gouv.fr
 https://geothermie.developpement-durable.gouv.fr
@@ -17518,6 +17517,7 @@ http://ha14.developpement-durable.gouv.fr
 http://ha16.developpement-durable.gouv.fr
 http://ha17.developpement-durable.gouv.fr
 http://ha21.developpement-durable.gouv.fr
+http://ha22.developpement-durable.gouv.fr
 http://ha24.developpement-durable.gouv.fr
 http://ha26.developpement-durable.gouv.fr
 http://ha27.developpement-durable.gouv.fr
@@ -18512,7 +18512,6 @@ https://administration-etrangers-en-france.interieur.gouv.fr
 https://www.formation.agorra.interieur.gouv.fr
 https://www.agorra.interieur.gouv.fr
 https://www.agorra-secours.interieur.gouv.fr
-https://sir.alicem.interieur.gouv.fr
 https://www.alicem.interieur.gouv.fr
 https://ansc.interieur.gouv.fr
 https://ocmi.ansc.interieur.gouv.fr
@@ -18638,7 +18637,6 @@ https://cher.questionnaire.interieur.gouv.fr
 https://dci.questionnaire.interieur.gouv.fr
 https://dcpj.questionnaire.interieur.gouv.fr
 https://dgscgc.questionnaire.interieur.gouv.fr
-https://dnum.questionnaire.interieur.gouv.fr
 https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
 https://enquetes-mi.questionnaire.interieur.gouv.fr
@@ -18652,7 +18650,6 @@ https://indre-et-loire.questionnaire.interieur.gouv.fr
 https://inps.questionnaire.interieur.gouv.fr
 https://jura.questionnaire.interieur.gouv.fr
 http://loire-atlantique.questionnaire.interieur.gouv.fr
-https://maine-et-loire.questionnaire.interieur.gouv.fr
 https://meuse.questionnaire.interieur.gouv.fr
 https://nord.questionnaire.interieur.gouv.fr
 https://paca.questionnaire.interieur.gouv.fr
@@ -18749,6 +18746,7 @@ https://iranet.ira-nantes.gouv.fr
 https://teletravail.ira-nantes.gouv.fr
 https://videos.ira-nantes.gouv.fr
 https://www.ira-nantes.gouv.fr
+https://www.isere.gouv.fr
 https://ivg.gouv.fr
 http://www.japprendslamer.gouv.fr
 http://www.jardiner-autrement.gouv.fr
@@ -19189,7 +19187,6 @@ https://eps.sante.gouv.fr
 https://www.es-difficulte-sociale-collecte.sante.gouv.fr
 https://esat.sante.gouv.fr
 http://boni.fabrique.sante.gouv.fr
-http://argocd.boni.fabrique.sante.gouv.fr
 http://ci39232.fabrique.sante.gouv.fr
 http://rancher.ci39857.fabrique.sante.gouv.fr
 http://ci40320.fabrique.sante.gouv.fr
@@ -19207,7 +19204,6 @@ http://rancher.ci44148.fabrique.sante.gouv.fr
 http://rancher.ci44377.fabrique.sante.gouv.fr
 http://ci45625.fabrique.sante.gouv.fr
 http://rancher.ci46030.fabrique.sante.gouv.fr
-http://plop.fabrique.sante.gouv.fr
 http://sre39146.fabrique.sante.gouv.fr
 http://sre39881.fabrique.sante.gouv.fr
 http://le-139.sre39881.fabrique.sante.gouv.fr
@@ -24340,7 +24336,6 @@ http://mairie-larodde.fr
 https://www.mairie-laroque-timbaut.fr
 https://www.mairie-laruscade.fr
 https://www.mairie-laseguiniere.fr
-https://www.mairie-lasserrepradere.fr
 https://mairie-laterrasse.fr
 https://mairie-latoue.fr
 https://www.mairie-latresne.fr
@@ -25910,7 +25905,7 @@ https://mairiedemanom.fr
 https://www.mairiedemanom.fr
 https://www.mairiedemarval.fr
 http://mairiedemaysel.fr
-http://www.mairiedemison.fr
+https://www.mairiedemison.fr
 https://mairiedemoliets.fr
 https://www.mairiedemoliets.fr
 https://www.mairiedemoncy61.fr
@@ -26080,7 +26075,6 @@ https://mairiereventinvaugris.fr
 https://mairierocamadour.fr
 https://www.mairieroissard.fr
 https://mairieruillefroidfonds53.fr
-https://www.mairieruillefroidfonds53.fr
 https://mairiesaintantoine.fr
 https://www.mairiesaintantoine.fr
 https://www.mairiesaintantoninsurbayon.fr
@@ -28402,7 +28396,7 @@ https://www.neauphlette.fr
 http://www.nebouzat63.fr
 https://www.nedde.fr
 http://neewiller.fr
-http://www.neewiller.fr
+https://www.neewiller.fr
 https://neffies.fr
 https://negrondes.fr
 https://www.negrondes.fr
@@ -30667,7 +30661,7 @@ https://www.rouhling.fr
 https://www.rouille.fr
 https://www.rouillon.fr
 http://rouilly-saint-loup.fr
-http://www.rouilly-saint-loup.fr
+https://www.rouilly-saint-loup.fr
 http://roulans.fr
 http://www.roulans.fr
 https://dgccrf.roulez-eco.fr
@@ -33194,7 +33188,7 @@ https://www.sens-de-bretagne.fr
 http://sentheim.fr
 http://www.sentheim.fr
 https://www.sepmeries.fr
-https://seppoislebas.fr
+http://seppoislebas.fr
 https://www.sept-saulx.fr
 http://sept-sorts.fr
 https://www.sept-sorts.fr
@@ -36229,7 +36223,6 @@ https://www.ville-petit-couronne.fr
 https://www.ville-petitbourg.fr
 https://www.ville-pezenas.fr
 https://www.ville-pierrelatte.fr
-https://www.ville-pierrelaye.fr
 http://ville-pirou.fr
 http://www.ville-pirou.fr
 https://www.ville-pissy.fr
@@ -36667,6 +36660,7 @@ https://www.villedegien.fr
 http://villedegourbeyre.fr
 http://www.villedegourbeyre.fr
 https://villedejonzac.fr
+https://villedekoungou.fr
 https://www.villedekoungou.fr
 http://villedelacrau.fr
 http://www.villedelacrau.fr
@@ -37438,6 +37432,7 @@ https://saint-sorlin-en-bugey.info
 https://www.sainte-eulalie.info
 https://saintlouislesbitche.info
 https://www.savieres.info
+http://stiring-wendel.info
 http://www.stiring-wendel.info
 https://strazeele.info
 http://thuret.info
