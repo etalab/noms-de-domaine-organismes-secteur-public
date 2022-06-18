@@ -794,7 +794,6 @@ http://ccvalessonne.com
 https://www.ccvalleedugaron.com
 https://cda-asso.com
 https://www.cda-asso.com
-http://cdc-andelle.com
 http://www.cdc-andelle.com
 http://www.cdc-desportesduperche.com
 https://www.cdc-fronsadais.com
@@ -2201,7 +2200,6 @@ http://mairie-champdieu.com
 http://www.mairie-champdieu.com
 https://www.mairie-chatel.com
 https://mairie-chelun.com
-https://www.mairie-chelun.com
 https://www.mairie-cheniers-creuse.com
 https://mairie-cheverny.com
 https://mairie-chirac.com
@@ -2532,7 +2530,6 @@ https://www.martignat.com
 https://www.martigne.com
 https://www.mascabardes.com
 https://matoque92.com
-https://www.matoque92.com
 https://www.maubert-fontaine.com
 https://www.mauguio-carnon.com
 http://www.maupertus-sur-mer.com
@@ -7075,7 +7072,6 @@ http://www.apchat.fr
 https://www.apchon.fr
 https://www.apec.fr
 https://www.apgl64.fr
-https://aphp.fr
 https://achats-ageps.aphp.fr
 https://addictovigilance.aphp.fr
 http://administration-goodmeeting.aphp.fr
@@ -7177,6 +7173,7 @@ https://maternite-necker.aphp.fr
 https://mda.aphp.fr
 https://medecinechinoise.aphp.fr
 https://migraine-robertdebre.aphp.fr
+https://mon.aphp.fr
 http://www.vasculaire.mondor.aphp.fr
 http://neurofibromatoses.aphp.fr
 https://nutritiongastro-trousseau.aphp.fr
@@ -7188,8 +7185,6 @@ https://paiement-en-ligne.aphp.fr
 https://patho-pro-garches.aphp.fr
 https://pharmacie-hospitaliere-ageps.aphp.fr
 https://pitiesalpetriere.aphp.fr
-https://plateforme-covid-idf.aphp.fr
-https://plateforme-covid-idf-part.aphp.fr
 https://plateformeprojets.aphp.fr
 https://poleducoeur-hupo.aphp.fr
 https://portailvillehopital-ghparis10.aphp.fr
@@ -9436,7 +9431,6 @@ https://www.bragny-sur-saone.fr
 https://braillans.fr
 https://www.braillans.fr
 https://brain-sur-allonnes.fr
-https://www.brain-sur-allonnes.fr
 https://brainans.fr
 https://www.brainans.fr
 https://braine.fr
@@ -9470,7 +9464,7 @@ https://brayetlu.fr
 https://brazeyenplaine.fr
 https://www.brazeyenplaine.fr
 http://brealsousmontfort.fr
-http://www.brealsousmontfort.fr
+https://www.brealsousmontfort.fr
 https://www.brealsousvitre.fr
 https://breancon.fr
 https://www.breau-mars.fr
@@ -12506,8 +12500,6 @@ https://communedejessains.fr
 https://www.communedejuilley.fr
 https://communedelacanche.fr
 https://www.communedelacanche.fr
-http://communedeleoville.fr
-http://www.communedeleoville.fr
 https://www.communedelerrain.fr
 https://www.communedelery.fr
 http://communedemagnet.fr
@@ -17058,6 +17050,7 @@ https://autorite-environnementale.datara.gouv.fr
 https://carto-test.datara.gouv.fr
 https://cas-test.datara.gouv.fr
 https://catalogue-test.datara.gouv.fr
+https://datacarto-test.datara.gouv.fr
 https://print-test.datara.gouv.fr
 https://table-test.datara.gouv.fr
 https://telecarto.datara.gouv.fr
@@ -18635,7 +18628,6 @@ https://ansc.questionnaire.interieur.gouv.fr
 https://bas-rhin.questionnaire.interieur.gouv.fr
 https://cher.questionnaire.interieur.gouv.fr
 https://dci.questionnaire.interieur.gouv.fr
-https://dcpj.questionnaire.interieur.gouv.fr
 https://dgscgc.questionnaire.interieur.gouv.fr
 https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
@@ -18643,10 +18635,8 @@ https://enquetes-mi.questionnaire.interieur.gouv.fr
 https://essonne.questionnaire.interieur.gouv.fr
 https://gard.questionnaire.interieur.gouv.fr
 https://gendarmerie.questionnaire.interieur.gouv.fr
-https://haute-savoie.questionnaire.interieur.gouv.fr
 https://herault.questionnaire.interieur.gouv.fr
 https://indre.questionnaire.interieur.gouv.fr
-https://indre-et-loire.questionnaire.interieur.gouv.fr
 https://inps.questionnaire.interieur.gouv.fr
 https://jura.questionnaire.interieur.gouv.fr
 http://loire-atlantique.questionnaire.interieur.gouv.fr
@@ -19194,10 +19184,8 @@ http://ci41204.fabrique.sante.gouv.fr
 http://ci41441.fabrique.sante.gouv.fr
 http://rancher.ci41586.fabrique.sante.gouv.fr
 http://ci41592.fabrique.sante.gouv.fr
-http://rancher.ci41592.fabrique.sante.gouv.fr
 http://rancher.ci41598.fabrique.sante.gouv.fr
 http://rancher.ci41622.fabrique.sante.gouv.fr
-http://rancher.ci43381.fabrique.sante.gouv.fr
 http://ci44090.fabrique.sante.gouv.fr
 http://rancher.ci44090.fabrique.sante.gouv.fr
 http://rancher.ci44148.fabrique.sante.gouv.fr
@@ -19703,6 +19691,7 @@ https://saisine.trouvermonmaster.gouv.fr
 https://www.trouvermonmaster.gouv.fr
 http://www.urbanisme-puca.gouv.fr
 https://www.vae.gouv.fr
+https://www.val-de-marne.gouv.fr
 https://www.val-doise.gouv.fr
 https://www.rdv.var.gouv.fr
 http://www.var.gouv.fr
@@ -21327,6 +21316,7 @@ http://lajarrieaudouin.fr
 http://www.lajarrieaudouin.fr
 https://lajaudonniere.fr
 https://www.lalande-en-son.fr
+https://lalandedefronsac.fr
 http://lalandedepomerol.fr
 https://www.lalandedepomerol.fr
 https://lalandepatry.fr
@@ -22150,6 +22140,7 @@ https://lesardillats.fr
 https://www.lesarques.fr
 https://www.lesattaques.fr
 https://www.lesauthieuxsurcalonne.fr
+http://lesauthieuxsurleportsaintouen.fr
 http://www.lesauthieuxsurleportsaintouen.fr
 https://www.lesauxons.fr
 https://www.lesauzedulac.fr
@@ -23595,7 +23586,6 @@ https://www.mairie-brannay.fr
 https://mairie-branne.fr
 https://www.mairie-branne.fr
 https://mairie-bras.fr
-http://www.mairie-bras.fr
 http://www.mairie-brasdasse-labegude.fr
 https://mairie-braud.fr
 https://www.mairie-braud.fr
@@ -23695,8 +23685,7 @@ https://mairie-cazaubon.fr
 https://www.mairie-cazaubon.fr
 https://www.mairie-cazeres.fr
 https://mairie-cazevieille.fr
-http://mairie-ceauce.fr
-http://www.mairie-ceauce.fr
+https://mairie-ceauce.fr
 https://mairie-celles.fr
 https://www.mairie-cerelles.fr
 http://www.mairie-ceret.fr
@@ -25234,8 +25223,6 @@ https://mairie-taluyers.fr
 https://www.mairie-tantonville.fr
 https://mairie-taradeau.fr
 https://www.mairie-targon.fr
-http://mairie-tasso.fr
-http://www.mairie-tasso.fr
 http://www.mairie-tavernes.fr
 https://www.mairie-telgruc.fr
 http://www.mairie-tercislesbains.fr
@@ -29291,6 +29278,7 @@ https://www.paysdegexagglo.fr
 https://www.paysdelaloire.fr
 https://www.paysdelarbresle.fr
 https://www.paysdelaserre.fr
+https://www.paysdelor.fr
 https://www.paysdelourcq.fr
 https://www.paysdelunel.fr
 https://www.paysdeluxeuil.fr
@@ -31319,7 +31307,6 @@ https://www.saint-maime.fr
 https://www.saint-maixent-lecole.fr
 https://www.saint-mamet31.fr
 https://saint-marc-a-frongier.fr
-http://saint-marc-jaumegarde.fr
 https://www.saint-marc-jaumegarde.fr
 https://www.saint-marc-la-lande.fr
 https://saint-marcel-36.fr
@@ -35531,7 +35518,6 @@ http://ville-bruyereslechatel.fr
 http://www.ville-bruyereslechatel.fr
 https://www.ville-bruz.fr
 http://www.ville-bucheres.fr
-https://ville-bueil.fr
 https://ville-buhl.fr
 https://www.ville-buhl.fr
 https://www.ville-cabestany.fr
