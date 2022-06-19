@@ -1998,6 +1998,7 @@ http://www.liergues.com
 https://www.lieuran-cabrieres.com
 https://lignyenbarrois.com
 https://www.lignyenbarrois.com
+https://www.limeuil-en-perigord.com
 https://www.linternaute.com
 https://lionsurmer.com
 https://www.lisleendodon.com
@@ -3103,7 +3104,6 @@ https://www.renwez.com
 http://residenceleslierres.com
 https://ressonslelong.com
 https://www.ressonslelong.com
-https://restinclieres.com
 http://rethondes.com
 http://www.rethondes.com
 https://reunion-sud.com
@@ -4127,6 +4127,7 @@ http://www.conde-sainte-libiaire.csime.eu
 http://lumigny-nesles-ormeaux.csime.eu
 http://www.lumigny-nesles-ormeaux.csime.eu
 https://www.ee-strasbourg.eu
+http://authentication.enim.eu
 https://www.enim.eu
 https://etreville.eu
 https://www.europol.europa.eu
@@ -14916,7 +14917,6 @@ https://www.essonne.fr
 https://essouvert.fr
 https://essoyes.fr
 https://www.essoyes.fr
-http://www.estadens.fr
 http://www.estagel.fr
 https://www.estaing12.fr
 http://www.estandeuil.fr
@@ -15421,7 +15421,7 @@ https://www.foussemagne.fr
 https://www.foussignac.fr
 https://www.fouzilhon.fr
 https://foyer-rural-saint-leonard.fr
-http://www.foyerderoumens.fr
+https://www.foyerderoumens.fr
 https://fozieres.fr
 https://fragneslaloyere.fr
 https://www.fragneslaloyere.fr
@@ -16450,7 +16450,6 @@ https://france-relance-corse.aides-territoires.beta.gouv.fr
 https://france-relance-guadeloupe.aides-territoires.beta.gouv.fr
 https://france-relance-hdf.aides-territoires.beta.gouv.fr
 https://france-relance-idf.aides-territoires.beta.gouv.fr
-https://france-relance-martinique.aides-territoires.beta.gouv.fr
 https://france-relance-mayotte.aides-territoires.beta.gouv.fr
 https://france-relance-normandie.aides-territoires.beta.gouv.fr
 https://france-relance-nouvelle-aquitaine.aides-territoires.beta.gouv.fr
@@ -17258,7 +17257,7 @@ http://enqueteur.bretagne.developpement-durable.gouv.fr
 https://www.bretagne.developpement-durable.gouv.fr
 http://www.btp.developpement-durable.gouv.fr
 https://www.bulletin-officiel.developpement-durable.gouv.fr
-https://vpn.cabinet.developpement-durable.gouv.fr
+http://vpn.cabinet.developpement-durable.gouv.fr
 https://capapro-transport.developpement-durable.gouv.fr
 http://www.cdat.developpement-durable.gouv.fr
 http://cddep.developpement-durable.gouv.fr
@@ -21404,6 +21403,7 @@ https://www.lampertsloch.fr
 https://www.lamulatiere.fr
 https://lanarce.fr
 https://lanas.fr
+https://lancie.fr
 http://www.lancie.fr
 https://www.lancon-provence.fr
 http://www.lancredelune.fr
@@ -25944,7 +25944,6 @@ https://mairiedetavel.fr
 https://www.mairiedetavel.fr
 https://www.mairiedeteloche.fr
 https://www.mairiedeterredehaut.fr
-https://mairiedethieux.fr
 https://www.mairiedetouques.fr
 https://mairiedetrier.fr
 https://mairiedevaiges.fr
@@ -28630,7 +28629,6 @@ https://www.ci-angers.notaires.fr
 https://ci-toulouse.notaires.fr
 https://cir-colmar-metz.notaires.fr
 https://cr-aixenprovence.notaires.fr
-https://www.cr-aixenprovence.notaires.fr
 http://cr-corse.notaires.fr
 http://www.cr-corse.notaires.fr
 https://cr-pau.notaires.fr
@@ -29757,7 +29755,6 @@ http://www.pollionnay.fr
 http://www.polminhac.fr
 https://pomarez.fr
 https://www.pomarez.fr
-https://pombliere-saint-marcel.fr
 https://www.pombliere-saint-marcel.fr
 https://www.pomerols.fr
 https://www.pomeys.fr
@@ -32661,7 +32658,6 @@ https://sap.atih.sante.fr
 https://concours.cng.sante.fr
 https://extranet.cng.sante.fr
 https://integ.extranet.cng.sante.fr
-https://valid.extranet.cng.sante.fr
 https://www.cng.sante.fr
 https://cns.sante.fr
 https://api.efs.sante.fr
@@ -36024,6 +36020,7 @@ https://ville-loudun.fr
 https://www.ville-loudun.fr
 https://www.ville-loury.fr
 https://www.ville-louviers.fr
+https://ville-louvigny.fr
 https://www.ville-louvigny.fr
 https://www.ville-louvres.fr
 https://ville-lubersac.fr
@@ -37678,7 +37675,6 @@ https://www.lespannevelles.net
 http://www.liesle.net
 http://www.limersheim.net
 http://limeyrat.net
-http://www.limeyrat.net
 http://longessaigne.net
 http://www.longessaigne.net
 https://lp-blaisepascal.net
