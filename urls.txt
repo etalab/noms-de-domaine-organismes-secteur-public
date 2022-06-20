@@ -626,8 +626,6 @@ http://www.brousselechateau.com
 https://www.brussieu.com
 https://www.bruyeres-sur-oise.com
 https://www.bueilentouraine.com
-http://buoux-village.com
-http://www.buoux-village.com
 https://burdignes.com
 https://www.burdignes.com
 http://burgalays.com
@@ -2256,8 +2254,6 @@ https://mairie-islejourdain.com
 https://www.mairie-islejourdain.com
 http://mairie-jarret.com
 http://www.mairie-jarret.com
-http://mairie-koungou.com
-http://www.mairie-koungou.com
 https://www.mairie-la-chapelle-vaupelteigne-89.com
 https://mairie-la-limouziniere.com
 https://www.mairie-la-limouziniere.com
@@ -3477,7 +3473,6 @@ https://seyssel74.com
 https://www.sgdb91.com
 http://www.shb30.com
 http://sibiril.com
-http://www.sibiril.com
 https://www.sidec-jura.com
 https://sifurep.com
 http://sigarn.com
@@ -10426,8 +10421,6 @@ http://www.ccal-longwy.fr
 https://ccalm.fr
 http://www.ccalm.fr
 https://www.ccals.fr
-http://ccapv.fr
-http://www.ccapv.fr
 https://ccara.fr
 https://www.ccarm.fr
 https://www.ccas-agde.fr
@@ -12732,7 +12725,6 @@ http://www.corpeau.fr
 https://corquilleroy.fr
 https://correncon-en-vercors.fr
 https://www.correncon-en-vercors.fr
-http://www.correns.fr
 https://www.correze.fr
 https://www.corronsac.fr
 https://www.corsavy.fr
@@ -16688,7 +16680,6 @@ https://wikicarbone.beta.gouv.fr
 https://www.beta.gouv.fr
 https://zerologementvacant.beta.gouv.fr
 https://biodiversite.gouv.fr
-https://strategie-nationale.biodiversite.gouv.fr
 http://biodiversite-en-action.gouv.fr
 http://www.biodiversite-en-action.gouv.fr
 http://tipi.bison-fute.gouv.fr
@@ -16909,6 +16900,7 @@ http://nuitdesmusees2017.culture.gouv.fr
 http://nuitdesmusees2018.culture.gouv.fr
 https://bo.phototheque.culture.gouv.fr
 https://pleiade.culture.gouv.fr
+http://www.poitou-charentes.culture.gouv.fr
 https://api.pop.culture.gouv.fr
 https://production.pop.culture.gouv.fr
 https://www.production.pop.culture.gouv.fr
@@ -17798,7 +17790,7 @@ https://martinique.drjscs.gouv.fr
 https://mayotte.drjscs.gouv.fr
 https://occitanie.drjscs.gouv.fr
 https://info.drogues.gouv.fr
-https://f.info.drogues.gouv.fr
+http://f.info.drogues.gouv.fr
 https://s.info.drogues.gouv.fr
 https://www.drogues.gouv.fr
 https://www.rdv.drome.gouv.fr
@@ -18171,6 +18163,7 @@ https://ecoscore-appli.esante.gouv.fr
 http://emt.esante.gouv.fr
 https://diagcps.eservices.esante.gouv.fr
 https://pfc.eservices.esante.gouv.fr
+http://testssl.eservices.esante.gouv.fr
 https://tops.eservices.esante.gouv.fr
 http://topsprosanteconnect.eservices.esante.gouv.fr
 https://api.esw.esante.gouv.fr
@@ -18504,7 +18497,6 @@ https://administration-etrangers-en-france.interieur.gouv.fr
 https://www.formation.agorra.interieur.gouv.fr
 https://www.agorra.interieur.gouv.fr
 https://www.agorra-secours.interieur.gouv.fr
-https://www.alicem.interieur.gouv.fr
 https://ansc.interieur.gouv.fr
 https://ocmi.ansc.interieur.gouv.fr
 https://aofh.interieur.gouv.fr
@@ -19179,7 +19171,6 @@ http://boni.fabrique.sante.gouv.fr
 http://ci39232.fabrique.sante.gouv.fr
 http://rancher.ci39857.fabrique.sante.gouv.fr
 http://ci40320.fabrique.sante.gouv.fr
-http://ci41204.fabrique.sante.gouv.fr
 http://ci41441.fabrique.sante.gouv.fr
 http://rancher.ci41586.fabrique.sante.gouv.fr
 http://ci41592.fabrique.sante.gouv.fr
@@ -19212,6 +19203,7 @@ https://monpsy.sante.gouv.fr
 https://o6.sante.gouv.fr
 https://www.etape1.oc-collecte.sante.gouv.fr
 https://www.etape2.oc-collecte.sante.gouv.fr
+https://passpluscovid.sante.gouv.fr
 https://www.portail-enquetes.sante.gouv.fr
 https://www.sante-habitat.pp.sante.gouv.fr
 https://pre-dpi.sante.gouv.fr
@@ -19290,7 +19282,6 @@ https://minio.data.social.gouv.fr
 https://demat.social.gouv.fr
 https://www.demat.social.gouv.fr
 https://dgcs-alt.social.gouv.fr
-https://dgcs-ocmi.social.gouv.fr
 https://dgcs-pp.social.gouv.fr
 https://dgcs-prod.social.gouv.fr
 https://eye.diffusion.social.gouv.fr
@@ -22144,6 +22135,7 @@ http://lesauthieuxsurleportsaintouen.fr
 http://www.lesauthieuxsurleportsaintouen.fr
 https://www.lesauxons.fr
 https://www.lesauzedulac.fr
+https://lesavanchers.fr
 https://www.lesavanchers.fr
 https://lesayvelles.fr
 https://lesbarils.fr
@@ -25338,6 +25330,7 @@ http://mairie-verneuil77.fr
 http://www.mairie-verneuil77.fr
 http://mairie-vernon.fr
 http://www.mairie-vernon.fr
+https://www.mairie-vernou-celle77.fr
 http://www.mairie-vernouillet.fr
 https://mairie-veron.fr
 https://www.mairie-veron.fr
@@ -36021,7 +36014,6 @@ https://www.ville-loudun.fr
 https://www.ville-loury.fr
 https://www.ville-louviers.fr
 https://ville-louvigny.fr
-https://www.ville-louvigny.fr
 https://www.ville-louvres.fr
 https://ville-lubersac.fr
 https://www.ville-lubersac.fr
@@ -37535,7 +37527,6 @@ http://chitenay.net
 http://www.chitenay.net
 http://ciate.net
 http://www.ciate.net
-http://cidff32.net
 https://www.clg-correze.net
 http://www.clg-ponant.net
 https://www.clglacerisaie.net
