@@ -7186,7 +7186,6 @@ https://poleducoeur-hupo.aphp.fr
 https://portailvillehopital-ghparis10.aphp.fr
 https://prbmondor.aphp.fr
 https://psymondor.aphp.fr
-https://ptah.aphp.fr
 https://pums.aphp.fr
 https://questionnaire.aphp.fr
 https://radiologie-saintantoine.aphp.fr
@@ -7201,7 +7200,6 @@ https://recherche-innovation.aphp.fr
 https://registre-htap.aphp.fr
 https://rendu-osler.aphp.fr
 https://reseau-ophdiat.aphp.fr
-https://resultatslaboratoires.aphp.fr
 https://robertdebre.aphp.fr
 http://maternite-gynecologie.robertdebre.aphp.fr
 https://rothschild.aphp.fr
@@ -32651,6 +32649,7 @@ https://sap.atih.sante.fr
 https://concours.cng.sante.fr
 https://extranet.cng.sante.fr
 https://integ.extranet.cng.sante.fr
+https://valid.extranet.cng.sante.fr
 https://www.cng.sante.fr
 https://cns.sante.fr
 https://api.efs.sante.fr
