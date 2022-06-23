@@ -7378,6 +7378,7 @@ https://arras-sur-rhone.fr
 https://www.arrasenlavedan.fr
 https://www.arrens-marsous.fr
 https://www.arrest.fr
+https://arreux.fr
 https://arriance.fr
 https://arrigny.fr
 https://www.arrigny.fr
@@ -16866,7 +16867,6 @@ http://fetedelamusique2017.culture.gouv.fr
 http://fetedelamusique2018.culture.gouv.fr
 http://www.fmp.culture.gouv.fr
 https://forumentreprendreculture.culture.gouv.fr
-https://integration.francetransfert.culture.gouv.fr
 https://histoiredesarts.culture.gouv.fr
 http://infolettres-internes.culture.gouv.fr
 http://infolettres-ministere.culture.gouv.fr
@@ -19161,8 +19161,16 @@ https://www.es-difficulte-sociale-collecte.sante.gouv.fr
 https://esat.sante.gouv.fr
 http://boni.fabrique.sante.gouv.fr
 http://ci39232.fabrique.sante.gouv.fr
+http://rancher.ci39857.fabrique.sante.gouv.fr
+http://ci40320.fabrique.sante.gouv.fr
+http://rancher.ci40320.fabrique.sante.gouv.fr
 http://ci41441.fabrique.sante.gouv.fr
+http://rancher.ci41586.fabrique.sante.gouv.fr
 http://ci41592.fabrique.sante.gouv.fr
+http://rancher.ci41598.fabrique.sante.gouv.fr
+http://rancher.ci41622.fabrique.sante.gouv.fr
+http://ci44090.fabrique.sante.gouv.fr
+http://rancher.ci44090.fabrique.sante.gouv.fr
 http://rancher.ci44148.fabrique.sante.gouv.fr
 http://rancher.ci44377.fabrique.sante.gouv.fr
 http://ci45625.fabrique.sante.gouv.fr
@@ -19170,6 +19178,7 @@ http://rancher.ci46030.fabrique.sante.gouv.fr
 http://sre39146.fabrique.sante.gouv.fr
 http://sre39881.fabrique.sante.gouv.fr
 http://le-139.sre39881.fabrique.sante.gouv.fr
+http://test-cluster-sre-39881-tfaas-staging.sre39881.fabrique.sante.gouv.fr
 http://finess.sante.gouv.fr
 https://www.sante-habitat.formation.sante.gouv.fr
 https://silav.formation.sante.gouv.fr
