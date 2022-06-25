@@ -32,7 +32,6 @@ https://beaussais-sur-mer.bzh
 https://www.beaussais-sur-mer.bzh
 http://bonrepossurblavet.bzh
 https://www.bourbriac.bzh
-https://megalis.bretagne.bzh
 https://www.bretagne.bzh
 https://www.bretagnecentre.bzh
 https://www.briec.bzh
@@ -1160,7 +1159,6 @@ https://www.doixlesfontaines.com
 https://portail-ants.domaine-alias.com
 https://ppd-ants.domaine-alias.com
 https://ppd-autoecole-ants.domaine-alias.com
-https://ppd-passeport-ants.domaine-alias.com
 https://ppd-permisdeconduire-ants.domaine-alias.com
 http://dommartin-les-toul.com
 http://www.dommartin-les-toul.com
@@ -1380,7 +1378,6 @@ http://www.fedechasseurslandes.com
 https://www.fedepeche21.com
 https://www.federation-peche-ain.com
 http://www.federation-peche22.com
-http://federation-peche51.com
 https://www.federation-peche87.com
 https://federationpeche78.com
 https://www.federationpeche78.com
@@ -1568,8 +1565,6 @@ https://www.huisne-sarthoise.com
 http://www.huissier-var.com
 https://www.huissier13.com
 http://www.huissier79.com
-https://huissiers-doubs.com
-https://www.huissiers-doubs.com
 http://huissiers-justice-ca-lyon.com
 http://www.huissiers-justice-ca-lyon.com
 https://huissiersgironde.com
@@ -2886,7 +2881,6 @@ https://www.pays-de-blain.com
 https://pays-de-landivisiau.com
 https://www.pays-de-landivisiau.com
 http://pays-des-sucs.com
-http://www.pays-des-sucs.com
 https://www.pays-gentiane.com
 http://pays-lunevillois.com
 https://www.pays-lunevillois.com
@@ -2963,7 +2957,7 @@ http://www.piegut-pluviers.com
 http://www.piennes.com
 https://www.pierre-buffiere.com
 https://www.pierrefitte-en-auge.com
-https://www.pierrerue.com
+http://www.pierrerue.com
 https://www.pietrabugno.com
 https://pimmslyonmetropole.com
 https://www.piscine-intercommunale.com
@@ -3413,7 +3407,6 @@ https://samonac.com
 https://www.sanarysurmer.com
 https://www.sanilhac-sagries.com
 https://sansac-veinazes.com
-https://www.sansac-veinazes.com
 https://www.sansais-lagarette.com
 https://www.sarcenas.com
 http://sargesurbraye.com
@@ -4232,7 +4225,6 @@ https://trimbach-village.eu
 https://usclasdubosc.eu
 https://vagney.eu
 https://val-mont.eu
-https://valbriard.eu
 https://vendome.eu
 https://www.vendome.eu
 http://www.village-de-malain.eu
@@ -5269,14 +5261,10 @@ https://lyon-est.cio.ac-lyon.fr
 https://lyon-nord.cio.ac-lyon.fr
 https://lyon-ouest.cio.ac-lyon.fr
 https://montbrison.cio.ac-lyon.fr
-https://oullins.cio.ac-lyon.fr
-https://roanne.cio.ac-lyon.fr
 https://saint-chamond.cio.ac-lyon.fr
 https://saint-etienne.cio.ac-lyon.fr
 https://saint-priest.cio.ac-lyon.fr
 https://trevoux.cio.ac-lyon.fr
-https://venissieux.cio.ac-lyon.fr
-https://villefranche.cio.ac-lyon.fr
 https://balzac69200.etab.ac-lyon.fr
 https://boris-vian.etab.ac-lyon.fr
 https://charcot.etab.ac-lyon.fr
@@ -5289,7 +5277,6 @@ https://college-dolto-chaponost.etab.ac-lyon.fr
 https://college-jules-michelet-venissieux.etab.ac-lyon.fr
 https://college-la-platiere.etab.ac-lyon.fr
 https://college-leonard-devinci.etab.ac-lyon.fr
-https://college-leroux.etab.ac-lyon.fr
 https://college-les-servizieres.etab.ac-lyon.fr
 https://college-marcel-dargent.etab.ac-lyon.fr
 https://college-moliere.etab.ac-lyon.fr
@@ -5305,8 +5292,6 @@ https://collegeraouldufy.etab.ac-lyon.fr
 https://csi-ferneyvoltaire.etab.ac-lyon.fr
 https://daubarede.etab.ac-lyon.fr
 https://duclos.etab.ac-lyon.fr
-https://eluardvenissieux.etab.ac-lyon.fr
-https://eugenie-de-pomey.etab.ac-lyon.fr
 https://jean-giono.etab.ac-lyon.fr
 https://jean-mermoz.etab.ac-lyon.fr
 https://jean-moulin-lyon5.etab.ac-lyon.fr
@@ -8607,7 +8592,7 @@ https://bavinchove.fr
 http://mairie.bavincourt.fr
 http://www.bayac.fr
 http://baye.fr
-http://www.baye.fr
+https://www.baye.fr
 http://www.bayel.fr
 http://www.bayenghem-lez-eperlecques.fr
 https://www.bayet.fr
@@ -10014,6 +9999,7 @@ https://www.castandet.fr
 https://castanet-tolosan.fr
 https://www.castanet-tolosan.fr
 https://www.castanet12.fr
+http://casteil.fr
 https://www.castel-sarrazin.fr
 https://www.castelferrus.fr
 https://www.castelfranc.fr
@@ -10031,7 +10017,6 @@ https://www.castelnau-estretefonds.fr
 http://castelnau-le-lez.fr
 https://www.castelnau-le-lez.fr
 https://castelnau-magnoac.fr
-https://www.castelnau-magnoac.fr
 https://www.castelnau-montratier.fr
 https://castelnau-pegayrols.fr
 https://www.castelnau-pegayrols.fr
@@ -10424,7 +10409,7 @@ https://www.ccarm.fr
 https://www.ccas-agde.fr
 https://www.ccas-avignon.fr
 https://ccas-larochelle.fr
-http://ccas-nice.fr
+https://ccas-nice.fr
 https://ccas-rueilmalmaison.fr
 https://ccas-tours.fr
 https://www.ccavm.fr
@@ -10725,6 +10710,7 @@ https://www.cdg03.fr
 https://cdg04.fr
 http://www.cdg06.fr
 https://cdg08.fr
+https://www.cdg08.fr
 http://www.cdg09.fr
 http://cdg10.fr
 https://www.cdg10.fr
@@ -11901,7 +11887,7 @@ https://www.cma41.fr
 https://www.cma45.fr
 https://www.cma64.fr
 http://cma65.fr
-http://www.cma65.fr
+https://www.cma65.fr
 https://www.cma66.fr
 https://www.cma76.fr
 http://cma77.fr
@@ -12254,7 +12240,7 @@ https://www.comite-du-secret.fr
 http://www.commana.fr
 https://commeaux.fr
 http://www.commelle.fr
-http://www.commentry.fr
+https://www.commentry.fr
 http://www.commeny.fr
 https://commeny95.fr
 https://www.commercy.fr
@@ -12445,6 +12431,7 @@ http://www.commune-sand.fr
 https://commune-sennecey-les-dijon.fr
 https://commune-seron.fr
 https://www.commune-seron.fr
+http://commune-soumeras.fr
 https://commune-taule.fr
 http://www.commune-thelus.fr
 https://commune-thil51.fr
@@ -13099,6 +13086,7 @@ http://www.cucugnan.fr
 https://cucuron.fr
 https://www.cudos.fr
 https://www.cugand.fr
+http://www.cuges-les-pins.fr
 http://www.cugny.fr
 http://www.cuinchy.fr
 https://cuinzier.fr
@@ -13245,7 +13233,6 @@ https://dampierre-en-burly.fr
 https://www.dampierre-jura.fr
 https://dampierre-sur-le-doubs.fr
 https://www.dampierre-sur-le-doubs.fr
-https://dampierre-sur-linotte.fr
 https://dampierre-sur-moivre.fr
 https://www.dampierre-sur-salon.fr
 https://www.dampierreenbray.fr
@@ -15941,7 +15928,7 @@ https://gensac.fr
 https://www.gensac.fr
 https://www.gensac-la-pallue.fr
 http://www.gente.fr
-http://www.gentelles.fr
+https://www.gentelles.fr
 https://www.georges-arnon.fr
 https://www.georges-delatour-nancy.fr
 https://spip.georgesbaptiste.fr
@@ -17042,7 +17029,6 @@ https://www.datara.gouv.fr
 https://www-test.datara.gouv.fr
 https://datatourisme.gouv.fr
 https://diffuseur.datatourisme.gouv.fr
-https://producteur.datatourisme.gouv.fr
 https://www.datatourisme.gouv.fr
 http://www.declaration-environnementale.gouv.fr
 https://guadeloupe.deets.gouv.fr
@@ -18265,6 +18251,7 @@ https://teleicare-preprod.dgccrf.finances.gouv.fr
 https://applications.dgfip.finances.gouv.fr
 https://concours.dgfip.finances.gouv.fr
 https://escalev2.dgfip.finances.gouv.fr
+https://escalev3.dgfip.finances.gouv.fr
 https://gw.dgfip.finances.gouv.fr
 https://www.jepaiemesserviceslocaux.dgfip.finances.gouv.fr
 https://optionsfoncieresdge.dgfip.finances.gouv.fr
@@ -18305,7 +18292,6 @@ https://site2.responsive.finances.gouv.fr
 https://sama.finances.gouv.fr
 https://sofie.finances.gouv.fr
 https://sofie-invitation.finances.gouv.fr
-https://sympanet.finances.gouv.fr
 https://telescope.finances.gouv.fr
 https://terminologie.finances.gouv.fr
 https://tracfin.finances.gouv.fr
@@ -18981,6 +18967,7 @@ https://www.oned.gouv.fr
 https://onpe.gouv.fr
 https://www.onpe.gouv.fr
 https://onpes.gouv.fr
+https://www.rdv.orne.gouv.fr
 http://www.orne.gouv.fr
 https://documentation.outre-mer.gouv.fr
 https://questionnaire.outre-mer.gouv.fr
@@ -18989,6 +18976,7 @@ https://outremersolidaires.gouv.fr
 https://hebergement.outremersolidaires.gouv.fr
 https://hebergement-bo.outremersolidaires.gouv.fr
 https://srias.paca.gouv.fr
+https://www.ddcs.paris.gouv.fr
 https://www.participation-citoyenne.gouv.fr
 https://www.pas-de-calais.gouv.fr
 https://payfip.gouv.fr
@@ -19161,7 +19149,6 @@ http://boni.fabrique.sante.gouv.fr
 http://ci39232.fabrique.sante.gouv.fr
 http://ci41441.fabrique.sante.gouv.fr
 http://ci41592.fabrique.sante.gouv.fr
-http://rancher.ci44148.fabrique.sante.gouv.fr
 http://rancher.ci44377.fabrique.sante.gouv.fr
 http://ci45625.fabrique.sante.gouv.fr
 http://sre39146.fabrique.sante.gouv.fr
@@ -19334,6 +19321,7 @@ https://matomo-metabase-les1000jours.fabrique.social.gouv.fr
 https://matomo-metabase-monsuivipsy.fabrique.social.gouv.fr
 https://matomo-metabase-ozensemble.fabrique.social.gouv.fr
 https://mattermost.fabrique.social.gouv.fr
+https://medle.fabrique.social.gouv.fr
 https://metropole-tumeplay.fabrique.social.gouv.fr
 https://mon-domifa.fabrique.social.gouv.fr
 https://monsuivipsy.fabrique.social.gouv.fr
@@ -22007,6 +21995,7 @@ https://mdph.lenord.fr
 https://www.lenoyerenchampsaur.fr
 https://lent-01.fr
 https://lentu.fr
+https://leogeats.fr
 https://www.leognan.fr
 https://www.leon.fr
 https://www.lepailly52.fr
@@ -22219,8 +22208,7 @@ https://www.lessallessurverdon.fr
 https://lessard-le-national.fr
 https://www.lessard-le-national.fr
 http://www.lessauvages.fr
-http://lessay.fr
-http://www.lessay.fr
+https://lessay.fr
 https://www.lessieges.fr
 https://www.lestaillades.fr
 https://lestelle-betharram.fr
@@ -26368,7 +26356,6 @@ https://mairie.marseille.fr
 https://www.marseille.fr
 https://marseille1-7.fr
 https://www.marseille1-7.fr
-https://marseille1112.fr
 https://www.marseille4-5.fr
 https://marseille9-10.fr
 http://marseillette.fr
@@ -26684,7 +26671,6 @@ http://www.mery-sur-seine.fr
 https://www.mery73.fr
 https://meryesbois.fr
 https://www.merylabataille.fr
-http://merysuroise.fr
 https://www.merysuroise.fr
 https://www.mesanger.fr
 http://www.mesgrigny10.fr
@@ -28322,6 +28308,7 @@ https://metropole.nantes.fr
 https://nantes-terre-atlantique.fr
 http://nantesmetropole.fr
 https://museum.nantesmetropole.fr
+https://www.nantesmetropole.fr
 https://www.nantessaintnazaire.fr
 https://www.nanteuil-en-vallee.fr
 https://www.nanteuil-les-meaux.fr
@@ -31568,8 +31555,7 @@ https://saint-sulpice-la-foret.fr
 http://www.saint-sulpice-lauriere.fr
 http://saint-sulpice-les-feuilles.fr
 https://www.saint-sulpice-les-feuilles.fr
-http://saint-sulpice-oise.fr
-http://www.saint-sulpice-oise.fr
+https://www.saint-sulpice-oise.fr
 http://www.saint-sulpice01.fr
 http://www.saint-sulpice46.fr
 https://www.saint-sylvain.fr
@@ -34055,7 +34041,7 @@ http://www.thenesol.fr
 http://www.thenezay.fr
 https://www.thenioux.fr
 https://www.thennes.fr
-http://thenon24.fr
+https://thenon24.fr
 https://thenouville.fr
 https://theoule-sur-mer.fr
 https://www.thereval.fr
@@ -34723,7 +34709,7 @@ https://www.valentigney.fr
 https://www.valentine-lamairie.fr
 https://www.valenton.fr
 http://valernes.fr
-http://www.valernes.fr
+https://www.valernes.fr
 https://www.valesdunes.fr
 https://valessonne.fr
 https://www.valeyrac.fr
@@ -34998,6 +34984,7 @@ https://www.venette.fr
 https://www.venez.fr
 http://www.venizel.fr
 http://www.venizy.fr
+http://vennecy.fr
 https://venon.fr
 https://www.venon27.fr
 https://www.venours.fr
@@ -35671,7 +35658,6 @@ https://ville-dolus-oleron.fr
 http://www.ville-dombasle.fr
 https://www.ville-domene.fr
 http://www.ville-donges.fr
-https://www.ville-douai.fr
 https://www.ville-draguignan.fr
 https://www.ville-drap.fr
 https://www.ville-dreuil-les-amiens.fr
@@ -37572,6 +37558,7 @@ https://etablissementbertrandeborn.net
 http://www.evaux-les-bains.net
 https://fagnon.net
 http://www.fenouillet.net
+http://feuilleres.net
 https://www.fontanes.net
 https://www.fontenay-76.net
 http://fouras.net
