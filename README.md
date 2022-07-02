@@ -9,7 +9,7 @@ remplissant des missions de service public.
 Le dossier `sources/` contient les domaines connus, qu’ils soient
 accessibles en HTTP ou non.
 
-Les ajouts et suppresion s’y font soit manuellement soit via des
+Les ajouts et suppressions s’y font soit manuellement soit via des
 scripts de collecte.
 
 
@@ -20,12 +20,12 @@ dossier `sources/` et répondant `200 OK` en HTTP ou en HTTPS
 éventuellement après une redirection sur le **même** domaine
 (typiquement l’ajout d’un `/fr/`).
 
-Les ajouts et suppresion s’y font automatiquement, il n’est pas
+Les ajouts et suppressions s’y font automatiquement, il n’est pas
 nécessaire de modifier ce fichier manuellement.
 
 Attention, cette liste étant basée sur des noms de domaines
 d’organismes publics, certaines pages d’organismes publics comme
-https://sites.google.com/site/mairiedemacey/ ne peuvent pas y figurer.
+https://sites.google.com/site/mairiedemacey/ peuvent ne pas y figurer.
 
 
 # Les domaines inaccessibles en HTTP/HTTPS
@@ -40,7 +40,7 @@ Pour obtenir cette liste vous pouvez utiliser :
     export LC_COLLATE=C
     comm -13 <(cut -d/ -f3 urls.txt | sort) <(sort sources/*.txt)
 
-Il est possible de savoir ce qui cause l’innaccessibilité en regardant
+Il est possible de savoir ce qui cause l’inaccessibilité en regardant
 dans `domains.csv` :
 
     $ head -n 1 domains.csv; grep mairie-valognes.fr domains.csv
@@ -95,19 +95,19 @@ Le dossier `scripts/` contient plusieurs scripts de collecte :
 
 ### [sources-de-confiance.fr](https://sources-de-confiance.fr)
 
-Sources de confiance est une extension de navigateur qui permet d'identifier instantanément les résultats issus du secteur public dans son moteur de recherche habituel. Une initiative de l'association [Villes Internet](https://villes-internet.net).
+Sources de confiance est une extension de navigateur qui permet d’identifier instantanément les résultats issus du secteur public dans son moteur de recherche habituel. Une initiative de l’association [Villes Internet](https://villes-internet.net).
 
-### Audit d'accessibilité avec [Asqatasun](https://adullact.org/service-en-ligne-asqatasun)
+### Audit d’accessibilité avec [Asqatasun](https://adullact.org/service-en-ligne-asqatasun)
 
-L'association [ADULLACT](https://adullact.org/) souhaite établir des statistiques concernant le respect du RGAA par les sites des organismes publics.
+L’association [ADULLACT](https://adullact.org/) souhaite établir des statistiques concernant le respect du RGAA par les sites des organismes publics.
 
 ### Audits techniques variés avec [DashLord](https://dashlord.incubateur.net/intro/)
 
-DashLord est né à la [Fabrique des ministères sociaux](https://fabrique.social.gouv.fr/) pour répondre aux besoins d'évaluation et de mise en oeuvre des bonnes pratiques de développement web.
+DashLord est né à la [Fabrique des ministères sociaux](https://fabrique.social.gouv.fr/) pour répondre aux besoins d’évaluation et de mise en œuvre des bonnes pratiques de développement web.
 
 
 # Licence
 
-2020-2021, DINUM et les contributeurs du dépôt.
+2020-2021, DINUM et les contributrices et contributeurs du dépôt.
 
 Le contenu de ce dépôt est sous [licence Ouverte 2.0](LICENCE.md).
