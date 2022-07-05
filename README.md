@@ -25,7 +25,7 @@ nécessaire de modifier ce fichier manuellement.
 
 Attention, cette liste étant basée sur des noms de domaines
 d’organismes publics, certaines pages d’organismes publics comme
-https://sites.google.com/site/mairiedemacey/ peuvent ne pas y figurer.
+https://sites.google.com/site/mairiedemacey/ ne peuvent pas y figurer.
 
 
 # Les domaines inaccessibles en HTTP/HTTPS
