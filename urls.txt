@@ -2355,6 +2355,7 @@ https://mairie-seyssel01.com
 https://mairie-sillans.com
 http://mairie-sillylelong.com
 http://www.mairie-sillylelong.com
+http://www.mairie-socx.com
 https://mairie-sorigny.com
 https://www.mairie-sorigny.com
 https://mairie-st-clar.com
@@ -3809,7 +3810,6 @@ https://www.ville-houx.com
 http://www.ville-igoville.com
 http://www.ville-la-loupe.com
 https://ville-la-motte.com
-http://ville-labourboule.com
 http://ville-lafleche.com
 https://www.ville-laverriere.com
 https://ville-lebreuil-bourgogne.com
@@ -6940,6 +6940,7 @@ https://www.ande.fr
 https://www.andel.fr
 https://www.andelat.fr
 https://andelot-morval.fr
+https://www.andelot-morval.fr
 https://www.andernoslesbains.fr
 http://andertetcondon.fr
 http://www.andertetcondon.fr
@@ -8387,8 +8388,7 @@ http://balade-pierry.fr
 https://www.baladou.fr
 http://www.balaives-et-butz.fr
 http://www.balansun.fr
-http://balanzac.fr
-http://www.balanzac.fr
+https://www.balanzac.fr
 https://www.balazuc.fr
 https://balbigny.fr
 https://www.balbigny.fr
@@ -9522,7 +9522,6 @@ https://brie09.fr
 https://brie35.fr
 https://www.brie80.fr
 https://www.briedesrivieresetchateaux.fr
-https://www.brielles.fr
 https://brienangissienne.fr
 https://www.brienangissienne.fr
 https://www.brienne71.fr
@@ -12309,7 +12308,7 @@ https://commune-de-saint-laurent-l-abbaye.fr
 https://www.commune-de-saint-laurent-l-abbaye.fr
 https://www.commune-de-saint-pardoux-morterolles.fr
 https://commune-de-saint-romain.fr
-https://commune-de-senlisse.fr
+http://commune-de-senlisse.fr
 http://www.commune-de-senlisse.fr
 http://www.commune-de-soumensac.fr
 http://commune-de-toussaint.fr
@@ -16818,6 +16817,7 @@ https://www.cotes-darmor.gouv.fr
 https://www.creuse.gouv.fr
 https://www.cte.gouv.fr
 https://api.culture.gouv.fr
+https://archeologie.culture.gouv.fr
 https://archives-map.culture.gouv.fr
 https://www.adamant.archives-nationales.culture.gouv.fr
 http://www.adamant-preprod.archives-nationales.culture.gouv.fr
@@ -17308,6 +17308,7 @@ https://gitlab-forge.din.developpement-durable.gouv.fr
 https://registry.gitlab-forge.din.developpement-durable.gouv.fr
 https://grandest-scdd.din.developpement-durable.gouv.fr
 https://lune.din.developpement-durable.gouv.fr
+https://maintenance.din.developpement-durable.gouv.fr
 https://mel.din.developpement-durable.gouv.fr
 https://melanissimo-ng.din.developpement-durable.gouv.fr
 https://meloffice.din.developpement-durable.gouv.fr
@@ -18507,6 +18508,7 @@ https://qualification.sinus-dps.dgscgc.interieur.gouv.fr
 https://qualification.synergi2.dgscgc.interieur.gouv.fr
 https://jeu.dgsi.interieur.gouv.fr
 https://www.dgsi.interieur.gouv.fr
+https://dicem.interieur.gouv.fr
 https://tnv-national2.ocmi.dmat.interieur.gouv.fr
 https://ocmi.dnum.interieur.gouv.fr
 http://www.dotations-dgcl.interieur.gouv.fr
@@ -18537,7 +18539,7 @@ https://preproduction.fourrieres.interieur.gouv.fr
 https://qualification.fourrieres.interieur.gouv.fr
 https://admin.gendarmerie.interieur.gouv.fr
 https://stsisi.confluence-sdsi.gendarmerie.interieur.gouv.fr
-https://crl.gendarmerie.interieur.gouv.fr
+http://crl.gendarmerie.interieur.gouv.fr
 https://development-center-mhp.gendarmerie.interieur.gouv.fr
 https://faq.gendarmerie.interieur.gouv.fr
 https://admin.gendcom.gendarmerie.interieur.gouv.fr
@@ -18593,7 +18595,6 @@ https://qualif-psij.interieur.gouv.fr
 https://ansc.questionnaire.interieur.gouv.fr
 https://bas-rhin.questionnaire.interieur.gouv.fr
 https://cher.questionnaire.interieur.gouv.fr
-https://dci.questionnaire.interieur.gouv.fr
 https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
 https://enquetes-mi.questionnaire.interieur.gouv.fr
@@ -22165,7 +22166,6 @@ https://www.lespechsduvers.fr
 http://lespeintures.fr
 https://www.lespeintures.fr
 https://www.lesperon.fr
-http://lespesses62.fr
 https://lespieux.fr
 http://www.lespignan.fr
 http://lespilles.fr
@@ -23022,7 +23022,7 @@ https://lyceedelamergujan.fr
 https://lyceedelamontagne.fr
 https://lyceedelenna.fr
 https://lyceedelessouriau.fr
-http://www.lyceedenavarre.fr
+https://www.lyceedenavarre.fr
 http://www.lyceedesaintjust.fr
 https://lyceedesandaines.fr
 https://lyceedesdroitsdelhomme.fr
@@ -25287,6 +25287,7 @@ http://mairie-verneuil77.fr
 http://www.mairie-verneuil77.fr
 http://mairie-vernon.fr
 http://www.mairie-vernon.fr
+https://mairie-vernou-celle77.fr
 https://www.mairie-vernou-celle77.fr
 http://www.mairie-vernouillet.fr
 https://mairie-veron.fr
@@ -26607,6 +26608,7 @@ https://mentque-nortbecourt.fr
 https://www.mentque-nortbecourt.fr
 https://www.menucourt.fr
 https://www.meolans-revel.fr
+https://mer41.fr
 https://www.mer41.fr
 http://www.mercatel.fr
 https://merceuil.fr
@@ -28351,7 +28353,6 @@ http://www.nerville-la-foret.fr
 https://nervillelaforet.fr
 http://www.nesleslamontagne.fr
 https://nesleslavallee.fr
-https://www.nesleslavallee.fr
 http://nesmy.fr
 http://www.nesmy.fr
 https://nespouls.fr
@@ -29381,7 +29382,6 @@ https://www.perrusson.fr
 https://www.pers-en-gatinais.fr
 http://www.persac.fr
 https://www.personne-agee-aide-issoire.fr
-http://www.pertain.fr
 https://www.perthes-en-gatinais.fr
 http://www.peschadoires.fr
 http://www.pesmes.fr
@@ -29781,6 +29781,7 @@ https://www.pornicagglo.fr
 http://www.porquericourt.fr
 https://port-de-lanne.fr
 https://www.port-de-lanne.fr
+http://www.port-launay.fr
 https://port-lesney.fr
 https://www.port-lesney.fr
 https://www.port-marly.fr
@@ -30737,6 +30738,7 @@ http://www.sainsenamienois.fr
 https://saint-abit.fr
 https://saint-abraham.fr
 https://www.saint-abraham.fr
+http://saint-agnant.fr
 http://www.saint-agnant.fr
 http://www.saint-agnant-pres-crocq.fr
 http://www.saint-agoulin.fr
@@ -30747,7 +30749,6 @@ http://www.saint-albain71.fr
 https://saint-alban-des-villards.fr
 https://www.saint-alban-des-villards.fr
 https://saint-alban31.fr
-https://www.saint-alban31.fr
 https://www.saint-amand-en-puisaye.fr
 https://saint-amand-les-eaux.fr
 https://www.saint-amand-les-eaux.fr
@@ -30904,6 +30905,7 @@ https://saint-christophe-tarn.fr
 http://saint-christophe17.fr
 http://www.saint-christophe17.fr
 https://www.saint-cibard.fr
+https://saint-ciers.fr
 http://saint-ciers-champagne.fr
 http://www.saint-ciers-champagne.fr
 http://www.saint-cirgues-de-prades.fr
@@ -31284,7 +31286,6 @@ https://saint-martin-de-commune.fr
 https://saint-martin-de-fontenay.fr
 https://www.saint-martin-de-fontenay.fr
 https://saint-martin-de-fressengeas.fr
-https://www.saint-martin-de-fressengeas.fr
 https://www.saint-martin-de-gurson.fr
 https://www.saint-martin-de-londres.fr
 http://www.saint-martin-de-re.fr
@@ -31810,7 +31811,6 @@ https://www.sainte-eanne.fr
 http://www.sainte-eulalie-d-ans.fr
 https://sainte-eulalie-en-royans.fr
 https://sainte-euphemie.fr
-http://www.sainte-eusoye.fr
 https://www.sainte-fauste.fr
 https://sainte-fereole.fr
 http://www.sainte-florine.fr
@@ -32802,7 +32802,6 @@ https://sauzon.fr
 https://www.sauzon.fr
 https://savas.fr
 https://www.savas.fr
-https://www.savasse.fr
 http://www.savenes.fr
 https://www.saverne.fr
 https://savianges.fr
@@ -38729,7 +38728,6 @@ https://ciostbrieuc.site
 https://coyolles.site
 https://www.la-haye.site
 http://conflanssuranille.fr.st
-http://www.conflanssuranille.fr.st
 http://www.copamo.fr.st
 https://suivi-ouverture.app.etalab.studio
 http://init.etalab.studio
