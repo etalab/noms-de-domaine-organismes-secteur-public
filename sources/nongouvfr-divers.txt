@@ -12,6 +12,9 @@ backend.passculture.app  # from https://crt.sh/?id=5315716638
 integration.passculture.app
 backend.integration.passculture.app  # from https://crt.sh/?id=5344084366
 web.passculture.app  # Found in cert of CN=app.passculture.beta.gouv.fr, see https://crt.sh/?id=5334894991
+etools.april-beauty.be  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+fr.cabf.be  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
+uk.cabf.be  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
 mairieviesly.biz
 ww25.mairieviesly.biz  # (redirection from www.mairieviesly.biz)
 ww38.mairieviesly.biz  # (redirection from www.mairieviesly.biz)
@@ -85,6 +88,7 @@ le4bis-ij.cm
 www.le4bis-ij.cm
 lebercail.co
 abc-blanquefort.com  # (redirection from abc-blanquefort.fr)
+etools.information.acb-ps.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 acticity.com
 www.acticity.com
 actionetcompetence-alsace.com
@@ -139,6 +143,7 @@ anost.com
 www.anost.com
 apecita.com
 www.apecita.com
+etools.aproxtrack2.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 laferte.arbois.com
 lesplanches.arbois.com
 mathenay.arbois.com
@@ -663,6 +668,7 @@ www.comunautedecommunedes3foret.com
 www.contacter-veterinaire-de-garde.com  # (redirection from www.ville-de-vernais.com)
 copary.com
 www.copary.com
+etools.info.copylot.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 cormeillesenpaysdauge.com
 www.cormeillesenpaysdauge.com
 couffy41.com
@@ -713,6 +719,8 @@ dampierre-les-conflans.com
 www.dampierre-les-conflans.com
 dartagnanenfezensac.com
 www.dartagnanenfezensac.com
+etools.deli-hemp-news.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+etools.delihempnews.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 portail-ants.domaine-alias.com
 ppd-ants.domaine-alias.com
 ppd-autoecole-ants.domaine-alias.com
@@ -970,6 +978,7 @@ grandparigny.com
 www.grandparigny.com
 granges-sur-vologne.com
 www.granges-sur-vologne.com
+etools.infos.graph-imprim.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 greta-aquitaine.com
 www.greta-aquitaine.com
 greta-auvergne.com
@@ -1047,6 +1056,7 @@ info-jeunesse16.com
 www.info-jeunesse16.com
 mairie-frayssinet.info46.com
 www.mairie-frayssinet.info46.com
+etools.infodelihemp.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 infofemmes.com
 www.infofemmes.com
 infojeunesse-clermont.com
@@ -1262,6 +1272,7 @@ lesachard.com
 www.lesachard.com
 lesmissionslocalesdubearn.com
 www.lesmissionslocalesdubearn.com
+etools.lessoeursk.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 lesunelles.com
 www.lesunelles.com
 levaladou.com
@@ -1637,6 +1648,7 @@ nouvelle-eglise.com
 www.nouvelle-eglise.com
 noyers-sur-cher.com
 www.noyers-sur-cher.com
+objects.news.odyssey-messaging.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 omaje.com
 www.omaje.com
 oradour-cantal.com
@@ -1767,6 +1779,8 @@ pontscorff.com
 www.pontscorff.com
 portes-haut-doubs.com
 www.portes-haut-doubs.com
+portes-sectionnelles-mathysen.com  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
+www.portes-sectionnelles-mathysen.com  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
 hautesaintonge.pourlesjeunes.com
 prades-ariege.com
 www.prades-ariege.com
@@ -1879,6 +1893,7 @@ soubran.com
 www.soubran.com
 sport-troyes.com
 www.sport-troyes.com
+etools.notif.spreadncole.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 st-jean-de-belleville.com
 www.st-jean-de-belleville.com
 st-marc-a-frongier.com
@@ -1951,6 +1966,7 @@ versolsetlapeyre.com
 www.versolsetlapeyre.com
 vexinthelle.com
 www.vexinthelle.com
+etools.rescue.vibs.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 vignols.com
 www.vignols.com
 durfort.village.com
@@ -2000,6 +2016,7 @@ volmerangelesmines.com
 www.volmerangelesmines.com
 vougy.com
 www.vougy.com
+etools.marketing.voyages-lov94.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 vva-gers.com
 www.vva-gers.com
 communedevalframbert.weebly.com
@@ -2125,6 +2142,7 @@ coaraze.eu
 www.coaraze.eu
 enim.eu
 authentication.enim.eu
+relais.enim.eu  # Found in cert of C=FR, L=PERIGNY, O=ETABLISSEMENT NATIONAL DES INVALIDES DE LA MARINE, CN=xsr.enim.gouv.fr, see https://crt.sh/?id=6954271249
 www.enim.eu
 etreville.eu
 www.etreville.eu
@@ -2189,6 +2207,7 @@ mtes-portail.6tzen.fr
 7vallees.fr  # (redirection from 7vallees-comm.fr)
 7vallees-comm.fr
 www.7vallees-comm.fr
+etools.abo.a2presse.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 bretteville-sur-laize.a3w.fr
 www.bretteville-sur-laize.a3w.fr
 crouysurcosson.a3w.fr
@@ -2487,6 +2506,7 @@ apec.fr
 www.apec.fr
 apgl64.fr
 www.apgl64.fr
+etools.april-beauty.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 apsj76.fr
 www.apsj76.fr
 rejoignez-nantes.aquatonic.fr
@@ -2802,6 +2822,7 @@ balizac.fr
 www.balizac.fr
 banque-france.fr
 www.banque-france.fr
+etools.vote-ag.rivesparis.banquepopulaire.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 banyuls.fr
 www.banyuls.fr
 barberier.fr
@@ -2926,6 +2947,7 @@ www.bij-etampes.fr
 billomcommunaute.fr
 billylegrand.fr
 www.billylegrand.fr
+etools.info.bio-express.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 biomedecine.fr
 bischwihr.fr
 www.bischwihr.fr
@@ -2979,6 +3001,7 @@ www.boirynotredame.fr
 boismorand.fr
 bolsenheim.fr
 www.bolsenheim.fr
+etools.rescue.bonobo.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 bonsecours.fr
 www.bonsecours.fr
 boos40.fr
@@ -3005,6 +3028,7 @@ bourisp.fr
 www.bourisp.fr
 boury-en-vexin.fr
 www.boury-en-vexin.fr
+etools.info.boutique-nature.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 braconne-charente.fr
 www.braconne-charente.fr
 bramans.fr
@@ -3073,6 +3097,7 @@ caba.fr
 www.caba.fr
 cabanes81.fr
 www.cabanes81.fr  # (redirection from cabanes81.fr)
+etools.rescue.cache-cache.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 cacl-guyane.fr
 www.cacl-guyane.fr
 cades.fr
@@ -3103,6 +3128,7 @@ www.camphin-en-carembault.fr
 campi.fr
 cangt.fr
 www.cangt.fr
+etools.cannafleur.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 cannespaysdelerins.fr
 www.cannespaysdelerins.fr
 cantal.fr
@@ -3190,6 +3216,7 @@ carticasi.fr
 www.carticasi.fr
 casa-infos.fr
 www.casa-infos.fr
+etools.news.cashexpress.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 casinca.fr
 www.casinca.fr
 services.casmb.fr
@@ -3647,6 +3674,9 @@ www.ccdsv.fr
 ccdunogentais.fr
 www.ccdunogentais.fr
 cceals.fr
+etools.culture.cceg.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+etools.dechets.cceg.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+etools.transport.cceg.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 ccel.fr
 www.ccel.fr
 ccfav.fr
@@ -4231,7 +4261,11 @@ cdosmarne.fr
 www.cdosmarne.fr
 cea.fr
 www.cea.fr
+cefdg.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, OU=DNE-PHE, CN=www.cefdg.fr, see https://crt.sh/?id=6962952327
+ppd.cefdg.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, OU=DNE-PHE, CN=www.cefdg.fr, see https://crt.sh/?id=6962952327
+test.cefdg.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, OU=DNE-PHE, CN=www.cefdg.fr, see https://crt.sh/?id=6962952327
 www.cefdg.fr  # (redirection from cefdg2018.enseignementsup-recherche.gouv.fr)
+etools.news.centralcom.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 centre-u-borgu.fr
 www.centre-u-borgu.fr
 centreanimationsociale-champagne.fr
@@ -4996,6 +5030,7 @@ dr20.cnrs.fr
 www.dr20.cnrs.fr
 dr5.cnrs.fr
 www.dr5.cnrs.fr
+etools.elections.cnrs.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 iledefrance-meudon.cnrs.fr
 www.iledefrance-meudon.cnrs.fr
 www.cnrs.fr
@@ -5427,6 +5462,7 @@ msg-p9-exc525.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT
 archives-map-admin.culture.fr
 archives-map-bo.culture.fr
 cas0.culture.fr  # from https://crt.sh/?id=5307308077
+designer-bw.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=auth-demarches.culture.gouv.fr, serialNumber=S241452285, see https://crt.sh/?id=7062900552
 admin.evenementiels.culture.fr
 ewscli0.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
 pass.culture.fr  # (redirection from passculture.beta.gouv.fr)
@@ -5469,6 +5505,10 @@ debatpublic.fr
 www.debatpublic.fr
 defenseurdesdroits.fr
 www.defenseurdesdroits.fr
+etools.deli-hemp-news.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+etools.delifleurs.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+etools.delihemp-pro.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+etools.delihempnews.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 delunevilleabaccarat.fr
 demarches-simplifiees.fr
 www.demarches-simplifiees.fr
@@ -5589,12 +5629,18 @@ adc.education.fr
 auth.apps.education.fr  # (redirection from nuage01.apps.education.fr)
 beta.apps.education.fr  # from https://crt.sh/?id=5192474144
 whoami.beta.apps.education.fr  # Found in cert of C=FR, L=Paris, O=Ministère de l'Education Nationale et de la Jeunesse, CN=whoami.beta.apps.education.fr, see https://crt.sh/?id=5192474144
+lbnuage.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=lbnuage.apps.education.fr, see https://crt.sh/?id=6938933762
 metabase.apps.education.fr
+minio.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=minio.apps.education.fr, see https://crt.sh/?id=6938879011
 nuage.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage.apps.education.fr, see https://crt.sh/?id=5773091456
 nuage01.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage.apps.education.fr, see https://crt.sh/?id=5773091456
+nuage02.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage02.apps.education.fr, see https://crt.sh/?id=6938916063
+nuage03.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage03.apps.education.fr, see https://crt.sh/?id=6938906647
+nuagegrp.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuagegrp.apps.education.fr, see https://crt.sh/?id=6938892328
 podeduc.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pod.phm.education.gouv.fr, see https://crt.sh/?id=5541894130
 cabinet.education.fr
 eduscol.education.fr  # (redirection from www.banqoutils.education.gouv.fr)
+listes.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=listes.education.fr, see https://crt.sh/?id=6924519368
 magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 collabora.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 etherpad.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
@@ -5637,6 +5683,7 @@ iva.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère
 orelie.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=orelie.orion.education.fr, see https://crt.sh/?id=5759203173
 pp-chorus-dt.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pp-chorus-dt.orion.education.fr, see https://crt.sh/?id=5940259581
 racvision.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=racvision.phm.education.gouv.fr, see https://crt.sh/?id=6894063289
+wa-be1d.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=wa-be1d.phm.education.gouv.fr, see https://crt.sh/?id=6971882971
 eedk.fr
 www.eedk.fr
 egliseargenteuil.fr
@@ -6233,6 +6280,7 @@ www.hautjurasaintclaude.fr
 hautlimousinenmarche.fr
 www.hautlimousinenmarche.fr
 hceres.fr
+listes.hceres.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=listes.education.fr, see https://crt.sh/?id=6924519368
 www.hceres.fr
 hcf-famille.fr
 hcfea.fr
@@ -6241,6 +6289,7 @@ hcfp.fr
 www.hcfp.fr
 hebecrevon.fr
 www.hebecrevon.fr
+etools.ody.helium-connect.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 hellemmes.fr
 www.hellemmes.fr
 hermillon.fr
@@ -6266,6 +6315,8 @@ hopital-sully.fr
 www.hopital-sully.fr
 hordain.fr
 www.hordain.fr
+horizon-2020.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, OU=DNE-PHE, CN=www.horizon2020.gouv.fr, see https://crt.sh/?id=7000646373
+www.horizon-2020.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, OU=DNE-PHE, CN=www.horizon2020.gouv.fr, see https://crt.sh/?id=7000646373
 houville.fr
 www.houville.fr
 huissier-justice.fr
@@ -6354,6 +6405,7 @@ www.info16cognac.fr
 infoasso32.fr
 www.infoasso32.fr
 site.infocom94.fr
+etools.infodelihemp.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 infofemmes-orne.fr
 www.infofemmes-orne.fr
 www.infojeunes-paca.fr  # (redirection from www.infojeunesse-paca.fr)
@@ -6412,6 +6464,7 @@ adminrdsgateway.ira-nantes.fr
 e-learning.ira-nantes.fr  # Found in cert of CN=adminbrocker.ira-nantes.fr, see https://crt.sh/?id=5706223632
 ird.fr
 www.ird.fr
+objects.mailinfo.irpauto.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 irsn.fr
 www.irsn.fr
 irstea.fr
@@ -6835,6 +6888,7 @@ magnieres.fr
 www.magnieres.fr
 maia-17.fr
 www.maia-17.fr
+objects.mailing-ordre-pharmacien.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 maillage.fr
 www.maillage.fr
 maine-et-loire.fr
@@ -7275,6 +7329,7 @@ www.handicap.manche.fr
 manderen.fr
 www.manderen.fr
 www.manderen-ritzing.fr  # (redirection from manderen.fr)
+objects.contact.manpower.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 www.maprimechauffagebois.fr
 marcesuresves.fr
 www.marcesuresves.fr
@@ -8182,6 +8237,7 @@ bundle-ministre-justice-20210930-01-ssl.on-web.fr  # from https://crt.sh/?id=531
 bundle-ministre-justice-20211221-01-ssl.on-web.fr  # from https://crt.sh/?id=5836912338
 bundle-ministre-justice-20220220-01-ssl.on-web.fr
 bundle-ministre-justice-20220422-01-ssl.on-web.fr  # Found in cert of CN=bundle-ministre-justice-20220422-01-ssl.on-web.fr, see https://crt.sh/?id=6590262555
+bundle-ministre-justice-20220622-01-ssl.on-web.fr  # Found in cert of CN=bundle-ministre-justice-20220622-01-ssl.on-web.fr, see https://crt.sh/?id=6983454721
 onac-vg.fr
 www.onac-vg.fr
 onacvg.fr
@@ -8532,6 +8588,7 @@ www.plumeliau.fr
 pluvault.fr
 www.pluvault.fr
 mairie-fosse.po-66.fr
+objects.com.pogotango.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 point-info-famille.fr
 point-infofamille.fr
 www.point-infofamille.fr
@@ -8650,6 +8707,7 @@ psp24.fr
 www.psp24.fr
 publisocial.fr
 www.publisocial.fr
+etools.puff-store.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 pugnac.fr
 www.pugnac.fr
 puiseuxlelhauberger.fr
@@ -9203,6 +9261,7 @@ souternon.fr
 www.souternon.fr
 soyez-cuirieux.fr
 www.soyez-cuirieux.fr
+etools.si.spikeelabs.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 sqyway1625.fr
 www.sqyway1625.fr
 st-andeol-le-chateau.fr
@@ -9357,6 +9416,8 @@ www.thononagglo.fr
 mairie.thurey.fr
 tiranges.fr
 www.tiranges.fr
+labase.tlscp.fr  # Found in cert of CN=labase.anct.gouv.fr, see https://crt.sh/?id=6991236590
+preprod.labase.tlscp.fr  # Found in cert of CN=preprod.labase.anct.gouv.fr, see https://crt.sh/?id=7077483481
 sonum.tlscp.fr
 tonnayboutonne.fr
 www.tonnayboutonne.fr
@@ -9654,6 +9715,8 @@ vdeagglo.fr
 www.vdeagglo.fr
 veauville-les-quelles.fr
 www.veauville-les-quelles.fr
+etools.info.vega-direct.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+etools.info.vega-services.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 velaine-en-haye.fr
 www.velaine-en-haye.fr
 velaux.fr
@@ -9926,6 +9989,7 @@ www.vouecourt.fr
 www.voulmentin.fr  # (redirection from saint-clementin.jimdo.com)
 vouvant.fr
 www.vouvant.fr
+objects.mailinfo.vrf.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 vrigny-notre-village.fr
 www.vrigny-notre-village.fr
 vyvs.fr
@@ -10064,6 +10128,7 @@ glfl.edu.lb
 lak.edu.lb
 www.lak.edu.lb
 lycee-verdun.edu.lb
+etools.april-beauty.lu  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 barreau-noumea.nc
 www.barreau-noumea.nc
 www.canc.nc  # (redirection from nouvelle-caledonie.chambre-agriculture.fr)
@@ -10088,6 +10153,7 @@ betpouey.net
 www.betpouey.net
 berbiguieres.blog4ever.net
 www.berbiguieres.blog4ever.net
+etools.rescue.breal.net  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 cairanne.net
 www.cairanne.net
 calcatoggio.net
@@ -10123,6 +10189,7 @@ www.espacemailiso.net
 fr.europol.net
 europolhq.net
 gendarmerie.net
+etools.generalcreditservices.net  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 zammad.dev.getinov.net  # Found in cert of CN=zammad1.diagoriente.beta.gouv.fr, see https://crt.sh/?id=6614894023
 guarbecque.net
 www.guarbecque.net
@@ -10393,6 +10460,7 @@ www.associations37.org
 86.assoligue.org
 www.86.assoligue.org
 attachefiscal.org
+autodiscover.attachefiscal.org  # Found in cert of CN=webmail.dgtresor.gouv.fr, see https://crt.sh/?id=7055644282
 sip.attachefiscal.org  # Found in cert of C=FR, L=PARIS, O=DIRECTION GENERALE DU TRESOR, OU=0002 12000032800019, CN=dgtresor.gouv.fr, serialNumber=S208650582, see https://crt.sh/?id=5023412859
 aubepierre-ozouer-le-repos.org
 www.aubepierre-ozouer-le-repos.org
@@ -10568,6 +10636,7 @@ www.delta7.org  # (redirection from www.delta7.asso.fr)
 doubsbaumois.org
 www.doubsbaumois.org
 adil.dromenet.org
+data.eig-forever.org  # Found in cert of CN=data.eig-forever.org, see https://crt.sh/?id=7076177651
 emploi-des-jeunes53.org
 www.emploi-des-jeunes53.org
 emploi-paysvoironnais.org
@@ -10977,6 +11046,8 @@ territoires.store  # Found in cert of CN=store.incubateur.anct.gouv.fr, see http
 eig-redirect.app.etalab.studio  # Found in cert of CN=eig-redirect.app.etalab.studio, see https://crt.sh/?id=5236558079
 init.app.etalab.studio  # Found in cert of CN=init.app.etalab.studio, see https://crt.sh/?id=5619787155
 suivi-ouverture.app.etalab.studio
+code.etalab.studio  # Found in cert of CN=data.eig-forever.org, see https://crt.sh/?id=7076177651
+communs.etalab.studio  # Found in cert of CN=data.eig-forever.org, see https://crt.sh/?id=7076177651
 init.etalab.studio  # Found in cert of CN=init.app.etalab.studio, see https://crt.sh/?id=5619787155
 app.staging.passculture.team
 backend.staging.passculture.team  # from https://crt.sh/?id=5253312670
@@ -10985,6 +11056,7 @@ app.testing.passculture.team
 backend.testing.passculture.team  # from https://crt.sh/?id=5249028770
 pro.testing.passculture.team
 rejoignez.wedo.team
+etools.club.zelive.tv  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
 www.villelarochesuryon
 mairie-de-melles.wix
 hiophoosho.xyz  # (redirection from chiroubles.fr)
