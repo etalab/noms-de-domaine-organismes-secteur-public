@@ -812,7 +812,6 @@ https://cdos57.com
 https://www.cdoslozere.com
 https://www.cdosvaucluse.com
 http://cellier-du-luc.com
-http://www.cellier-du-luc.com
 http://cenac-stjulien.com
 https://centre-corse.com
 https://www.centre-corse.com
@@ -1007,7 +1006,8 @@ https://www.collegelalinde.com
 https://collegelouisarmand.com
 https://www.collegeparentis.com
 https://collegepaulvallon.com
-https://colombey-les-deux-eglises.com
+http://colombey-les-deux-eglises.com
+http://www.colombey-les-deux-eglises.com
 http://colombierenperigord.com
 http://www.colombierenperigord.com
 http://colombiers.com
@@ -1017,7 +1017,6 @@ https://coltines.com
 https://www.coltines.com
 http://www.combertault.com
 https://www.comblessac.com
-https://hiver.combloux.com
 https://www.comcom-crozon.com
 https://www.comcomdompaire.com
 https://comcomdubonnevalais.com
@@ -3365,8 +3364,6 @@ https://www.saintpierreoleron.com
 https://www.saintprejetdallier.com
 https://www.saintpriestsousaixe.com
 https://saintprivatdudragon.com
-http://saintprojetdesalers.com
-http://www.saintprojetdesalers.com
 https://saintremydemaurienne.com
 https://www.saintremydemaurienne.com
 http://saintremyenrollat.com
@@ -3914,6 +3911,7 @@ https://viscomtat.com
 https://www.viscomtat.com
 https://visseiche.com
 https://www.visseiche.com
+http://vitry-aux-loges.com
 http://www.vitry-aux-loges.com
 https://vitry-sur-orne.com
 https://vivre-a-chail.com
@@ -7350,6 +7348,7 @@ http://armentieres.fr
 http://www.armentieres.fr
 https://armentieres-en-brie.fr
 https://armoy.fr
+https://arnage.fr
 https://www.arnage.fr
 http://www.arnas.fr
 https://www.arnaud-guilhem.fr
@@ -8956,7 +8955,7 @@ https://beyrede-jumet.fr
 https://www.beyrede-jumet.fr
 https://beyren-gandren.fr
 https://www.beyries.fr
-http://bez-et-esparon.fr
+https://bez-et-esparon.fr
 https://www.bezannes.fr
 http://bezaudun.fr
 https://beze.fr
@@ -10054,7 +10053,6 @@ https://www.castillonlabataille.fr
 https://www.castillonpujols.fr
 https://castin.fr
 https://www.castine-en-plaine.fr
-https://castres-gironde.fr
 https://www.castres-gironde.fr
 https://www.castres-mazamet.fr
 https://www.castries.fr
@@ -10214,7 +10212,6 @@ https://www.cc-gesnoisbilurien.fr
 http://www.cc-gevaudan.fr
 https://cc-golfedesainttropez.fr
 https://www.cc-golfedesainttropez.fr
-https://cc-gorgesardeche.fr
 https://www.cc-gorgesardeche.fr
 https://www.cc-guebwiller.fr
 https://www.cc-guingamp.fr
@@ -12940,7 +12937,6 @@ https://creney.fr
 https://creon-armagnac.fr
 https://www.creon-armagnac.fr
 https://crepol.fr
-http://creps-aquitaine.fr
 https://www.creps-nancy.fr
 https://www.creps-paca.fr
 https://www.creps-reunion.fr
@@ -16162,7 +16158,6 @@ https://www.formulaires.agriculture.gouv.fr
 http://ftp.agriculture.gouv.fr
 https://identification.agriculture.gouv.fr
 https://identification-pprd.agriculture.gouv.fr
-https://identificationv2-cas.agriculture.gouv.fr
 http://igc.agriculture.gouv.fr
 http://igc-agriculture-pprd.agriculture.gouv.fr
 http://igc-crl.agriculture.gouv.fr
@@ -17671,6 +17666,7 @@ http://enqueteur.sg-drh.developpement-durable.gouv.fr
 https://side.developpement-durable.gouv.fr
 http://revtc-ws.site-ecole.developpement-durable.gouv.fr
 http://www.sn-seine.developpement-durable.gouv.fr
+https://spote.developpement-durable.gouv.fr
 https://sso-rndts.developpement-durable.gouv.fr
 http://enqueteur.stac.developpement-durable.gouv.fr
 http://www.donnees.statistiques.developpement-durable.gouv.fr
@@ -17790,6 +17786,7 @@ https://normandie.drdjscs.gouv.fr
 https://nouvelle-aquitaine.drdjscs.gouv.fr
 http://www.nouvelle-aquitaine.drdjscs.gouv.fr
 https://paca.drdjscs.gouv.fr
+http://www.pays-de-la-loire.drdjscs.gouv.fr
 https://dreets.gouv.fr
 https://auvergne-rhone-alpes.dreets.gouv.fr
 https://bourgogne-franche-comte.dreets.gouv.fr
@@ -17809,7 +17806,6 @@ http://www.fc.drire.gouv.fr
 http://www.ggm.drire.gouv.fr
 http://www.picardie.drire.gouv.fr
 https://bretagne.drjscs.gouv.fr
-https://corse.drjscs.gouv.fr
 http://www.corse.drjscs.gouv.fr
 https://guadeloupe.drjscs.gouv.fr
 https://guyane.drjscs.gouv.fr
@@ -18662,7 +18658,6 @@ https://programme-candidats.interieur.gouv.fr
 https://qualif-psij.interieur.gouv.fr
 https://ansc.questionnaire.interieur.gouv.fr
 https://bas-rhin.questionnaire.interieur.gouv.fr
-https://cher.questionnaire.interieur.gouv.fr
 https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
 https://enquetes-mi.questionnaire.interieur.gouv.fr
@@ -18848,6 +18843,7 @@ http://www.livreblancdefenseetsecurite.gouv.fr
 http://comdalo.application.logement.gouv.fr
 http://comdalo.info.application.logement.gouv.fr
 https://sne.info.application.logement.gouv.fr
+https://spls.application.logement.gouv.fr
 http://www.atelier-territoires.logement.gouv.fr
 https://www.balae.logement.gouv.fr
 http://www.centres-bourgs.logement.gouv.fr
@@ -22427,6 +22423,7 @@ https://liffol-le-grand.fr
 https://www.liffre-cormier.fr
 https://www.liginiac.fr
 https://lignan-de-bordeaux.fr
+https://www.lignandebazas.fr
 https://www.ligne.fr
 https://www.lignerolles-03.fr
 https://www.ligneyrac.fr
@@ -25788,6 +25785,7 @@ https://www.mairiearcon.fr
 https://www.mairiearinthod.fr
 https://www.mairieathiesouslaon.fr
 http://www.mairieauthie.fr
+https://www.mairieauthieuxratieville.fr
 http://www.mairiebaccon.fr
 https://mairiebeceleuf.fr
 https://www.mairieberson.fr
@@ -25896,7 +25894,7 @@ https://www.mairiedefixin.fr
 https://mairiedefons.fr
 https://mairiedefontains.fr
 https://www.mairiedefontains.fr
-http://www.mairiedefours.fr
+https://www.mairiedefours.fr
 http://mairiedefresquiennes.fr
 http://www.mairiedefridefont.fr
 https://mairiedefumel.fr
@@ -28205,7 +28203,6 @@ https://mougins.fr
 https://mouguerre.fr
 https://mouhet.fr
 https://www.mouhet.fr
-http://www.mouledous65.fr
 http://moulezan.fr
 https://www.moulezan.fr
 http://moulidars.fr
@@ -32369,7 +32366,6 @@ https://www.saintpardoux79.fr
 https://www.saintparresauxtertres.fr
 https://www.saintpaterne-lechevain.fr
 https://saintpauldejarrat.fr
-https://www.saintpauldejarrat.fr
 https://saintpauldeserre.fr
 https://www.saintpauldevarces.fr
 https://saintpaulduzore.fr
@@ -32691,7 +32687,6 @@ http://stats.ars.sante.fr
 http://wanpa.ars.sante.fr
 https://www.ars.sante.fr
 https://atih.sante.fr
-https://docker-registry.binaires.atih.sante.fr
 https://cartographie.atih.sante.fr
 http://enc.atih.sante.fr
 https://epmsi.atih.sante.fr
@@ -33587,7 +33582,6 @@ https://www.souesmes.fr
 https://www.souffelweyersheim.fr
 https://www.souge.fr
 https://www.sougeleganelon.fr
-https://sougeresenpuisaye.fr
 https://souilhanels.fr
 https://www.souillac.fr
 http://www.souille72.fr
@@ -34566,7 +34560,7 @@ https://udaf69.fr
 https://www.udaf73.fr
 https://www.udaf74.fr
 https://www.udaf80.fr
-http://www.udaf85.fr
+https://www.udaf85.fr
 https://www.uffheim.fr
 https://www.uffholtz.fr
 https://www.ugap.fr
@@ -35395,7 +35389,6 @@ http://www.ville-ambert.fr
 https://www.ville-ambleteuse.fr
 https://www.ville-amboise.fr
 https://www.ville-andelys.fr
-https://ville-andilly-95.fr
 https://www.ville-andilly-95.fr
 https://www.ville-anet.fr
 https://ville-ansesdarlet.fr
@@ -36744,7 +36737,6 @@ https://www.villejuif.fr
 https://www.villejust.fr
 https://villelamentin971.fr
 http://villelaure.fr
-http://www.villelaure.fr
 https://villelefousseret.fr
 https://villeloin-coulange.fr
 https://www.villelongue.fr
@@ -36946,7 +36938,6 @@ https://vimoutiers.fr
 https://www.vimoutiers.fr
 http://www.vimy.fr
 https://vinantes.fr
-http://www.vinantes.fr
 http://vinassan.fr
 https://www.vinay.fr
 https://vinay51.fr
@@ -37303,7 +37294,7 @@ http://www.roura.gf
 https://www.guadeloupe.developpement-durable.gp
 http://agnin.info
 http://www.agnin.info
-http://amecourt.info
+https://amecourt.info
 https://www.amecourt.info
 https://angoustrine.info
 https://www.aranc.info
@@ -37678,7 +37669,6 @@ https://audioconf.incubateur.net
 https://dashlord.incubateur.net
 https://secretariat.incubateur.net
 https://www.info-jeune.net
-https://www.info-jeunes.net
 https://infomairie.net
 https://www.infomairie.net
 http://www.chatelperron.interco-abl.net
@@ -38364,6 +38354,7 @@ https://www.crij.org
 https://www.crijlimousin.org
 https://www.cs-segalatarnais.org
 https://mauleonais.csc79.org
+https://nueilaubiers.csc79.org
 https://csf-soissons.org
 https://www.cuvat.org
 https://www.delta7.org
