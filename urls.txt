@@ -743,7 +743,6 @@ https://www.cc-briance-combade.com
 https://cc-limouxin.com
 http://cc-malesherbois.com
 http://www.cc-malesherbois.com
-http://www.cc-mauron-broceliande.com
 https://www.cc-osartis.com
 https://www.cc-pays-huriel.com
 http://www.cc-pays-marollais.com
@@ -1093,7 +1092,6 @@ http://www.courtacon.com
 https://courtalain.com
 https://www.courzieu.com
 https://coyelaforet.com
-https://www.coyelaforet.com
 http://coyolles.com
 http://www.coyolles.com
 https://crantenoy.com
@@ -3240,7 +3238,6 @@ http://www.saintaignan53.com
 https://www.saintalbanauriolles.com
 https://www.saintamourjura.com
 https://www.saintandrederosans.com
-https://mairie.saintandredesangonis.com
 https://saintantoninduvar.com
 https://www.saintantoninduvar.com
 https://www.saintbarthelemy40.com
@@ -3375,7 +3372,7 @@ https://saintsauveurgouvernet.com
 https://www.saintsorlindarves.com
 https://saintsulpicedefaleyrens.com
 http://saintsylvestresurlot.com
-http://www.saintsylvestresurlot.com
+https://www.saintsylvestresurlot.com
 http://saintvaastdelongmont.com
 http://www.saintvaastdelongmont.com
 https://www.saintvalerien.com
@@ -3882,7 +3879,6 @@ https://villedomain.com
 https://www.villedomain.com
 https://villeducarbet.com
 https://www.villefort-cevennes.com
-https://www.villefranchesurcher.com
 https://villefrancoeur.com
 http://villeherviers.com
 http://www.villeherviers.com
@@ -4238,8 +4234,8 @@ https://www.2edb-leclerc.fr
 https://3-moutiers.fr
 http://isle-arne.3cag.fr
 https://www.3cag.fr
-http://3cbo.fr
-http://www.3cbo.fr
+https://3cbo.fr
+https://www.3cbo.fr
 https://www.3co-mayotte.fr
 https://www.3cvt.fr
 http://www.4-arpents.fr
@@ -4368,6 +4364,7 @@ http://www.cio-marseille-centre.ac-aix-marseille.fr
 http://www.cio-marseille-est.ac-aix-marseille.fr
 http://www.cio-marseille-littoral-nord.ac-aix-marseille.fr
 http://www.cio-martigues.ac-aix-marseille.fr
+http://cio-vaucluse.ac-aix-marseille.fr
 http://www.cio-vaucluse.ac-aix-marseille.fr
 https://www.clg-ailhaud.ac-aix-marseille.fr
 https://www.clg-amandeirets.ac-aix-marseille.fr
@@ -8778,7 +8775,6 @@ https://bellevigneenlayon.fr
 https://www.bellevigneenlayon.fr
 https://www.bellevigny.fr
 https://belleville54.fr
-https://www.belleville54.fr
 https://www.belley.fr
 https://www.belleydoux.fr
 https://www.bellignat.fr
@@ -10334,8 +10330,6 @@ https://www.cc-portesdevassiviere.fr
 https://www.cc-provinois.fr
 https://cc-pyreneeshautgaronnaises.fr
 https://cc-qrga.fr
-http://www.cc-ribeauville.fr
-http://www.cc-rocheauxfees.fr
 http://www.cc-russey.fr
 https://www.cc-sammiellois.fr
 https://www.cc-sarlatperigordnoir.fr
@@ -11640,7 +11634,6 @@ http://www.cierrey.fr
 https://www.cieurac.fr
 https://ciez.fr
 https://www.ciez.fr
-https://www.cigversailles.fr
 https://cilef-autun.fr
 https://www.cines.fr
 http://www.cinq-mars-la-pile.fr
@@ -12253,7 +12246,6 @@ https://www.communaute-paysbasque.fr
 https://communaute-saint-yrieix.fr
 https://www.communaute-saint-yrieix.fr
 http://communaute-urbaine-alencon.fr
-https://communaute-urbaine-dunkerque.fr
 https://www.communaute-urbaine-dunkerque.fr
 https://www.communautesoragout.fr
 https://www.communay.fr
@@ -17805,6 +17797,7 @@ https://ile-de-france.drjscs.gouv.fr
 https://martinique.drjscs.gouv.fr
 https://mayotte.drjscs.gouv.fr
 https://occitanie.drjscs.gouv.fr
+http://www.occitanie.drjscs.gouv.fr
 https://info.drogues.gouv.fr
 https://f.info.drogues.gouv.fr
 https://s.info.drogues.gouv.fr
@@ -18650,7 +18643,6 @@ https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
 https://enquetes-mi.questionnaire.interieur.gouv.fr
 https://gendarmerie.questionnaire.interieur.gouv.fr
-https://herault.questionnaire.interieur.gouv.fr
 https://indre.questionnaire.interieur.gouv.fr
 http://loire-atlantique.questionnaire.interieur.gouv.fr
 https://meuse.questionnaire.interieur.gouv.fr
@@ -18922,7 +18914,6 @@ https://4p-auth.modernisation.gouv.fr
 https://4p-auth-uat.modernisation.gouv.fr
 https://4p-saisie.modernisation.gouv.fr
 https://www.modernisation.gouv.fr
-https://monautotest.gouv.fr
 https://www.financeurs.moncompteformation.gouv.fr
 https://gestespaceprive.moncompteformation.gouv.fr
 https://www.of.moncompteformation.gouv.fr
@@ -19284,9 +19275,6 @@ https://api-toucantoco.dataviz-prod.sgpi.gouv.fr
 https://toucantoco.dataviz-prod.sgpi.gouv.fr
 https://propilot.dfakto-preprod.sgpi.gouv.fr
 https://propilot.dfakto-prod.sgpi.gouv.fr
-https://sidep.gouv.fr
-https://auth.sidep.gouv.fr
-https://www.sidep.gouv.fr
 https://snds.gouv.fr
 https://www.snds.gouv.fr
 https://admin.snu.gouv.fr
@@ -20041,7 +20029,6 @@ https://www.habas.fr
 https://www.habere-lullin.fr
 https://habere-poche.fr
 https://www.hadol.fr
-https://hadopi.fr
 https://www.hagenbach.fr
 https://www.hagenthal-le-bas.fr
 https://www.hagetaubin.fr
@@ -22977,6 +22964,7 @@ https://www.lycee-louis-vincent.fr
 https://lycee-louise-michel.fr
 https://www.lycee-luxembourg.fr
 https://lycee-malraux-biarritz.fr
+https://lycee-mandela.fr
 http://www.lycee-mandela-marseille.fr
 https://www.lycee-marc-chagall.fr
 https://www.lycee-marcel-dassault.fr
@@ -24228,8 +24216,8 @@ https://mairie-hunting.fr
 https://www.mairie-hunting.fr
 https://www.mairie-huriel.fr
 https://mairie-huttendorf.fr
-http://mairie-huttenheim.fr
-http://www.mairie-huttenheim.fr
+https://mairie-huttenheim.fr
+https://www.mairie-huttenheim.fr
 https://www.mairie-ibos.fr
 http://www.mairie-ida.fr
 https://mairie-ige.fr
@@ -24242,8 +24230,7 @@ https://mairie-ilerousse.fr
 https://www.mairie-illange.fr
 http://www.mairie-illierlaramade.fr
 http://mairie-illkirch-graffenstaden.fr
-http://mairie-injouxgenissiat.fr
-http://www.mairie-injouxgenissiat.fr
+https://www.mairie-injouxgenissiat.fr
 https://www.mairie-ippling.fr
 https://mairie-irodouer.fr
 https://www.mairie-irodouer.fr
@@ -28638,6 +28625,7 @@ https://chambre-haut-rhin-68.notaires.fr
 https://www.chambre-herault.notaires.fr
 https://chambre-interdep-08-10-51.notaires.fr
 https://chambre-interdepartementale-de-savoie.notaires.fr
+https://chambre-loire.notaires.fr
 https://www.chambre-loire-atlantique.notaires.fr
 http://chambre-lozere.notaires.fr
 http://www.chambre-lozere.notaires.fr
@@ -31409,7 +31397,6 @@ https://www.saint-maurice-en-gourgois.fr
 https://saint-maurice-en-riviere.fr
 http://saint-maurice67.fr
 http://www.saint-maurin.fr
-https://saint-max.fr
 https://www.saint-max.fr
 http://www.saint-mayme-de-pereyrol.fr
 https://www.saint-medard-daunis.fr
@@ -31879,6 +31866,7 @@ http://www.sainte-brigitte.fr
 https://sainte-catherine.fr
 https://sainte-ceronne-les-mortagne.fr
 https://sainte-colombe-en-auxois.fr
+https://www.sainte-colombe-en-auxois.fr
 http://www.sainte-colombe-lot.fr
 https://sainte-colombe-sur-seine.fr
 https://www.sainte-colombe-sur-seine.fr
@@ -33932,7 +33920,7 @@ https://sury-pres-lere.fr
 https://www.suryauxbois.fr
 https://suryesbois.fr
 https://www.surzur.fr
-http://sussac.fr
+https://sussac.fr
 https://www.suzannecourt.fr
 https://suzette-village.fr
 https://www.svl79.fr
