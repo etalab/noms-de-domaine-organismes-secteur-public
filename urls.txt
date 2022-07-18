@@ -1098,7 +1098,6 @@ https://crantenoy.com
 http://cravant-les-coteaux.com
 http://www.cravant-les-coteaux.com
 https://creches-sur-saone.com
-https://www.credit-municipal-lille.com
 http://creissan.com
 http://www.creissan.com
 https://www.cressonsacq.com
@@ -3376,7 +3375,6 @@ http://www.saintvaastdelongmont.com
 https://www.saintvalerien.com
 https://saintvallierdethiey.com
 https://saintvictordemalcap.com
-https://www.saintvictordemalcap.com
 https://saintvictorlacoste.com
 https://www.saintvictorlacoste.com
 https://www.saintvictorrouzaud.com
@@ -5404,7 +5402,6 @@ https://clg-mendesfrance-jacou.ac-montpellier.fr
 https://clg-mermoz-stlaurentdelasalanque.ac-montpellier.fr
 https://clg-michel-ganges.ac-montpellier.fr
 https://clg-mitterrand-clapiers.ac-montpellier.fr
-https://clg-mitterrand-toulouges.ac-montpellier.fr
 https://clg-montesquieu-narbonne.ac-montpellier.fr
 https://clg-mosson-montpellier.ac-montpellier.fr
 https://clg-moulin-arlessurtech.ac-montpellier.fr
@@ -6651,7 +6648,7 @@ https://www.agglo-saint-avold.fr
 https://www.agglo-saint-louis.fr
 https://www.agglo-saintes.fr
 https://www.agglo-saintquentinois.fr
-http://www.agglo-sarreguemines.fr
+https://www.agglo-sarreguemines.fr
 https://www.agglo-seine-eure.fr
 https://www.agglo-sudsaintebaume.fr
 https://www.agglo-thionville.fr
@@ -8452,7 +8449,7 @@ https://www.baraqueville.fr
 http://barbaste.fr
 http://www.barbaste.fr
 http://barbatre.fr
-http://www.barbatre.fr
+https://www.barbatre.fr
 https://barbazan-debat.fr
 https://www.barbazan-debat.fr
 https://barbentane.fr
@@ -9121,7 +9118,6 @@ https://www.boisdarcy.fr
 https://www.boisdecene.fr
 https://www.boisdennebourg.fr
 https://boisgervilly.fr
-https://www.boisleroy27.fr
 https://boisme.fr
 https://www.boisseron.fr
 https://boisset-cantal.fr
@@ -11275,7 +11271,6 @@ http://www.chateau-renard.fr
 http://chateau-salins.fr
 http://www.chateau-salins.fr
 https://www.chateau-sur-epte.fr
-http://www.chateau-thebaud.fr
 https://www.chateau-thierry.fr
 https://chateau-ville-vieille.fr
 https://www.chateaubourg.fr
@@ -12517,7 +12512,7 @@ https://communenouvellearrou.fr
 https://www.communeouchamps.fr
 http://www.communepujols33.fr
 http://communes-du-limouxin.fr
-https://communes-fursac.fr
+http://communes-fursac.fr
 http://www.communes-fursac.fr
 https://communesaintmaixentsurvie.fr
 https://communesaintoutrille.fr
@@ -12555,7 +12550,7 @@ https://www.condal.fr
 http://www.condamine.fr
 http://www.condat-les-montboissier.fr
 http://www.condat-sur-vezere.fr
-http://www.condat15.fr
+https://www.condat15.fr
 http://condatsurvienne.fr
 http://www.condatsurvienne.fr
 https://conde-en-brie.fr
@@ -13193,6 +13188,7 @@ https://dadonville.fr
 http://www.daglan.fr
 https://www.dagny77.fr
 https://www.dahlenheim.fr
+https://daignac.fr
 https://www.daignac.fr
 https://www.daix.fr
 https://www.dalhunden.fr
@@ -16138,6 +16134,7 @@ http://ftp.agriculture.gouv.fr
 https://identification.agriculture.gouv.fr
 https://identification-pprd.agriculture.gouv.fr
 http://igc.agriculture.gouv.fr
+http://ee.igc.agriculture.gouv.fr
 http://igc-agriculture-pprd.agriculture.gouv.fr
 http://igc-crl.agriculture.gouv.fr
 https://infographies.agriculture.gouv.fr
@@ -16720,6 +16717,7 @@ http://pol-ville.cget.gouv.fr
 https://usager-dauphin.cget.gouv.fr
 https://www.charente.gouv.fr
 https://www.charente-maritime.gouv.fr
+https://cheminsdememoire.gouv.fr
 https://www.cheminsdememoire.gouv.fr
 https://chequeenergie.gouv.fr
 https://www.chequeenergie.gouv.fr
@@ -18636,7 +18634,6 @@ https://qualif-psij.interieur.gouv.fr
 https://ansc.questionnaire.interieur.gouv.fr
 https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
-https://enquetes-mi.questionnaire.interieur.gouv.fr
 https://gendarmerie.questionnaire.interieur.gouv.fr
 https://indre.questionnaire.interieur.gouv.fr
 http://loire-atlantique.questionnaire.interieur.gouv.fr
@@ -19402,6 +19399,7 @@ https://www.fabrique.social.gouv.fr
 https://gitlab.factory.social.gouv.fr
 https://registry.gitlab.factory.social.gouv.fr
 https://honorabilite-depose.social.gouv.fr
+https://mdmstore.social.gouv.fr
 https://peps.social.gouv.fr
 https://pjm.social.gouv.fr
 https://efsm.pjm.social.gouv.fr
@@ -20657,14 +20655,12 @@ https://www.jonquieres.fr
 https://www.jonquieres34.fr
 https://www.jonzier-epagny.fr
 https://jonzieux.fr
-http://lyc.joseph-constant.fr
 https://www.josephgaillardweb.fr
 https://josse.fr
 https://www.josse.fr
 https://jossigny.fr
 https://www.jouarre.fr
 https://jouars-pontchartrain.fr
-https://www.jouars-pontchartrain.fr
 https://joucas.fr
 https://www.joue-du-plain.fr
 https://joue-en-charnie.fr
@@ -21795,7 +21791,6 @@ http://www.le-monestier-mairie.fr
 https://www.le-passage-en-dauphine.fr
 https://le-pavillon-sainte-julie.fr
 https://www.le-peage-de-roussillon.fr
-http://www.le-pin.fr
 https://www.le-plessis-aux-bois.fr
 https://www.le-plessis-feu-aussoux.fr
 https://le-pradal.fr
@@ -22484,7 +22479,6 @@ https://livry-sur-seine.fr
 https://www.livry-sur-seine.fr
 https://www.livrylouvercy.fr
 https://www.lixinglesrouhling.fr
-http://www.lizac.fr
 https://www.lizio.fr
 http://lizy-sur-ourcq.fr
 http://www.lizy-sur-ourcq.fr
@@ -24766,7 +24760,7 @@ https://mairie-peyrignac.fr
 https://www.mairie-peyrignac.fr
 https://www.mairie-peyrole.fr
 http://mairie-pezilla-riviere.fr
-http://www.mairie-pezilla-riviere.fr
+https://www.mairie-pezilla-riviere.fr
 http://www.mairie-piegroslaclastre.fr
 https://mairie-piegut.fr
 https://www.mairie-piegut.fr
@@ -28393,7 +28387,6 @@ https://www.neaufles-saint-martin.fr
 https://www.neauphlette.fr
 http://www.nebouzat63.fr
 https://www.nedde.fr
-http://neewiller.fr
 https://www.neewiller.fr
 https://neffies.fr
 https://negrondes.fr
@@ -28518,7 +28511,7 @@ https://www.nimes-metropole.fr
 https://www.niortagglo.fr
 https://www.nissan-lez-enserune.fr
 https://www.nivelle.fr
-http://nivigne-et-suran.fr
+https://www.nivigne-et-suran.fr
 https://www.nivillac.fr
 https://www.nivolas-vermelle.fr
 https://nlh60.fr
@@ -34016,6 +34009,7 @@ https://www.terce.fr
 https://terdeghem.fr
 https://ternand.fr
 https://ternant.fr
+https://www.ternant.fr
 http://ternant17.fr
 https://www.ternant17.fr
 https://www.ternay.fr
@@ -34042,7 +34036,6 @@ https://www.terresdeperche.fr
 https://www.terresdesconfluences.fr
 https://terresduhautberry.fr
 https://www.territoire-energie53.fr
-https://territoiresvendomois.fr
 https://www.territoiresvendomois.fr
 https://terroirdecaux.fr
 https://www.terroirdecaux.fr
@@ -34830,8 +34823,6 @@ https://vandenesse58.fr
 http://www.vandeuil.fr
 https://www.vandieres54.fr
 https://www.vandoeuvre.fr
-http://vandoncourt.fr
-http://www.vandoncourt.fr
 http://www.vandrimare.fr
 https://vanne-70.fr
 https://vannes-sur-cosson.fr
@@ -35837,7 +35828,6 @@ https://www.ville-hegenheim.fr
 https://www.ville-hem.fr
 https://www.ville-herbault.fr
 https://ville-herin.fr
-https://www.ville-herin.fr
 https://www.ville-hermes.fr
 https://ville-hersin-coupigny.fr
 https://www.ville-hesingue.fr
@@ -37064,7 +37054,6 @@ https://wagnonville.fr
 https://www.wahlbach.fr
 https://wahlenheim.fr
 https://walbach.fr
-https://www.walbach.fr
 http://www.waldhouse.fr
 https://www.waldolwisheim.fr
 https://walheim.fr
