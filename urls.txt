@@ -255,6 +255,7 @@ http://agglodieppe-maritime.com
 http://www.agglodieppe-maritime.com
 http://www.aguilcourt.com
 http://aiguefonde.com
+http://www.aiguefonde.com
 http://www.aigueze.com
 http://aiguines.com
 https://aijam.com
@@ -2514,7 +2515,6 @@ http://maury-village.com
 http://www.maury-village.com
 https://mazerolles64.com
 https://mazet-st-voy.com
-https://mb-agglo.com
 https://www.mb-agglo.com
 https://www.medecins-degarde.com
 https://mediance66.com
@@ -3055,7 +3055,7 @@ https://www.pyrenees-cerdagne.com
 https://www.quemper-guezennec.com
 https://www.quessoy.com
 https://www.queven.com
-http://www.quincy-voisins.com
+https://www.quincy-voisins.com
 https://www.quinsac33.com
 https://quomodo.com
 https://www.quomodo.com
@@ -11740,7 +11740,6 @@ http://clety.fr
 http://www.clety.fr
 https://www.clevilliers.fr
 http://clg-barthelemy-nangis.fr
-https://clg-camille-claudel-latresne.fr
 https://clg-capucins-melun.fr
 https://clg-cmonetbussy.fr
 https://www.clg-genevoix.fr
@@ -12296,7 +12295,6 @@ http://commune-de-senlisse.fr
 http://www.commune-de-senlisse.fr
 http://www.commune-de-soumensac.fr
 http://commune-de-toussaint.fr
-https://www.commune-de-toussaint.fr
 http://www.commune-de-val-de-dagne.fr
 http://commune-de-valdurenque.fr
 https://www.commune-de-voue.fr
@@ -16662,7 +16660,6 @@ http://www.rdvmun.bouches-du-rhone.gouv.fr
 https://www.bouches-du-rhone.gouv.fr
 http://bougezautrement.gouv.fr
 http://www.bougezautrement.gouv.fr
-https://transnum.bourgogne-franche-comte.gouv.fr
 https://www.brexit.gouv.fr
 https://www.tipi.budget.gouv.fr
 https://www.tipi-client.budget.gouv.fr
@@ -16952,7 +16949,6 @@ https://data.widgets.dashboard.covid19.data.gouv.fr
 https://demo.data.gouv.fr
 https://dev.data.gouv.fr
 https://doc.data.gouv.fr
-http://production.entreprise.data.gouv.fr
 https://sandbox1.entreprise.data.gouv.fr
 https://sandbox2.entreprise.data.gouv.fr
 https://files.data.gouv.fr
@@ -17263,7 +17259,6 @@ http://enqueteur.dde-drome.developpement-durable.gouv.fr
 http://enqueteur.dde-maine-et-loire.developpement-durable.gouv.fr
 http://enqueteur.deal971.developpement-durable.gouv.fr
 http://www.deb.developpement-durable.gouv.fr
-https://declarationindustrielsphyto.developpement-durable.gouv.fr
 https://www.declarationpollution.developpement-durable.gouv.fr
 https://demarches.developpement-durable.gouv.fr
 http://enqueteur.dgac.developpement-durable.gouv.fr
@@ -18565,7 +18560,6 @@ https://fourrieres.interieur.gouv.fr
 https://preproduction.fourrieres.interieur.gouv.fr
 https://qualification.fourrieres.interieur.gouv.fr
 https://admin.gendarmerie.interieur.gouv.fr
-https://stsisi.confluence-sdsi.gendarmerie.interieur.gouv.fr
 http://crl.gendarmerie.interieur.gouv.fr
 https://cyberimpact.gendarmerie.interieur.gouv.fr
 https://development-center-mhp.gendarmerie.interieur.gouv.fr
@@ -25996,7 +25990,6 @@ https://www.mairielaveyrune.fr
 https://www.mairielebignon.fr
 http://www.mairieleboulin.fr
 https://mairielejardin.fr
-https://www.mairielejardin.fr
 https://mairielemazeau.fr
 https://mairielesforges.fr
 https://mairielesgras.fr
@@ -26573,7 +26566,6 @@ https://www.meailles.fr
 https://www.meallet.fr
 http://www.meaulne.fr
 http://www.meaulte.fr
-http://www.meautis.fr
 https://meauxlamontagne.fr
 https://www.meauxlamontagne.fr
 http://www.meauzac.fr
@@ -29753,6 +29745,7 @@ https://www.pommeuse.fr
 http://www.pommevic.fr
 https://pommierdebeaurepaire.fr
 https://www.pomoy.fr
+https://pompaire.fr
 https://www.pompejac.fr
 http://pompey.fr
 http://www.pompey.fr
@@ -30362,7 +30355,6 @@ https://rhodes57.fr
 https://www.rhone.fr
 https://www.rhonecrussol.fr
 https://rhuis60.fr
-http://www.rhuis60.fr
 https://www.riaille.fr
 https://www.rians18.fr
 https://www.riasirach.fr
@@ -31486,7 +31478,6 @@ https://saint-priest-des-champs.fr
 https://www.saint-priest-des-champs.fr
 https://saint-priest-en-jarez.fr
 https://saint-prim.fr
-https://www.saint-prim.fr
 http://www.saint-privat-19.fr
 http://saint-privat-ardeche.fr
 http://www.saint-privat-ardeche.fr
@@ -31782,8 +31773,7 @@ https://www.saintcrepin.fr
 https://www.saintcricqchalosse.fr
 https://www.saintcricqvilleneuve.fr
 https://www.saintcyprien.fr
-http://saintcyprien24.fr
-http://www.saintcyprien24.fr
+https://www.saintcyprien24.fr
 https://www.saintcyprienenperigord.fr
 https://saintcyr71.fr
 https://www.saintcyr78.fr
@@ -34087,6 +34077,7 @@ https://thiouville.fr
 https://www.thiouville.fr
 https://thivars.fr
 https://www.thiviers.fr
+https://thizylesbourgs.fr
 http://www.thizylesbourgs.fr
 https://thoard04.fr
 https://thoiras.fr
@@ -34309,7 +34300,7 @@ https://www.tregastel.fr
 https://www.treglamus.fr
 https://www.treglonou.fr
 https://tregourez.fr
-http://tregrom.fr
+https://tregrom.fr
 https://www.tregrom.fr
 https://treguennec.fr
 https://www.treguennec.fr
@@ -38222,7 +38213,6 @@ http://www.cdg25.org
 http://cdg42.org
 http://www.cdg42.org
 https://www.cdg973.org
-https://cdos21.org
 https://cdos33.org
 https://cdos47.org
 https://cdos64.org
