@@ -437,7 +437,7 @@ https://www.bassin-de-marennes.com
 https://www.bastelicaccia.com
 https://bastidedesjourdans.com
 https://batie-montgascon.com
-https://baudreix.com
+http://baudreix.com
 http://www.baudreix.com
 https://www.bazaaretcompagnie.com
 https://bazoncourt.com
@@ -2244,6 +2244,7 @@ https://www.mairie-leluc.com
 http://www.mairie-les-eglisottes.com
 https://mairie-les-martys.com
 https://www.mairie-lescontamines.com
+http://mairie-lesmatheslapalmyre.com
 http://www.mairie-lesmatheslapalmyre.com
 https://www.mairie-lesmees04.com
 https://mairie-levignac.com
@@ -3082,6 +3083,7 @@ https://revel-belledonne.com
 http://www.revel-belledonne.com
 https://www.revel-lauragais.com
 http://www.riantec.com
+https://richebourg62.com
 https://rimbach-zell.com
 https://www.rimbach-zell.com
 https://www.robion-mairie.com
@@ -4351,6 +4353,7 @@ http://cio-la-ciotat.ac-aix-marseille.fr
 http://www.cio-la-ciotat.ac-aix-marseille.fr
 http://www.cio-marseille-centre.ac-aix-marseille.fr
 http://www.cio-marseille-est.ac-aix-marseille.fr
+http://cio-marseille-littoral-nord.ac-aix-marseille.fr
 http://www.cio-marseille-littoral-nord.ac-aix-marseille.fr
 http://cio-martigues.ac-aix-marseille.fr
 http://www.cio-martigues.ac-aix-marseille.fr
@@ -5504,7 +5507,6 @@ http://clg-alfred-de-musset-patay.tice.ac-orleans-tours.fr
 http://clg-anatole-france-tours.tice.ac-orleans-tours.fr
 http://clg-andre-bauchant-chateau-renault.tice.ac-orleans-tours.fr
 http://clg-andre-chene-les-jacobins-fleury-les-aubrais.tice.ac-orleans-tours.fr
-http://clg-andre-duchesne-l-ile-bouchard.tice.ac-orleans-tours.fr
 http://clg-anthonioz-les-bordes.tice.ac-orleans-tours.fr
 http://clg-arche-du-lude-joue-les-tours.tice.ac-orleans-tours.fr
 http://clg-balzac-azay-le-rideau.tice.ac-orleans-tours.fr
@@ -5581,7 +5583,6 @@ http://clg-les-petits-sentiers-luce.tice.ac-orleans-tours.fr
 http://clg-les-pressigny-selles-sur-cher.tice.ac-orleans-tours.fr
 http://clg-les-provinces-blois.tice.ac-orleans-tours.fr
 http://clg-lorris.tice.ac-orleans-tours.fr
-http://clg-louis-bleriot-toury.tice.ac-orleans-tours.fr
 http://clg-louis-pasteur-moree.tice.ac-orleans-tours.fr
 http://clg-louis-pergaud-courville-sur-eure.tice.ac-orleans-tours.fr
 http://clg-marcel-carne-vineuil.tice.ac-orleans-tours.fr
@@ -5600,7 +5601,6 @@ http://clg-neuville-aux-bois.tice.ac-orleans-tours.fr
 http://clg-patrick-baudry-nouatre.tice.ac-orleans-tours.fr
 http://clg-pergaud-neung.tice.ac-orleans-tours.fr
 http://clg-philibertlautissier-lignieres.tice.ac-orleans-tours.fr
-http://clg-philippe-de-commynes-tours.tice.ac-orleans-tours.fr
 http://clg-picasso-chalette.tice.ac-orleans-tours.fr
 http://clg-pierre-auguste-renoir-ferrieres-en-gatinais.tice.ac-orleans-tours.fr
 http://clg-pierre-corneille-tours.tice.ac-orleans-tours.fr
@@ -6869,7 +6869,6 @@ http://www.ambleny.fr
 https://amblie.fr
 https://www.amblie.fr
 https://www.ambon.fr
-http://www.ambonnay.fr
 https://www.ambrault.fr
 https://ambres.fr
 https://ambronay.fr
@@ -8213,8 +8212,8 @@ http://avermes.fr
 https://www.avermes.fr
 https://avernes95.fr
 https://avesnelles.fr
-http://avesnes-les-aubert.fr
-http://www.avesnes-les-aubert.fr
+https://avesnes-les-aubert.fr
+https://www.avesnes-les-aubert.fr
 https://www.avesnes-sur-helpe.fr
 https://www.avesneslesec.fr
 https://aveyron.fr
@@ -9041,7 +9040,7 @@ https://bleigny-le-carreau.fr
 https://www.bleigny-le-carreau.fr
 https://www.bleneau.fr
 http://blennes.fr
-http://www.blennes.fr
+https://www.blennes.fr
 https://www.blenod.fr
 https://www.blesle.fr
 https://www.bletterans.fr
@@ -10890,7 +10889,6 @@ https://www.ch-falaise.fr
 https://www.ch-lafere.fr
 https://www.ch-lasouterraine.fr
 https://www.ch-lecateau.fr
-http://www.ch-vienne.fr
 http://www.chabanais.fr
 https://www.chabaniere.fr
 https://www.chabons.fr
@@ -11860,7 +11858,7 @@ https://www.cmnc03.fr
 https://www.cnam.fr
 https://www.cnc.fr
 https://www.cnccep.fr
-http://www.cnccfp.fr
+https://www.cnccfp.fr
 https://www.cncdh.fr
 https://www.cnctr.fr
 https://www.cned.fr
@@ -15922,8 +15920,6 @@ https://www.gignac46.fr
 https://www.gignaclanerthe.fr
 https://gigny-sur-saone.fr
 https://www.gigny-sur-saone.fr
-https://gigondas-dm.fr
-https://www.gigondas-dm.fr
 http://gildwiller.fr
 http://www.gildwiller.fr
 http://gilette.fr
@@ -16201,6 +16197,7 @@ https://enregistrement.tes.ants.gouv.fr
 https://timbres.ants.gouv.fr
 https://ihm-pva.timbres.ants.gouv.fr
 https://api.gouv.fr
+https://auth.api.gouv.fr
 https://calendrier.api.gouv.fr
 https://datapass.api.gouv.fr
 https://datapass-staging.api.gouv.fr
@@ -16663,6 +16660,7 @@ https://certificat-air.gouv.fr
 https://www.certificat-air.gouv.fr
 https://www.cetu.gouv.fr
 https://classes-virtuelles.cfssi.gouv.fr
+http://cget.gouv.fr
 https://agent-dauphin.cget.gouv.fr
 https://esb.cget.gouv.fr
 http://lab-egalite-citoyennete.cget.gouv.fr
@@ -17085,7 +17083,6 @@ https://www.grle.terre.defense.gouv.fr
 https://www.info-reglement.terre.defense.gouv.fr
 https://www.lycee-militaire-autun.terre.defense.gouv.fr
 https://www.lycee-militaire-prytanee.terre.defense.gouv.fr
-https://www.lycee-militaire-st-cyr.terre.defense.gouv.fr
 https://www.rap35.terre.defense.gouv.fr
 https://www.rc12.terre.defense.gouv.fr
 https://www.re4.terre.defense.gouv.fr
@@ -17211,7 +17208,6 @@ http://enqueteur.cifp-toulouse.developpement-durable.gouv.fr
 http://www.cmvrh.developpement-durable.gouv.fr
 http://www.cne.developpement-durable.gouv.fr
 http://www.cnps.developpement-durable.gouv.fr
-https://resultats.concours.developpement-durable.gouv.fr
 https://www.concours.developpement-durable.gouv.fr
 http://www.consultations-publiques.developpement-durable.gouv.fr
 http://enqueteur.correze.developpement-durable.gouv.fr
@@ -17410,7 +17406,6 @@ http://www.geoinformations.developpement-durable.gouv.fr
 https://www.geolittoral.developpement-durable.gouv.fr
 https://geopred.developpement-durable.gouv.fr
 http://geostandards.developpement-durable.gouv.fr
-https://geothermie.developpement-durable.gouv.fr
 https://www.geothermie.developpement-durable.gouv.fr
 https://www.grand-est.developpement-durable.gouv.fr
 https://www.dm.guadeloupe.developpement-durable.gouv.fr
@@ -18272,7 +18267,6 @@ https://www.mieist.finances.gouv.fr
 https://www.minefiterm.finances.gouv.fr
 https://odyssee.finances.gouv.fr
 https://oo.finances.gouv.fr
-https://padi3.finances.gouv.fr
 https://pda-catalogue.finances.gouv.fr
 https://rebeca-documentation.finances.gouv.fr
 http://www.repere3.finances.gouv.fr
@@ -18833,6 +18827,7 @@ https://via.mentor.gouv.fr
 https://video.mentor.gouv.fr
 https://mer.gouv.fr
 https://contact.mer.gouv.fr
+https://sondage-rsm.mer.gouv.fr
 https://www.mer.gouv.fr
 https://www.archive-concertation.merlittoral2030.gouv.fr
 https://concertation.merlittoral2030.gouv.fr
@@ -19230,7 +19225,6 @@ https://minio.data.social.gouv.fr
 https://demat.social.gouv.fr
 https://www.demat.social.gouv.fr
 https://dgcs-alt.social.gouv.fr
-https://dgcs-pp.social.gouv.fr
 https://dgcs-prod.social.gouv.fr
 https://eye.diffusion.social.gouv.fr
 https://forms.diffusion.social.gouv.fr
@@ -19629,6 +19623,7 @@ https://www.intefp.travail-emploi.gouv.fr
 https://liste-noire.travail-emploi.gouv.fr
 https://www.liste-noire.travail-emploi.gouv.fr
 https://poem.travail-emploi.gouv.fr
+https://post-ter.travail-emploi.gouv.fr
 https://www.teleaccords.travail-emploi.gouv.fr
 https://transco.travail-emploi.gouv.fr
 https://saisine.trouvermonmaster.gouv.fr
@@ -19638,7 +19633,7 @@ https://www.vae.gouv.fr
 https://www.val-de-marne.gouv.fr
 https://www.val-doise.gouv.fr
 https://www.rdv.var.gouv.fr
-http://www.var.gouv.fr
+https://www.var.gouv.fr
 https://www.rdv.vaucluse.gouv.fr
 http://www.vaucluse.gouv.fr
 https://www.rdv.vendee.gouv.fr
@@ -23142,7 +23137,7 @@ https://www.lycees-dinan.fr
 http://www.lycees-publics-chauny.fr
 https://www.lyceesaintgermain.fr
 https://www.lyceesaintlouis.fr
-https://www.lyceeschamplain.fr
+http://www.lyceeschamplain.fr
 https://lyceeschweitzer.fr
 https://www.lyceeschwendi.fr
 https://lyceesdesmetiers-coutances.fr
@@ -26281,8 +26276,6 @@ https://www.marions.fr
 https://marius03420.fr
 https://www.marius03420.fr
 https://www.marlenheim.fr
-https://marlesenbrie.fr
-http://www.marlesenbrie.fr
 https://marlhes.fr
 https://www.marlioz.fr
 https://www.marly.fr
@@ -26694,7 +26687,6 @@ https://metropole-dijon.fr
 https://www.metropole-dijon.fr
 https://metropole-rouen-normandie.fr
 https://www.metropole-rouen-normandie.fr
-https://metropolegrandparis.fr
 https://www.metropolegrandparis.fr
 https://metropoletpm.fr
 https://www.mettray.fr
@@ -29684,7 +29676,6 @@ http://www.polminhac.fr
 https://pomarez.fr
 https://www.pomarez.fr
 https://www.pombliere-saint-marcel.fr
-https://www.pomerols.fr
 https://www.pomeys.fr
 http://pommera.fr
 http://www.pommera.fr
@@ -33338,7 +33329,7 @@ https://sixt-sur-aff.fr
 https://www.sjdcrieulon.fr
 https://www.sjlm.fr
 https://www.slve.fr
-https://smac14.fr
+http://smac14.fr
 http://www.smac14.fr
 http://smaemv.fr
 http://www.smaemv.fr
@@ -33573,6 +33564,7 @@ https://www.st-just-luzac.fr
 https://www.st-just-sauvage.fr
 https://st-laurent39.fr
 https://www.st-laurent39.fr
+https://st-marcel-d-urfe.fr
 https://st-marcellin-vaison.fr
 https://www.st-martial-de-vitaterne.fr
 https://www.st-martin-de-jussac.fr
@@ -34636,7 +34628,6 @@ https://www.valdisere.fr
 https://www.valdivienne.fr
 https://www.valdize.fr
 https://www.valdoie-formation.fr
-https://valdoise.fr
 https://cij.valdoise.fr
 https://www.mdph.valdoise.fr
 https://www.valdoise.fr
