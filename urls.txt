@@ -5601,6 +5601,7 @@ http://clg-neuville-aux-bois.tice.ac-orleans-tours.fr
 http://clg-patrick-baudry-nouatre.tice.ac-orleans-tours.fr
 http://clg-pergaud-neung.tice.ac-orleans-tours.fr
 http://clg-philibertlautissier-lignieres.tice.ac-orleans-tours.fr
+http://clg-philippe-de-commynes-tours.tice.ac-orleans-tours.fr
 http://clg-picasso-chalette.tice.ac-orleans-tours.fr
 http://clg-pierre-auguste-renoir-ferrieres-en-gatinais.tice.ac-orleans-tours.fr
 http://clg-pierre-corneille-tours.tice.ac-orleans-tours.fr
@@ -5633,6 +5634,7 @@ http://clg-victor-hugo-bourges.tice.ac-orleans-tours.fr
 http://clg-victor-hugo-chartres.tice.ac-orleans-tours.fr
 http://clg-victor-hugo-puiseaux.tice.ac-orleans-tours.fr
 http://clg-villemandeur.tice.ac-orleans-tours.fr
+http://col-helene-boucher-chartres.tice.ac-orleans-tours.fr
 http://er-simone-veil-amilly.tice.ac-orleans-tours.fr
 http://lp-jean-felix-paulsen-chateaudun.tice.ac-orleans-tours.fr
 http://lyc-jean-de-berry-bourges.tice.ac-orleans-tours.fr
@@ -16441,6 +16443,7 @@ https://docs.dev.camino.beta.gouv.fr
 https://geo.dev.camino.beta.gouv.fr
 http://storybook.dev.camino.beta.gouv.fr
 https://docs.camino.beta.gouv.fr
+https://geo.camino.beta.gouv.fr
 https://preprod.camino.beta.gouv.fr
 https://docs.preprod.camino.beta.gouv.fr
 https://stats.preprod.camino.beta.gouv.fr
@@ -19323,7 +19326,6 @@ https://waked.fabrique.social.gouv.fr
 https://webhook-archifiltre.fabrique.social.gouv.fr
 https://webhook-egapro.fabrique.social.gouv.fr
 https://webhook-fabrique.fabrique.social.gouv.fr
-https://webhook-monsuivipsy.fabrique.social.gouv.fr
 https://webhook-ozensemble.fabrique.social.gouv.fr
 https://webhook-sample-next-app.fabrique.social.gouv.fr
 https://www.fabrique.social.gouv.fr
