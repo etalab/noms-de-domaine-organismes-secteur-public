@@ -201,7 +201,6 @@ https://saintehelenesurmer.bzh
 https://www.scaer.bzh
 https://scrignac.bzh
 https://www.sene.bzh
-http://www.sevignac.bzh
 https://www.sivalodet.bzh
 http://st-andre-des-eaux22.bzh
 https://www.syndicateauxbasleon.bzh
@@ -2650,6 +2649,7 @@ https://montgenevre.com
 https://www.monthion.com
 https://www.monthodon.com
 https://www.montigny-lengrain.com
+https://montjoi11.com
 https://www.montlucon.com
 https://montmartre-guide.com
 https://www.montmelian.com
@@ -5497,7 +5497,6 @@ https://greta.ac-normandie.fr
 https://www.ac-normandie.fr
 https://gretaformation.ac-orleans-tours.fr
 http://clg-alain-fournier-orleans.tice.ac-orleans-tours.fr
-http://clg-albert-camus-briare.tice.ac-orleans-tours.fr
 http://clg-albert-camus-dreux.tice.ac-orleans-tours.fr
 http://clg-albert-camus-vierzon.tice.ac-orleans-tours.fr
 http://clg-albert-sidoisne-bonneval.tice.ac-orleans-tours.fr
@@ -6009,7 +6008,6 @@ http://www.clg-brossolette-chatenay.ac-versailles.fr
 http://www.clg-bruyere-osny.ac-versailles.fr
 http://www.clg-bruyeres-courbevoie.ac-versailles.fr
 http://www.clg-bude-yerres.ac-versailles.fr
-http://www.clg-buisson-juvisy.ac-versailles.fr
 http://www.clg-bullant-ecouen.ac-versailles.fr
 http://www.clg-camus-argenteuil.ac-versailles.fr
 http://www.clg-camus-bois-colombes.ac-versailles.fr
@@ -6023,7 +6021,6 @@ http://www.clg-cedre-vesinet.ac-versailles.fr
 http://www.clg-cesaire-ezanville.ac-versailles.fr
 http://www.clg-chabanne-pontoise.ac-versailles.fr
 http://www.clg-champaigne-lemesnil.ac-versailles.fr
-http://www.clg-champollion-voisins.ac-versailles.fr
 http://www.clg-champs-garenne.ac-versailles.fr
 http://www.clg-chantemerle-corbeil.ac-versailles.fr
 http://www.clg-chantereine-sarcelles.ac-versailles.fr
@@ -6037,7 +6034,6 @@ http://www.clg-clef-st-pierre-elancourt.ac-versailles.fr
 http://www.clg-clemenceau-mantes.ac-versailles.fr
 http://www.clg-clement-colombes.ac-versailles.fr
 http://www.clg-clervoy-franconville.ac-versailles.fr
-http://www.clg-cocteau-maisons-laffitte.ac-versailles.fr
 http://www.clg-colette-sartrouville.ac-versailles.fr
 http://www.clg-condorcet-dourdan.ac-versailles.fr
 http://www.clg-cotton-argenteuil.ac-versailles.fr
@@ -6415,7 +6411,6 @@ http://www.lyc-girard-malakoff.ac-versailles.fr
 http://www.lyc-hautil-jouy.ac-versailles.fr
 http://www.lyc-henderson-arnouville.ac-versailles.fr
 http://www.lyc-hoche-versailles.ac-versailles.fr
-http://www.lyc-hotellerie-guyancourt.ac-versailles.fr
 http://www.lyc-ionesco-issy.ac-versailles.fr
 http://www.lyc-jaures-chatenay.ac-versailles.fr
 http://www.lyc-kandinsky-neuilly.ac-versailles.fr
@@ -9241,8 +9236,6 @@ https://boulin.fr
 https://www.boulin.fr
 http://www.boullay-les-troux.fr
 http://www.boulleville.fr
-http://bouloc-en-quercy.fr
-http://www.bouloc-en-quercy.fr
 https://bouloire.fr
 https://www.boulonmonvillage.fr
 https://boult.fr
@@ -10448,7 +10441,6 @@ https://gard.cci.fr
 https://www.gard.cci.fr
 https://www.gers.cci.fr
 https://www.grandest.cci.fr
-https://www.haute-saone.cci.fr
 https://www.haute-savoie.cci.fr
 http://hautes-alpes.cci.fr
 http://www.hautes-alpes.cci.fr
@@ -12341,7 +12333,6 @@ https://www.commune-oust.fr
 https://www.commune-palladuc.fr
 https://commune-palleau.fr
 https://www.commune-palleau.fr
-https://commune-paucourt.fr
 http://commune-payre.fr
 http://www.commune-payre.fr
 https://www.commune-ploudaniel.fr
@@ -17266,7 +17257,6 @@ https://meloffice.din.developpement-durable.gouv.fr
 https://nexus-forge.din.developpement-durable.gouv.fr
 https://nexus-forge-preprod.din.developpement-durable.gouv.fr
 https://exploitation.dir.nord.din.developpement-durable.gouv.fr
-https://gescpr.dir.nord.din.developpement-durable.gouv.fr
 https://oedipp.din.developpement-durable.gouv.fr
 https://partage.din.developpement-durable.gouv.fr
 https://pegase.din.developpement-durable.gouv.fr
@@ -17376,7 +17366,7 @@ http://www.expo14-18.developpement-durable.gouv.fr
 http://extranet-rh-sg.developpement-durable.gouv.fr
 http://www.fichier-etudesimpact.developpement-durable.gouv.fr
 http://fluvial.developpement-durable.gouv.fr
-http://www.fluvial.developpement-durable.gouv.fr
+https://www.fluvial.developpement-durable.gouv.fr
 http://enqueteur.fnasce.developpement-durable.gouv.fr
 http://www.foragesdomestiques.developpement-durable.gouv.fr
 http://enqueteur.franche-comte.developpement-durable.gouv.fr
@@ -17454,6 +17444,7 @@ http://www.paysages.hauts-de-seine.developpement-durable.gouv.fr
 http://hb1.developpement-durable.gouv.fr
 http://hb2.developpement-durable.gouv.fr
 http://hb3.developpement-durable.gouv.fr
+http://hb4.developpement-durable.gouv.fr
 http://hb6.developpement-durable.gouv.fr
 http://hb8.developpement-durable.gouv.fr
 http://hc2.developpement-durable.gouv.fr
@@ -17688,7 +17679,7 @@ https://www.douane.gouv.fr
 https://www.doubs.gouv.fr
 https://drdjscs.gouv.fr
 https://auvergne-rhone-alpes.drdjscs.gouv.fr
-https://bourgogne-franche-comte.drdjscs.gouv.fr
+http://www.bourgogne-franche-comte.drdjscs.gouv.fr
 https://centre-val-de-loire.drdjscs.gouv.fr
 http://www.grand-est.drdjscs.gouv.fr
 https://normandie.drdjscs.gouv.fr
@@ -17717,6 +17708,7 @@ http://www.fc.drire.gouv.fr
 http://www.ggm.drire.gouv.fr
 http://www.picardie.drire.gouv.fr
 https://bretagne.drjscs.gouv.fr
+http://www.bretagne.drjscs.gouv.fr
 http://www.corse.drjscs.gouv.fr
 http://www.guadeloupe.drjscs.gouv.fr
 http://www.guyane.drjscs.gouv.fr
@@ -18731,7 +18723,7 @@ https://spls.application.logement.gouv.fr
 http://www.atelier-territoires.logement.gouv.fr
 https://www.balae.logement.gouv.fr
 https://www.centres-bourgs.logement.gouv.fr
-http://www.club-plui.logement.gouv.fr
+https://www.club-plui.logement.gouv.fr
 https://www.data.logement.gouv.fr
 http://www.divd.logement.gouv.fr
 http://www.ecocites.logement.gouv.fr
@@ -20727,7 +20719,7 @@ https://www.la-baume.fr
 http://la-baume-dhostun.fr
 http://www.la-baume-dhostun.fr
 http://www.la-begude-de-mazenc.fr
-http://www.la-biolle.fr
+https://www.la-biolle.fr
 https://www.la-cab.fr
 http://www.la-capelle-balaguier.fr
 https://www.la-celle.fr
@@ -20987,7 +20979,6 @@ https://lachapelledebragny.fr
 https://www.lachapelledebragny.fr
 https://www.lachapelledebrain.fr
 http://www.lachapelledeguinchay.fr
-https://www.lachapelledelatour.fr
 https://lachapelledesmarais.fr
 https://www.lachapelledesmarais.fr
 https://www.lachapelleduboisdesfaulx.fr
@@ -28219,6 +28210,7 @@ https://nanteau-sur-essonne.fr
 http://www.nanteau-sur-lunain.fr
 https://www.nanterre.fr
 https://metropole.nantes.fr
+https://www.nantes.fr
 https://nantes-terre-atlantique.fr
 http://nantesmetropole.fr
 https://museum.nantesmetropole.fr
@@ -29554,6 +29546,7 @@ https://plougonvelin.fr
 https://plougrescant.fr
 https://www.plouguenast-langast.fr
 http://www.plouha.fr
+https://plouigneau.fr
 https://www.plouigneau.fr
 http://www.ploulech.fr
 https://plouneour-brignogan-plages.fr
@@ -29707,6 +29700,7 @@ https://www.porhoet.fr
 https://www.pornic.fr
 https://www.pornicagglo.fr
 http://www.porquericourt.fr
+https://www.porspoder.fr
 https://port-de-lanne.fr
 https://www.port-de-lanne.fr
 http://www.port-launay.fr
@@ -29738,6 +29732,7 @@ https://www.portesdelacreuseenmarche.fr
 https://www.portesdemeuse.fr
 http://www.portesduluxembourg.fr
 https://portesenvaldaine.fr
+http://www.portesessonne.fr
 https://www.porteseureliennesidf.fr
 https://www.portetgaronne.fr
 https://portlanouvelle.fr
@@ -32338,6 +32333,7 @@ https://www.saintsymphoriendozon.fr
 https://www.saintthibaultdesvignes.fr
 https://www.sainturbain.fr
 http://www.saintuze.fr
+https://saintvaast.fr
 http://www.saintvaastdequiqueville.fr
 https://saintvaastencambresis.fr
 http://www.saintvaastlesmello.fr
@@ -33698,7 +33694,6 @@ http://www.stpierredelages.fr
 http://www.stpierredesfleurs.fr
 https://www.stpierredetrivisy.fr
 https://www.stpierreforcats.fr
-http://www.stprivatdevallongue.fr
 https://www.stratis.fr
 https://stremysurorne.fr
 https://www.stromain76.fr
@@ -35411,7 +35406,7 @@ https://www.ville-champlan.fr
 https://ville-champssurmarne.fr
 https://www.ville-champssurmarne.fr
 https://www.ville-champsurdrac.fr
-http://www.ville-change.fr
+https://www.ville-change.fr
 https://www.ville-chanteau.fr
 https://ville-chantenay-saint-imbert.fr
 https://www.ville-chantenay-saint-imbert.fr
@@ -36551,7 +36546,7 @@ https://www.villehoudan.fr
 https://www.villejuif.fr
 https://www.villejust.fr
 https://villelamentin971.fr
-http://villelaure.fr
+https://villelaure.fr
 https://villelefousseret.fr
 https://villeloin-coulange.fr
 https://www.villelongue.fr
@@ -37323,7 +37318,6 @@ https://balgau.net
 https://www.balgau.net
 https://www.baratier.net
 https://basse-rentgen.net
-https://www.basse-rentgen.net
 http://www.bassoues.net
 https://bazoches.net
 https://www.bazoches.net
