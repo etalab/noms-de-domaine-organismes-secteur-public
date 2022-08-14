@@ -5618,7 +5618,6 @@ http://lp-jean-felix-paulsen-chateaudun.tice.ac-orleans-tours.fr
 http://lyc-jean-de-berry-bourges.tice.ac-orleans-tours.fr
 http://lyc-leonard-de-vinci-amboise.tice.ac-orleans-tours.fr
 http://lyc-marceau-chartres.tice.ac-orleans-tours.fr
-http://lyc-mauriceviollette-dreux.tice.ac-orleans-tours.fr
 http://lyc-mermoz-bourges.tice.ac-orleans-tours.fr
 http://lyc-paul-louis-courier-tours.tice.ac-orleans-tours.fr
 http://lyc-vauvert-bourges.tice.ac-orleans-tours.fr
@@ -10076,7 +10075,6 @@ https://www.cc-cazalssalviac.fr
 http://cc-centre-haut-rhin.fr
 https://www.cc-champagne-boischauts.fr
 https://www.cc-champagnepicarde.fr
-https://www.cc-chateaubriant-derval.fr
 https://cc-chemindesdames.fr
 https://www.cc-chemindesdames.fr
 https://www.cc-clermontais.fr
@@ -15929,7 +15927,6 @@ https://glun.fr
 http://www.godewaersvelde.fr
 http://goin.fr
 http://www.goin.fr
-http://www.goincourt.fr
 https://golbey.fr
 http://gomene.fr
 http://www.gometzlechatel.fr
@@ -16161,7 +16158,6 @@ https://geo.api.gouv.fr
 http://tiles.geo.api.gouv.fr
 http://production.particulier-infra.api.gouv.fr
 http://staging.particulier-infra.api.gouv.fr
-http://signup.api.gouv.fr
 http://signup-staging.api.gouv.fr
 https://staging.api.gouv.fr
 https://statut.api.gouv.fr
@@ -16738,6 +16734,7 @@ http://www.bretagne.culture.gouv.fr
 https://cestmonpatrimoine.culture.gouv.fr
 http://cestmonpatrimoine2017.culture.gouv.fr
 https://cordouan.culture.gouv.fr
+http://culturemedias2030.culture.gouv.fr
 https://data.culture.gouv.fr
 https://delia.culture.gouv.fr
 https://dismoidixmots.culture.gouv.fr
@@ -17686,7 +17683,6 @@ http://www.guyane.drjscs.gouv.fr
 https://hauts-de-france.drjscs.gouv.fr
 http://www.hauts-de-france.drjscs.gouv.fr
 http://www.ile-de-france.drjscs.gouv.fr
-https://martinique.drjscs.gouv.fr
 http://www.martinique.drjscs.gouv.fr
 https://mayotte.drjscs.gouv.fr
 http://www.occitanie.drjscs.gouv.fr
@@ -18090,7 +18086,6 @@ https://f.info.esante.gouv.fr
 https://s.info.esante.gouv.fr
 https://interop.esante.gouv.fr
 https://interop-pprod.esante.gouv.fr
-https://interopsegur.esante.gouv.fr
 https://ivan.esante.gouv.fr
 https://moncompte-enreg.esante.gouv.fr
 https://mos.esante.gouv.fr
@@ -19825,7 +19820,7 @@ https://grospierres.fr
 https://www.gruchet-le-valasse.fr
 https://www.grugny.fr
 https://grundviller.fr
-http://www.grussenheim.fr
+https://www.grussenheim.fr
 http://guarbecque.fr
 https://guecelard.fr
 http://guedelongroi.fr
@@ -19935,7 +19930,6 @@ http://www.harcanville.fr
 https://hardricourt.fr
 https://www.hardricourt.fr
 https://www.hareville.fr
-https://www.harfleur.fr
 https://hargnies.fr
 https://www.hargnies-avesnois.fr
 https://www.hargnies08.fr
@@ -20149,6 +20143,7 @@ http://www.hemonstoir.fr
 https://www.hendaye.fr
 http://www.hendecourtlescagnicourt.fr
 https://www.heninsurcojeul.fr
+https://www.hennezel.fr
 http://hennezis.fr
 http://www.hennezis.fr
 https://www.henon.fr
@@ -21882,7 +21877,7 @@ https://www.lemontat.fr
 https://lemontsaintadrien.fr
 http://www.lemottier.fr
 https://www.lemoule.fr
-http://www.lemoustoir22.fr
+https://www.lemoustoir22.fr
 https://lemoutaret.fr
 https://www.lempire.fr
 https://lemps-ardeche.fr
@@ -26304,8 +26299,7 @@ http://www.massingy74.fr
 https://www.massoins.fr
 https://massongy.fr
 http://www.mastaing.fr
-http://matemale.fr
-http://www.matemale.fr
+https://www.matemale.fr
 https://www.mathay.fr
 http://www.matougues.fr
 https://www.matour.fr
@@ -26498,6 +26492,7 @@ https://www.menneval.fr
 http://www.menneville-02.fr
 http://www.menoire.fr
 http://www.menomblet.fr
+https://www.menou58.fr
 https://www.mensignac.fr
 https://www.menthon-saint-bernard.fr
 https://www.menthonnex-en-bornes.fr
@@ -28106,7 +28101,7 @@ https://msvc.fr
 http://www.mudaison.fr
 http://muel.fr
 http://www.muel.fr
-http://www.muespach.fr
+https://www.muespach.fr
 https://mugron.fr
 https://www.mugron.fr
 https://www.muhlbachsurbruche.fr
@@ -29032,6 +29027,7 @@ https://www.parne-sur-roc.fr
 http://parnes.fr
 http://parole-aspach.fr
 http://www.parole-aspach.fr
+https://www.parolesdejuges.fr
 https://paron.fr
 https://www.paron.fr
 https://www.partinello.fr
@@ -29234,6 +29230,7 @@ https://www.perigord-limousin.fr
 https://www.perigord-nontronnais.fr
 https://perigueux.fr
 https://www.perigueux.fr
+https://www.perigueux-jeunesse.fr
 http://www.pern46.fr
 https://www.pernandvergelesses.fr
 https://www.pernant.fr
@@ -30023,8 +30020,8 @@ https://www.rantigny.fr
 https://www.ranville.fr
 http://www.ranville-breuillaud.fr
 https://www.raon-aux-bois.fr
-http://raonletape.fr
-http://www.raonletape.fr
+https://raonletape.fr
+https://www.raonletape.fr
 https://www.raoul-mortier.fr
 https://raray.fr
 http://rasteau.fr
@@ -35396,7 +35393,7 @@ https://www.ville-chateaugiron.fr
 https://ville-chateauneuf.fr
 https://www.ville-chateauneuf.fr
 https://www.ville-chatellerault.fr
-http://www.ville-chatenois88.fr
+https://www.ville-chatenois88.fr
 https://ville-chatillon.fr
 http://www.ville-chaumont.fr
 https://www.ville-chaumontel.fr
@@ -37962,7 +37959,6 @@ https://antraigues.org
 https://www.apajh09.org
 https://aprova84.org
 https://arml-idf.org
-http://www.asso-heda.org
 https://association-aris.org
 https://www.association-aris.org
 http://association-cypres.org
