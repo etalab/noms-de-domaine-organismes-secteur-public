@@ -2482,8 +2482,6 @@ http://www.marcheville.com
 https://www.marcilly-en-gault.com
 https://marcillydazergues.com
 https://www.marcillydazergues.com
-http://marcillysurvienne.com
-http://www.marcillysurvienne.com
 https://www.mareauauxpres.com
 https://www.mareuil-sur-cher.com
 https://www.maringues.com
@@ -3041,7 +3039,6 @@ https://puygiron.com
 https://puyloubier.com
 https://www.puyloubier.com
 https://www.puysainteusebe.com
-https://gourdanpolignan.puzl.com
 https://www.pyrenees-cerdagne.com
 https://www.quemper-guezennec.com
 https://www.quessoy.com
@@ -3198,7 +3195,6 @@ https://saint-pal.com
 https://www.saint-pal.com
 https://www.saint-pauldevence.com
 https://saint-perdon.com
-https://www.saint-perdon.com
 http://saint-pierre-es-champs.com
 http://www.saint-pierre-es-champs.com
 https://www.saint-pryve.com
@@ -5815,7 +5811,6 @@ http://college-bassin-bleu.ac-reunion.fr
 http://college-beausejour.ac-reunion.fr
 http://college-bernica.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
-http://college-bory-stvincent.ac-reunion.fr
 http://college-bourbon.ac-reunion.fr
 http://college-braspanon.ac-reunion.fr
 http://college-cambuston.ac-reunion.fr
@@ -5872,7 +5867,6 @@ http://lycee-ambroise-vollard.ac-reunion.fr
 http://lycee-amiral-bouvet.ac-reunion.fr
 http://lycee-amiral-lacaze.ac-reunion.fr
 http://lycee-antoine-roussin.ac-reunion.fr
-http://lycee-avirons.ac-reunion.fr
 http://lycee-belair.ac-reunion.fr
 http://lycee-bellepierre.ac-reunion.fr
 http://lycee-bois-d-olive.ac-reunion.fr
@@ -7534,7 +7528,6 @@ https://association-alpages.fr
 https://www.association-alpages.fr
 http://www.association-emera.fr
 https://association-saintmartin.fr
-https://associationduparc.fr
 https://www.associationduparc.fr
 https://www.assoclaac.fr
 https://asson.fr
@@ -8454,7 +8447,6 @@ http://www.barrydislemade.fr
 https://www.barsac.fr
 http://barsenperigord.fr
 http://www.barsenperigord.fr
-https://www.barsuraube.fr
 http://bart.fr
 http://www.bart.fr
 https://www.bartenheim.fr
@@ -8989,7 +8981,7 @@ https://www.blaye-les-mines.fr
 https://bleigny-le-carreau.fr
 https://www.bleigny-le-carreau.fr
 https://www.bleneau.fr
-http://blennes.fr
+https://blennes.fr
 https://www.blennes.fr
 https://www.blenod.fr
 https://www.blesle.fr
@@ -9445,7 +9437,7 @@ https://www.bricqueville-sur-mer.fr
 https://www.bricy.fr
 https://bridore.fr
 https://www.bridore.fr
-http://www.brie.fr
+https://www.brie.fr
 https://www.brie-et-angonnes.fr
 https://brie09.fr
 https://brie35.fr
@@ -10087,7 +10079,6 @@ https://www.cc-concarneaucornouaille.fr
 http://cc-conques-marcillac.fr
 https://cc-coteaux-du-girou.fr
 https://www.cc-coteaux-du-girou.fr
-http://www.cc-coteaux-landes-gascogne.fr
 https://www.cc-coteauxbellevue.fr
 http://www.cc-cotesdemeuse-woevre.fr
 http://cc-creonnais.fr
@@ -10269,6 +10260,7 @@ https://www.cc-tarnagout.fr
 http://cc-tenareze.fr
 https://cc-terrassonnais-thenon-hautefort.fr
 https://www.cc-terredeau.fr
+https://cc-thann-cernay.fr
 https://www.cc-thann-cernay.fr
 https://www.cc-thoremontagnenoire.fr
 https://www.cc-trieves.fr
@@ -10421,7 +10413,6 @@ http://www.loiret.cci.fr
 https://lot.cci.fr
 https://www.lot.cci.fr
 https://lozere.cci.fr
-https://www.lozere.cci.fr
 https://www.lyon-metropole.cci.fr
 https://www.maineetloire.cci.fr
 https://martinique.cci.fr
@@ -12731,8 +12722,6 @@ http://www.courtenay38.fr
 https://www.courtenay45.fr
 https://www.courteuil.fr
 https://www.courthezon.fr
-https://courtillers.fr
-https://www.courtillers.fr
 http://www.courtisols.fr
 https://www.courtois-sur-yonne.fr
 https://courtomer.fr
@@ -14609,7 +14598,7 @@ http://eourres.fr
 https://epagnymetztessy.fr
 https://www.epagnymetztessy.fr
 http://www.epaney.fr
-http://www.epannes.fr
+https://www.epannes.fr
 https://epargnes.fr
 https://www.epegard.fr
 http://www.epeigne-les-bois.fr
@@ -18358,6 +18347,7 @@ https://cfsfc.impots.gouv.fr
 https://cfsmsp.impots.gouv.fr
 https://cfspart.impots.gouv.fr
 https://formuelassistanceteleprocedure.impots.gouv.fr
+https://formulaires.impots.gouv.fr
 https://idp.impots.gouv.fr
 https://inscriptionpro.impots.gouv.fr
 http://org-static.impots.gouv.fr
@@ -18402,6 +18392,7 @@ https://www.agorra.interieur.gouv.fr
 https://www.agorra-secours.interieur.gouv.fr
 https://ansc.interieur.gouv.fr
 https://ocmi.ansc.interieur.gouv.fr
+https://ocmi.ants.interieur.gouv.fr
 https://aofh.interieur.gouv.fr
 https://www.banatic.interieur.gouv.fr
 https://beta.interieur.gouv.fr
@@ -18523,6 +18514,7 @@ https://qualif-psij.interieur.gouv.fr
 http://loire-atlantique.questionnaire.interieur.gouv.fr
 https://ssmsi.questionnaire.interieur.gouv.fr
 https://radiopolice.interieur.gouv.fr
+https://rdv-etrangers-94.interieur.gouv.fr
 https://www.rdv-permisdeconduire-ppol.interieur.gouv.fr
 https://institu.referendum.interieur.gouv.fr
 https://sil.institu.referendum.interieur.gouv.fr
@@ -19103,6 +19095,7 @@ https://www.transparence.sante.gouv.fr
 https://ceps.valid.sante.gouv.fr
 https://dpi.valid.sante.gouv.fr
 http://rechercher.valid.sante.gouv.fr
+https://siseauth.valid.sante.gouv.fr
 https://vrb.sante.gouv.fr
 https://www.rdv.saone-et-loire.gouv.fr
 http://www.saone-et-loire.gouv.fr
@@ -20236,7 +20229,6 @@ https://www.hommert.fr
 https://www.hondschoote.fr
 https://hontanx.fr
 https://www.hontanx.fr
-https://hopital-prades.fr
 https://hopital-saint-blaise.fr
 https://www.hopital-saint-blaise.fr
 https://hopital-sous-rochefort.fr
@@ -20437,6 +20429,7 @@ http://www.itterswiller.fr
 https://www.itteville.fr
 https://itxassou.fr
 https://www.iverny.fr
+https://ivoy-le-pre.fr
 https://www.ivry94.fr
 https://iwuy.fr
 https://www.iwuy.fr
@@ -21263,8 +21256,8 @@ https://lamottetilly.fr
 https://www.lamottetilly.fr
 https://www.lamottewarfusee.fr
 https://www.lamoura.fr
-http://lampaul-plouarzel.fr
-http://www.lampaul-plouarzel.fr
+https://lampaul-plouarzel.fr
+https://www.lampaul-plouarzel.fr
 https://www.lampertheim.fr
 https://www.lampertsloch.fr
 https://www.lamulatiere.fr
@@ -21965,7 +21958,6 @@ https://www.les-abrets-en-dauphine.fr
 https://les-albres.fr
 https://www.les-albres.fr
 https://les-assions.fr
-http://www.les-barthes.fr
 https://les-bizots.fr
 https://www.les-bizots.fr
 http://les-essards.fr
@@ -22699,7 +22691,6 @@ https://www.lycee-charles-nodier-ac-besancon.fr
 https://www.lycee-charlesdegaulle-vannes.fr
 https://lycee-charlespointet-thann.fr
 http://www.lycee-charmilles-chateauroux.fr
-https://lycee-chartier.fr
 https://www.lycee-chateaubriand.fr
 https://www.lycee-chateauneuf.fr
 http://lycee-cherioux.fr
@@ -29269,7 +29260,6 @@ http://www.persac.fr
 https://www.personne-agee-aide-issoire.fr
 https://www.perthes-en-gatinais.fr
 https://peschadoires.fr
-http://www.peschadoires.fr
 http://www.pesmes.fr
 https://www.pessac.fr
 https://pessacsurdordogne.fr
@@ -30349,6 +30339,7 @@ https://rogerville.fr
 https://rognaix.fr
 https://www.rognonas.fr
 http://www.rogny-les-7-ecluses.fr
+https://www.rohan.fr
 https://www.rohrbach-les-bitche.fr
 https://www.rohrwiller.fr
 https://roiffieux.fr
@@ -30531,7 +30522,6 @@ https://roziercotesdaurec.fr
 http://www.rozlandrieux.fr
 https://www.rt78.fr
 https://ruaudin.fr
-https://www.ruaudin.fr
 https://www.rubelles.fr
 https://rubrouck.fr
 https://ruch.fr
@@ -30791,7 +30781,6 @@ https://www.saint-christoly.fr
 https://www.saint-christophe-du-bois.fr
 http://www.saint-christophe-du-ligneron.fr
 https://saint-christophe-tarn.fr
-http://saint-christophe17.fr
 https://www.saint-christophe17.fr
 https://www.saint-cibard.fr
 https://saint-ciers.fr
@@ -31376,7 +31365,7 @@ https://www.saint-sandoux.fr
 https://www.saint-santin-cantales.fr
 http://www.saint-santin-de-maurs.fr
 https://www.saint-sardos47.fr
-http://www.saint-sardos82.fr
+https://www.saint-sardos82.fr
 https://www.saint-satur.fr
 https://saint-saturnin16.fr
 https://www.saint-saturnin16.fr
@@ -32481,6 +32470,7 @@ https://sap.atih.sante.fr
 https://concours.cng.sante.fr
 https://extranet.cng.sante.fr
 https://integ.extranet.cng.sante.fr
+https://preprod.extranet.cng.sante.fr
 https://valid.extranet.cng.sante.fr
 https://www.cng.sante.fr
 https://cns.sante.fr
@@ -35003,7 +34993,6 @@ https://vic-bigorre.fr
 https://www.vic-bigorre.fr
 http://www.vic-le-comte.fr
 https://vic-sous-thil.fr
-https://vic-sur-seille.fr
 https://www.vic-sur-seille.fr
 https://vicheres-village.fr
 https://www.vicheres-village.fr
@@ -36007,6 +35996,7 @@ https://www.ville-pertuis.fr
 https://www.ville-petit-couronne.fr
 https://www.ville-petitbourg.fr
 https://www.ville-pezenas.fr
+http://ville-pibrac.fr
 https://www.ville-pierrelatte.fr
 http://ville-pirou.fr
 http://www.ville-pirou.fr
@@ -36177,7 +36167,6 @@ http://ville-sainte-radegonde.fr
 http://www.ville-sainte-radegonde.fr
 http://www.ville-sainte-sigolene.fr
 https://www.ville-sainte-tulle.fr
-https://ville-sainteanne.fr
 https://www.ville-sainteanne.fr
 http://ville-saintecolombeenbruilhois.fr
 https://ville-saintecroix.fr
@@ -36447,7 +36436,6 @@ https://www.villedekoungou.fr
 http://villedelacrau.fr
 http://www.villedelacrau.fr
 https://villedelatrinite.fr
-http://villedeleforest.fr
 https://www.villedeleforest.fr
 https://villedelens.fr
 http://www.villedelizy.fr
@@ -37322,8 +37310,6 @@ https://www.changersyndic.net
 https://www.channaysurlathan.net
 http://www.chanzy.net
 https://www.cheffes.net
-http://ciate.net
-http://www.ciate.net
 https://www.clg-correze.net
 http://www.clg-ponant.net
 https://www.clglacerisaie.net
@@ -37735,7 +37721,6 @@ https://adiltarn.org
 https://www.adiltarn.org
 https://adscb05.org
 https://ae14.org
-https://rex-agri.agroecologie.org
 https://www.aignan.org
 http://aire-sur-adour.org
 https://aissey.org
