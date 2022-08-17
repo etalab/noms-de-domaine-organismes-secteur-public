@@ -3598,8 +3598,8 @@ http://www.thegraenquercy.com
 http://www.theize-en-beaujolais.com
 https://www.themericourt.com
 https://www.thermes-magnoac.com
-http://therouldeville.com
-http://www.therouldeville.com
+https://therouldeville.com
+https://www.therouldeville.com
 https://thezandescorbieres.com
 https://www.thezandescorbieres.com
 https://www.thiaville.com
@@ -10397,7 +10397,7 @@ https://www.creuse.cci.fr
 http://www.digne.cci.fr
 https://dordogne.cci.fr
 https://www.dordogne.cci.fr
-https://essonne.cci.fr
+http://essonne.cci.fr
 http://www.essonne.cci.fr
 https://gard.cci.fr
 https://www.gard.cci.fr
@@ -11736,7 +11736,6 @@ https://www.cm-larochelle.fr
 https://cm-limoges.fr
 https://www.cm-lozere.fr
 https://www.cm-marne.fr
-http://www.cm-tarn.fr
 https://www.cm-toulouse.fr
 https://www.cm-yvelines.fr
 https://www.cma-ain.fr
@@ -12054,6 +12053,7 @@ https://collegetournon.fr
 http://www.collegevalcourt.fr
 https://www.collegevaldelindre.fr
 https://collegevauban-blaye.fr
+http://collegevernier.fr
 https://www.collemiers.fr
 http://www.colleville.fr
 https://www.colleville-montgomery.fr
@@ -15171,7 +15171,6 @@ http://www.fontanes34.fr
 https://www.fontanges.fr
 https://www.fontannes.fr
 https://fontcouverte17.fr
-https://smj.fontenay.fr
 https://www.fontenay.fr
 https://www.fontenay-aux-roses.fr
 https://www.fontenay-en-parisis.fr
@@ -16149,6 +16148,7 @@ https://v3-beta.entreprise.api.gouv.fr
 http://wd2.entreprise.api.gouv.fr
 https://geo.api.gouv.fr
 http://tiles.geo.api.gouv.fr
+https://sandbox2.particulier.api.gouv.fr
 http://production.particulier-infra.api.gouv.fr
 http://staging.particulier-infra.api.gouv.fr
 http://signup-staging.api.gouv.fr
@@ -17678,7 +17678,7 @@ https://hauts-de-france.drjscs.gouv.fr
 http://www.hauts-de-france.drjscs.gouv.fr
 http://www.ile-de-france.drjscs.gouv.fr
 http://www.martinique.drjscs.gouv.fr
-https://mayotte.drjscs.gouv.fr
+http://www.mayotte.drjscs.gouv.fr
 http://www.occitanie.drjscs.gouv.fr
 http://www.reunion.drjscs.gouv.fr
 https://info.drogues.gouv.fr
@@ -18926,6 +18926,7 @@ http://www.polynesie-francaise.pref.gouv.fr
 https://www.rdv.reunion.pref.gouv.fr
 http://risquesmajeurs-hautes-pyrenees.pref.gouv.fr
 http://www.risquesmajeurs-hautes-pyrenees.pref.gouv.fr
+http://www.vaucluse.pref.gouv.fr
 https://www.carto.zd-est.pref.gouv.fr
 https://www.commserv.zd-est.pref.gouv.fr
 https://emiz.zd-est.pref.gouv.fr
@@ -19015,12 +19016,14 @@ https://covid-19.sante.gouv.fr
 http://ftp-www.covid-19.sante.gouv.fr
 http://www.mailin2.covid-19.sante.gouv.fr
 http://web-www.covid-19.sante.gouv.fr
+http://www.cloud.covid19.sante.gouv.fr
 https://widgets.dashboard.covid19.sante.gouv.fr
 https://data.widgets.dashboard.covid19.sante.gouv.fr
 http://mx0www.covid19.sante.gouv.fr
 http://ns2www.covid19.sante.gouv.fr
 http://shop-www.covid19.sante.gouv.fr
 http://test.covid19.sante.gouv.fr
+http://www-2018.covid19.sante.gouv.fr
 https://eye.diffusion.dgs-urgent.sante.gouv.fr
 https://forms.diffusion.dgs-urgent.sante.gouv.fr
 http://img.diffusion.dgs-urgent.sante.gouv.fr
@@ -19407,7 +19410,6 @@ https://ensm.sports.gouv.fr
 https://cloud.ensm.sports.gouv.fr
 https://doc.ensm.sports.gouv.fr
 https://extranet.ensm.sports.gouv.fr
-https://snosm.ensm.sports.gouv.fr
 https://www.ensm.sports.gouv.fr
 https://www.envsn.sports.gouv.fr
 https://equipements.sports.gouv.fr
@@ -25375,8 +25377,6 @@ http://gesvres.mairie53.fr
 http://www.gesvres.mairie53.fr
 http://hambers.mairie53.fr
 http://www.hambers.mairie53.fr
-http://javronleschapelles.mairie53.fr
-http://www.javronleschapelles.mairie53.fr
 http://la-bazouge-des-alleux.mairie53.fr
 http://www.la-bazouge-des-alleux.mairie53.fr
 http://la-roche-neuville.mairie53.fr
@@ -28106,7 +28106,6 @@ https://www.mugron.fr
 https://www.muhlbachsurbruche.fr
 https://www.muides.fr
 http://www.muidorge.fr
-https://muirancourt.fr
 https://www.mulhouse.fr
 https://www.mulhouse-alsace.fr
 https://www.mulsanne.fr
@@ -30309,7 +30308,6 @@ https://rochecolombe.fr
 http://www.rocheenregnier.fr
 http://www.rochefort-en-terre.fr
 https://rochefortsamson.fr
-http://rochefortsurloire.fr
 http://www.rochefortsurnenon.fr
 https://www.rochefoucauld-perigord.fr
 http://rochefourchat.fr
@@ -32349,6 +32347,7 @@ https://www.salers.fr
 http://www.salesches.fr
 https://www.saleux.fr
 https://www.salies-de-bearn.fr
+https://salies-tarn.fr
 http://www.salies-tarn.fr
 http://salignac-eyvigues.fr
 http://www.salignac-eyvigues.fr
@@ -35506,6 +35505,7 @@ https://www.ville-draguignan.fr
 https://www.ville-drap.fr
 https://www.ville-dreuil-les-amiens.fr
 https://www.ville-dugny.fr
+https://www.ville-dunkerque.fr
 https://www.ville-durtal.fr
 https://www.ville-echillais.fr
 https://www.ville-ecquevilly.fr
@@ -36939,6 +36939,7 @@ http://www.collegelassagne.websco.fr
 http://www.collegetelchid.websco.fr
 http://las.websco.fr
 https://www.weckolsheim.fr
+https://weislingen.fr
 https://www.weitbruch.fr
 https://wentzwiller.fr
 https://www.wentzwiller.fr
@@ -36990,7 +36991,7 @@ https://www.xambes.fr
 https://xantonchassenon.fr
 http://xerma.fr
 http://www.xerma.fr
-http://www.xeuilley.fr
+https://www.xeuilley.fr
 https://www.xirocourt.fr
 http://xn--lyce-douard-gand-amiens-dccc.fr
 http://www.xn--plans-7ra.fr
