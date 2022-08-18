@@ -244,6 +244,7 @@ http://www.ablain-st-nazaire.com
 https://www.abondant-village.com
 https://etools.information.acb-ps.com
 https://acticity.com
+https://www.acticity.com
 https://actionetcompetence-alsace.com
 https://www.actionetcompetence-alsace.com
 https://www.adil86.com
@@ -948,6 +949,7 @@ https://clairac.com
 https://clairvaux-les-lacs.com
 https://www.clairvaux-les-lacs.com
 https://clans06.com
+https://claravillerach.com
 https://www.claravillerach.com
 http://clavans-en-oisans.com
 http://cleden-cap-sizun.com
@@ -5856,7 +5858,6 @@ http://college-pointe-chateaux.ac-reunion.fr
 http://college-ravinedescabris.ac-reunion.fr
 http://college-raymondverges.ac-reunion.fr
 http://college-reydellet.ac-reunion.fr
-http://college-simon-lucas.ac-reunion.fr
 http://college-terrain-fayard.ac-reunion.fr
 http://college-terrain-fleury.ac-reunion.fr
 http://college-texeiradamotta.ac-reunion.fr
@@ -5883,7 +5884,6 @@ http://lycee-jean-perrin.ac-reunion.fr
 http://lycee-jeanjoly.ac-reunion.fr
 http://lycee-jhinglo.ac-reunion.fr
 http://lycee-lapossession.ac-reunion.fr
-http://lycee-larenaissance.ac-reunion.fr
 http://lycee-lepervanche.ac-reunion.fr
 http://lycee-leverger.ac-reunion.fr
 http://lycee-llisle.ac-reunion.fr
@@ -6013,6 +6013,7 @@ http://www.clg-clement-colombes.ac-versailles.fr
 http://www.clg-clervoy-franconville.ac-versailles.fr
 http://www.clg-colette-sartrouville.ac-versailles.fr
 http://www.clg-condorcet-dourdan.ac-versailles.fr
+http://www.clg-copernic-montmagny.ac-versailles.fr
 http://www.clg-cotton-argenteuil.ac-versailles.fr
 http://www.clg-coubertin-chevreuse.ac-versailles.fr
 http://www.clg-couldre-mlb.ac-versailles.fr
@@ -6432,6 +6433,7 @@ http://www.lyc-richelieu-rueil.ac-versailles.fr
 http://www.lyc-rimbaud-garges.ac-versailles.fr
 http://www.lyc-rolland-goussainville.ac-versailles.fr
 http://www.lyc-rostand-mantes.ac-versailles.fr
+http://www.lyc-rostand-st-ouen.ac-versailles.fr
 http://www.lyc-rousseau-montmorency.ac-versailles.fr
 http://www.lyc-rousseau-sarcelles.ac-versailles.fr
 http://www.lyc-santosdumont-st-cloud.ac-versailles.fr
@@ -7513,6 +7515,7 @@ https://mission-locale-tarn-sud.asso.fr
 https://mldijon.asso.fr
 https://www.mldijon.asso.fr
 https://www.mli-poitiers.asso.fr
+http://mlvm.asso.fr
 https://www.mlvm.asso.fr
 http://mpt-abbeville.asso.fr
 http://www.mpt-abbeville.asso.fr
@@ -9229,7 +9232,6 @@ https://www.bourg-lastic.fr
 https://www.bourg-les-valence.fr
 https://www.bourg-saint-bernard.fr
 https://www.bourg-saint-christophe.fr
-http://bourgachard.fr
 https://www.bourgachard.fr
 https://bourganeuf.fr
 https://bourgargental.fr
@@ -10368,7 +10370,6 @@ https://www.ccfulgent-essarts.fr
 https://www.ccgr-forumemploi.fr
 https://www.ccgvl77.fr
 https://www.cchautesarthealpesmancelles.fr
-https://cchautesvosges.fr
 https://www.cchautesvosges.fr
 https://www.cchc.fr
 https://www.cchcpp.fr
@@ -16037,7 +16038,7 @@ https://teleprocedures.agriculture.gouv.fr
 https://www.teleprocedures.agriculture.gouv.fr
 https://vizagreste.agriculture.gouv.fr
 https://www.rdv.ain.gouv.fr
-http://www.ain.gouv.fr
+https://www.ain.gouv.fr
 https://www.aisne.gouv.fr
 http://www.alerte-enlevement.gouv.fr
 https://www.alim-confiance.gouv.fr
@@ -18789,7 +18790,7 @@ https://mc.moselle.gouv.fr
 https://www.point-numerique.moselle.gouv.fr
 https://www.moselle.gouv.fr
 https://www.rdv.nievre.gouv.fr
-http://www.nievre.gouv.fr
+https://www.nievre.gouv.fr
 https://www.nord.gouv.fr
 https://notre-environnement.gouv.fr
 https://www.notre-environnement.gouv.fr
@@ -19572,7 +19573,7 @@ https://www.var.gouv.fr
 https://www.rdv.vaucluse.gouv.fr
 http://www.vaucluse.gouv.fr
 https://www.rdv.vendee.gouv.fr
-http://www.vendee.gouv.fr
+https://www.vendee.gouv.fr
 http://static.videos.gouv.fr
 https://www.vienne.gouv.fr
 https://espacemembres.vigicrues.gouv.fr
@@ -20102,7 +20103,7 @@ http://www.hautot-sur-seine.fr
 https://www.hauts-de-bienne.fr
 https://www.hauts-de-seine.fr
 https://www.hautsdefrance.fr
-http://www.hautvalromey.fr
+https://www.hautvalromey.fr
 https://hautvillers.fr
 https://www.hautvillers.fr
 http://www.hautvillers-ouville.fr
@@ -20141,6 +20142,7 @@ http://www.hemevez.fr
 https://www.hemevillers.fr
 https://www.hemlenglet.fr
 http://www.hemonstoir.fr
+https://www.henansal.fr
 https://www.hendaye.fr
 http://www.hendecourtlescagnicourt.fr
 https://www.heninsurcojeul.fr
@@ -21141,8 +21143,6 @@ https://www.lagrigonnais.fr
 https://www.lagripperiesaintsymphorien.fr
 https://www.laguepie.fr
 https://www.laguerche-aubois.fr
-https://laguerche37.fr
-https://www.laguerche37.fr
 https://www.laguerchedebretagne.fr
 https://laguiche.fr
 https://www.laguiole12.fr
@@ -22387,7 +22387,6 @@ https://loisey-meuse.fr
 https://loisieux.fr
 https://www.loisin.fr
 https://loisy54.fr
-http://www.loisysurmarne.fr
 https://loivre.fr
 https://www.loivre.fr
 https://loix.fr
@@ -22658,7 +22657,6 @@ https://lyc-camilleguerin.fr
 https://www.lyc-descartes.fr
 http://jehan.lyc-duperier.fr
 https://www.lyc-eliefaure.fr
-https://www.lyc-jouvet-taverny-ac-versailles.fr
 https://www.lyc-polyvalent-monod-enghien.fr
 https://www.lyc-sand-domont.fr
 https://www.lyc-timbaud-bretigny.fr
@@ -25182,8 +25180,8 @@ http://www.mairie-vayres-essonne.fr
 https://mairie-vbm.fr
 https://www.mairie-vbm.fr
 https://mairie-vendeville.fr
-http://mairie-venoy.fr
-http://www.mairie-venoy.fr
+https://mairie-venoy.fr
+https://www.mairie-venoy.fr
 http://www.mairie-vensat.fr
 https://mairie-verchaix.fr
 https://www.mairie-verdun-ariege.fr
@@ -28540,7 +28538,6 @@ https://cve-paiement-prod.nuonet.fr
 http://cve-travaux.nuonet.fr
 https://cvec-2018-ctrl.nuonet.fr
 https://cvec-2019-ctrl.nuonet.fr
-https://nurieux-volognat.fr
 https://www.nurieux-volognat.fr
 http://www.obenheim.fr
 https://www.oberbronn.fr
@@ -28760,7 +28757,6 @@ https://www.osthouse.fr
 http://ot-chateauneufderandon.fr
 http://www.ot-valbonnais.fr
 https://www.ota-porto.fr
-http://www.othis.fr
 http://www.ottange-nondkeil.fr
 https://ottersthal.fr
 https://www.ottersthal.fr
@@ -28963,6 +28959,7 @@ https://paraylemonial.fr
 https://www.paraylemonial.fr
 http://www.parc-chabrieres.fr
 http://www.parc-haut-jura.fr
+https://www.parc-loire-anjou-touraine.fr
 https://www.parc-naturel-chevreuse.fr
 https://www.parc-naturel-narbonnaise.fr
 https://www.parc-naturel-perche.fr
@@ -29237,6 +29234,8 @@ https://www.perneslesfontaines.fr
 http://www.perols-sur-vezere.fr
 https://www.peronnas.fr
 https://www.peronne-melantois.fr
+https://perouges.fr
+https://www.perouges.fr
 https://www.peroylesgombries.fr
 https://www.perpezaclenoir.fr
 http://www.perpezat.fr
@@ -31735,6 +31734,7 @@ https://www.sainte-soulle.fr
 http://sainte-suzanne-doubs.fr
 http://www.sainte-suzanne-doubs.fr
 https://www.sainte-verge.fr
+http://sainteagathe.fr
 https://www.sainteagathe.fr
 https://www.sainteagnes.fr
 http://www.saintecatherine63.fr
@@ -32998,7 +32998,6 @@ http://www.septfonds.fr
 https://www.septfontaines.fr
 http://septmoncel.fr
 http://www.septmoncel.fr
-https://www.septmonts-donjon-aisne.fr
 https://www.sequedin.fr
 https://www.seraincourt95.fr
 http://www.serandon.fr
@@ -33030,6 +33029,7 @@ http://serley71.fr
 http://www.serley71.fr
 http://www.sermaises.fr
 http://www.sermamagny.fr
+http://sermange.fr
 http://www.sermange.fr
 http://www.sermerieu.fr
 https://www.sermesse-71350.fr
@@ -34310,7 +34310,7 @@ https://www.udaf18.fr
 https://udaf26.fr
 https://www.udaf26.fr
 https://www.udaf28.fr
-http://www.udaf30.fr
+https://www.udaf30.fr
 http://www.udaf31.fr
 https://www.udaf36.fr
 https://www.udaf37.fr
@@ -37518,6 +37518,7 @@ http://michelbach-le-haut.net
 https://www.missionlocaleevreux-euresud.net
 https://mlvo.net
 https://www.mont-louis.net
+http://montagrier.net
 https://montenay.net
 https://www.montenay.net
 https://www.montesoro.net
