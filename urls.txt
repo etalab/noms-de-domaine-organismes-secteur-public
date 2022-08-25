@@ -244,7 +244,6 @@ http://ablain-st-nazaire.com
 http://www.ablain-st-nazaire.com
 https://www.abondant-village.com
 https://etools.information.acb-ps.com
-https://acticity.com
 https://www.acticity.com
 https://actionetcompetence-alsace.com
 https://www.actionetcompetence-alsace.com
@@ -1519,6 +1518,7 @@ https://www.guilligomarch.com
 https://www.guimaec.com
 https://guzargues.com
 https://www.hadancourt-le-haut-clocher.com
+https://ham-en-artois.com
 https://handicap-emploi42.com
 https://www.handicap-emploi42.com
 https://haravilliers.com
@@ -2434,7 +2434,6 @@ http://www.mairiederisoul.com
 http://www.mairiedesaintblimont.com
 https://mairiedesaintmardsenothe.com
 https://mairiedesmayons.com
-https://www.mairiedesmayons.com
 http://mairiedevars.com
 http://www.mairiedevars.com
 http://www.mairiediesen.com
@@ -4046,7 +4045,6 @@ https://destination-cap-corse.corsica
 https://www.fdc2a.corsica
 https://focicchia.corsica
 https://www.isula.corsica
-https://lpo-portovecchio.leia.corsica
 https://www.mairie-furiani.corsica
 https://mairie-grosseto-prugna-porticcio.corsica
 https://mairiecastirla.corsica
@@ -4714,14 +4712,12 @@ https://joliot-curie-hirson.ac-amiens.fr
 https://joliot-curie-mlb.ac-amiens.fr
 https://jules-uhry-creil.ac-amiens.fr
 https://jules-valles-st-leu-esserent.ac-amiens.fr
-https://jules-verne-grandvilliers.ac-amiens.fr
 https://jules-verne-rivery.ac-amiens.fr
 https://jules-verne-rosieres-en-santerre.ac-amiens.fr
 https://julie-daubie-laon.ac-amiens.fr
 https://la-foret-chantilly.ac-amiens.fr
 https://lahotoie.ac-amiens.fr
 https://lamarck-albert.ac-amiens.fr
-https://lamartine-soissons.ac-amiens.fr
 https://lecorbusier-soissons.ac-amiens.fr
 https://leonard-de-vinci-soissons.ac-amiens.fr
 https://leopold-senghor-corbeny.ac-amiens.fr
@@ -4745,7 +4741,6 @@ https://mendes-france-peronne.ac-amiens.fr
 https://metiers-dart-saint-quentin.ac-amiens.fr
 https://nerval-crepy-en-valois.ac-amiens.fr
 https://paul-langevin-beauvais.ac-amiens.fr
-https://pierre-dailly-compiegne.ac-amiens.fr
 https://pierre-de-la-ramee-saint-quentin.ac-amiens.fr
 https://pierre-mechain-laon.ac-amiens.fr
 https://polyvalent-de-lauthie-doullens.ac-amiens.fr
@@ -5897,7 +5892,6 @@ http://lycee-pierre-poivre.ac-reunion.fr
 http://lycee-rontaunay.ac-reunion.fr
 http://lycee-sarda-garriga.ac-reunion.fr
 http://lycee-stpaul4.ac-reunion.fr
-http://lycee-stpierre.ac-reunion.fr
 http://lycee-victor-schoelcher.ac-reunion.fr
 http://lycee-vincendo.ac-reunion.fr
 http://lycee.vuebelle.ac-reunion.fr
@@ -7184,7 +7178,6 @@ https://www.arc-sud-bretagne.fr
 https://arc-sur-tille.fr
 https://www.arc-sur-tille.fr
 https://mairie.arcangues.fr
-http://www.mairie.arcangues.fr
 http://www.arcav.fr
 https://arcay-cher.fr
 https://www.arcay-vienne.fr
@@ -9281,7 +9274,6 @@ https://www.boussac-aveyron.fr
 http://boussay.fr
 http://www.boussay.fr
 https://boussay37.fr
-http://boussenac.fr
 http://boussieres.fr
 http://www.boussieres.fr
 https://www.boussois.fr
@@ -9666,6 +9658,7 @@ http://www.caestre.fr
 https://caf.fr
 https://www.caf.fr
 https://www.cafe-de-la-famille.fr
+https://cagiregaronnesalat.fr
 https://www.cagiregaronnesalat.fr
 http://www.cagnac-les-mines.fr
 https://www.cagnes-sur-mer.fr
@@ -11565,7 +11558,7 @@ http://www.citescolairestendhal.fr
 http://citescolairevauban.fr
 http://www.citescolairevauban.fr
 https://www.citou.fr
-http://www.citry.fr
+https://www.citry.fr
 http://civen.fr
 https://www.civrac-de-blaye.fr
 https://civracsurdordogne.fr
@@ -12106,7 +12099,7 @@ https://www.comberouger.fr
 https://combiers.fr
 https://www.combiers.fr
 http://www.comblanchien.fr
-http://combles-en-barrois.fr
+https://combles-en-barrois.fr
 https://www.comblessac.fr
 https://www.combrailles-sioule-morge.fr
 https://www.combre.fr
@@ -12896,7 +12889,6 @@ https://www.crous-bordeaux.fr
 http://crous-clermont.fr
 http://www.crous-clermont.fr
 https://www.crous-corse.fr
-https://www.crous-creteil.fr
 https://www.crous-grenoble.fr
 https://www.crous-limoges.fr
 http://crous-lorraine.fr
@@ -16140,6 +16132,7 @@ https://v2.entreprise.api.gouv.fr
 https://v3-beta.entreprise.api.gouv.fr
 https://geo.api.gouv.fr
 http://tiles.geo.api.gouv.fr
+https://sandbox1.particulier.api.gouv.fr
 https://sandbox2.particulier.api.gouv.fr
 http://production.particulier-infra.api.gouv.fr
 http://staging.particulier-infra.api.gouv.fr
@@ -16213,13 +16206,10 @@ http://phototheque.aviation-civile.gouv.fr
 http://portos.aviation-civile.gouv.fr
 http://prepavol-ope.sia.aviation-civile.gouv.fr
 https://www.sia.aviation-civile.gouv.fr
-http://angelique.sigp.aviation-civile.gouv.fr
 https://aprevous.sigp.aviation-civile.gouv.fr
 http://conges.sigp.aviation-civile.gouv.fr
 http://csmart-tools.sigp.aviation-civile.gouv.fr
-http://forge-sources.sigp.aviation-civile.gouv.fr
 https://gidc.sigp.aviation-civile.gouv.fr
-http://grr.sigp.aviation-civile.gouv.fr
 https://partage.sigp.aviation-civile.gouv.fr
 https://saga.sigp.aviation-civile.gouv.fr
 http://tmasim.sigp.aviation-civile.gouv.fr
@@ -16773,7 +16763,6 @@ https://scrib.culture.gouv.fr
 https://bdp.scrib.culture.gouv.fr
 https://bm.scrib.culture.gouv.fr
 http://www.sdap-37.culture.gouv.fr
-http://www.sdap-poitou-charentes.culture.gouv.fr
 https://semainelanguefrancaise.culture.gouv.fr
 http://semainelanguefrancaise2017.culture.gouv.fr
 http://semainelanguefrancaise2018.culture.gouv.fr
@@ -19752,7 +19741,6 @@ https://www.greta-alsace.fr
 http://greta-ardechedrome.fr
 https://greta-cfa-aquitaine.fr
 https://www.greta-cfa-paysdelaloire.fr
-http://greta-cher.fr
 https://www.greta-cher.fr
 http://greta-colmar.fr
 http://greta-deuxvallees.fr
@@ -20817,7 +20805,6 @@ http://www.labastide-du-temple.fr
 https://www.labastide-du-vert.fr
 https://www.labastide-marnhac.fr
 https://labastide-saint-georges.fr
-http://www.labastide-st-pierre.fr
 http://labastide-villefranche.fr
 http://www.labastide-villefranche.fr
 https://www.labastidedanjou.fr
@@ -24537,7 +24524,6 @@ https://mairie-opio.fr
 https://www.mairie-orbec.fr
 https://www.mairie-orcemont.fr
 https://www.mairie-ordiarp.fr
-https://mairie-orgeres28.fr
 https://www.mairie-orgeres28.fr
 http://www.mairie-orges.fr
 https://www.mairie-orleix.fr
@@ -26276,6 +26262,7 @@ https://www.massieu38.fr
 https://massignieuderives.fr
 http://www.massillargues-atuech.fr
 https://massingy-les-vitteaux.fr
+https://massingy74.fr
 http://www.massingy74.fr
 https://www.massoins.fr
 https://massongy.fr
@@ -26516,7 +26503,6 @@ http://www.merlaut.fr
 https://www.merle-leignec.fr
 https://merleac.fr
 https://www.merleac.fr
-http://www.merles.fr
 https://www.merlimont.fr
 http://www.merlines19.fr
 https://www.mernel.fr
@@ -27910,6 +27896,7 @@ https://mooslargue.fr
 https://www.morainvilliers-bures.fr
 https://morance.fr
 https://morancez.fr
+https://www.morand-online.fr
 http://morannessursarthe-daumeray.fr
 https://moras-en-valloire.fr
 http://www.moras38.fr
@@ -28472,7 +28459,6 @@ http://www.nouainville.fr
 https://nouan-le-fuzelier.fr
 https://www.nouan-le-fuzelier.fr
 https://nouans.fr
-https://www.nouans.fr
 http://www.noueilles.fr
 https://www.nouesdesienne.fr
 https://www.nouilhan.fr
@@ -29005,7 +28991,7 @@ http://parnans.fr
 http://www.parnans.fr
 https://www.parnay.fr
 https://www.parne-sur-roc.fr
-http://parnes.fr
+https://parnes.fr
 http://parole-aspach.fr
 http://www.parole-aspach.fr
 https://www.parolesdejuges.fr
@@ -31341,7 +31327,7 @@ https://www.saint-roman.fr
 http://saint-romans.fr
 http://www.saint-rustice.fr
 http://saint-saire.fr
-http://www.saint-saire.fr
+https://www.saint-saire.fr
 https://www.saint-salvi-carcaves.fr
 https://www.saint-samson-sur-rance.fr
 https://saint-sandoux.fr
@@ -32388,6 +32374,7 @@ https://www.sancoins.fr
 https://sandarville.fr
 https://www.sandarville.fr
 http://www.sandillon.fr
+https://www.sandouville.fr
 https://sandrans.fr
 http://www.sanilhac-perigord.fr
 https://sannat.fr
@@ -33729,7 +33716,6 @@ http://taillecavat.fr
 https://www.taillecavat.fr
 http://www.tailly21.fr
 https://www.taisnieres-en-thierache.fr
-https://www.taissy.fr
 https://www.taize.fr
 http://talais-informations.fr
 http://www.talais-informations.fr
@@ -36356,7 +36342,7 @@ https://ville-vizille.fr
 https://www.ville-vizille.fr
 https://www.ville-volvic.fr
 http://ville-vouziers.fr
-http://www.ville-vouziers.fr
+https://www.ville-vouziers.fr
 https://www.ville-wasquehal.fr
 https://www.ville-wattrelos.fr
 https://www.ville-wimereux.fr
@@ -36680,7 +36666,7 @@ https://vimory.fr
 https://vimoutiers.fr
 https://www.vimoutiers.fr
 http://www.vimy.fr
-http://vinassan.fr
+https://vinassan.fr
 https://www.vinay.fr
 https://vinay51.fr
 https://www.vincelles.fr
@@ -38540,7 +38526,7 @@ https://saintphilippe.re
 https://saintpierre.re
 https://www.saintpierre.re
 https://www.tco.re
-http://trois-bassins.re
+https://trois-bassins.re
 https://www.ville-port.re
 https://www.ville-saintemarie.re
 https://ville-saintesuzanne.re
