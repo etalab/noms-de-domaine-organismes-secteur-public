@@ -13,8 +13,6 @@ integration.passculture.app
 backend.integration.passculture.app  # from https://crt.sh/?id=5344084366
 web.passculture.app  # Found in cert of CN=app.passculture.beta.gouv.fr, see https://crt.sh/?id=5334894991
 etools.april-beauty.be  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
-fr.cabf.be  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
-uk.cabf.be  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
 mairieviesly.biz
 ww25.mairieviesly.biz  # (redirection from www.mairieviesly.biz)
 ww38.mairieviesly.biz  # (redirection from www.mairieviesly.biz)
@@ -1649,6 +1647,8 @@ www.nouvelle-eglise.com
 noyers-sur-cher.com
 www.noyers-sur-cher.com
 objects.news.odyssey-messaging.com  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=6978036274
+ofpra.com  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
+www.ofpra.com  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
 omaje.com
 www.omaje.com
 oradour-cantal.com
@@ -1668,8 +1668,6 @@ orpea.com
 www.orpea.com
 orrpa.com
 www.orrpa.com
-orthographii.com
-www.orthographii.com
 cidff84.over-blog.com
 mairie.guillac.over-blog.com
 www.mairie.guillac.over-blog.com
@@ -1779,8 +1777,6 @@ pontscorff.com
 www.pontscorff.com
 portes-haut-doubs.com
 www.portes-haut-doubs.com
-portes-sectionnelles-mathysen.com  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
-www.portes-sectionnelles-mathysen.com  # Found in cert of CN=fr.cabf.be, see https://crt.sh/?id=7022509691
 hautesaintonge.pourlesjeunes.com
 prades-ariege.com
 www.prades-ariege.com
@@ -1937,6 +1933,7 @@ treschenu-creyers.com
 www.treschenu-creyers.com
 tressange.com
 www.tressange.com
+tribe-taxi.com  # Found in cert of CN=cartographie.societenumerique.gouv.fr, see https://crt.sh/?id=7223973331
 udaf08.com
 www.udaf08.com
 udaf45.com
@@ -5651,6 +5648,7 @@ media.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Mini
 pilotage.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 stats.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
 wiki.magistere.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=magistere.phm.education.gouv.fr, see https://crt.sh/?id=6039163515
+orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=orion.education.fr, see https://crt.sh/?id=7147416417
 chorus-dt.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=chorus-dt.orion.education.fr, see https://crt.sh/?id=5940273493
 fim-hn-02.orion.education.fr
 fim-hn-02-idp.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02-idp.orion.education.fr, see https://crt.sh/?id=5302120755
@@ -5663,6 +5661,8 @@ hub-cas.orion.education.fr
 hub-oidc.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=hub-oidc.orion.education.fr, see https://crt.sh/?id=6852365220
 chorus-dt.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=chorus-dt.in.orion.education.fr, see https://crt.sh/?id=5940337055
 chorus-dt-etab.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=chorus-dt-etab.in.orion.education.fr, see https://crt.sh/?id=5940317401
+fijais.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fijais.in.orion.education.fr, see https://crt.sh/?id=7154959843
+fijais-rec.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fijais-rec.in.orion.education.fr, see https://crt.sh/?id=7154923034
 fijait.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fijait.in.orion.education.fr, see https://crt.sh/?id=6830630512
 fijait-rec.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fijait-rec.in.orion.education.fr, see https://crt.sh/?id=6830600044
 fim-hn-02.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=fim-hn-02.in.orion.education.fr, see https://crt.sh/?id=5272317024
@@ -5680,6 +5680,7 @@ pp-chorus-dt.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, 
 pp-chorus-dt-etab.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pp-chorus-dt-etab.in.orion.education.fr, see https://crt.sh/?id=5940306665
 sesam.in.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=sesam.in.orion.education.fr, see https://crt.sh/?id=5394739943
 iva.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=iva.orion.education.fr, see https://crt.sh/?id=5765070648
+listes.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=orion.education.fr, see https://crt.sh/?id=7147416417
 orelie.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=orelie.orion.education.fr, see https://crt.sh/?id=5759203173
 pp-chorus-dt.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pp-chorus-dt.orion.education.fr, see https://crt.sh/?id=5940259581
 racvision.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=racvision.phm.education.gouv.fr, see https://crt.sh/?id=6894063289
@@ -7878,6 +7879,7 @@ www.mairiecheronvilliers.monsite-orange.fr
 mairienueilsousfaye.monsite-orange.fr
 www.mairienueilsousfaye.monsite-orange.fr
 thiangesjpm.monsite-orange.fr
+monsuivipsy.fr  # Found in cert of CN=monsuivipsy.fr, see https://crt.sh/?id=7174756607
 montagnesdugiffre.fr
 www.montagnesdugiffre.fr
 montaignac-saint-hippolyte.fr
@@ -8209,6 +8211,8 @@ www.officemaurepipriac.fr
 ofgl.fr
 ofii.fr
 www.ofii.fr
+ofpra.fr  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
+www.ofpra.fr  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
 oger-en-champagne.fr
 www.oger-en-champagne.fr
 oiscl.fr
@@ -8238,6 +8242,7 @@ bundle-ministre-justice-20211221-01-ssl.on-web.fr  # from https://crt.sh/?id=583
 bundle-ministre-justice-20220220-01-ssl.on-web.fr
 bundle-ministre-justice-20220422-01-ssl.on-web.fr  # Found in cert of CN=bundle-ministre-justice-20220422-01-ssl.on-web.fr, see https://crt.sh/?id=6590262555
 bundle-ministre-justice-20220622-01-ssl.on-web.fr  # Found in cert of CN=bundle-ministre-justice-20220622-01-ssl.on-web.fr, see https://crt.sh/?id=6983454721
+bundle-ministre-justice-20220822-01-ssl.on-web.fr  # Found in cert of CN=bundle-ministre-justice-20220822-01-ssl.on-web.fr, see https://crt.sh/?id=7383974297
 onac-vg.fr
 www.onac-vg.fr
 onacvg.fr
@@ -8784,8 +8789,6 @@ relais-enfance-famille.fr
 www.relais-enfance-famille.fr
 remauville77.fr
 www.remauville77.fr
-remixweb10.fr
-www.remixweb10.fr
 discovery.renater.fr
 reolais.fr
 www.reolais.fr
@@ -9165,10 +9168,13 @@ septfontaines.fr
 www.septfontaines.fr
 service-eco.fr
 service-public.fr
+bdc3939.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=service-public.fr, serialNumber=S242741203, see https://crt.sh/?id=7147738692
+blog.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=service-public.fr, serialNumber=S242741203, see https://crt.sh/?id=7147738692
 entreprendre.service-public.fr
 www.entreprendre.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=entreprendre.service-public.fr, serialNumber=S222572556, see https://crt.sh/?id=5877040901
 formulaires.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=www.formulaires.service-public.fr, serialNumber=S216950614, see https://crt.sh/?id=5530639724
-www.formulaires.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=www.formulaires.service-public.fr, serialNumber=S216950614, see https://crt.sh/?id=5530639724
+www.formulaires.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=www.formulaires.service-public.fr, serialNumber=S216950614, see https://crt.sh/?id=5530639724l
+ecomarquage.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=service-public.fr, serialNumber=S242741203, see https://crt.sh/?id=7147738692
 notification.service-public.fr
 www.service-public.fr
 service-public-asso.fr
@@ -10238,6 +10244,8 @@ nozieres.net
 www.nozieres.net
 oeting.net
 www.oeting.net
+ofpra.net  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
+www.ofpra.net  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
 olmeto.net
 www.olmeto.net
 ornaisons.net
@@ -10646,6 +10654,7 @@ energiespiege.org
 www.energiespiege.org
 enfance-jeunesse.org
 www.enfance-jeunesse.org
+snosm.ensm.org  # Found in cert of CN=snosm.ensm.org, see https://crt.sh/?id=7391180378
 zensa.ensm.org  # Found in cert of CN=zensa.ensm.org, see https://crt.sh/?id=5244517637
 entrejuineetrenarde.org
 www.entrejuineetrenarde.org
@@ -10925,6 +10934,8 @@ www.mlvdl.org
 mlvillefranche-beaujolais.org
 ndbs.org
 www.ndbs.org
+ofpra.org  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
+www.ofpra.org  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
 journals.openedition.org  # (redirection from www.revue.inventaire.culture.gouv.fr)
 ose-france.org
 www.ose-france.org  # (redirection from ose-france.org)
