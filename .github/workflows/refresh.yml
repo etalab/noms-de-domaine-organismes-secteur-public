@@ -32,6 +32,5 @@ jobs:
 
       - name: Commit
         run: |
-          git add urls.txt domains.csv
-          git commit -m "Refreshing 1k domains."
+          git commit -am "Refreshing 1k domains."
           git push origin master

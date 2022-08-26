@@ -31,6 +31,5 @@ jobs:
 
       - name: Commit
         run: |
-          git add urls.txt domains.csv
-          git commit -m "Refreshing recently removed domains."
+          git commit -am "Refreshing recently removed domains."
           git push origin master
