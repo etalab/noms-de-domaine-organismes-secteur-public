@@ -32,5 +32,8 @@ jobs:
 
       - name: Commit
         run: |
-          git commit -am "Refreshing 1k domains."
-          git push origin master
+          if [[ git status --porcelain --untracked-files=no ]]
+          then
+              git commit -am "Refreshing 1k domains."
+              git push origin master
+          fi
