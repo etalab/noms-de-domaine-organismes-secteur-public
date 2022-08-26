@@ -73,6 +73,7 @@ def main():
     args = parse_args()
     last_id = query_ct_logs(args.last_id)
     sort_files(SOURCES.glob("*.txt"))
+    print("Manually review sources/nongouvfr-divers.txt for false positives.")
     print("Don't forgot to run `python scripts/check.py`, then:")
     print("    git add sources/*.txt")
     print(f'    git commit -m "Import from CT logs up to id {last_id}."')

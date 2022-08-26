@@ -281,7 +281,6 @@ beaulieu-sur-oudon.com
 www.beaulieu-sur-oudon.com
 beaunecoteetsud.com
 www.beaunecoteetsud.com
-ira-learning.beeznest.com  # Found in cert of CN=e-learning.ira-metz.gouv.fr, see https://crt.sh/?id=5307462322
 bernouville.com
 www.bernouville.com
 betschdorf.com
@@ -814,7 +813,6 @@ etoutteville.com
 www.etoutteville.com
 eure-peche.com
 www.eure-peche.com
-dscr.eurodislog.com  # Found in cert of CN=dscr.eurodislog.com, see https://crt.sh/?id=5307704396
 evergnicourt.com
 fr-fr.facebook.com
 falletans.com
