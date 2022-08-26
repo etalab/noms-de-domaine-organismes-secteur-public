@@ -205,7 +205,9 @@ def main():
     logging.basicConfig(
         level=[logging.WARNING, logging.INFO, logging.DEBUG][args.verbose]
     )
-    domains = parse_csv_file(args.output) | parse_files(*args.files)
+    sources = parse_files(*args.files)
+    domains = parse_csv_file(args.output) | sources
+    domains.difference_update(domains - sources)  # Remove domains removed from sources/
     to_check = filter_domains(domains, args.limit, args.check_new, args.grep)
     try:
         asyncio.run(rescan_domains(to_check, args.kindness, args.verbose, args.silent))
