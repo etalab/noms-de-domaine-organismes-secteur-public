@@ -1164,7 +1164,6 @@ https://www.dragey-ronthon.com
 https://www.dreux.com
 http://droue.com
 http://www.droue.com
-http://drumettaz-clarafond.com
 https://www.drumettaz-clarafond.com
 https://www.dufcc.com
 https://www.dun-le-palestel.com
@@ -3230,7 +3229,7 @@ https://www.sainte-anne-survilaine.com
 https://www.sainte-engrace.com
 https://www.sainte-gemme-81.com
 http://sainte-helene-bondeville.com
-http://www.sainte-helene-bondeville.com
+https://www.sainte-helene-bondeville.com
 https://www.sainte-luce-loire.com
 https://sainte-maxime.com
 https://www.sainte-maxime.com
@@ -3423,7 +3422,7 @@ https://www.sevre-nantaise.com
 https://seyssel74.com
 https://www.sgdb91.com
 http://www.shb30.com
-http://sibiril.com
+https://sibiril.com
 https://www.sidec-jura.com
 https://sifurep.com
 http://sigarn.com
@@ -3812,7 +3811,6 @@ https://ville-penvenan.com
 http://ville-pontderoide-vermondans.com
 http://www.ville-pontderoide-vermondans.com
 https://www.ville-puisserguier.com
-http://www.ville-saint-germain.com
 https://www.ville-saint-maurice.com
 https://ville-saint-myon.com
 https://www.ville-saint-pourcain-sur-sioule.com
@@ -4826,7 +4824,6 @@ https://college-barbey.etab.ac-caen.fr
 https://college-brecey.etab.ac-caen.fr
 https://college-brunet.etab.ac-caen.fr
 https://college-canisy-jfollain.etab.ac-caen.fr
-https://college-cerisy-la-salle.etab.ac-caen.fr
 https://college-challemel-lacour.etab.ac-caen.fr
 https://college-chartier.etab.ac-caen.fr
 https://college-clostardif.etab.ac-caen.fr
@@ -5844,7 +5841,6 @@ http://lp-roches-maigres.ac-reunion.fr
 http://lycee-3bassins.ac-reunion.fr
 http://lycee-ambroise-vollard.ac-reunion.fr
 http://lycee-amiral-bouvet.ac-reunion.fr
-http://lycee-amiral-lacaze.ac-reunion.fr
 http://lycee-antoine-roussin.ac-reunion.fr
 http://lycee-belair.ac-reunion.fr
 http://lycee-bellepierre.ac-reunion.fr
@@ -6463,6 +6459,7 @@ https://www.actumairies.fr
 http://acy-02.fr
 https://adag01.fr
 https://www.adag01.fr
+http://www.adar81.fr
 https://adelie-vamb.fr
 https://www.adelie-vamb.fr
 https://agirpourlatransition.ademe.fr
@@ -12396,6 +12393,7 @@ https://concarneau.fr
 https://www.concarneau.fr
 https://www.conches-en-ouche.fr
 https://www.conches-sur-gondoire.fr
+http://www.conchylespots.fr
 https://www.concoret.fr
 https://www.concots.fr
 https://www.concoules.fr
@@ -12512,6 +12510,7 @@ http://www.cordes-tolosannes.fr
 http://mairie.cordessurciel.fr
 http://www.mairie.cordessurciel.fr
 https://www.mairie.cordon.fr
+http://coren.fr
 http://www.coren.fr
 http://www.corent.fr
 http://corgoloin.fr
@@ -15747,6 +15746,7 @@ http://www.genouilleux.fr
 https://gensac.fr
 https://www.gensac.fr
 http://www.gente.fr
+https://gentelles.fr
 https://www.gentelles.fr
 https://www.georges-arnon.fr
 https://www.georges-delatour-nancy.fr
@@ -16504,7 +16504,6 @@ https://www.tipi-client.budget.gouv.fr
 https://www.budget.gouv.fr
 https://integ-pva-certificat.ca.gouv.fr
 https://pva-certificat.ca.gouv.fr
-https://rct-pva.ca.gouv.fr
 https://rct-pva-certificat.ca.gouv.fr
 http://spi-equipement.ca.gouv.fr
 http://spi-racine.ca.gouv.fr
@@ -16549,6 +16548,7 @@ https://choisirleservicepublic.gouv.fr
 https://chorus-dt.gouv.fr
 https://auth.chorus-pro.gouv.fr
 https://avis.chorus-pro.gouv.fr
+https://ppd.avis.chorus-pro.gouv.fr
 https://rec.avis.chorus-pro.gouv.fr
 https://communaute.chorus-pro.gouv.fr
 https://consultation.chorus-pro.gouv.fr
@@ -17046,7 +17046,7 @@ https://www.dir.atlantique.developpement-durable.gouv.fr
 http://enqueteur.auvergne.developpement-durable.gouv.fr
 http://extranet.srce.auvergne.developpement-durable.gouv.fr
 https://www.auvergne-rhone-alpes.developpement-durable.gouv.fr
-http://www.avis-biodiversite.developpement-durable.gouv.fr
+https://www.avis-biodiversite.developpement-durable.gouv.fr
 https://bd-recherche-ecophyto.developpement-durable.gouv.fr
 https://bdhi.developpement-durable.gouv.fr
 https://www.bea-mer.developpement-durable.gouv.fr
@@ -17158,6 +17158,7 @@ https://grandest-scdd.din.developpement-durable.gouv.fr
 https://isis-transports.din.developpement-durable.gouv.fr
 https://lune.din.developpement-durable.gouv.fr
 https://maintenance.din.developpement-durable.gouv.fr
+https://mantis-forge.din.developpement-durable.gouv.fr
 https://mel.din.developpement-durable.gouv.fr
 https://melanissimo-ng.din.developpement-durable.gouv.fr
 https://meloffice.din.developpement-durable.gouv.fr
@@ -18814,6 +18815,7 @@ https://rizomo-api.numerique.gouv.fr
 https://rizomo-api-demo.numerique.gouv.fr
 https://rizomo-connect.numerique.gouv.fr
 https://rizomo-demo.numerique.gouv.fr
+https://tube.numerique.gouv.fr
 https://webconf.numerique.gouv.fr
 https://preprod.webconf.numerique.gouv.fr
 http://jvb.preprod.webconf.numerique.gouv.fr
@@ -19884,7 +19886,7 @@ http://www.halloy.fr
 https://www.halluin.fr
 https://hambach.fr
 https://www.hambach.fr
-http://www.hamblainlespres.fr
+https://www.hamblainlespres.fr
 https://hambye.fr
 https://www.hamel59.fr
 https://hames-boucres.fr
@@ -21638,6 +21640,7 @@ https://www.le-tech-village.fr
 https://www.le-theil.fr
 https://le-thillot.fr
 https://www.le-thillot.fr
+https://le-val-dore27190.fr
 https://le-val-saint-germain.fr
 https://www.le-vanneau-irleau.fr
 https://www.le-vauroux.fr
@@ -23185,7 +23188,6 @@ http://www.mairie-anse.fr
 https://mairie-anstaing.fr
 http://www.mairie-anthon.fr
 https://www.mairie-antignac.fr
-https://www.mairie-antilly.fr
 https://mairie-antugnac.fr
 https://www.mairie-aoste.fr
 http://www.mairie-aouste-sur-sye.fr
@@ -24536,6 +24538,7 @@ https://www.mairie-ozoir-la-ferriere.fr
 https://mairie-pact.fr
 http://www.mairie-padies81.fr
 https://mairie-paillart.fr
+https://mairie-paillet.fr
 https://www.mairie-paillet.fr
 http://mairie-palaja.fr
 http://www.mairie-palaja.fr
@@ -26491,6 +26494,7 @@ https://merleac.fr
 https://www.merleac.fr
 http://www.merles.fr
 https://www.merlimont.fr
+https://merlines.fr
 http://www.merlines19.fr
 https://www.mernel.fr
 https://www.meroux-moval.fr
@@ -26814,7 +26818,7 @@ https://mlcoudongapeau.fr
 https://mldrouais.fr
 https://mlej.fr
 https://mlforez.fr
-http://www.mlg76.fr
+https://www.mlg76.fr
 https://www.mlhb.fr
 https://www.mlhenincarvin.fr
 http://mlifega.fr
@@ -32928,7 +32932,7 @@ http://sengouagnet.fr
 http://www.seniergues.fr
 https://www.senille-st-sauveur.fr
 http://seninghem.fr
-http://www.senior36.fr
+https://www.senior36.fr
 https://www.senlisse.fr
 https://www.sennecay18.fr
 https://senneceylegrand.fr
@@ -33645,6 +33649,7 @@ https://www.sublignypaysfort.fr
 https://succieu.fr
 https://www.sudalsace-largue.fr
 https://www.sudmessin.fr
+https://www.sudmorvan.fr
 https://sudrhone.fr
 https://sudroussillon.fr
 https://www.sudroussillon.fr
@@ -38370,6 +38375,7 @@ http://www.saintdalmasleselvage.org
 https://www.sainte-cecile.org
 https://www.saintgermainaumontdor.org
 https://www.saintjeandangle.org
+https://www.saintlaurentdemure.org
 https://saintmartindevalgalgues.org
 https://saintpauldevence.org
 https://saintpierredentremont.org
