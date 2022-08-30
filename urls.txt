@@ -898,7 +898,6 @@ https://www.chateauroux-les-alpes.com
 https://www.chatel.com
 http://chatel-censoir.com
 https://www.chateldon.com
-https://chatenois.com
 https://chatillon-sur-loire.com
 https://www.chatillon-sur-saone.com
 http://chaudeneysurmoselle.com
@@ -963,8 +962,7 @@ http://www.clic-lefanal.com
 http://clic-orgessonne.com
 http://www.clic-orgessonne.com
 https://www.clic-orne.com
-https://clic-thiers.com
-https://www.clic-thiers.com
+http://clic-thiers.com
 https://cliceclairage.com
 https://www.cliceclairage.com
 https://clicmontdore.com
@@ -1072,6 +1070,7 @@ http://www.conceze.com
 https://conde-sur-vire.com
 https://www.conde-sur-vire.com
 https://www.conques-en-rouergue.com
+https://conso44.com
 https://www.conso44.com
 https://www.contacter-veterinaire-de-garde.com
 https://www.contest-mairie.com
@@ -2101,6 +2100,7 @@ http://mattaincourt.mairie.com
 http://www.mattaincourt.mairie.com
 http://remomeix.mairie.com
 http://www.remomeix.mairie.com
+http://saintremy.mairie.com
 http://mairie-acyenmultien.com
 https://www.mairie-afa.com
 http://mairie-ahuille.com
@@ -3030,6 +3030,7 @@ https://puyloubier.com
 https://www.puyloubier.com
 https://www.puysainteusebe.com
 https://www.pyrenees-cerdagne.com
+https://www.pyrenees-seronais.com
 https://www.quemper-guezennec.com
 https://www.quessoy.com
 https://www.queven.com
@@ -3635,7 +3636,6 @@ https://www.udaf08.com
 https://www.udaf45.com
 https://www.ugine.com
 http://www.uhrwiller.com
-http://epauxbezu.uniterre.com
 http://urbamet.com
 https://www.urbamet.com
 https://www.uxegney.com
@@ -4292,7 +4292,6 @@ https://abbecourt.fr
 https://abbeville.fr
 https://www.abbeville.fr
 https://abbeville-saint-lucien.fr
-http://www.abbeville-saint-lucien.fr
 https://www.abbevillelariviere.fr
 http://abbevillers.fr
 https://www.abcd94.fr
@@ -4930,7 +4929,6 @@ https://rabelais.etab.ac-caen.fr
 https://racine.etab.ac-caen.fr
 https://robertdemortain.etab.ac-caen.fr
 https://vhugo.etab.ac-caen.fr
-http://ac-clermont.fr
 http://greta.ac-clermont.fr
 https://www.ac-clermont.fr
 https://ia2b.ac-corse.fr
@@ -6351,6 +6349,7 @@ http://www.lyc-hautil-jouy.ac-versailles.fr
 http://www.lyc-henderson-arnouville.ac-versailles.fr
 http://www.lyc-hoche-versailles.ac-versailles.fr
 http://www.lyc-ionesco-issy.ac-versailles.fr
+http://www.lyc-jaures-argenteuil.ac-versailles.fr
 http://www.lyc-jaures-chatenay.ac-versailles.fr
 http://www.lyc-kandinsky-neuilly.ac-versailles.fr
 http://www.lyc-kastler-cergy.ac-versailles.fr
@@ -9969,6 +9968,7 @@ http://caussiniojouls.fr
 http://www.caussols.fr
 https://caussou.fr
 https://www.cauvaldor.fr
+https://www.cauvignac.fr
 http://www.cauvigny.fr
 https://www.cauvillesurmer.fr
 https://caux.fr
@@ -10372,6 +10372,8 @@ https://www.haute-savoie.cci.fr
 http://hautes-alpes.cci.fr
 http://www.hautes-alpes.cci.fr
 https://hautsdefrance.cci.fr
+https://herault.cci.fr
+https://www.herault.cci.fr
 https://ille-et-vilaine.cci.fr
 https://www.ille-et-vilaine.cci.fr
 http://jura.cci.fr
@@ -17069,7 +17071,7 @@ http://vpn.cabinet.developpement-durable.gouv.fr
 https://capapro-transport.developpement-durable.gouv.fr
 http://www.cdat.developpement-durable.gouv.fr
 http://cddep.developpement-durable.gouv.fr
-http://www.cedip.developpement-durable.gouv.fr
+https://www.cedip.developpement-durable.gouv.fr
 https://www.dir.centre-est.developpement-durable.gouv.fr
 http://www.webcams-dir.centre-est.developpement-durable.gouv.fr
 https://www.dir.centre-ouest.developpement-durable.gouv.fr
@@ -17122,7 +17124,6 @@ http://enqueteur.dihal.developpement-durable.gouv.fr
 https://adminep.din.developpement-durable.gouv.fr
 http://anonim.din.developpement-durable.gouv.fr
 https://api.din.developpement-durable.gouv.fr
-https://apiop.din.developpement-durable.gouv.fr
 https://api.apiop.din.developpement-durable.gouv.fr
 http://pram.application.din.developpement-durable.gouv.fr
 https://arcd.din.developpement-durable.gouv.fr
@@ -17661,7 +17662,6 @@ https://aife.economie.gouv.fr
 https://chorusdtm.aife.economie.gouv.fr
 https://developer.aife.economie.gouv.fr
 https://oauth.aife.economie.gouv.fr
-https://sandbox-oauth.aife.economie.gouv.fr
 https://data.economie.gouv.fr
 https://www.data.economie.gouv.fr
 https://datavision.economie.gouv.fr
@@ -18494,7 +18494,6 @@ https://sir.referendum.interieur.gouv.fr
 https://www.referendum.interieur.gouv.fr
 https://sia.registres.interieur.gouv.fr
 https://formation.sia.registres.interieur.gouv.fr
-https://www.resultats-elections.interieur.gouv.fr
 https://sca-rga.interieur.gouv.fr
 https://www.sca-rga.interieur.gouv.fr
 https://www.securite.interieur.gouv.fr
@@ -18692,7 +18691,6 @@ https://espace.lutte-pauvrete.gouv.fr
 https://www.espace.lutte-pauvrete.gouv.fr
 https://www.rdv.maine-et-loire.gouv.fr
 http://www.maine-et-loire.gouv.fr
-http://www.rdvmun.manche.gouv.fr
 https://www.manche.gouv.fr
 https://www.maprimerenov.gouv.fr
 https://fsi.maprocuration.gouv.fr
@@ -21827,7 +21825,6 @@ https://lemaillon.fr
 https://www.lemaillon.fr
 https://lemaisnil.fr
 https://www.lemaisnil.fr
-http://lemanoirsurseine.fr
 https://www.lemans.fr
 http://campagne.lemarsan.fr
 http://stavit.lemarsan.fr
@@ -23131,6 +23128,7 @@ https://www.maine-et-loire.fr
 https://www.mainecoeurdesarthe.fr
 https://www.mainesaosnois.fr
 https://www.maing.fr
+https://mainzac16.fr
 https://maire-levescault.fr
 https://www.maire-levescault.fr
 https://www.maire86.fr
@@ -23689,7 +23687,7 @@ https://mairie-cugnaux.fr
 https://www.mairie-cuq.fr
 http://www.mairie-cuqtoulza.fr
 https://mairie-curienne.fr
-https://mairie-cussey.fr
+http://mairie-cussey.fr
 http://www.mairie-cussey.fr
 https://www.mairie-cuxacdaude.fr
 http://www.mairie-dainville.fr
@@ -26746,7 +26744,6 @@ https://www.missionlocalecergypontoise.fr
 https://www.missionlocalecommunautaire.fr
 https://www.missionlocalecorail.fr
 https://missionlocalecoutances.fr
-https://www.missionlocaledegrigny.fr
 http://missionlocaledeparis.fr
 http://www.missionlocaledeparis.fr
 http://missionlocaledeslandes.fr
@@ -27929,6 +27926,7 @@ https://morsang.fr
 https://www.morsbronn-les-bains.fr
 https://morschwiller-le-bas.fr
 https://www.mortagne-sur-gironde.fr
+https://mortagne88.fr
 http://www.mortagneauperche.fr
 https://www.mortagnesursevre.fr
 http://www.mortain-bocage.fr
@@ -30319,7 +30317,6 @@ https://www.romagne.fr
 https://www.romagnieu.fr
 http://romagnyfontenay.fr
 http://www.romagnyfontenay.fr
-http://www.romaneche-thorins.fr
 https://romange.fr
 https://www.romange.fr
 https://romans01.fr
@@ -34946,6 +34943,7 @@ https://www.vezieres.fr
 https://www.vezins-de-levezou.fr
 https://www.vialadutarn.fr
 http://vialas-commune.fr
+http://www.vialas-commune.fr
 https://viane.fr
 https://www.vianne.fr
 https://viarmes.fr
@@ -35052,7 +35050,6 @@ http://village-montclus.fr
 http://www.village-montclus.fr
 https://www.village-mortemer.fr
 https://www.village-ozouer-le-voulgis.fr
-https://village-pommiers.fr
 https://village-soustelle.fr
 https://villagebeauvoir60.fr
 https://www.villagebournand.fr
@@ -36063,7 +36060,7 @@ https://ville-roussillon-isere.fr
 https://ville-rouvroy62.fr
 https://www.ville-rouvroy62.fr
 https://www.ville-royan.fr
-http://www.ville-rue.fr
+https://www.ville-rue.fr
 https://www.ville-ruellesurtouvre.fr
 https://ville-ruitz.fr
 https://www.ville-ruitz.fr
@@ -36358,7 +36355,6 @@ http://www.villeblevin.fr
 https://villebon-sur-yvette.fr
 https://www.villebon-sur-yvette.fr
 https://villebramar.fr
-http://www.villebrumier.fr
 https://villecerf.fr
 https://villechantria.fr
 http://www.villechauve.fr
