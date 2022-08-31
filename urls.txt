@@ -3031,6 +3031,7 @@ https://puyloubier.com
 https://www.puyloubier.com
 https://www.puysainteusebe.com
 https://www.pyrenees-cerdagne.com
+https://pyrenees-seronais.com
 https://www.pyrenees-seronais.com
 https://www.quemper-guezennec.com
 https://www.quessoy.com
@@ -5804,7 +5805,6 @@ http://college-du-ruisseau.ac-reunion.fr
 http://college-edmond-albius.ac-reunion.fr
 http://college-ehugot.ac-reunion.fr
 http://college-etang-stpaul.ac-reunion.fr
-http://college-gaston-crochet.ac-reunion.fr
 http://college-hdelisle.ac-reunion.fr
 http://college-hfoucque.ac-reunion.fr
 http://college-jean-albany.ac-reunion.fr
@@ -5869,7 +5869,6 @@ http://lycee-pierre-poivre.ac-reunion.fr
 http://lycee-rontaunay.ac-reunion.fr
 http://lycee-sarda-garriga.ac-reunion.fr
 http://lycee-victor-schoelcher.ac-reunion.fr
-http://lycee-vincendo.ac-reunion.fr
 http://lycee.vuebelle.ac-reunion.fr
 https://www.ac-reunion.fr
 http://blog.ac-rouen.fr
@@ -6458,7 +6457,6 @@ https://www.aclou.fr
 https://www.acnusa.fr
 https://www.aconti.fr
 https://www.acsor.fr
-http://actumairies.fr
 https://www.actumairies.fr
 http://acy-02.fr
 https://adag01.fr
@@ -8668,7 +8666,6 @@ http://www.bellinghem.fr
 http://www.bellocq64.fr
 https://bellonne.fr
 https://belloy-en-france.fr
-https://belloy-sur-somme.fr
 https://www.belmont-bretenoux.fr
 https://www.belmont-sur-rance-aveyron.fr
 http://www.belmont-tramonet.fr
@@ -10844,7 +10841,6 @@ http://www.chamagne.fr
 https://www.chamalieres-sur-loire.fr
 https://www.chamarande.fr
 http://www.ariege.chambagri.fr
-http://www.cote-dor.chambagri.fr
 http://landes.chambagri.fr
 http://moselle.chambagri.fr
 http://www.moselle.chambagri.fr
@@ -12561,7 +12557,6 @@ https://correns.fr
 https://www.correze.fr
 https://www.corronsac.fr
 https://www.corsavy.fr
-https://www.corse.fr
 https://www.corsept.fr
 https://corseul.fr
 https://cortevaix.fr
@@ -13121,8 +13116,7 @@ http://delincourt.fr
 http://delle.fr
 http://www.delle.fr
 http://delunevilleabaccarat.fr
-https://deluz.fr
-https://www.deluz.fr
+http://deluz.fr
 http://www.demandolx.fr
 https://www.demarches-simplifiees.fr
 https://www.demi-quartier.fr
@@ -14715,7 +14709,6 @@ https://www.essertinesendonzy.fr
 https://esserts-blay.fr
 https://www.esserts-blay.fr
 https://www.esseylesnancy.fr
-http://www.essignylegrand.fr
 http://esson.fr
 http://www.esson.fr
 http://essone.fr
@@ -16168,7 +16161,6 @@ https://eco-calculateur.dta.aviation-civile.gouv.fr
 https://formation-categorie-ouverte-uas.aviation-civile.gouv.fr
 https://fox-alphatango.aviation-civile.gouv.fr
 https://guichet-unique-obstacles.aviation-civile.gouv.fr
-http://portail.lfpg.aviation-civile.gouv.fr
 http://memoire.aviation-civile.gouv.fr
 https://monespaceulm.aviation-civile.gouv.fr
 https://oceane-candidat.aviation-civile.gouv.fr
@@ -17662,7 +17654,6 @@ https://www.ecologie.gouv.fr
 https://aife.economie.gouv.fr
 https://chorusdtm.aife.economie.gouv.fr
 https://developer.aife.economie.gouv.fr
-https://oauth.aife.economie.gouv.fr
 https://data.economie.gouv.fr
 https://www.data.economie.gouv.fr
 https://datavision.economie.gouv.fr
@@ -17684,6 +17675,7 @@ https://assistanceteleservices.education.gouv.fr
 https://bal-atteinte-laicite.education.gouv.fr
 https://batirlecole.education.gouv.fr
 https://batiscolaire.education.gouv.fr
+http://test.bourses-calculateur.education.gouv.fr
 https://brio.education.gouv.fr
 http://cerpep.education.gouv.fr
 http://www.cerpep.education.gouv.fr
@@ -18512,6 +18504,7 @@ https://payfip.siv.interieur.gouv.fr
 https://secours.payfip.siv.interieur.gouv.fr
 https://secours.siv.interieur.gouv.fr
 https://www.carto.synergi.interieur.gouv.fr
+https://teleservices-cnaps.interieur.gouv.fr
 https://www.televideoprotection.interieur.gouv.fr
 https://web-armes.interieur.gouv.fr
 https://qualification.web-armes.interieur.gouv.fr
@@ -18713,6 +18706,7 @@ http://www.base-donnees-publique.medicaments.gouv.fr
 https://mentor.gouv.fr
 https://administration.mentor.gouv.fr
 https://bbb.mentor.gouv.fr
+https://bbb-pre.mentor.gouv.fr
 https://bbb-qua.mentor.gouv.fr
 http://bbb-qua-1.mentor.gouv.fr
 https://dev.mentor.gouv.fr
@@ -19058,6 +19052,7 @@ https://o6.sante.gouv.fr
 https://www.etape1.oc-collecte.sante.gouv.fr
 https://www.etape2.oc-collecte.sante.gouv.fr
 https://passpluscovid.sante.gouv.fr
+https://portail-certif.sante.gouv.fr
 https://www.portail-enquetes.sante.gouv.fr
 https://www.sante-habitat.pp.sante.gouv.fr
 https://pre-dpi.sante.gouv.fr
@@ -23158,6 +23153,7 @@ https://mairie-albignysursaone.fr
 https://www.mairie-albignysursaone.fr
 https://www.mairie-albon.fr
 https://mairie-alby-sur-cheran.fr
+https://mairie-allan.fr
 http://www.mairie-allan.fr
 https://mairie-alleriot.fr
 https://www.mairie-alleriot.fr
@@ -25728,6 +25724,7 @@ http://www.mairiederosnoen.fr
 https://mairiederueillagadeliere.fr
 https://www.mairiederumilly.fr
 http://mairiederumillyencambresis.fr
+https://www.mairiedesaiguede.fr
 https://mairiedesaillans26.fr
 https://www.mairiedesaintflorent.fr
 http://mairiedesaintfrancoisdesales.fr
@@ -28557,7 +28554,6 @@ http://www.ogeu-les-bains.fr
 https://ogneville.fr
 https://www.ohain.fr
 https://www.oignies.fr
-http://www.oignyenvalois.fr
 https://www.oinville-sur-montcient.fr
 https://oiry.fr
 https://www.oiry.fr
@@ -29016,7 +29012,6 @@ https://www.paulhan.fr
 https://paulin.fr
 http://www.paulin.fr
 http://www.paulin24.fr
-https://paulmy.fr
 https://www.paulmy.fr
 https://www.paulx.fr
 https://paunat.fr
@@ -32492,6 +32487,7 @@ https://santilly.fr
 https://www.santilly.fr
 https://santo-pietro-di-tenda.fr
 https://www.santo-pietro-di-tenda.fr
+https://www.santopietrodivenaco.fr
 https://www.sanvensa.fr
 https://www.saone.fr
 https://www.saonedoubsbresse.fr
@@ -33164,7 +33160,7 @@ https://site-lacavalerie.fr
 http://commune-leparc.sitego.fr
 https://lemesnilvilleman.sitego.fr
 http://saint-denis-de-mere.sitego.fr
-http://saintepience.sitego.fr
+https://saintepience.sitego.fr
 https://www.sitego.fr
 http://www.alboussiere.sitew.fr
 http://www.chigny.sitew.fr
@@ -33284,7 +33280,6 @@ http://www.sonnac.fr
 https://sonnay.fr
 http://sonnaz.fr
 http://www.sonnaz.fr
-http://sonthonnax-la-montagne.fr
 https://sonzay.fr
 https://www.soorts-hossegor.fr
 https://www.soppe-le-bas.fr
@@ -34288,7 +34283,6 @@ https://www.udaf65.fr
 http://udaf66.fr
 http://www.udaf66.fr
 https://www.udaf67.fr
-https://udaf68.fr
 https://udaf69.fr
 https://www.udaf73.fr
 https://www.udaf74.fr
@@ -36596,7 +36590,6 @@ http://www.villerslezcagnicourt.fr
 https://www.villersmarmery.fr
 https://mairie.villerspol.fr
 https://villerssaintframbourgognon.fr
-http://www.villerssouschatillon.fr
 https://villerssoussaintleu.fr
 http://www.villerssurleroule.fr
 https://www.villes-soeurs.fr
@@ -38162,7 +38155,7 @@ https://www.laligue88.org
 https://www.laliviniere.org
 http://www.lamartinieremonplaisir.org
 https://landeleau.org
-https://www.landeleau.org
+http://www.landeleau.org
 http://landes.org
 http://www.landes.org
 https://www.laroseraie.org
