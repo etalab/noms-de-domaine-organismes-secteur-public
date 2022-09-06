@@ -2105,6 +2105,7 @@ http://www.mattaincourt.mairie.com
 http://remomeix.mairie.com
 http://www.remomeix.mairie.com
 http://saintremy.mairie.com
+http://www.saintremy.mairie.com
 http://mairie-acyenmultien.com
 https://www.mairie-afa.com
 http://mairie-ahuille.com
@@ -2145,6 +2146,7 @@ https://www.mairie-bouchet.com
 http://www.mairie-braud.com
 http://www.mairie-brennilis.com
 http://www.mairie-brieres.com
+http://mairie-brouy.com
 https://www.mairie-brouy.com
 http://mairie-buisson.com
 https://www.mairie-cales.com
@@ -2645,6 +2647,7 @@ https://montmartre-guide.com
 https://www.montmelian.com
 https://montpeyroux34.com
 http://www.montpeyroux63.com
+https://montpezat-agenais.com
 http://www.montpezat-de-quercy.com
 https://montpezat-gers.com
 https://montracol.com
@@ -3578,7 +3581,6 @@ https://www.terrasson-lavilledieu.com
 https://www.terraube.com
 http://terredebas-lessaintes.com
 http://www.terredebas-lessaintes.com
-http://terredehaut-lessaintes.com
 https://www.terredehaut-lessaintes.com
 https://www.terredepeyre-lozere.com
 https://www.terredeprovence-agglo.com
@@ -5795,7 +5797,6 @@ http://college-alougnon.ac-reunion.fr
 http://college-alsace-corre.ac-reunion.fr
 http://college-asoubou.ac-reunion.fr
 http://college-beausejour.ac-reunion.fr
-http://college-bernica.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
 http://college-bourbon.ac-reunion.fr
 http://college-braspanon.ac-reunion.fr
@@ -10227,7 +10228,6 @@ http://cc-tenareze.fr
 https://cc-terrassonnais-thenon-hautefort.fr
 https://www.cc-terredeau.fr
 https://cc-thann-cernay.fr
-https://www.cc-thann-cernay.fr
 https://www.cc-thoremontagnenoire.fr
 https://www.cc-trieves.fr
 https://www.cc-tvv.fr
@@ -12456,6 +12456,7 @@ https://www.contamine-sur-arve.fr
 https://www.conteville.fr
 https://contevillelb.fr
 https://continvoir.fr
+https://www.continvoir.fr
 https://contrevoz.fr
 https://www.contrieres.fr
 https://contrisson.fr
@@ -13385,7 +13386,6 @@ https://www.durningen.fr
 https://www.durtol.fr
 https://www.duttlenheim.fr
 https://www.dynamique-emploi.fr
-http://www.e-cancer.fr
 https://anjou-bretagne.anjou.e-lyco.fr
 https://aubance.anjou.e-lyco.fr
 https://calypso.anjou.e-lyco.fr
@@ -16131,7 +16131,6 @@ https://lcca.dsac.aviation-civile.gouv.fr
 http://medrano2.dsac.aviation-civile.gouv.fr
 https://oceane-candidat.dsac.aviation-civile.gouv.fr
 https://oceane-organisme.dsac.aviation-civile.gouv.fr
-http://ulm.dsac.aviation-civile.gouv.fr
 https://cadas-nc.dsna.aviation-civile.gouv.fr
 https://alfresco.dsna-dti.aviation-civile.gouv.fr
 http://cev.dsna-dti.aviation-civile.gouv.fr
@@ -16160,7 +16159,6 @@ https://webpub.sigp.aviation-civile.gouv.fr
 https://guichet-unique-obstacles.snia.aviation-civile.gouv.fr
 https://aca.stac.aviation-civile.gouv.fr
 https://consultation.stac.aviation-civile.gouv.fr
-http://gemassur.stac.aviation-civile.gouv.fr
 https://www.stac.aviation-civile.gouv.fr
 http://bopp.stitch.aviation-civile.gouv.fr
 http://dwpp.stitch.aviation-civile.gouv.fr
@@ -18871,9 +18869,9 @@ https://koha.documentation.pm.gouv.fr
 https://koha-opac.documentation.pm.gouv.fr
 https://koha-opac-test.documentation.pm.gouv.fr
 https://koha-test.documentation.pm.gouv.fr
-https://newsletter.pm.gouv.fr
+http://newsletter.pm.gouv.fr
 http://f.newsletter.pm.gouv.fr
-https://s.newsletter.pm.gouv.fr
+http://s.newsletter.pm.gouv.fr
 https://pro.pnr-certif.gouv.fr
 https://portail-immo.gouv.fr
 https://calculateur-cstb.portail-immo.gouv.fr
@@ -19385,6 +19383,7 @@ https://www.ensa.sports.gouv.fr
 https://ensm.sports.gouv.fr
 https://cloud.ensm.sports.gouv.fr
 https://doc.ensm.sports.gouv.fr
+https://ensmpay.ensm.sports.gouv.fr
 https://extranet.ensm.sports.gouv.fr
 https://www.ensm.sports.gouv.fr
 https://www.envsn.sports.gouv.fr
@@ -19421,7 +19420,6 @@ https://www.cert.ssi.gouv.fr
 https://certa.ssi.gouv.fr
 https://www.certa.ssi.gouv.fr
 http://club.ssi.gouv.fr
-https://talents.ssi.gouv.fr
 https://www.ssi.gouv.fr
 https://www.stationnement.gouv.fr
 http://static3.stop-djihadisme.gouv.fr
@@ -20177,6 +20175,7 @@ https://www.hexanet.fr
 https://www.heyrieux.fr
 http://hieres-sur-amby.fr
 http://www.hieres-sur-amby.fr
+http://www.hiers-brouage.fr
 https://www.hilsenheim.fr
 https://www.hindisheim.fr
 https://www.hinx.fr
@@ -22398,6 +22397,7 @@ https://www.loos.fr
 https://www.loos-en-gohelle.fr
 https://looze.fr
 https://www.looze.fr
+https://www.loperec.fr
 http://www.loqueffret.fr
 https://www.loray.fr
 https://lorbrie.fr
@@ -23434,6 +23434,7 @@ https://mairie-bulgneville.fr
 https://www.mairie-bulgneville.fr
 https://www.mairie-bulles.fr
 https://www.mairie-burie.fr
+http://mairie-buvilly.fr
 https://www.mairie-buvilly.fr
 https://mairie-buxiereslesmines.fr
 https://mairie-buzet-sur-tarn.fr
@@ -25494,8 +25495,6 @@ https://www.vigneulles.mairie54.fr
 https://www.villers-en-haye.mairie54.fr
 https://www.virecourt.mairie54.fr
 http://mairie72.fr
-http://avoise.mairie72.fr
-http://www.avoise.mairie72.fr
 http://beille.mairie72.fr
 http://www.beille.mairie72.fr
 http://bonnetable.mairie72.fr
@@ -25815,7 +25814,6 @@ http://mairielesrousses.fr
 http://www.mairielesrousses.fr
 https://mairielessardenbresse.fr
 https://mairielesventes27.fr
-http://www.mairielesventes27.fr
 http://www.mairielhotellerie.fr
 http://www.mairielhotellerie14.fr
 https://mairieligron72.fr
@@ -26653,7 +26651,7 @@ https://minerve-occitanie.fr
 https://www.minerve-occitanie.fr
 https://www.miniac-morvan.fr
 https://minihy-treguier.fr
-https://ministre-justice.fr
+http://ministre-justice.fr
 https://mysql.ministre-justice.fr
 https://webmail.ministre-justice.fr
 http://www.ministre-justice.fr
@@ -27502,7 +27500,7 @@ http://monestrol.fr
 https://moneteau.fr
 http://www.monfaucon.fr
 https://www.monferran-saves.fr
-http://www.monflanquin.fr
+https://www.monflanquin.fr
 http://monfort.fr
 https://www.monfort.fr
 http://mongauzy.fr
@@ -28767,7 +28765,6 @@ https://www.ouzous.fr
 https://commune-de-hyenville.over-blog.fr
 https://essignylepetit.over-blog.fr
 https://lepasej.over-blog.fr
-https://lerehaut.over-blog.fr
 https://mairie-saint-lizier.over-blog.fr
 https://ville-houssen.over-blog.fr
 https://viozan.over-blog.fr
@@ -29503,7 +29500,6 @@ https://www.pne16.fr
 http://pnr-massif-bauges.fr
 http://www.pnr-massif-bauges.fr
 https://www.pnr-queyras.fr
-http://mairie-fosse.po-66.fr
 https://poce-sur-cisse.fr
 http://podensac.fr
 http://www.podensac.fr
@@ -30847,6 +30843,7 @@ https://www.saint-fortunat-sur-eyrieux.fr
 https://saint-francois-lacroix.fr
 https://www.saint-francois-lacroix.fr
 https://www.saint-fulgent.fr
+http://www.saint-gal-sur-sioule.fr
 https://saint-galmier.fr
 https://www.saint-galmier.fr
 https://www.saint-genes-champanelle.fr
@@ -31763,7 +31760,6 @@ https://www.saintetiennedorthe.fr
 https://www.saintetiennedurouvray.fr
 https://www.saintetiennelallier.fr
 https://saintetiennelardeyrol43.fr
-https://www.saintetiennelardeyrol43.fr
 http://www.saintetiennelavarenne.fr
 http://www.saintetiennesurchalaronne.fr
 http://sainteugene.fr
@@ -32291,14 +32287,12 @@ https://www.salavas.fr
 https://www.salavre.fr
 https://salbris.fr
 http://www.saleignes.fr
-https://www.saleilles.fr
 http://www.saleon.fr
 https://www.salers.fr
 http://www.salesches.fr
 https://www.saleux.fr
 https://www.salies-de-bearn.fr
 https://salies-tarn.fr
-http://www.salies-tarn.fr
 http://salignac-eyvigues.fr
 http://www.salignac-eyvigues.fr
 https://salignac04.fr
@@ -33541,7 +33535,6 @@ https://stjeandeceyrargues.fr
 https://stjeandelosne.fr
 https://www.stjeandelosne.fr
 https://stjeanpladecorts.fr
-https://www.stjeanpladecorts.fr
 https://www.stjuliendeslandes.fr
 https://stjuliendevouvantes.fr
 https://www.stjulienenvercors.fr
@@ -33860,6 +33853,7 @@ https://thietreville.fr
 https://thieux.fr
 https://www.thiezac.fr
 https://www.thil.fr
+http://www.thil54.fr
 https://thilay.fr
 http://thillois.fr
 http://www.thillois.fr
@@ -34484,6 +34478,7 @@ https://www.valdoronaye.fr
 https://valdoule.fr
 https://www.valdulayon.fr
 https://valeille.fr
+https://www.valencay.fr
 https://www.valence-dalbigeois.fr
 https://valencedagen.fr
 https://www.valenceenpoitou.fr
@@ -35031,7 +35026,6 @@ https://village-de-robecq.fr
 http://village-de-verne.fr
 http://www.village-de-verne.fr
 https://village-frejeville.fr
-https://www.village-kaltenhouse.fr
 https://village-le-saix.fr
 https://www.village-lods.fr
 http://village-montclus.fr
@@ -35224,6 +35218,7 @@ https://www.ville-bouffemont.fr
 https://www.ville-bougival.fr
 https://ville-bouguenais.fr
 https://www.ville-bouguenais.fr
+https://ville-boulazac.fr
 https://www.ville-bouliac.fr
 http://www.ville-boulogne-sur-gesse.fr
 https://www.ville-boulogne-sur-mer.fr
@@ -35783,7 +35778,6 @@ http://www.ville-mably.fr
 http://www.ville-macau.fr
 https://www.ville-magalas.fr
 https://ville-magenta.fr
-http://ville-magne.fr
 https://www.ville-magne.fr
 http://www.ville-maille.fr
 http://www.ville-mainvilliers.fr
@@ -36141,8 +36135,6 @@ https://www.ville-saintleonard.fr
 https://www.ville-saintmandrier.fr
 https://ville-saintpauletdecaisson.fr
 https://www.ville-saintpauletdecaisson.fr
-https://ville-saintpaultroischateaux.fr
-https://www.ville-saintpaultroischateaux.fr
 https://ville-saintpolsurmer.fr
 https://ville-saintpolsurternoise.fr
 https://www.ville-saintprest.fr
