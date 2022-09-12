@@ -10731,6 +10731,9 @@ www.ccdromesudprovence.fr
 ccdsp.fr
 www.ccdsp.fr
 cceg.fr
+etools.culture.cceg.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=7444914896
+etools.dechets.cceg.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=7444914896
+etools.transport.cceg.fr  # Found in cert of CN=objects.news.odyssey-messaging.com, see https://crt.sh/?id=7444914896
 www.cceg.fr
 cceppg.fr
 www.cceppg.fr
