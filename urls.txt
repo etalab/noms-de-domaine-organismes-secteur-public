@@ -1036,6 +1036,7 @@ https://www.commune-de-mardeuil.com
 https://www.commune-de-menat.com
 https://www.commune-de-plesse.com
 http://www.commune-de-soye.com
+http://commune-de-vira.com
 http://www.commune-farinole.com
 https://www.commune-igoville.com
 https://www.commune-levieuxmarche.com
@@ -1108,6 +1109,7 @@ https://creys-mepieu.com
 http://crib74.com
 https://crib95.com
 https://www.crib95.com
+https://cricqueboeuf.com
 https://crij-bretagne.com
 https://www.crij-bretagne.com
 https://www.crij-montpellier.com
@@ -2635,6 +2637,7 @@ https://www.montelier.com
 https://www.montesquieu-volvestre.com
 https://montfleur39.com
 https://www.montfleur39.com
+https://www.montfort-en-chalosse.com
 http://montfrin.com
 http://www.montfrin.com
 https://montgenevre.com
@@ -3862,7 +3865,6 @@ https://villeducarbet.com
 https://www.villefort-cevennes.com
 https://villefrancoeur.com
 http://villeherviers.com
-http://www.villeherviers.com
 https://villelongue-dels-monts.com
 https://www.villeneuve-minervois.com
 https://www.villeneuve92.com
@@ -5311,7 +5313,6 @@ https://clg-curie-aiguesmortes.ac-montpellier.fr
 https://clg-curie-estagel.ac-montpellier.fr
 https://clg-curie-pignan.ac-montpellier.fr
 https://clg-curie-rieuxminervois.ac-montpellier.fr
-https://clg-darde-lodeve.ac-montpellier.fr
 https://clg-daudet-ales.ac-montpellier.fr
 https://clg-decoutach-quissac.ac-montpellier.fr
 https://clg-delagalaberte-sthippolytedufort.ac-montpellier.fr
@@ -5791,7 +5792,6 @@ http://college-asoubou.ac-reunion.fr
 http://college-beausejour.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
 http://college-bourbon.ac-reunion.fr
-http://college-braspanon.ac-reunion.fr
 http://college-chemin-morin.ac-reunion.fr
 http://college-de-la-marine.ac-reunion.fr
 http://college-du-ruisseau.ac-reunion.fr
@@ -5832,7 +5832,6 @@ https://etab.ac-reunion.fr
 http://lp-roches-maigres.ac-reunion.fr
 http://lycee-amiral-bouvet.ac-reunion.fr
 http://lycee-belair.ac-reunion.fr
-http://lycee-bellepierre.ac-reunion.fr
 http://lycee-bois-d-olive.ac-reunion.fr
 http://lycee-bpanon.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
@@ -9646,8 +9645,8 @@ http://www.calviacenperigord.fr
 http://www.calvignac.fr
 https://www.camaret-sur-mer.fr
 https://www.camarsac.fr
-http://cambes33.fr
-http://www.cambes33.fr
+https://cambes33.fr
+https://www.cambes33.fr
 https://camblain-chatelain.fr
 https://camblainlabbe.fr
 https://camblanes-et-meynac.fr
@@ -9975,7 +9974,6 @@ https://www.cc-alesia-seine.fr
 https://cc-amognescoeurdunivernais.fr
 https://cc-aspres.fr
 https://www.cc-aspres.fr
-http://cc-aumale-blangy.fr
 https://www.cc-aumale-blangy.fr
 https://www.cc-autourdechenonceaux.fr
 https://www.cc-auzon.fr
@@ -12237,6 +12235,7 @@ http://www.commune-riotord.fr
 https://commune-rosieres10.fr
 https://www.commune-rosieres10.fr
 http://www.commune-sablons.fr
+https://www.commune-saint-genouph.fr
 https://commune-saint-joseph.fr
 https://www.commune-saint-vaize.fr
 http://commune-sand.fr
@@ -13198,6 +13197,7 @@ https://www.docelles.fr
 http://www.doeuil-sur-le-mignon.fr
 http://www.dohem.fr
 https://www.doignies.fr
+http://www.doingt-flamicourt.fr
 http://www.doissat.fr
 https://doissin.fr
 http://dol-de-bretagne.fr
@@ -15080,7 +15080,6 @@ http://www.fontanes34.fr
 https://www.fontanges.fr
 https://www.fontannes.fr
 https://fontcouverte17.fr
-https://www.fontenay.fr
 https://www.fontenay-aux-roses.fr
 https://www.fontenay-en-parisis.fr
 https://www.fontenay-le-comte.fr
@@ -16072,7 +16071,6 @@ https://sandbox1.particulier.api.gouv.fr
 https://sandbox2.particulier.api.gouv.fr
 http://production.particulier-infra.api.gouv.fr
 http://staging.particulier-infra.api.gouv.fr
-http://signup-staging.api.gouv.fr
 https://staging.api.gouv.fr
 https://status.api.gouv.fr
 https://statut.api.gouv.fr
@@ -16842,7 +16840,6 @@ https://admissio.defense.gouv.fr
 https://air.defense.gouv.fr
 https://archives.defense.gouv.fr
 https://barometre-lpm.defense.gouv.fr
-http://formation.bibliotheques-numeriques.defense.gouv.fr
 http://supervision.bibliotheques-numeriques.defense.gouv.fr
 http://formation.bibliotheques-numeriques-form.defense.gouv.fr
 https://www.cicde.defense.gouv.fr
@@ -16987,7 +16984,7 @@ https://redmine-cs.application.developpement-durable.gouv.fr
 http://sitadel.application.developpement-durable.gouv.fr
 http://sitadel2.application.developpement-durable.gouv.fr
 http://vizird2.application.developpement-durable.gouv.fr
-http://www.archives.developpement-durable.gouv.fr
+https://www.archives.developpement-durable.gouv.fr
 http://www.archives-orales.developpement-durable.gouv.fr
 http://enqueteur.ardeche.developpement-durable.gouv.fr
 https://dev.db.aria.developpement-durable.gouv.fr
@@ -18824,7 +18821,6 @@ https://ofpra.gouv.fr
 https://archives.ofpra.gouv.fr
 https://espace-association.ofpra.gouv.fr
 https://www.espace-association.ofpra.gouv.fr
-https://usager.ofpra.gouv.fr
 https://www.ofpra.gouv.fr
 http://ogm.gouv.fr
 https://www.oise.gouv.fr
@@ -20166,7 +20162,6 @@ https://heugnes.fr
 https://heuilley-sur-saone.fr
 https://www.heuilley-sur-saone.fr
 https://www.heuqueville.fr
-http://www.heuringhem.fr
 https://www.heurteauville.fr
 https://www.hexanet.fr
 https://www.heyrieux.fr
@@ -21661,7 +21656,6 @@ https://lebonhomme.fr
 https://www.lebono.fr
 http://www.leboscdutheil.fr
 http://www.lebouchage.fr
-http://lebouchage38.fr
 http://www.lebouchetsaintnicolas.fr
 https://www.leboulay.fr
 https://leboulaymorin.fr
@@ -21796,7 +21790,7 @@ https://www.lehingle.fr
 http://lehouga.fr
 https://www.leigne-les-bois.fr
 http://leigneux.fr
-http://www.leigneux.fr
+https://www.leigneux.fr
 http://leinsgardonnenque.fr
 https://www.leinsgardonnenque.fr
 http://www.lejuch.fr
@@ -22815,7 +22809,6 @@ https://www.lycee-renan.fr
 http://lycee-roger-claustres.fr
 https://lycee-romainrolland-ivry.fr
 https://www.lycee-rouviere.fr
-https://lycee-saint-exupery.fr
 https://www.lycee-saint-john-perse.fr
 https://www.lycee-saintexupery-fameck.fr
 https://lycee-saintlouis.fr
@@ -22836,6 +22829,7 @@ https://www.lycee-valery-larbaud.fr
 https://lycee-valin.fr
 https://www.lycee-valognes.fr
 http://www.lycee-vangogh.fr
+http://www.lycee-vauquelin.fr
 https://www.lycee-vernotte.fr
 https://lycee-vieljeux.fr
 https://www.lycee-vionnet.fr
@@ -25932,7 +25926,6 @@ https://www.maisons-du-bois-lievremont.fr
 https://maisons14.fr
 https://www.maisons14.fr
 https://www.maisonsgoutte.fr
-https://maisonslaffitte.fr
 https://www.maisonslaffitte.fr
 https://www.maisonthierache.fr
 http://www.maisse.fr
@@ -29145,7 +29138,7 @@ https://www.peillac.fr
 https://www.peille.fr
 https://www.peillon.fr
 https://www.peillonnex.fr
-http://www.peipin.fr
+https://www.peipin.fr
 https://www.peisey-nancroix.fr
 https://www.pelleautier.fr
 http://pellevoisin.fr
@@ -29883,6 +29876,7 @@ https://disinfo.quaidorsay.fr
 https://git.quaidorsay.fr
 https://mattermost.quaidorsay.fr
 http://www.quaix-en-chartreuse.fr
+https://www.quarante34.fr
 https://www.quarouble.fr
 https://quarrelestombes.fr
 https://quatzenheim.fr
@@ -30708,8 +30702,6 @@ https://www.saint-cergues.fr
 https://saint-cernin.fr
 https://www.saint-cernin.fr
 http://www.saint-cernin-de-larche.fr
-https://saint-cernin-de-lherm-24.fr
-https://www.saint-cernin-de-lherm-24.fr
 https://saint-cesaire17.fr
 http://www.saint-chaffrey.fr
 http://saint-chamant-cantal.fr
@@ -31373,8 +31365,6 @@ https://saint-thierry.fr
 https://www.saint-thierry.fr
 https://www.saint-thomas-31.fr
 http://www.saint-thomas-de-conac.fr
-https://saint-thonan.fr
-https://www.saint-thonan.fr
 https://saint-thual.fr
 https://www.saint-thual.fr
 https://www.saint-thuriau.fr
@@ -31517,6 +31507,7 @@ https://www.saintbonnetsurgironde.fr
 http://www.saintbonnettroncais.fr
 https://www.saintbriac.fr
 https://saintbrice53.fr
+https://www.saintbrice53.fr
 https://www.saintbrice95.fr
 https://saintbrieucdesiffs.fr
 http://saintbrisdesbois.fr
@@ -34434,6 +34425,7 @@ https://www.valdampierre.fr
 https://www.valdanast.fr
 https://valdarcomie.fr
 https://www.valdarry.fr
+https://valdebonnieure.fr
 https://www.valdebonnieure.fr
 http://valdebouzanne.fr
 http://www.valdebouzanne.fr
@@ -34761,8 +34753,7 @@ https://www.venette.fr
 https://www.venez.fr
 http://www.venizel.fr
 http://www.venizy.fr
-http://vennecy.fr
-http://www.vennecy.fr
+https://www.vennecy.fr
 https://venon.fr
 https://www.venon27.fr
 https://www.venours.fr
@@ -35215,8 +35206,7 @@ https://www.ville-bourdon.fr
 https://www.ville-bourg-saint-maurice.fr
 https://ville-bourges.fr
 https://www.ville-bourges.fr
-http://ville-boussy.fr
-http://www.ville-boussy.fr
+https://www.ville-boussy.fr
 https://www.ville-bovelles.fr
 https://www.ville-boves.fr
 http://www.ville-braysursomme.fr
@@ -37500,8 +37490,6 @@ http://saint-pever.net
 http://www.saint-pever.net
 http://saint-priest-la-feuille.net
 http://www.saint-priest-la-feuille.net
-https://saint-valbert.net
-https://www.saint-valbert.net
 https://www.saintblaise74.net
 http://saintbonnetletroncy.net
 http://www.saintbonnetletroncy.net
@@ -37879,7 +37867,6 @@ https://asso-heda.org
 https://association-aris.org
 https://www.association-aris.org
 http://association-cypres.org
-http://www.association-cypres.org
 https://associations-dunkerque.org
 http://www.associations-dunkerque.org
 https://associations-lpdl.org
