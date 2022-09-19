@@ -1108,7 +1108,6 @@ https://www.creuzier-le-vieux.com
 https://creys-mepieu.com
 http://crib74.com
 https://crib95.com
-https://www.crib95.com
 https://cricqueboeuf.com
 https://crij-bretagne.com
 https://www.crij-bretagne.com
@@ -1297,6 +1296,7 @@ https://www.erea-eysines.com
 https://ernolsheim.com
 http://www.ernolsheim.com
 https://www.esaat-roubaix.com
+https://escamps.com
 https://www.esparrondeverdon.com
 https://www.espeyrac-aveyron.com
 https://www.espinasse63.com
@@ -1363,6 +1363,7 @@ http://www.fedechasseurslandes.com
 https://www.fedepeche21.com
 https://www.federation-peche-ain.com
 http://www.federation-peche22.com
+http://federation-peche51.com
 https://www.federation-peche87.com
 https://federationpeche78.com
 https://www.federationpeche78.com
@@ -1446,7 +1447,7 @@ https://www.gagnieres.com
 https://www.gaillac-toulza.com
 http://www.gamarde-les-bains.com
 https://gancourtsaintetienne.com
-http://www.gandelu.com
+https://www.gandelu.com
 http://garnerans.com
 http://www.garnerans.com
 https://www.gaudreville-la-riviere.com
@@ -1875,6 +1876,7 @@ http://www.le-pouget.com
 https://www.le-sport35.com
 http://le-tranger.com
 http://www.le-tranger.com
+http://www.le-trevoux.com
 https://www.lebastit-village.com
 https://www.lebeaucet.com
 http://lebignonmirabeau.com
@@ -2930,7 +2932,6 @@ http://www.piennes.com
 https://www.pierre-buffiere.com
 https://www.pierrefitte-en-auge.com
 http://pierrerue.com
-http://www.pierrerue.com
 https://www.pietrabugno.com
 https://pimmslyonmetropole.com
 https://www.piscine-intercommunale.com
@@ -4071,7 +4072,6 @@ https://clg-wallon-savignyletemple.eu
 https://www.commune-mothern.eu
 https://www.crecylachapelle.eu
 http://conde-sainte-libiaire.csime.eu
-http://www.conde-sainte-libiaire.csime.eu
 http://lumigny-nesles-ormeaux.csime.eu
 http://www.lumigny-nesles-ormeaux.csime.eu
 https://www.ee-strasbourg.eu
@@ -5216,6 +5216,7 @@ https://roanne.cio.ac-lyon.fr
 https://saint-chamond.cio.ac-lyon.fr
 https://saint-etienne.cio.ac-lyon.fr
 https://saint-priest.cio.ac-lyon.fr
+https://trevoux.cio.ac-lyon.fr
 https://venissieux.cio.ac-lyon.fr
 https://villefranche.cio.ac-lyon.fr
 https://balzac69200.etab.ac-lyon.fr
@@ -5831,7 +5832,6 @@ http://lycee-belair.ac-reunion.fr
 http://lycee-bois-d-olive.ac-reunion.fr
 http://lycee-bpanon.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
-http://lycee-horizon.ac-reunion.fr
 http://lycee-isnelle-amelin.ac-reunion.fr
 http://lycee-jean-perrin.ac-reunion.fr
 http://lycee-jeanjoly.ac-reunion.fr
@@ -8308,7 +8308,7 @@ https://www.bar-sur-seine.fr
 https://www.baraqueville.fr
 http://barbaste.fr
 http://www.barbaste.fr
-http://barbatre.fr
+https://barbatre.fr
 https://www.barbatre.fr
 https://barbazan-debat.fr
 https://www.barbazan-debat.fr
@@ -9394,7 +9394,6 @@ http://www.brindas.fr
 https://brinonsurbeuvron.fr
 https://www.brinonsurbeuvron.fr
 https://www.briollay.fr
-http://www.brion-pres-thouet.fr
 https://brion-sur-ource.fr
 https://www.brion-sur-ource.fr
 https://brion-yonne.fr
@@ -11107,6 +11106,7 @@ http://www.chateau-porcien.fr
 https://www.chateau-renard.fr
 https://www.chateau-salins.fr
 https://www.chateau-sur-epte.fr
+https://chateau-thebaud.fr
 https://www.chateau-thierry.fr
 https://chateau-ville-vieille.fr
 https://www.chateaubourg.fr
@@ -11706,6 +11706,7 @@ https://www.cma76.fr
 http://cma77.fr
 https://www.cma77.fr
 http://cma82.fr
+http://cma92.fr
 https://www.cma93.fr
 https://www.cma95.fr
 http://cmahc.fr
@@ -15947,7 +15948,7 @@ http://pref.allier.gouv.fr
 http://www.pref.allier.gouv.fr
 http://prefecture.allier.gouv.fr
 https://www.rdv.allier.gouv.fr
-http://www.allier.gouv.fr
+https://www.allier.gouv.fr
 https://allo119.gouv.fr
 https://www.allo119.gouv.fr
 https://www.alpes-de-haute-provence.gouv.fr
@@ -16786,6 +16787,7 @@ https://guide.mes-adresses.data.gouv.fr
 http://mes-adresses-demo.data.gouv.fr
 https://next.data.gouv.fr
 https://ouverture.data.gouv.fr
+https://recherche.data.gouv.fr
 https://demo.recherche.data.gouv.fr
 https://schema.data.gouv.fr
 https://sentry.data.gouv.fr
@@ -18741,6 +18743,7 @@ https://accessibilite.numerique.gouv.fr
 https://audioconf.numerique.gouv.fr
 https://stats.audioconf.numerique.gouv.fr
 https://catalogue.numerique.gouv.fr
+https://mon.catalogue.numerique.gouv.fr
 https://cerfa.numerique.gouv.fr
 https://communs.numerique.gouv.fr
 https://design.numerique.gouv.fr
@@ -18949,6 +18952,7 @@ http://dnsmon.club.ssi.rie.gouv.fr
 http://scans.club.ssi.rie.gouv.fr
 http://www.club.ssi.rie.gouv.fr
 https://www.saint-barth-saint-martin.gouv.fr
+http://saint-pierre-et-miquelon.gouv.fr
 http://www.saint-pierre-et-miquelon.gouv.fr
 https://www.administration-transparence.sante.gouv.fr
 https://aquasise.sante.gouv.fr
@@ -19061,7 +19065,7 @@ https://vrb.sante.gouv.fr
 https://www.rdv.saone-et-loire.gouv.fr
 https://www.saone-et-loire.gouv.fr
 https://www.rdv.sarthe.gouv.fr
-http://www.sarthe.gouv.fr
+https://www.sarthe.gouv.fr
 https://www.savoie.gouv.fr
 http://www.arago.science.gouv.fr
 http://www.foucault.science.gouv.fr
@@ -21267,7 +21271,7 @@ https://www.languevoisinquiquery.fr
 https://www.languidic.fr
 https://lanhouarneau.fr
 https://www.lanhouarneau.fr
-http://www.lanildut.fr
+https://www.lanildut.fr
 https://lanmeur.fr
 https://www.lanmeur.fr
 https://www.lanneanou.fr
@@ -23869,7 +23873,6 @@ https://mairie-gallargues.fr
 https://mairie-gambsheim.fr
 http://www.mairie-gannes.fr
 http://www.mairie-gans.fr
-https://mairie-garancieres78.fr
 https://mairie-garchy.fr
 https://www.mairie-gardouch31.fr
 https://www.mairie-gargas31.fr
@@ -25158,7 +25161,6 @@ https://www.mairie-village-neuf.fr
 http://www.mairie-villard-sallet.fr
 https://www.mairie-villargondran.fr
 https://mairie-villaroger.fr
-https://mairie-villarsstgeorges.fr
 https://www.mairie-villarsstgeorges.fr
 https://www.mairie-villate.fr
 https://mairie-ville-en-tardenois.fr
@@ -27558,7 +27560,6 @@ https://www.montalzat.fr
 https://www.montambert.fr
 https://www.montamise.fr
 https://www.montans.fr
-http://www.montarenetsaintmediers.fr
 http://montargis.fr
 http://www.montargis.fr
 http://www.montastruc82.fr
@@ -30443,7 +30444,6 @@ http://www.royeres87.fr
 https://roynac.fr
 https://www.roynac.fr
 https://roz-sur-couesnon.fr
-http://www.roz-sur-couesnon.fr
 https://www.rozay-en-brie.fr
 https://roziercotesdaurec.fr
 http://www.rozlandrieux.fr
@@ -30894,8 +30894,7 @@ https://saint-groux.fr
 https://saint-guinoux.fr
 https://saint-guyomard.fr
 https://www.saint-guyomard.fr
-http://saint-heand.fr
-http://www.saint-heand.fr
+https://www.saint-heand.fr
 https://saint-helen.fr
 https://www.saint-herblain.fr
 https://www.saint-hernin.fr
@@ -36530,7 +36529,7 @@ https://www.villersautertre.fr
 https://www.villersbocage.fr
 https://www.villersbocage14.fr
 http://www.villersexel.fr
-https://www.villerslachevre.fr
+http://www.villerslachevre.fr
 http://www.villerslafaye.fr
 https://www.villerslesnancy.fr
 https://villerslespots.fr
@@ -37335,7 +37334,6 @@ https://www.lac-des-rouges-truites.net
 http://www.lacajunte.net
 https://lacroixauxmines.net
 https://www.lacroixauxmines.net
-http://www.laguicharde.net
 https://lalbere.net
 https://www.lapoteriemathieu.net
 http://laragne.net
