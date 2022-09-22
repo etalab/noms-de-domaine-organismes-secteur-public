@@ -260,7 +260,6 @@ http://aiguines.com
 https://aijam.com
 https://www.aillant-sur-tholon.com
 https://aironnotredame.com
-http://www.aironnotredame.com
 https://aisne.com
 https://www.aisne.com
 https://ajv27.com
@@ -2296,7 +2295,6 @@ http://www.mairie-puttelangeauxlacs.com
 https://www.mairie-puybegon.com
 https://www.mairie-quiers.com
 http://www.mairie-racrange.com
-https://www.mairie-raincourt.com
 https://mairie-rivieres.com
 https://www.mairie-rouvray-89.com
 http://www.mairie-sacierges.com
@@ -3239,7 +3237,7 @@ https://www.sainte-anne-auray.com
 https://www.sainte-anne-survilaine.com
 https://www.sainte-engrace.com
 https://www.sainte-gemme-81.com
-http://sainte-helene-bondeville.com
+https://sainte-helene-bondeville.com
 https://www.sainte-helene-bondeville.com
 https://www.sainte-luce-loire.com
 https://sainte-maxime.com
@@ -4008,7 +4006,6 @@ https://mairiesaintfrancfr.wpcomstaging.com
 http://xouaxange.com
 http://www.xouaxange.com
 https://www.yeun-elez.com
-https://yvoiretourism.com
 https://yzeuressurcreuse.com
 https://zevacu.com
 https://www.zevacu.com
@@ -6798,8 +6795,7 @@ https://nouv.anceaudegarlande77.fr
 https://www.ancenis-saint-gereon.fr
 https://anche.fr
 https://www.anche.fr
-https://ancier.fr
-https://www.ancier.fr
+http://www.ancier.fr
 https://anconedrome.fr
 https://ancourtevillesurhericourt.fr
 https://www.ancourtevillesurhericourt.fr
@@ -8450,7 +8446,6 @@ https://www.bayeux.fr
 https://bayeux-intercom.fr
 https://www.bayeux-intercom.fr
 http://bayon-sur-gironde.fr
-http://www.bayon-sur-gironde.fr
 https://www.bayonne.fr
 https://bayonville-sur-mad.fr
 https://www.bayonvillers.fr
@@ -12303,7 +12298,6 @@ https://www.communedetart.fr
 https://www.communedetavant.fr
 http://www.communedetherouanne.fr
 https://www.communedetoeufles.fr
-http://www.communedetrades.fr
 https://www.communedevalframbert.fr
 http://communedevraiville.fr
 http://www.communedevraiville.fr
@@ -13968,6 +13962,7 @@ https://educagri27.fr
 https://auth.apps.education.fr
 http://whoami.beta.apps.education.fr
 https://metabase.apps.education.fr
+https://nuage.apps.education.fr
 https://nuage02.apps.education.fr
 https://nuage03.apps.education.fr
 https://podeduc.apps.education.fr
@@ -14682,6 +14677,7 @@ https://www.estourmel.fr
 http://estouy.fr
 http://www.estouy.fr
 https://estrablin.fr
+https://www.estrablin.fr
 https://estree-blanche.fr
 https://www.estree-blanche.fr
 https://www.estrees.fr
@@ -15538,7 +15534,6 @@ https://www.frolois21.fr
 https://www.fromelennes.fr
 https://fromelles.fr
 http://www.fromental.fr
-http://www.fromereville-les-vallons.fr
 https://froncles.fr
 https://www.froncles.fr
 https://www.frontenac.fr
@@ -16897,7 +16892,6 @@ https://www.dlem.terre.defense.gouv.fr
 https://www.em-d.terre.defense.gouv.fr
 https://www.emhm.terre.defense.gouv.fr
 https://www.emsome.terre.defense.gouv.fr
-https://mail.etrs.terre.defense.gouv.fr
 https://www.gmp.terre.defense.gouv.fr
 https://www.grle.terre.defense.gouv.fr
 https://www.info-reglement.terre.defense.gouv.fr
@@ -17348,6 +17342,7 @@ https://www.martinique.developpement-durable.gouv.fr
 https://www.dir.massif-central.developpement-durable.gouv.fr
 http://enqueteur.mayenne.developpement-durable.gouv.fr
 https://www.mayotte.developpement-durable.gouv.fr
+http://mediatheque.developpement-durable.gouv.fr
 https://www.dir.mediterranee.developpement-durable.gouv.fr
 https://www.dirm.mediterranee.developpement-durable.gouv.fr
 https://www.dirm.memn.developpement-durable.gouv.fr
@@ -18601,6 +18596,7 @@ https://www.lesentreprises-sengagent.gouv.fr
 http://lesmetiersen2030.gouv.fr
 http://www.lettre-services-de-l-etat.gouv.fr
 http://lheo.gouv.fr
+http://limitesmaritimes.gouv.fr
 http://archives.livreblancdefenseetsecurite.gouv.fr
 http://www.livreblancdefenseetsecurite.gouv.fr
 http://comdalo.application.logement.gouv.fr
@@ -18965,7 +18961,6 @@ https://data.widgets.dashboard.covid19.sante.gouv.fr
 http://mx0www.covid19.sante.gouv.fr
 http://ns2www.covid19.sante.gouv.fr
 http://shop-www.covid19.sante.gouv.fr
-http://test.covid19.sante.gouv.fr
 http://www-2018.covid19.sante.gouv.fr
 https://eye.diffusion.dgs-urgent.sante.gouv.fr
 https://forms.diffusion.dgs-urgent.sante.gouv.fr
@@ -22010,7 +22005,6 @@ https://lesormes.fr
 http://lesormes89.fr
 http://www.lesormes89.fr
 https://lesouich.fr
-https://www.lesouich.fr
 http://www.lesourn.fr
 https://www.lesparre-medoc.fr
 https://www.lespechsduvers.fr
@@ -23013,7 +23007,6 @@ https://www.lyceevinciblanquefort.fr
 https://www.lyceeviviani.fr
 https://www.lyceevoillaume.fr
 https://www.lyceewlerick.fr
-http://lyceewoillez.fr
 https://lyceon.fr
 https://www.lycjzayaulnay.fr
 http://www.lycom.fr
@@ -31813,6 +31806,7 @@ http://www.saintjeandaubrigoux.fr
 https://www.saintjeandavelanne.fr
 http://www.saintjeandebarrou.fr
 https://www.saintjeandebeugne.fr
+https://saintjeandebournay.fr
 https://www.saintjeandebraye.fr
 https://saintjeandechevelu.fr
 https://www.saintjeandecornies.fr
@@ -34575,7 +34569,6 @@ https://www.varennes-sur-allier.fr
 https://www.varennes-sur-amance.fr
 https://varennes-sur-morge.fr
 https://varennes-sur-seine.fr
-http://www.varennes82.fr
 https://varenneschangy.fr
 http://www.varennesenargonne.fr
 https://www.varennesjarcy.fr
