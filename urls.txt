@@ -2701,8 +2701,8 @@ http://neuve-maison.com
 http://www.neuve-maison.com
 https://www.neuville-de-poitou.com
 https://www.neuville-sur-brenne.com
-https://neuvy-grandchamp.com
-https://www.neuvy-grandchamp.com
+http://neuvy-grandchamp.com
+http://www.neuvy-grandchamp.com
 http://www.neuvysurloire.com
 http://niderviller.com
 http://www.niderviller.com
@@ -3068,7 +3068,7 @@ https://www.ressonslelong.com
 https://reunion-sud.com
 https://www.reunion-sud.com
 https://revel-belledonne.com
-http://www.revel-belledonne.com
+https://www.revel-belledonne.com
 https://www.revel-lauragais.com
 http://www.riantec.com
 https://richebourg62.com
@@ -3259,7 +3259,6 @@ http://www.saintfraimbaultdeprieres.com
 https://www.saintfrancoislongchamp.com
 https://www.saintgelydufesc.com
 https://www.saintgenies.com
-https://www.saintgeorgesdebaroille.com
 https://www.saintgeorgesdoleron.com
 https://www.saintgeorgesdubois17.com
 https://saintgeorgessurcher.com
@@ -3624,6 +3623,7 @@ https://www.trelou-sur-marne.com
 http://tremblaylesvillages.com
 https://www.tremblaylesvillages.com
 https://trementines.com
+http://tremereuc.com
 http://www.tremereuc.com
 https://tremoins.com
 https://www.tremoins.com
@@ -3657,7 +3657,7 @@ http://www.valdecher.com
 https://www.valdedrome.com
 http://valdelindrebrenne.com
 http://www.valdelindrebrenne.com
-https://www.valdesaane.com
+http://www.valdesaane.com
 https://www.valdesomme.com
 http://www.valence-sur-baise.com
 https://valenvignes.com
@@ -4006,7 +4006,8 @@ https://mairiesaintfrancfr.wpcomstaging.com
 http://xouaxange.com
 http://www.xouaxange.com
 https://www.yeun-elez.com
-https://yzeuressurcreuse.com
+http://yzeuressurcreuse.com
+http://www.yzeuressurcreuse.com
 https://zevacu.com
 https://www.zevacu.com
 https://zinswiller.com
@@ -5831,7 +5832,6 @@ http://lycee-llisle.ac-reunion.fr
 http://lycee-louis-payen.ac-reunion.fr
 http://lycee-patu.ac-reunion.fr
 http://lycee-pierre-lagourgue.ac-reunion.fr
-http://lycee-pierre-poivre.ac-reunion.fr
 http://lycee-rontaunay.ac-reunion.fr
 http://lycee-victor-schoelcher.ac-reunion.fr
 https://www.ac-reunion.fr
@@ -8107,7 +8107,7 @@ https://www.avirey-lingey.fr
 https://www.aviron-eure.fr
 http://www.avizeviticampus.fr
 https://barreau-aixenprovence.avocat.fr
-https://www.barreau-aixenprovence.avocat.fr
+http://www.barreau-aixenprovence.avocat.fr
 http://www.barreau-amiens.avocat.fr
 https://barreau-avignon.avocat.fr
 https://barreau-bordeaux.avocat.fr
@@ -16461,6 +16461,7 @@ https://www.cantal.gouv.fr
 http://archives.cas.gouv.fr
 http://www.cas.gouv.fr
 http://centre-documentation-segur.gouv.fr
+http://www.centre-documentation-spm.gouv.fr
 http://cerc.gouv.fr
 http://mxs.cerc.gouv.fr
 http://www.cerc.gouv.fr
@@ -16801,6 +16802,7 @@ https://carto-test.datara.gouv.fr
 https://cas-test.datara.gouv.fr
 https://datacarto-test.datara.gouv.fr
 https://print-test.datara.gouv.fr
+https://table.datara.gouv.fr
 https://table-test.datara.gouv.fr
 https://telecarto.datara.gouv.fr
 https://www.datara.gouv.fr
@@ -18381,7 +18383,6 @@ https://qualification.fourrieres.interieur.gouv.fr
 https://admin.gendarmerie.interieur.gouv.fr
 http://crl.gendarmerie.interieur.gouv.fr
 https://cyberimpact.gendarmerie.interieur.gouv.fr
-https://development-center-mhp.gendarmerie.interieur.gouv.fr
 https://faq.gendarmerie.interieur.gouv.fr
 https://admin.gendcom.gendarmerie.interieur.gouv.fr
 https://edit.gendcom.gendarmerie.interieur.gouv.fr
@@ -18396,7 +18397,6 @@ https://mcpn-git.gendarmerie.interieur.gouv.fr
 http://minotaur.gendarmerie.interieur.gouv.fr
 https://3b.gendform.pp.gendarmerie.interieur.gouv.fr
 http://sl.gendform.pp.gendarmerie.interieur.gouv.fr
-http://pp-development-center-mhp.gendarmerie.interieur.gouv.fr
 https://secours17.preprod1.gendarmerie.interieur.gouv.fr
 https://recrutementenligne.gendarmerie.interieur.gouv.fr
 http://www.recrutementenligne.gendarmerie.interieur.gouv.fr
@@ -18959,7 +18959,6 @@ https://cnitaat.sante.gouv.fr
 https://cnriph.sante.gouv.fr
 https://covid-19.sante.gouv.fr
 http://ftp-www.covid-19.sante.gouv.fr
-http://www.mailin2.covid-19.sante.gouv.fr
 http://web-www.covid-19.sante.gouv.fr
 http://www.cloud.covid19.sante.gouv.fr
 https://widgets.dashboard.covid19.sante.gouv.fr
@@ -21326,7 +21325,6 @@ https://www.lapoutroie.fr
 https://www.lappion.fr
 http://www.laprade16.fr
 http://laprenessaye.fr
-http://www.laprenessaye.fr
 https://laproiseliereetlangle.fr
 http://lapte43.fr
 https://lapuye.fr
@@ -21840,6 +21838,7 @@ https://www.lepailly52.fr
 http://www.lepalais.fr
 https://lepalaissurvienne.fr
 https://www.lepallet.fr
+https://www.lepangessurvologne.fr
 https://www.leparcimperial.fr
 http://www.lepasquier.fr
 https://www.lepaud.fr
@@ -22466,7 +22465,6 @@ https://www.lpbaudelaire.fr
 https://lpchaptal.fr
 https://www.lpchardeuil.fr
 https://www.lpcm12.fr
-https://lpcoubertin.fr
 https://lpdiderot10.fr
 http://www.lpestuaire.fr
 https://www.lpjeandarcet.fr
@@ -24330,7 +24328,6 @@ https://mairie-melleroy.fr
 https://mairie-menetoucouture.fr
 https://www.mairie-mercus-garrabet.fr
 https://www.mairie-merdrignac.fr
-https://www.mairie-merenvielle.fr
 https://mairie-mericourt.fr
 https://www.mairie-mericourt.fr
 https://www.mairie-mesnilenthelle.fr
@@ -28154,7 +28151,7 @@ http://www.nerville-la-foret.fr
 https://nervillelaforet.fr
 http://www.nesleslamontagne.fr
 https://nesleslavallee.fr
-https://nespouls.fr
+https://www.nespouls.fr
 http://mairie-cristinacce.net1.fr
 https://neubois.fr
 https://neuf-berquin.fr
@@ -29211,7 +29208,7 @@ https://www.peumerit-quintin.fr
 http://peuplingues.fr
 http://www.peuplingues.fr
 https://www.pevelecarembault.fr
-http://www.pevy.fr
+https://www.pevy.fr
 https://www.pexiora.fr
 http://peymeinade.fr
 https://www.peypin.fr
@@ -30433,7 +30430,6 @@ https://www.rozay-en-brie.fr
 https://roziercotesdaurec.fr
 http://www.rozlandrieux.fr
 https://www.rt78.fr
-https://ruaudin.fr
 https://www.rubelles.fr
 https://rubrouck.fr
 https://ruch.fr
@@ -31149,7 +31145,7 @@ http://www.saint-nicolas-de-la-taille.fr
 https://saint-nicolas-des-motets.fr
 https://saint-nicolas-du-tertre.fr
 https://www.saint-nicolas-du-tertre.fr
-http://saint-nizier-de-fornas.fr
+https://saint-nizier-de-fornas.fr
 https://saint-nizier-du-moucherotte.fr
 https://www.saint-nizier-du-moucherotte.fr
 https://saint-nolff.fr
@@ -33714,7 +33710,6 @@ http://www.teche.fr
 http://www.tecou.fr
 https://www.teef-tarascon.fr
 https://www.teilhet.fr
-https://www.teillay.fr
 https://www.teille44.fr
 http://www.teillots.fr
 https://www.teissieres-les-boulies.fr
@@ -34226,7 +34221,7 @@ https://www.udaf60.fr
 https://udaf63.fr
 https://www.udaf65.fr
 http://udaf66.fr
-http://www.udaf66.fr
+https://www.udaf66.fr
 https://www.udaf67.fr
 https://udaf69.fr
 https://www.udaf73.fr
