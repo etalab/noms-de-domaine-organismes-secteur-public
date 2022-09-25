@@ -192,6 +192,7 @@ http://roscoff.bzh
 http://www.roscoff.bzh
 https://www.saint-aubin-du-cormier.bzh
 https://www.saint-ave.bzh
+https://www.saint-congard.bzh
 https://www.saint-evarzec.bzh
 https://www.saint-pabu.bzh
 https://saint-thegonnec-loc-eguiner.bzh
@@ -557,6 +558,7 @@ https://www.bois-jerome-saint-ouen27.com
 https://www.boisemont.com
 http://ww25.boisleroy27.com
 http://ww38.boisleroy27.com
+http://www.boisleroy27.com
 https://www.boisleuxaumont.com
 https://info.boisleveque.com
 https://www.boismont-pinchefalise-bretel.com
@@ -1486,8 +1488,6 @@ http://www.greta-dracenie.com
 http://greta-gard.com
 http://www.greta-gard.com
 http://greta-grenoble.com
-http://gretaamiens.com
-http://www.gretaamiens.com
 http://gretamarne.com
 http://www.gretamarne.com
 https://www.gretanet.com
@@ -3801,7 +3801,7 @@ https://www.ville-lucciana.com
 http://www.ville-lyslezlannoy.com
 https://www.ville-marle.com
 http://ville-mazamet.com
-http://www.ville-mazamet.com
+https://www.ville-mazamet.com
 https://ville-montignac.com
 https://www.ville-montreuil-bellay.com
 https://ville-mornealeau.com
@@ -4932,6 +4932,7 @@ https://charcot-joinville.ac-creteil.fr
 https://clg-fery-limeil.ac-creteil.fr
 https://clg-louispasteur.ac-creteil.fr
 https://clg-pierreroux77.ac-creteil.fr
+http://collegehippolyteremy.ac-creteil.fr
 https://collegemariecurie.ac-creteil.fr
 https://kmarx-villejuif.ac-creteil.fr
 https://lescloseaux.ac-creteil.fr
@@ -5590,7 +5591,6 @@ http://lyc-leonard-de-vinci-amboise.tice.ac-orleans-tours.fr
 http://lyc-marceau-chartres.tice.ac-orleans-tours.fr
 http://lyc-mauriceviollette-dreux.tice.ac-orleans-tours.fr
 http://lyc-mermoz-bourges.tice.ac-orleans-tours.fr
-http://lyc-paul-louis-courier-tours.tice.ac-orleans-tours.fr
 http://lyc-vauvert-bourges.tice.ac-orleans-tours.fr
 https://www.ac-orleans-tours.fr
 https://pia.ac-paris.fr
@@ -5799,7 +5799,6 @@ http://college-ledimitile.ac-reunion.fr
 http://college-letoullec.ac-reunion.fr
 http://college-ligne-bambous.ac-reunion.fr
 http://college-mahe-labourdonnais.ac-reunion.fr
-http://college-marcel-goulette.ac-reunion.fr
 http://college-oasis.ac-reunion.fr
 http://college-paul-hermann.ac-reunion.fr
 http://college-plateau-caillou.ac-reunion.fr
@@ -5823,7 +5822,6 @@ http://lycee-jeanjoly.ac-reunion.fr
 http://lycee-lapossession.ac-reunion.fr
 http://lycee-lepervanche.ac-reunion.fr
 http://lycee-leverger.ac-reunion.fr
-http://lycee-llisle.ac-reunion.fr
 http://lycee-louis-payen.ac-reunion.fr
 http://lycee-patu.ac-reunion.fr
 http://lycee-pierre-lagourgue.ac-reunion.fr
@@ -7106,7 +7104,6 @@ https://arc-sud-bretagne.fr
 https://www.arc-sud-bretagne.fr
 https://arc-sur-tille.fr
 https://www.arc-sur-tille.fr
-https://mairie.arcangues.fr
 http://www.arcav.fr
 https://arcay-cher.fr
 https://www.arcay-vienne.fr
@@ -9177,7 +9174,6 @@ http://www.bourneville-sainte-croix.fr
 https://bournezeau.fr
 http://www.bourniquel.fr
 https://www.bourogne.fr
-http://www.bourret.fr
 http://bourronmarlotte.fr
 http://boursault-village.fr
 http://www.boursault-village.fr
@@ -11897,6 +11893,7 @@ https://www.collegedumoulin.fr
 https://collegeduparc.fr
 https://collegedupontdelamaye.fr
 http://collegeforgues64.fr
+https://www.collegegandhi.fr
 http://www.collegegapeau.fr
 http://www.collegegerardphilipe.fr
 http://www.collegegohlanno.fr
@@ -12209,7 +12206,7 @@ https://commune-reyssouze.fr
 http://www.commune-riotord.fr
 https://commune-rosieres10.fr
 https://www.commune-rosieres10.fr
-http://www.commune-sablons.fr
+https://www.commune-sablons.fr
 https://www.commune-saint-genouph.fr
 https://commune-saint-joseph.fr
 https://www.commune-saint-vaize.fr
@@ -15364,6 +15361,7 @@ http://cjp.mimizan.free.fr
 http://monfaucon65.free.fr
 http://montceauxragny.free.fr
 http://mairie.montils.free.fr
+http://montreuillechetif.free.fr
 http://montigny.les.monts.free.fr
 http://morval.free.fr
 http://02610.moy.free.fr
@@ -15631,6 +15629,7 @@ https://www.gauriac.fr
 http://www.gauriaguet.fr
 https://www.gavarnie-gedre.fr
 https://gavaudun.fr
+http://gavesbidouze.fr
 https://www.gavesbidouze.fr
 https://www.gavisse.fr
 https://gavraysursienne.fr
@@ -16915,7 +16914,6 @@ https://www.st-cyr.terre.defense.gouv.fr
 http://mailhost.st-cyr.terre-net.defense.gouv.fr
 https://www.timagazine.defense.gouv.fr
 https://visio-ppm.defense.gouv.fr
-https://waked.defense.gouv.fr
 https://www.defense.gouv.fr
 https://www.demande-logement-social.gouv.fr
 https://www.demarches-plaisance.gouv.fr
@@ -17036,7 +17034,7 @@ https://www.corse.developpement-durable.gouv.fr
 http://www.coutglobal.developpement-durable.gouv.fr
 http://enqueteur.cross-gris-nez.developpement-durable.gouv.fr
 https://www.cross-grisnez.developpement-durable.gouv.fr
-http://www.csmm.developpement-durable.gouv.fr
+https://www.csmm.developpement-durable.gouv.fr
 https://www.csnpsn.developpement-durable.gouv.fr
 http://enqueteur.cvrh-arras.developpement-durable.gouv.fr
 http://enqueteur.cvrh-macon.developpement-durable.gouv.fr
@@ -17895,7 +17893,7 @@ http://enqueteur.dordogne.equipement.gouv.fr
 http://www.msr25.doubs.equipement.gouv.fr
 http://www.ecole-affaires-maritimes.equipement.gouv.fr
 http://www.enroute.equipement.gouv.fr
-http://www.equipementsdelaroute.equipement.gouv.fr
+https://www.equipementsdelaroute.equipement.gouv.fr
 http://rp.eure.equipement.gouv.fr
 http://extranet.equipement.gouv.fr
 http://extranet-sante.equipement.gouv.fr
@@ -18238,7 +18236,7 @@ http://www.hautes-pyrenees.gouv.fr
 https://www.hauts-de-seine.gouv.fr
 http://archives.hci.gouv.fr
 http://www.hci.gouv.fr
-http://www.hclpd.gouv.fr
+https://www.hclpd.gouv.fr
 https://www.herault.gouv.fr
 https://www.horizon-europe.gouv.fr
 https://www.horizon2020.gouv.fr
@@ -19775,7 +19773,7 @@ http://www.gueltas.fr
 http://www.guemps.fr
 https://www.guenange.fr
 http://guengat.fr
-http://www.guengat.fr
+https://www.guengat.fr
 https://www.guenin56.fr
 https://www.guenroc.fr
 https://www.guenrouet.fr
@@ -20127,6 +20125,7 @@ https://www.herysuralby.fr
 https://herzeele.fr
 http://www.hesdigneul-lesboulogne.fr
 https://hesdin.fr
+http://hesse-mairie.fr
 https://heudebouville.fr
 http://www.heudicourt27.fr
 https://heudrevillesureure.fr
@@ -24668,6 +24667,7 @@ https://mairie-rochecorbon.fr
 https://www.mairie-rochecorbon.fr
 https://mairie-rochegude.fr
 https://www.mairie-rochegude.fr
+https://www.mairie-rocher.fr
 http://www.mairie-rocles-07.fr
 https://mairie-rodemack.fr
 http://www.mairie-roinville.fr
@@ -33541,7 +33541,6 @@ http://www.stpierredesfleurs.fr
 https://www.stpierredetrivisy.fr
 https://www.stpierreforcats.fr
 https://www.stratis.fr
-https://stremysurorne.fr
 https://www.stromain76.fr
 https://www.stromainlavirvee.fr
 https://www.strueth.fr
@@ -33936,6 +33935,7 @@ https://www.toulouse.fr
 https://toulouse-metropole.fr
 https://www.toulouse-metropole.fr
 https://www.toulouzette.fr
+http://www.touquin.fr
 https://www.touraine-reperage.fr
 https://www.touraineestvallees.fr
 http://www.tourainevalleedelindre.fr
@@ -36678,6 +36678,7 @@ http://void-vacon.fr
 http://www.void-vacon.fr
 http://www.voillans.fr
 http://voinemont.fr
+https://www.voinemont.fr
 https://www.voiron.fr
 https://voisenon.fr
 https://voisins78.fr
@@ -38335,6 +38336,7 @@ http://www.tarascon.org
 https://www.temis.org
 https://jeunes.terresdelorraine.org
 https://tourtour.org
+https://www.tourtour.org
 https://www.tracy-le-mont.org
 https://www.tregueux.org
 https://tresses.org
