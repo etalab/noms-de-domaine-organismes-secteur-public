@@ -281,6 +281,7 @@ beaulieu-sur-oudon.com
 www.beaulieu-sur-oudon.com
 beaunecoteetsud.com
 www.beaunecoteetsud.com
+ira-learning.beeznest.com  # Found in cert of CN=e-learning.ira-metz.gouv.fr, see https://crt.sh/?id=7619414970
 bernouville.com
 www.bernouville.com
 betschdorf.com
@@ -5586,6 +5587,9 @@ ecpad.fr
 www.ecpad.fr
 ectotlesbaons.fr
 www.ectotlesbaons.fr
+wsechange.rh.pre.edcs.fr  # Found in cert of CN=wsechange.ppr.rh.e2.rie.gouv.fr, see https://crt.sh/?id=7587569901
+wsechange.rec.rh.edcs.fr  # Found in cert of CN=wsechange.rec.rh.e2.rie.gouv.fr, see https://crt.sh/?id=7587573256
+wsechange.rh.edcs.fr  # Found in cert of CN=wsechange.rh.e2.rie.gouv.fr, see https://crt.sh/?id=7587579685
 educagri.fr
 education.fr
 adc.education.fr
@@ -9383,6 +9387,7 @@ tiranges.fr
 www.tiranges.fr
 labase.tlscp.fr  # Found in cert of CN=labase.anct.gouv.fr, see https://crt.sh/?id=6991236590
 preprod.labase.tlscp.fr  # Found in cert of CN=preprod.labase.anct.gouv.fr, see https://crt.sh/?id=7077483481
+labo.tlscp.fr  # Found in cert of CN=labo.societenumerique.gouv.fr, see https://crt.sh/?id=7628086514
 sonum.tlscp.fr
 tonnayboutonne.fr
 www.tonnayboutonne.fr
