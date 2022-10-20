@@ -1715,8 +1715,6 @@ http://jura-nord.com
 http://www.jura-nord.com
 https://juvelize.com
 https://www.juvelize.com
-https://kernascleden.com
-https://www.kernascleden.com
 https://www.kernoues.com
 https://rct-agefice.kleegroup.com
 https://www.krautergersheim.com
@@ -3506,8 +3504,6 @@ https://www.st-laurent-de-brevedent.com
 https://www.st-laurent-de-la-cabrerisse.com
 https://www.st-martial.com
 https://st-martin-du-puy.com
-http://st-paul66.com
-http://www.st-paul66.com
 https://www.st-peray.com
 https://www.st-remy.com
 https://st-simon-de-bordes.com
@@ -5387,7 +5383,6 @@ https://lyc-valery-sete.ac-montpellier.fr
 https://www.ac-montpellier.fr
 http://dsden54.ac-nancy-metz.fr
 http://dsden55.ac-nancy-metz.fr
-http://dsden57.ac-nancy-metz.fr
 https://id.ac-nancy-metz.fr
 http://mangin-sarrebourg.ac-nancy-metz.fr
 https://www.ac-nancy-metz.fr
@@ -11987,7 +11982,6 @@ https://www.commercy.fr
 https://www.commingespyrenees.fr
 http://www.commission-refugies.fr
 https://communaute-charlysurmarne.fr
-https://www.communaute-paysbasque.fr
 https://communaute-saint-yrieix.fr
 https://www.communaute-saint-yrieix.fr
 https://www.communaute-urbaine-dunkerque.fr
@@ -15934,6 +15928,7 @@ https://www.etatcivil-signer.ants.gouv.fr
 https://ifc-tes.ants.gouv.fr
 https://infocentre-comedec.ants.gouv.fr
 https://infocentre-tes.ants.gouv.fr
+https://itsm-ppd.ants.gouv.fr
 https://moncompte.ants.gouv.fr
 https://pha.ants.gouv.fr
 https://www.pha.ants.gouv.fr
@@ -16928,7 +16923,6 @@ http://tmd.db.aria.developpement-durable.gouv.fr
 http://dev.tmd.db.aria.developpement-durable.gouv.fr
 https://www.db.aria.developpement-durable.gouv.fr
 https://www.assainissement.developpement-durable.gouv.fr
-https://www2.assainissement.developpement-durable.gouv.fr
 https://www.assainissement-non-collectif.developpement-durable.gouv.fr
 https://assistance-geoportail-urbanisme.developpement-durable.gouv.fr
 https://www.dir.atlantique.developpement-durable.gouv.fr
@@ -18466,6 +18460,7 @@ https://extranet.ira-metz.gouv.fr
 https://gefira.ira-metz.gouv.fr
 https://videos.ira-metz.gouv.fr
 https://www.ira-metz.gouv.fr
+http://bbb.ira-nantes.gouv.fr
 https://classe-virtuelle.ira-nantes.gouv.fr
 https://cpi.ira-nantes.gouv.fr
 https://dev-extranet.ira-nantes.gouv.fr
@@ -18910,7 +18905,6 @@ https://www.asdep-ase-collecte.sante.gouv.fr
 https://www.asdep-collecte.sante.gouv.fr
 https://www.asdep-paph-collecte.sante.gouv.fr
 https://www.asdep-pmi-collecte.sante.gouv.fr
-https://authent-tacvplus.sante.gouv.fr
 https://ceps.sante.gouv.fr
 https://certif-covid.sante.gouv.fr
 https://cnitaat.sante.gouv.fr
@@ -24681,7 +24675,6 @@ https://www.mairie-saint-bernard.fr
 http://www.mairie-saint-blaise06.fr
 https://www.mairie-saint-contest.fr
 https://www.mairie-saint-cyr-les-colons.fr
-http://mairie-saint-cyr-sur-menthon.fr
 http://www.mairie-saint-cyr-sur-menthon.fr
 https://www.mairie-saint-estephe.fr
 http://www.mairie-saint-flour-63.fr
@@ -31647,7 +31640,6 @@ https://saintetiennedemermorte.fr
 https://www.saintetiennedemermorte.fr
 http://www.saintetiennedesoullieres.fr
 https://saintetiennedetinee.fr
-https://www.saintetiennedetinee.fr
 https://www.saintetiennedorthe.fr
 https://www.saintetiennedurouvray.fr
 https://www.saintetiennelallier.fr
@@ -31828,7 +31820,6 @@ http://www.saintlaurentdelapree.fr
 https://www.saintlaurentdelasalanque.fr
 http://www.saintlaurentdeshommes.fr
 https://www.saintlaurentdolt.fr
-http://saintlaurentdumaroni.fr
 https://www.saintlaurentdumaroni.fr
 https://saintlaurentdupape.fr
 https://www.saintlaurentdupape.fr
@@ -34443,7 +34434,6 @@ https://valmondois.fr
 https://www.valojoulx.fr
 https://valoraisne.fr
 http://valorbiquet.fr
-http://www.valorbiquet.fr
 https://valparisis.fr
 https://www.valprivas.fr
 https://www.valromey-sur-seran.fr
@@ -35423,7 +35413,7 @@ http://ville-gignac.fr
 http://www.ville-gignac.fr
 https://www.ville-gisors.fr
 https://www.ville-glisy.fr
-http://www.ville-golfech.fr
+https://www.ville-golfech.fr
 https://www.ville-gonesse.fr
 http://ville-gourbeyre.fr
 http://www.ville-gourbeyre.fr
@@ -35765,7 +35755,6 @@ http://ville-navarrenx.fr
 http://www.ville-navarrenx.fr
 https://www.ville-naves.fr
 https://www.ville-nd-bondeville.fr
-https://www.ville-negrepelisse.fr
 http://ville-nerac.fr
 http://www.ville-nerac.fr
 https://www.ville-nesle.fr
@@ -36080,7 +36069,6 @@ https://ville-somain.fr
 https://www.ville-soreze.fr
 https://www.ville-sorinieres.fr
 https://ville-sottevast.fr
-http://www.ville-soultz.fr
 http://www.ville-soultzmatt.fr
 https://ville-sous-anjou.fr
 http://www.ville-spay.fr
@@ -36620,7 +36608,6 @@ https://www.vogelgrun.fr
 http://void-vacon.fr
 http://www.void-vacon.fr
 http://www.voillans.fr
-http://voinemont.fr
 https://www.voinemont.fr
 https://www.voiron.fr
 https://voisenon.fr
@@ -36964,6 +36951,7 @@ https://www.essises.info
 https://etzling.info
 https://www.etzling.info
 https://faycelles.info
+https://www.faycelles.info
 https://www.fayet.info
 https://www.fdc84.info
 https://www.fiumaltu.info
@@ -37394,7 +37382,6 @@ https://www.saintblaise74.net
 http://saintbonnetletroncy.net
 http://www.saintbonnetletroncy.net
 https://saintclement19.net
-http://sainte-anne-auray.net
 http://www.sainte-suzanne-sur-vire.net
 https://www.saintmenoux.net
 https://sallenelles.net
