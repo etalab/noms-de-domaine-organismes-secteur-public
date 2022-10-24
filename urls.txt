@@ -1147,6 +1147,7 @@ http://www.dennevy.com
 http://www.deschaux.com
 https://www.destination-leman.com
 https://saintsauveur.destination-valdegaronne.com
+http://www.deyvillers.com
 https://www.directdomains.com
 https://dizimieu.com
 https://doixlesfontaines.com
@@ -1237,6 +1238,7 @@ https://mareuil.e-monsite.com
 https://menetreolsoussancerre.e-monsite.com
 https://notredamedaliermont.e-monsite.com
 https://origny-sainte-benoite.e-monsite.com
+https://pierreville50.e-monsite.com
 https://reseausantesarrebourg.e-monsite.com
 https://saint-fregant.e-monsite.com
 https://sainte-montaine.e-monsite.com
@@ -5437,6 +5439,7 @@ http://clg-alfred-de-musset-patay.tice.ac-orleans-tours.fr
 http://clg-anatole-france-tours.tice.ac-orleans-tours.fr
 http://clg-andre-bauchant-chateau-renault.tice.ac-orleans-tours.fr
 http://clg-andre-chene-les-jacobins-fleury-les-aubrais.tice.ac-orleans-tours.fr
+http://clg-andre-duchesne-l-ile-bouchard.tice.ac-orleans-tours.fr
 http://clg-anthonioz-les-bordes.tice.ac-orleans-tours.fr
 http://clg-arche-du-lude-joue-les-tours.tice.ac-orleans-tours.fr
 http://clg-balzac-azay-le-rideau.tice.ac-orleans-tours.fr
@@ -5751,14 +5754,12 @@ https://www.ac-rennes.fr
 http://clg-bouvet.ac-reunion.fr
 http://clg-jean-desme.ac-reunion.fr
 http://college-adrien-cerneau.ac-reunion.fr
-http://college-aigrettes.ac-reunion.fr
 http://college-aime-cesaire.ac-reunion.fr
 http://college-asoubou.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
 http://college-bourbon.ac-reunion.fr
 http://college-de-la-marine.ac-reunion.fr
 http://college-edmond-albius.ac-reunion.fr
-http://college-hfoucque.ac-reunion.fr
 http://college-lamontagne.ac-reunion.fr
 http://college-ledimitile.ac-reunion.fr
 http://college-letoullec.ac-reunion.fr
@@ -6203,7 +6204,6 @@ http://www.lyc-balavoine-boiscolombes.ac-versailles.fr
 http://www.lyc-baudelaire-evry.ac-versailles.fr
 http://www.lyc-baudelaire-fosses.ac-versailles.fr
 http://www.lyc-belmondo-arpajon.ac-versailles.fr
-http://www.lyc-bleriot-suresnes.ac-versailles.fr
 http://www.lyc-bleriot-trappes.ac-versailles.fr
 http://www.lyc-braque-argenteuil.ac-versailles.fr
 http://www.lyc-brassens-courcouronnes.ac-versailles.fr
@@ -6518,7 +6518,6 @@ https://www.aguessac.fr
 https://aham.fr
 https://www.ahetze.fr
 https://ahuy.fr
-https://www.ahuy.fr
 http://www.aiciritscamousuhast.fr
 https://www.aiglemont.fr
 https://www.aiglun06.fr
@@ -9944,7 +9943,6 @@ https://www.cc-des-sucs.fr
 http://www.cc-descombes.fr
 https://www.cc-desvressamer.fr
 https://www.cc-deuxrives.fr
-http://cc-doustre-plateau-etangs.fr
 https://www.cc-dufrontonnais.fr
 https://cc-ecueille-valencay.fr
 https://www.cc-entresaoneetgrosne.fr
@@ -11649,7 +11647,6 @@ https://coat-meal.fr
 https://coatreven.fr
 https://coban-atlantique.fr
 https://mairie.cocherel.fr
-https://www.cocheren.fr
 https://www.coclico-sivu.fr
 https://cocm.fr
 https://www.cocm.fr
@@ -12070,7 +12067,7 @@ http://www.commune-gondreville.fr
 https://www.commune-hamel.fr
 https://commune-helfaut.fr
 https://www.commune-helfaut.fr
-http://commune-hellimer.fr
+https://commune-hellimer.fr
 http://commune-herimoncourt.fr
 http://www.commune-herimoncourt.fr
 http://commune-hirel.fr
@@ -12263,6 +12260,7 @@ http://comus-village.fr
 http://www.comus-village.fr
 https://concarneau.fr
 https://www.concarneau.fr
+https://concarneau-cornouaille.fr
 https://www.conches-en-ouche.fr
 https://www.conches-sur-gondoire.fr
 http://www.conchylespots.fr
@@ -17105,7 +17103,6 @@ https://api.suivi-vigicrues.din.developpement-durable.gouv.fr
 https://support-sind.din.developpement-durable.gouv.fr
 http://svn-forge.din.developpement-durable.gouv.fr
 https://taiga.din.developpement-durable.gouv.fr
-https://taiga-preprod.din.developpement-durable.gouv.fr
 https://trafic2000.din.developpement-durable.gouv.fr
 https://travail-collaboratif.din.developpement-durable.gouv.fr
 https://trident.din.developpement-durable.gouv.fr
@@ -17778,7 +17775,6 @@ https://liste-diff.enseignementsup.gouv.fr
 http://bibliotheques.enseignementsup-recherche.gouv.fr
 https://data.enseignementsup-recherche.gouv.fr
 http://www.elections-pro.enseignementsup-recherche.gouv.fr
-https://test.h2020.enseignementsup-recherche.gouv.fr
 http://www2.helios.enseignementsup-recherche.gouv.fr
 https://ines.enseignementsup-recherche.gouv.fr
 http://m.isoprod.enseignementsup-recherche.gouv.fr
@@ -19291,7 +19287,6 @@ https://zeus.creps-vichy.sports.gouv.fr
 https://cts-web.sports.gouv.fr
 http://eapspublic.sports.gouv.fr
 https://ensa.sports.gouv.fr
-https://www.ensa.sports.gouv.fr
 https://ensm.sports.gouv.fr
 https://cloud.ensm.sports.gouv.fr
 https://doc.ensm.sports.gouv.fr
@@ -19463,7 +19458,6 @@ https://www.vendee.gouv.fr
 http://static.videos.gouv.fr
 https://www.vienne.gouv.fr
 https://espacemembres.vigicrues.gouv.fr
-https://espacemembres.recette.vigicrues.gouv.fr
 https://www.recette.vigicrues.gouv.fr
 https://www.vigicrues.gouv.fr
 https://vigipirate.gouv.fr
@@ -19956,7 +19950,6 @@ https://hauteisle.fr
 https://www.hauteloire.fr
 http://www.hauterive-la-fresse.fr
 https://www.hauterive-orne.fr
-https://hauterive89.fr
 https://hauteroche.fr
 https://www.hauteroche.fr
 http://www.hauteroche39.fr
@@ -20097,7 +20090,6 @@ https://www.hirsingue.fr
 https://www.hirtzbach.fr
 https://hirtzfelden.fr
 https://www.hirtzfelden.fr
-https://agglo-pau.histologe.fr
 http://www.hochfelden.fr
 https://www.hochstatt.fr
 http://www.hochstett.fr
@@ -22910,7 +22902,7 @@ http://www.lyceepaullerolland.fr
 http://www.lyceepem.fr
 https://www.lyceepergaud.fr
 https://lyceepierreboulanger.fr
-http://www.lyceepmc.fr
+https://www.lyceepmc.fr
 https://lyceepmf.fr
 https://www.lyceepmf-savigny77.fr
 https://lyceeponceletsaintavold.fr
@@ -22928,7 +22920,7 @@ https://www.lycees-dinan.fr
 http://www.lycees-publics-chauny.fr
 https://www.lyceesaintgermain.fr
 https://www.lyceesaintlouis.fr
-http://www.lyceeschamplain.fr
+https://www.lyceeschamplain.fr
 https://lyceeschweitzer.fr
 https://www.lyceeschwendi.fr
 https://lyceesdesmetiers-coutances.fr
@@ -25776,6 +25768,7 @@ https://www.mairiesaintromaindejalionas.fr
 https://www.mairiesaintsernindubois.fr
 https://mairiesaintsiffret.fr
 http://www.mairiesaintvincentsurjard.fr
+https://mairiesauveterre.fr
 https://www.mairieserrieresdebriord.fr
 https://mairiesevelinges.fr
 https://mairiest-ilpize.fr
@@ -25972,6 +25965,7 @@ https://www.marcysuranse.fr
 http://mardie.fr
 http://www.mardie.fr
 https://www.maregionsud.fr
+https://mareil-en-france.fr
 https://www.mareil-en-france.fr
 http://www.mareil-le-guyon.fr
 https://www.mareil-marly.fr
@@ -29890,6 +29884,7 @@ https://redene.fr
 https://www.redene.fr
 https://redessan.fr
 https://www.redessan.fr
+https://www.reding.fr
 https://redon.fr
 https://www.redon.fr
 https://www.reezfossemartin.fr
@@ -32008,6 +32003,7 @@ http://www.saintpierrelagarenne.fr
 https://saintpierrelanoaille.fr
 https://www.saintpierrelanoue.fr
 https://saintpierrelapalud.fr
+https://www.saintpierrelapalud.fr
 https://saintpierrelechastel.fr
 https://www.saintpierrelesbois.fr
 https://saintpierrelesnemours.fr
@@ -32088,7 +32084,7 @@ https://www.saintserninleslavaur.fr
 https://saintservant56.fr
 https://www.saintseverin.fr
 https://saintsilvainbellegarde.fr
-http://www.saintsilvainbellegarde.fr
+https://www.saintsilvainbellegarde.fr
 https://www.saintsimon15.fr
 https://www.saintsimon46.fr
 https://saintsulpice73.fr
@@ -33435,6 +33431,7 @@ https://www.stmeen.fr
 https://stmeen-montauban.fr
 https://www.stmeen-montauban.fr
 https://www.stmichel-charente.fr
+http://www.stmichel-entraygues.fr
 http://www.stmichelchefchef.fr
 http://stmicheldecastelnau.fr
 https://www.stmicheldedeze.fr
@@ -34124,7 +34121,6 @@ https://www.udaf57.fr
 https://www.udaf60.fr
 https://udaf63.fr
 https://www.udaf65.fr
-http://udaf66.fr
 https://www.udaf66.fr
 https://www.udaf67.fr
 https://udaf69.fr
@@ -35981,6 +35977,7 @@ https://www.ville-saintleonard.fr
 https://www.ville-saintmandrier.fr
 https://ville-saintpauletdecaisson.fr
 https://www.ville-saintpauletdecaisson.fr
+https://www.ville-saintpierre.fr
 https://ville-saintpolsurmer.fr
 https://ville-saintpolsurternoise.fr
 https://www.ville-saintprest.fr
@@ -36495,7 +36492,6 @@ https://www.vindelle16.fr
 https://www.vindrysurturdine.fr
 https://www.vineuil.fr
 https://vineuilsaintfirmin.fr
-http://www.vineuilsaintfirmin.fr
 https://www.vinezac.fr
 https://vingrau.fr
 https://www.vingrau.fr
@@ -36741,6 +36737,7 @@ https://www.willerwald.fr
 https://www.wimmenau.fr
 https://www.wingen.fr
 https://www.wingensurmoder.fr
+https://wingles.fr
 http://www.winkel.fr
 https://winnezeele.fr
 https://www.winnezeele.fr
@@ -38352,6 +38349,7 @@ https://coyolles.site
 https://www.la-haye.site
 http://conflanssuranille.fr.st
 http://www.conflanssuranille.fr.st
+http://copamo.fr.st
 http://www.copamo.fr.st
 https://suivi-ouverture.app.etalab.studio
 https://code.etalab.studio
