@@ -620,7 +620,7 @@ https://www.briare-le-canal.com
 https://brignais.com
 http://brillac-16.com
 http://www.brillac-16.com
-http://www.brissac-ensemble.com
+https://www.brissac-ensemble.com
 http://brognon21.com
 http://www.brognon21.com
 https://www.brotte-les-luxeuil.com
@@ -2125,7 +2125,6 @@ http://www.mairie-auffargis.com
 https://www.mairie-aumetz.com
 https://www.mairie-aussois.com
 https://www.mairie-aydoilles.com
-https://www.mairie-azille.com
 http://mairie-balinghem.com
 http://www.mairie-balinghem.com
 https://www.mairie-bannost-villegagnon77.com
@@ -4999,7 +4998,6 @@ http://lyc21-eiffel.ac-dijon.fr
 http://lyc21-liegeard.ac-dijon.fr
 http://lyc21-marcsdor.ac-dijon.fr
 http://lyc21-montchapet.ac-dijon.fr
-http://lyc58-colas.ac-dijon.fr
 http://lyc58-fmitterrand.ac-dijon.fr
 http://lyc58-genevoix.ac-dijon.fr
 http://lyc58-montchatelet.ac-dijon.fr
@@ -5297,7 +5295,6 @@ https://clg-dubosquet-bagnolssurceze.ac-montpellier.fr
 https://clg-duhautgevaudan-stchelydapcher.ac-montpellier.fr
 https://clg-dumas-salindres.ac-montpellier.fr
 https://clg-dupeyron-langogne.ac-montpellier.fr
-https://clg-duplan-nimes.ac-montpellier.fr
 https://clg-dutrenze-vialas.ac-montpellier.fr
 https://clg-etangdelor-mauguio.ac-montpellier.fr
 https://clg-faure-olonzac.ac-montpellier.fr
@@ -5318,7 +5315,6 @@ https://clg-lagarrigole-perpignan.ac-montpellier.fr
 https://clg-lagarriguette-vergeze.ac-montpellier.fr
 https://clg-lanadiere-portlanouvelle.ac-montpellier.fr
 https://clg-lapierre-stjeandugard.ac-montpellier.fr
-https://clg-larguier-lagrandcombe.ac-montpellier.fr
 https://clg-lavalleeverte-vauvert.ac-montpellier.fr
 https://clg-lavoiedomitienne-lecres.ac-montpellier.fr
 https://clg-leberange-baillargues.ac-montpellier.fr
@@ -5513,6 +5509,7 @@ http://clg-les-clorisseaux-poilly-lez-gien.tice.ac-orleans-tours.fr
 http://clg-les-petits-sentiers-luce.tice.ac-orleans-tours.fr
 http://clg-les-pressigny-selles-sur-cher.tice.ac-orleans-tours.fr
 http://clg-lorris.tice.ac-orleans-tours.fr
+http://clg-louis-bleriot-toury.tice.ac-orleans-tours.fr
 http://clg-louis-pasteur-moree.tice.ac-orleans-tours.fr
 http://clg-louis-pergaud-courville-sur-eure.tice.ac-orleans-tours.fr
 http://clg-marcel-carne-vineuil.tice.ac-orleans-tours.fr
@@ -5935,7 +5932,6 @@ http://www.clg-epineguyon-franconville.ac-versailles.fr
 http://www.clg-ermitage-soisy.ac-versailles.fr
 http://www.clg-esclangon-viry.ac-versailles.fr
 http://www.clg-explorateurs-cergy.ac-versailles.fr
-http://www.clg-exupery-ermont.ac-versailles.fr
 http://www.clg-ferry-eaubonne.ac-versailles.fr
 http://www.clg-ferry-ermont.ac-versailles.fr
 http://www.clg-ferry-mantes.ac-versailles.fr
@@ -6430,6 +6426,7 @@ https://www.agglo-cambrai.fr
 https://www.agglo-carene.fr
 https://www.agglo-chaumont.fr
 https://www.agglo-cobas.fr
+http://agglo-colmar.fr
 https://www.agglo-colmar.fr
 https://www.agglo-compiegne.fr
 https://www.agglo-epinal.fr
@@ -9623,7 +9620,6 @@ http://cancon.fr
 http://www.cancon.fr
 https://candes-saint-martin.fr
 http://www.candillargues.fr
-https://www.canejan.fr
 https://canens.fr
 https://www.canet-aude.fr
 https://www.canetenroussillon.fr
@@ -10488,7 +10484,6 @@ https://www.cdg34.fr
 https://www.cdg35.fr
 https://www.cdg36.fr
 http://cdg37.fr
-http://www.cdg37.fr
 https://www.cdg38.fr
 https://www.cdg44.fr
 https://www.cdg45.fr
@@ -12382,7 +12377,6 @@ http://mairie.cordessurciel.fr
 http://www.mairie.cordessurciel.fr
 https://www.mairie.cordon.fr
 http://coren.fr
-http://www.coren.fr
 http://www.corent.fr
 http://corgoloin.fr
 http://www.corgoloin.fr
@@ -16165,7 +16159,6 @@ https://dev.camino.beta.gouv.fr
 https://docs.dev.camino.beta.gouv.fr
 https://storybook.dev.camino.beta.gouv.fr
 https://docs.camino.beta.gouv.fr
-https://geo.camino.beta.gouv.fr
 https://preprod.camino.beta.gouv.fr
 https://docs.preprod.camino.beta.gouv.fr
 https://storybook.preprod.camino.beta.gouv.fr
@@ -16442,7 +16435,6 @@ https://preprod2.avisau.cohesion-territoires.gouv.fr
 https://cartes.cohesion-territoires.gouv.fr
 https://contact.cohesion-territoires.gouv.fr
 https://support.demo.platau.cohesion-territoires.gouv.fr
-https://support.demo2.platau.cohesion-territoires.gouv.fr
 https://support.preprod1.platau.cohesion-territoires.gouv.fr
 https://support.preprod2.platau.cohesion-territoires.gouv.fr
 https://support.platau.cohesion-territoires.gouv.fr
@@ -16671,7 +16663,6 @@ http://build-1.infra.geo.data.gouv.fr
 http://dvf-ipfo.infra.geo.data.gouv.fr
 http://geocode-1.infra.geo.data.gouv.fr
 http://geocode-2.infra.geo.data.gouv.fr
-http://geocode-3.infra.geo.data.gouv.fr
 http://geocode-4.infra.geo.data.gouv.fr
 http://geocode-5.infra.geo.data.gouv.fr
 http://geocode-ipfo-1.infra.geo.data.gouv.fr
@@ -17125,7 +17116,7 @@ http://isidoredd.documentation.developpement-durable.gouv.fr
 https://portail.documentation.developpement-durable.gouv.fr
 http://prd59.documentation.developpement-durable.gouv.fr
 https://sequoia.documentation.developpement-durable.gouv.fr
-http://temis.documentation.developpement-durable.gouv.fr
+https://temis.documentation.developpement-durable.gouv.fr
 http://www.donnees-communales.developpement-durable.gouv.fr
 http://www.msr25.doubs.developpement-durable.gouv.fr
 http://enqueteur.dreal-aquitaine-limousin-poitou-charentes.developpement-durable.gouv.fr
@@ -17829,7 +17820,6 @@ http://www.cetmef.equipement.gouv.fr
 http://www2.charente-maritime.equipement.gouv.fr
 https://www.cnps.equipement.gouv.fr
 http://rp.construction.equipement.gouv.fr
-http://www.csmm.equipement.gouv.fr
 http://developpementdurable.documentation.equipement.gouv.fr
 http://pastel.documentation.equipement.gouv.fr
 http://enqueteur.dordogne.equipement.gouv.fr
@@ -18619,7 +18609,6 @@ https://bbb.mentor.gouv.fr
 https://bbb-pre.mentor.gouv.fr
 http://bbb-qua-1.mentor.gouv.fr
 https://dev.mentor.gouv.fr
-https://preproduction.mentor.gouv.fr
 https://qualification.mentor.gouv.fr
 https://scalelite-pre.mentor.gouv.fr
 https://via.mentor.gouv.fr
@@ -18978,6 +18967,7 @@ https://www.santecole-collecte.sante.gouv.fr
 https://si-amiante-api.sante.gouv.fr
 https://si-enquetes.sante.gouv.fr
 https://si-enquetes-valid.sante.gouv.fr
+https://sidec.sante.gouv.fr
 https://signature-electronique.sante.gouv.fr
 https://silav.sante.gouv.fr
 https://siriph.sante.gouv.fr
@@ -21698,6 +21688,7 @@ https://www.legroschene.fr
 https://legta-brivevoutezac.fr
 https://www.legtfrancoisvillon.fr
 https://www.legua-mairie.fr
+http://leguedallere.fr
 https://www.leguerno.fr
 https://leguille.fr
 https://www.leguille.fr
@@ -22394,6 +22385,7 @@ https://lp-henribrulle.fr
 https://www.lp-jean-monnet.fr
 http://www.lp-lomet.fr
 https://www.lp-louis-armand.fr
+https://lp-philibert-de-l-orme.fr
 https://www.lp-sud-gironde.fr
 https://www.lpa-beaunelarolande.fr
 https://lpa-ricarde.fr
@@ -24790,7 +24782,7 @@ https://www.mairie-salaunes.fr
 https://www.mairie-salies-salat.fr
 http://mairie-salindres.fr
 http://www.mairie-salindres.fr
-http://www.mairie-salinslesbains.fr
+https://www.mairie-salinslesbains.fr
 http://mairie-salome.fr
 https://www.mairie-sameon.fr
 https://mairie-samerey.fr
@@ -29325,7 +29317,7 @@ https://www.plouarzel.fr
 https://plouasne.fr
 https://www.plouay.fr
 https://www.ploubazlanec.fr
-http://ploubezre.fr
+https://ploubezre.fr
 https://www.ploubezre.fr
 http://www.ploudalmezeau.fr
 http://plouec-du-trieux.fr
@@ -30605,6 +30597,7 @@ https://saint-ciers.fr
 http://saint-ciers-champagne.fr
 http://www.saint-ciers-champagne.fr
 http://www.saint-cirgues-de-prades.fr
+http://www.saint-cirgues-sur-couze.fr
 https://www.saint-cirq-souillaguet.fr
 https://saint-clair.fr
 https://www.saint-clair.fr
@@ -34412,7 +34405,7 @@ https://www.vallouise-pelvoux.fr
 https://valmondois.fr
 https://www.valojoulx.fr
 https://valoraisne.fr
-http://valorbiquet.fr
+https://valorbiquet.fr
 https://valparisis.fr
 https://www.valprivas.fr
 https://www.valromey-sur-seran.fr
@@ -35631,7 +35624,7 @@ https://ville-magenta.fr
 https://www.ville-magne.fr
 http://www.ville-maille.fr
 http://www.ville-mainvilliers.fr
-http://www.ville-maizieres-les-metz.fr
+https://www.ville-maizieres-les-metz.fr
 https://www.ville-malicorne.fr
 https://www.ville-manosque.fr
 https://ville-marange-silvange.fr
@@ -35652,7 +35645,6 @@ http://www.ville-martigneferchaud.fr
 https://www.ville-martigues.fr
 https://www.ville-marvejols.fr
 https://ville-masny.fr
-http://demarches.ville-massy.fr
 https://www.ville-massy.fr
 https://ville-matoury.fr
 https://ville-maubeuge.fr
@@ -37118,7 +37110,7 @@ http://collegemariecurie.net
 https://www.collegemontaigne.net
 https://collegepiegut.net
 https://collonges.net
-https://www.collonges.net
+http://www.collonges.net
 http://commune-chancia.net
 http://www.commune-chancia.net
 http://www.albussac.correze.net
@@ -37369,8 +37361,6 @@ http://www.saramon.net
 https://www.sardieu.net
 http://sarry-champagne.net
 http://www.sarry-champagne.net
-https://saulx.net
-https://www.saulx.net
 https://www.savigneux.net
 https://www.sexcles.net
 https://www.sidomsa.net
@@ -37786,7 +37776,7 @@ http://www.boust.org
 https://www.brengues.org
 https://breville.org
 https://www.breville.org
-http://www.brittanyhotels.org
+https://www.brittanyhotels.org
 http://brouzetlesales.org
 http://www.brouzetlesales.org
 https://cabara.org
