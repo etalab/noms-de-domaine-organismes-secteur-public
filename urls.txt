@@ -1189,6 +1189,7 @@ https://colombier-pilat.e-monsite.com
 https://commune-de-breaute.e-monsite.com
 https://commune-vert-toulon.e-monsite.com
 https://communedefleurville.e-monsite.com
+https://communedevares.e-monsite.com
 https://communedevillaniere.e-monsite.com
 https://courchapon-infos.e-monsite.com
 https://dontreix23.e-monsite.com
@@ -1316,7 +1317,7 @@ http://www.etampes-sur-marne.com
 https://www.etival-les-le-mans.com
 http://eure-peche.com
 http://www.eure-peche.com
-https://www.eus-village.com
+http://www.eus-village.com
 https://www.exideuilsurvienne.com
 https://www.exireuil.com
 https://www.eyjeaux.com
@@ -1739,6 +1740,8 @@ https://la-toussuire.com
 https://la-vacquerie.com
 https://www.laa-mondrans.com
 https://www.labalmelesgrottes.com
+https://labarthesurleze.com
+https://www.labarthesurleze.com
 https://labastide-d-armagnac.com
 https://www.labastide-d-armagnac.com
 https://www.labastideclairence.com
@@ -1751,7 +1754,6 @@ http://labreillelespins.com
 http://www.labreillelespins.com
 https://labruguiere.com
 https://www.lacaune.com
-http://lacaze-tarn.com
 https://www.lachapelle-sous-chaux.com
 https://lachapelleauxnaux.com
 https://www.lachapellebouexic.com
@@ -1902,6 +1904,7 @@ http://www.legreta.com
 https://www.leguilvinec.com
 https://lehezo.com
 https://www.lelouroux.com
+https://www.lemarchepied.com
 https://www.lemaysurevre.com
 http://www.lemesnilsousjumieges.com
 http://lentigny.com
@@ -4742,7 +4745,6 @@ http://www.clg-bletterans.ac-besancon.fr
 http://www.clg-brel.ac-besancon.fr
 http://www.clg-charles-peguy.ac-besancon.fr
 http://www.clg-chatillonleduc.ac-besancon.fr
-http://clg-clairs-soleils.ac-besancon.fr
 http://www.clg-delaunay.ac-besancon.fr
 http://www.clg-du-plateau.ac-besancon.fr
 http://www.clg-duplessis-deville.ac-besancon.fr
@@ -4917,7 +4919,6 @@ http://web.ac-corse.fr
 https://www.ac-corse.fr
 https://camus-thiais.ac-creteil.fr
 https://charcot-joinville.ac-creteil.fr
-https://clg-fery-limeil.ac-creteil.fr
 https://clg-louispasteur.ac-creteil.fr
 https://clg-pierreroux77.ac-creteil.fr
 http://collegehippolyteremy.ac-creteil.fr
@@ -5755,7 +5756,6 @@ http://college-aime-cesaire.ac-reunion.fr
 http://college-asoubou.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
 http://college-bourbon.ac-reunion.fr
-http://college-de-la-marine.ac-reunion.fr
 http://college-edmond-albius.ac-reunion.fr
 http://college-lamontagne.ac-reunion.fr
 http://college-ledimitile.ac-reunion.fr
@@ -5764,7 +5764,6 @@ http://college-ligne-bambous.ac-reunion.fr
 http://college-plateau-caillou.ac-reunion.fr
 http://college-raymondverges.ac-reunion.fr
 http://college-texeiradamotta.ac-reunion.fr
-http://college-titan.ac-reunion.fr
 https://etab.ac-reunion.fr
 http://lp-roches-maigres.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
@@ -11687,8 +11686,6 @@ https://www.cogolin.fr
 https://www.cohons.fr
 https://www.coignieres.fr
 https://www.coimeres.fr
-https://coinces.fr
-https://www.coinces.fr
 https://coings.fr
 https://www.coinlescuvry.fr
 https://www.coinsurseille.fr
@@ -14430,6 +14427,7 @@ http://www.epiniac.fr
 https://epinouze.fr
 https://www.epl-amboisechambray.fr
 https://epl-borgo.fr
+https://www.epl-borgo.fr
 https://www.epl-fontaines.fr
 https://www.epl-haute-correze.fr
 http://epl-limoges-nord87.fr
@@ -14907,7 +14905,7 @@ http://www.flottemanville-hague.fr
 https://floure.fr
 http://www.flumet.fr
 http://www.fmitterrand.fr
-http://www.foire-des-herolles.fr
+https://www.foire-des-herolles.fr
 https://foisches.fr
 http://folembray.fr
 http://www.folembray.fr
@@ -15460,6 +15458,7 @@ https://www.fun-mooc.fr
 https://www.furdenheim.fr
 https://www.fussy.fr
 http://gabarnac.fr
+http://www.gabarnac.fr
 https://gabaston.fr
 https://www.gabriac.fr
 https://gabrias.fr
@@ -16492,7 +16491,6 @@ https://consulat.gouv.fr
 https://api.consulat.gouv.fr
 http://consultation-ecophyto2plus.gouv.fr
 https://www.consultation-ecophyto2plus.gouv.fr
-https://www.consultation-rua.gouv.fr
 http://contrat-alternance.gouv.fr
 http://contrats-alternance.gouv.fr
 http://www.conventionmanagerialedeletat.gouv.fr
@@ -17148,7 +17146,7 @@ http://enquetes-en-ligne.developpement-durable.gouv.fr
 http://enqueteur.developpement-durable.gouv.fr
 http://enqueteur.ente.developpement-durable.gouv.fr
 https://www.ente.developpement-durable.gouv.fr
-http://www.equipementsdelaroute.developpement-durable.gouv.fr
+https://www.equipementsdelaroute.developpement-durable.gouv.fr
 https://www.dir.est.developpement-durable.gouv.fr
 http://www.expo14-18.developpement-durable.gouv.fr
 http://extranet-rh-sg.developpement-durable.gouv.fr
@@ -17431,7 +17429,6 @@ https://mamobilite.dgtresor.gouv.fr
 https://odyssee.dgtresor.gouv.fr
 https://sanctionsfinancieres.dgtresor.gouv.fr
 http://scm.dgtresor.gouv.fr
-https://webstatistics.dgtresor.gouv.fr
 https://echanges.dila.gouv.fr
 https://tr.informations.dila.gouv.fr
 https://paiement.dila.gouv.fr
@@ -19950,7 +19947,6 @@ http://www.hauteroche39.fr
 https://hautes-alpes.fr
 https://mda.hautes-alpes.fr
 https://www.hautes-alpes.fr
-https://www.hautes-de-seine.fr
 https://www.hautesavoie.fr
 https://www.hautespyrenees.fr
 https://www.hautesterres.fr
@@ -20481,7 +20477,6 @@ http://www.cdad-herault.justice.fr
 https://www.cdad-landes.justice.fr
 http://www.cdad-lot.justice.fr
 https://www.cdad-manche.justice.fr
-http://www.cdad-meuse.justice.fr
 https://www.cdad-valdoise.justice.fr
 https://www.cours-appel.justice.fr
 https://www.enm.justice.fr
@@ -20500,7 +20495,6 @@ http://www.juzet-de-luchon.fr
 https://juziers.fr
 https://www.juziers.fr
 http://kaltenhouse.fr
-http://www.kaltenhouse.fr
 https://www.kanfen.fr
 https://www.kappelen.fr
 http://www.katzenthal.fr
@@ -21188,8 +21182,6 @@ https://www.langrolay-sur-rance.fr
 https://www.langueux.fr
 https://www.languevoisinquiquery.fr
 https://www.languidic.fr
-https://lanhouarneau.fr
-https://www.lanhouarneau.fr
 https://lanildut.fr
 https://www.lanildut.fr
 https://lanmeur.fr
@@ -22674,7 +22666,6 @@ https://lycee-mandela.fr
 http://www.lycee-mandela-marseille.fr
 https://www.lycee-marc-chagall.fr
 https://www.lycee-marcel-dassault.fr
-https://lycee-marey-beaune.fr
 https://lycee-marey-boulogne.fr
 https://lycee-marguerite-audoux.fr
 http://lycee-maritime-ciboure.fr
@@ -26119,7 +26110,6 @@ https://masseilles.fr
 https://www.masseilles.fr
 http://www.massels.fr
 https://massiac.fr
-https://www.massiac.fr
 https://www.massieu38.fr
 https://massignieuderives.fr
 http://www.massillargues-atuech.fr
@@ -27356,8 +27346,7 @@ https://www.mondepartement04.fr
 https://mondevert.fr
 http://www.mondevert.fr
 https://www.mondeville.fr
-http://mondeville91.fr
-http://www.mondeville91.fr
+https://www.mondeville91.fr
 https://www.mondonville.fr
 https://mondorff.fr
 https://mairie.mondrainville.fr
@@ -30485,6 +30474,7 @@ http://www.saint-appolinard.fr
 http://www.saint-armel-35.fr
 https://saint-arnac.fr
 https://www.saint-arnoult76.fr
+http://saint-arroumex.fr
 https://www.saint-arroumex.fr
 http://saint-auban.fr
 https://saint-aubin.fr
@@ -31248,7 +31238,6 @@ https://www.saint-thuriau.fr
 https://saint-thurien.fr
 https://www.saint-thurien.fr
 https://saint-tricat.fr
-http://saint-trivier-de-courtes.fr
 http://www.saint-trivier-de-courtes.fr
 https://www.saint-tropez.fr
 http://www.saint-tugdual.fr
