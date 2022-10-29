@@ -3152,7 +3152,6 @@ https://www.saint-hernin.com
 https://saint-illide.com
 https://www.saint-illide.com
 https://www.saint-imoges.com
-http://www.saint-izaire.com
 https://www.saint-jean-de-la-blaquiere.com
 https://saint-jean-de-luz.com
 https://www.saint-jean-de-luz.com
@@ -5353,7 +5352,6 @@ https://clg-roujan.ac-montpellier.fr
 https://clg-rouquette-standredesangonis.ac-montpellier.fr
 https://clg-rous-pia.ac-montpellier.fr
 https://clg-rousson-stetiennevalleefrancaise.ac-montpellier.fr
-https://clg-rouviere-lebleymard.ac-montpellier.fr
 https://clg-salins-villeneuvelesmaguelone.ac-montpellier.fr
 https://clg-savary-stmathieudetreviers.ac-montpellier.fr
 https://clg-stexupery-bram.ac-montpellier.fr
@@ -5455,6 +5453,7 @@ http://clg-choiseul-amboise.tice.ac-orleans-tours.fr
 http://clg-clery-saint-andre.tice.ac-orleans-tours.fr
 http://clg-colbert-chateauroux.tice.ac-orleans-tours.fr
 http://clg-condorcet-fleury-les-aubrais.tice.ac-orleans-tours.fr
+http://clg-condorcet-levroux.tice.ac-orleans-tours.fr
 http://clg-curie-chatillon.tice.ac-orleans-tours.fr
 http://clg-curie-dreux.tice.ac-orleans-tours.fr
 http://clg-de-la-bechellerie-st-cyr-sur-loire.tice.ac-orleans-tours.fr
@@ -12669,6 +12668,7 @@ https://crij-npdc.fr
 https://crijinfo.fr
 https://www.crillonlebrave.fr
 https://criquebeuf-seine.fr
+https://www.criquetot-lesneval.fr
 https://www.criquiers.fr
 https://crisenoy.fr
 https://crissaysurmanse.fr
@@ -12707,6 +12707,7 @@ http://crous-clermont.fr
 http://www.crous-clermont.fr
 https://www.crous-corse.fr
 https://www.crous-grenoble.fr
+https://www.crous-lille.fr
 https://www.crous-limoges.fr
 http://crous-lorraine.fr
 https://www.crous-lorraine.fr
@@ -15527,7 +15528,7 @@ https://www.gaubertin-le-diamant.fr
 https://gaudiempre.fr
 https://gaujac30330.fr
 http://www.gaujac47.fr
-http://gauriac.fr
+https://gauriac.fr
 https://www.gauriac.fr
 http://www.gauriaguet.fr
 https://www.gavarnie-gedre.fr
@@ -16447,6 +16448,7 @@ https://f.kiosque.communication.gouv.fr
 https://s.kiosque.communication.gouv.fr
 https://www.complementaire-sante-solidaire.gouv.fr
 https://webconf.comu.gouv.fr
+https://concertation-strategie-energie-climat.gouv.fr
 https://archivephase1.concertation-strategie-energie-climat.gouv.fr
 https://www.conseil-national-industrie.gouv.fr
 http://archives.conseilculturel-upm.gouv.fr
@@ -17725,7 +17727,6 @@ https://intra.monactiviteformation.emploi.gouv.fr
 https://nacre.emploi.gouv.fr
 https://info.agecap.alternance.pp.emploi.gouv.fr
 https://intra.agecap.alternance.pp.emploi.gouv.fr
-https://ws.agecap.alternance.pp.emploi.gouv.fr
 https://info.deca.alternance.pp.emploi.gouv.fr
 https://intra.deca.alternance.pp.emploi.gouv.fr
 https://info.ceres.pprod.emploi.gouv.fr
@@ -22498,7 +22499,6 @@ https://lux71.fr
 https://www.lux71.fr
 https://www.luxey.fr
 https://luynes.fr
-https://www.luzancy.fr
 http://luzay.fr
 http://www.luzay.fr
 http://www.luzenac.fr
@@ -23669,6 +23669,7 @@ https://mairie-echalas.fr
 https://www.mairie-ecques.fr
 https://mairie-ecrainville.fr
 http://www.mairie-egliseneuvedesliards.fr
+https://mairie-egly.fr
 http://www.mairie-egly.fr
 https://www.mairie-eguilles.fr
 https://www.mairie-elbeuf.fr
@@ -28239,7 +28240,6 @@ https://chambre-bouches-du-rhone.notaires.fr
 https://www.chambre-cotesdarmor.notaires.fr
 https://www.chambre-finistere.notaires.fr
 https://chambre-franchecomte.notaires.fr
-https://www.chambre-franchecomte.notaires.fr
 https://chambre-gironde.notaires.fr
 https://chambre-haut-rhin-68.notaires.fr
 https://www.chambre-herault.notaires.fr
@@ -31874,7 +31874,6 @@ https://www.saintmartinenbresse.fr
 https://saintmartinengatinois.fr
 https://saintmartinlacaussade.fr
 https://www.saintmartinlapallu.fr
-https://www.saintmartinlaplaine.fr
 https://saintmartinlasauvete.fr
 https://saintmartinlebeau.fr
 https://saintmartinlestra.fr
@@ -35389,7 +35388,7 @@ http://www.ville-grignan.fr
 https://ville-gruissan.fr
 https://www.ville-guebwiller.fr
 http://www.ville-guemar.fr
-http://www.ville-guer.fr
+https://www.ville-guer.fr
 https://www.ville-guerande.fr
 https://www.ville-gueret.fr
 https://www.ville-guerigny.fr
@@ -36461,6 +36460,7 @@ https://vimory.fr
 https://vimoutiers.fr
 https://www.vimoutiers.fr
 http://www.vimy.fr
+https://www.vinantes.fr
 https://vinassan.fr
 https://www.vinay.fr
 https://vinay51.fr
