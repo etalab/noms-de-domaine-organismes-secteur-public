@@ -221,7 +221,7 @@ https://www.tremorel.bzh
 https://www.treouergat.bzh
 https://trevou-treguignec.bzh
 https://www.trevron.bzh
-http://www.ville-carhaix.bzh
+https://www.ville-carhaix.bzh
 https://ville-plougastel.bzh
 https://ville-pontivy.bzh
 https://ville-pontlabbe.bzh
@@ -2392,6 +2392,7 @@ https://www.mairiechamprond-en-perchet.com
 https://mairiechamrousse.com
 https://www.mairiechamrousse.com
 https://mairiechappes63.com
+https://www.mairiechateauvillevieille.com
 https://mairiechiatradiverde.com
 https://mairiedebeaulieu.com
 https://www.mairiedebeaulieu.com
@@ -4758,7 +4759,6 @@ http://www.clg-les-mille-etangs.ac-besancon.fr
 http://www.clg-lucienfebvre.ac-besancon.fr
 http://www.clg-mathiez.ac-besancon.fr
 http://www.clg-mont-miroir.ac-besancon.fr
-http://clg-morez.ac-besancon.fr
 http://www.clg-morvillars.ac-besancon.fr
 http://www.clg-nozeroy.ac-besancon.fr
 http://www.clg-pasteur-arbois.ac-besancon.fr
@@ -5329,7 +5329,6 @@ https://clg-maffre-paulhan.ac-montpellier.fr
 https://clg-mailheuls-coursan.ac-montpellier.fr
 https://clg-manduel.ac-montpellier.fr
 https://clg-michel-ganges.ac-montpellier.fr
-https://clg-mitterrand-clapiers.ac-montpellier.fr
 https://clg-montesquieu-narbonne.ac-montpellier.fr
 https://clg-mosson-montpellier.ac-montpellier.fr
 https://clg-moulin-perpignan.ac-montpellier.fr
@@ -5353,7 +5352,6 @@ https://clg-rouquette-standredesangonis.ac-montpellier.fr
 https://clg-rous-pia.ac-montpellier.fr
 https://clg-rousson-stetiennevalleefrancaise.ac-montpellier.fr
 https://clg-salins-villeneuvelesmaguelone.ac-montpellier.fr
-https://clg-savary-stmathieudetreviers.ac-montpellier.fr
 https://clg-stexupery-bram.ac-montpellier.fr
 https://clg-stexupery-perpignan.ac-montpellier.fr
 https://clg-troisvallees-florac.ac-montpellier.fr
@@ -5372,7 +5370,6 @@ https://lyc-henriiv-beziers.ac-montpellier.fr
 https://lyc-lurcat-perpignan.ac-montpellier.fr
 https://lyc-valery-sete.ac-montpellier.fr
 https://www.ac-montpellier.fr
-http://dsden54.ac-nancy-metz.fr
 http://dsden55.ac-nancy-metz.fr
 https://id.ac-nancy-metz.fr
 http://mangin-sarrebourg.ac-nancy-metz.fr
@@ -5752,17 +5749,14 @@ https://www.ac-rennes.fr
 http://clg-bouvet.ac-reunion.fr
 http://clg-jean-desme.ac-reunion.fr
 http://college-adrien-cerneau.ac-reunion.fr
-http://college-asoubou.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
 http://college-bourbon.ac-reunion.fr
 http://college-edmond-albius.ac-reunion.fr
-http://college-lamontagne.ac-reunion.fr
 http://college-ledimitile.ac-reunion.fr
 http://college-letoullec.ac-reunion.fr
 http://college-ligne-bambous.ac-reunion.fr
 http://college-plateau-caillou.ac-reunion.fr
 http://college-raymondverges.ac-reunion.fr
-http://college-texeiradamotta.ac-reunion.fr
 https://etab.ac-reunion.fr
 http://lp-roches-maigres.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
@@ -7473,6 +7467,7 @@ http://auchaysurvendee.fr
 http://www.auchaysurvendee.fr
 https://www.auchel.fr
 http://www.auchy.fr
+https://auchylesmines.fr
 https://www.auchylesmines.fr
 https://www.aucun-pyrenees.fr
 http://www.audaux.fr
@@ -16011,7 +16006,6 @@ https://www.sia.aviation-civile.gouv.fr
 https://aprevous.sigp.aviation-civile.gouv.fr
 https://gidc.sigp.aviation-civile.gouv.fr
 https://partage.sigp.aviation-civile.gouv.fr
-https://saga.sigp.aviation-civile.gouv.fr
 https://taxes-aeronautiques-pp.sigp.aviation-civile.gouv.fr
 http://tmasim.sigp.aviation-civile.gouv.fr
 https://webpub.sigp.aviation-civile.gouv.fr
@@ -16242,8 +16236,6 @@ https://pilotage.inclusion.beta.gouv.fr
 https://regionale.inclusion.beta.gouv.fr
 https://stats.inclusion.beta.gouv.fr
 https://mail.jeveuxaider.beta.gouv.fr
-https://ma-cantine.beta.gouv.fr
-https://www.ma-cantine.beta.gouv.fr
 https://mesads.beta.gouv.fr
 https://mission-transition.beta.gouv.fr
 https://mission-transition-ecologique.beta.gouv.fr
@@ -16662,7 +16654,6 @@ http://geocode-1.infra.geo.data.gouv.fr
 http://geocode-2.infra.geo.data.gouv.fr
 http://geocode-4.infra.geo.data.gouv.fr
 http://geocode-5.infra.geo.data.gouv.fr
-http://geocode-ipfo-1.infra.geo.data.gouv.fr
 http://geocode-ipfo-2.infra.geo.data.gouv.fr
 http://geocode-ipfo-3.infra.geo.data.gouv.fr
 http://tiles-ipfo-1.infra.geo.data.gouv.fr
@@ -18052,7 +18043,6 @@ https://test.tracfin.finances.gouv.fr
 https://visiweb.visiby.finances.gouv.fr
 https://www.finistere.gouv.fr
 https://www.bibliotheque-initiatives.fonction-publique.gouv.fr
-http://biep.fonction-publique.gouv.fr
 https://demeterh.fonction-publique.gouv.fr
 https://eta-div.fonction-publique.gouv.fr
 https://ira-gestion.fonction-publique.gouv.fr
@@ -19821,7 +19811,6 @@ https://www.haussy.fr
 https://www.haut-bocage.fr
 https://www.haut-giffre.fr
 https://www.haut-mauco.fr
-https://www.haut-rhin.fr
 https://www.haut-vallespir.fr
 https://www.hautbearn.fr
 https://www.hautbugey-agglomeration.fr
@@ -20557,6 +20546,7 @@ http://www.la-cellette63.fr
 https://la-chambre.fr
 https://www.la-chapelle-aubareil.fr
 https://la-chapelle-aux-brocs19.fr
+https://www.la-chapelle-aux-filtzmeens.fr
 https://www.la-chapelle-du-noyer.fr
 https://la-chapelle-en-lafaye.fr
 https://la-chapelle-en-serval.fr
@@ -20657,7 +20647,6 @@ https://www.la-vacherie.fr
 http://www.la-valla-en-gier.fr
 http://www.la-vaupaliere.fr
 http://www.la-vendue-mignot.fr
-http://www.la-vergne.fr
 https://www.la-vicomte-sur-rance.fr
 http://la-ville-aux-clercs.fr
 http://www.la-ville-aux-clercs.fr
@@ -22167,6 +22156,7 @@ https://lirac.fr
 http://www.lirey.fr
 https://lisieux-avocats.fr
 http://lisieux-normandie.fr
+https://lisledespagnac.fr
 https://www.lisledespagnac.fr
 https://lissac09.fr
 https://www.lissac09.fr
@@ -22449,7 +22439,6 @@ https://www.lue.fr
 http://www.lugagnac46.fr
 https://www.lugaignac.fr
 https://www.lugan-aveyron.fr
-http://www.lugan81.fr
 http://www.lugarde.fr
 http://www.lugny-en-maconnais.fr
 https://www.luisant.fr
@@ -24349,8 +24338,6 @@ https://www.mairie-mtsamboro.fr
 https://mairie-muret.fr
 https://www.mairie-muret.fr
 https://mairie-mus.fr
-http://mairie-mutzig.fr
-http://www.mairie-mutzig.fr
 https://www.mairie-nanslespins.fr
 http://www.mairie-narrosse.fr
 http://www.mairie-neauphlelevieux.fr
@@ -26139,7 +26126,6 @@ https://www.maulevrier-sainte-gertrude.fr
 https://www.mauprevoir.fr
 https://www.mauregard.fr
 https://www.mauregnyenhaye.fr
-http://www.maureillas.fr
 https://maurens-scopont.fr
 https://www.maurepas.fr
 https://www.mauressac.fr
@@ -29504,7 +29490,7 @@ https://www.portesdemeuse.fr
 http://www.portesduluxembourg.fr
 https://portesenvaldaine.fr
 http://portesessonne.fr
-http://www.portesessonne.fr
+https://www.portesessonne.fr
 https://www.porteseureliennesidf.fr
 https://www.portetgaronne.fr
 https://portlanouvelle.fr
@@ -32052,6 +32038,7 @@ https://www.saintsauveur-finistere.fr
 https://www.saintsauveur-hautes-alpes.fr
 http://www.saintsauveur38.fr
 https://saintsauveurdecruzieres.fr
+https://www.saintsauveurdepuynormand.fr
 https://www.saintsauveurenpuisaye.fr
 https://saintsauveursurecole.fr
 https://www.saintsauveursurtinee.fr
@@ -32420,8 +32407,6 @@ https://saulx.fr
 http://www.saulx-marchais.fr
 https://www.saulxures-les-bulgneville.fr
 https://www.saulxures-sur-moselotte.fr
-http://saulxures52.fr
-http://www.saulxures52.fr
 https://saulzet.fr
 http://www.saulzet-le-froid.fr
 http://www.saulzoir.fr
@@ -35161,8 +35146,6 @@ https://www.ville-chateaubernard.fr
 https://ville-chateauduloir.fr
 https://www.ville-chateaudun.fr
 https://www.ville-chateaugiron.fr
-https://ville-chateauneuf.fr
-https://www.ville-chateauneuf.fr
 https://www.ville-chatellerault.fr
 https://www.ville-chatenois88.fr
 https://ville-chatillon.fr
@@ -35276,6 +35259,7 @@ https://www.ville-donges.fr
 https://www.ville-draguignan.fr
 https://www.ville-drap.fr
 https://www.ville-dreuil-les-amiens.fr
+https://ville-dugny.fr
 https://www.ville-dugny.fr
 https://www.ville-dunkerque.fr
 https://www.ville-durtal.fr
@@ -36461,6 +36445,7 @@ https://vimory.fr
 https://vimoutiers.fr
 https://www.vimoutiers.fr
 http://www.vimy.fr
+https://vinantes.fr
 https://www.vinantes.fr
 https://vinassan.fr
 https://www.vinay.fr
@@ -37304,7 +37289,6 @@ https://plonevez-porzay.net
 https://www.plonevez-porzay.net
 http://pomarez.net
 http://www.pomarez.net
-https://www.pompadour.net
 https://www.popian.net
 https://prebois.net
 https://www.precy.net
@@ -38186,7 +38170,6 @@ http://sault-brenaz.org
 http://www.sault-brenaz.org
 http://saulx.org
 http://www.saulx.org
-https://savigny.org
 https://www.savigny.org
 http://scot-douaisis.org
 https://scot-region-grenoble.org
