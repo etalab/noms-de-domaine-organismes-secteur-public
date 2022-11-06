@@ -2408,7 +2408,6 @@ https://www.mairiedegrignols.com
 https://www.mairiedejonage.com
 https://www.mairiedelacombedelancey.com
 http://www.mairiedelieurey.com
-http://www.mairiedemeillard.com
 https://mairiedemodene.com
 https://www.mairiedemodene.com
 https://mairiedemoncelsurseille.com
@@ -4635,6 +4634,7 @@ https://charles-de-bovelles-noyon.ac-amiens.fr
 https://charles-de-gaulle-compiegne.ac-amiens.fr
 https://charles-de-gaulle-montcornet.ac-amiens.fr
 https://chateau-potel-la-ferte-milon.ac-amiens.fr
+http://cio.ac-amiens.fr
 https://college-baie-de-somme.ac-amiens.fr
 https://compere-morel-breteuil.ac-amiens.fr
 https://condorcet-bresles.ac-amiens.fr
@@ -4814,7 +4814,6 @@ https://college-du-cingal.etab.ac-caen.fr
 https://college-du-houlme.etab.ac-caen.fr
 https://college-du-moulin-de-haut-percy.etab.ac-caen.fr
 https://college-ducey.etab.ac-caen.fr
-https://college-dumont-durville.etab.ac-caen.fr
 https://college-felix-buhot.etab.ac-caen.fr
 https://college-fernand-leger.etab.ac-caen.fr
 https://college-gdn.etab.ac-caen.fr
@@ -5282,7 +5281,6 @@ https://clg-condorcet-nimes.ac-montpellier.fr
 https://clg-contrepas-marsillargues.ac-montpellier.fr
 https://clg-corbieresmaritimes-sigean.ac-montpellier.fr
 https://clg-curie-aiguesmortes.ac-montpellier.fr
-https://clg-curie-estagel.ac-montpellier.fr
 https://clg-curie-pignan.ac-montpellier.fr
 https://clg-curie-rieuxminervois.ac-montpellier.fr
 https://clg-daudet-ales.ac-montpellier.fr
@@ -5750,7 +5748,6 @@ http://clg-bouvet.ac-reunion.fr
 http://clg-jean-desme.ac-reunion.fr
 http://college-adrien-cerneau.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
-http://college-bourbon.ac-reunion.fr
 http://college-letoullec.ac-reunion.fr
 http://college-plateau-caillou.ac-reunion.fr
 http://college-raymondverges.ac-reunion.fr
@@ -6110,7 +6107,6 @@ http://www.clg-racine-viroflay.ac-versailles.fr
 http://www.clg-rameau-versailles.ac-versailles.fr
 http://www.clg-ravel-montfort.ac-versailles.fr
 http://www.clg-renardieres-courbevoie.ac-versailles.fr
-http://www.clg-renoir-asnieres.ac-versailles.fr
 http://www.clg-renoir-boulogne.ac-versailles.fr
 http://www.clg-republique-nanterre.ac-versailles.fr
 http://www.clg-rimbaud-aubergenville.ac-versailles.fr
@@ -8113,8 +8109,6 @@ https://www.awoingt.fr
 http://axat.fr
 http://www.aydat.fr
 http://www.ayen.fr
-http://ayette.fr
-http://www.ayette.fr
 http://ayguemortelesgraves.fr
 https://www.ayguemortelesgraves.fr
 https://www.ayguesvives31.fr
@@ -8376,7 +8370,6 @@ http://www.bavans.fr
 https://www.bavay-la-romaine.fr
 https://bavent.fr
 https://www.bavent.fr
-https://www.bavilliers.fr
 https://bavinchove.fr
 http://mairie.bavincourt.fr
 http://www.bayac.fr
@@ -9766,7 +9759,6 @@ https://casson.fr
 http://www.casson.fr
 https://www.castagnicciacasinca.fr
 https://www.castandet.fr
-https://castanet-tolosan.fr
 https://www.castanet12.fr
 http://casteil.fr
 http://www.casteil.fr
@@ -9895,7 +9887,6 @@ https://www.cc-autourdechenonceaux.fr
 https://www.cc-auzon.fr
 https://cc-avt.fr
 https://www.cc-avt.fr
-https://www.cc-basarmagnac.fr
 https://www.cc-basse-zorn.fr
 https://cc-basseemontois.fr
 https://www.cc-basseemontois.fr
@@ -10807,7 +10798,7 @@ https://extranet-puy-de-dome.chambres-agriculture.fr
 https://extranet-savoie-mont-blanc.chambres-agriculture.fr
 https://paca.chambres-agriculture.fr
 https://pays-de-la-loire.chambres-agriculture.fr
-http://www.chambres-agriculture-bretagne.fr
+https://www.chambres-agriculture-bretagne.fr
 http://www.chambry02.fr
 https://chamelet.fr
 https://www.chamery.fr
@@ -12404,6 +12395,7 @@ http://www.corneilla-la-riviere.fr
 https://cornier.fr
 https://cornil19.fr
 https://www.cornillelescaves.fr
+http://cornillon.fr
 http://cornillon-en-trieves.fr
 https://www.cornillon-en-trieves.fr
 https://www.cornillonconfoux.fr
@@ -12962,6 +12954,8 @@ https://www.debatpublic.fr
 http://decazeville.fr
 http://www.decazeville.fr
 http://www.decroly.fr
+https://defenseurdesdroits.fr
+https://www.defenseurdesdroits.fr
 http://delincourt.fr
 http://delle.fr
 http://www.delle.fr
@@ -16056,7 +16050,7 @@ https://addna.aides-territoires.beta.gouv.fr
 https://alimentation-agriculture-guyane.aides-territoires.beta.gouv.fr
 https://arcinnovation.aides-territoires.beta.gouv.fr
 https://avenir-montagnes.aides-territoires.beta.gouv.fr
-https://biodiversite-adaptation-climat.aides-territoires.beta.gouv.fr
+http://biodiversite-adaptation-climat.aides-territoires.beta.gouv.fr
 https://biodiversite-hautsdefrance.aides-territoires.beta.gouv.fr
 https://biodiversite-iledefrance.aides-territoires.beta.gouv.fr
 https://biodiversite-occitanie.aides-territoires.beta.gouv.fr
@@ -16764,7 +16758,6 @@ https://gestion.geoderec.defense.gouv.fr
 https://www.geres.defense.gouv.fr
 https://habillement.defense.gouv.fr
 https://www.iliade-dgris.defense.gouv.fr
-https://ino-bdx.defense.gouv.fr
 https://lafabrique.defense.gouv.fr
 https://lesalpps.defense.gouv.fr
 https://logement.defense.gouv.fr
@@ -17102,7 +17095,7 @@ http://enqueteur.dirm-namo.developpement-durable.gouv.fr
 http://enqueteur.dirm-sa.developpement-durable.gouv.fr
 http://enqueteur.dm-soi.developpement-durable.gouv.fr
 http://documentation.developpement-durable.gouv.fr
-http://balise.documentation.developpement-durable.gouv.fr
+https://balise.documentation.developpement-durable.gouv.fr
 http://developpementdurable.documentation.developpement-durable.gouv.fr
 https://igedd.documentation.developpement-durable.gouv.fr
 http://isidoredd.documentation.developpement-durable.gouv.fr
@@ -18872,13 +18865,10 @@ https://ceps.sante.gouv.fr
 https://cnitaat.sante.gouv.fr
 https://cnriph.sante.gouv.fr
 https://covid-19.sante.gouv.fr
-http://ftp-www.covid-19.sante.gouv.fr
 http://web-www.covid-19.sante.gouv.fr
 http://www.cloud.covid19.sante.gouv.fr
 https://widgets.dashboard.covid19.sante.gouv.fr
 https://data.widgets.dashboard.covid19.sante.gouv.fr
-http://ns2www.covid19.sante.gouv.fr
-http://shop-www.covid19.sante.gouv.fr
 http://www-2018.covid19.sante.gouv.fr
 https://eye.diffusion.dgs-urgent.sante.gouv.fr
 https://forms.diffusion.dgs-urgent.sante.gouv.fr
@@ -20920,6 +20910,7 @@ https://www.lafeuillie76.fr
 http://www.laffrey.fr
 https://lafibre64.fr
 https://lafitte-vigordane.fr
+http://lafitte82.fr
 https://www.lafitte82.fr
 https://lafittesurlot.fr
 https://www.laflachere.fr
@@ -21443,7 +21434,7 @@ http://www.lavilledubois.fr
 https://www.lavilleneuveauchene.fr
 http://www.lavilleneuveenchevrie.fr
 http://lavilletelle.fr
-http://www.lavit-de-lomagne.fr
+https://www.lavit-de-lomagne.fr
 https://www.lavogelesbains.fr
 https://lavoncourt.fr
 https://lavoultesurrhone.fr
@@ -21924,7 +21915,6 @@ https://lesouich.fr
 http://www.lesourn.fr
 https://www.lesparre-medoc.fr
 https://www.lespechsduvers.fr
-http://lespeintures.fr
 https://www.lespeintures.fr
 https://www.lesperon.fr
 https://lespieux.fr
@@ -22187,8 +22177,8 @@ https://www.livrylouvercy.fr
 https://www.lixinglesrouhling.fr
 http://www.lizac.fr
 https://www.lizio.fr
-http://lizy-sur-ourcq.fr
-http://www.lizy-sur-ourcq.fr
+https://lizy-sur-ourcq.fr
+https://www.lizy-sur-ourcq.fr
 https://www.llauro.fr
 http://www.lm-roosevelt.fr
 https://www.lmb-felletin.fr
@@ -22814,7 +22804,7 @@ https://lyceeguymollet.fr
 http://www.lyceeheleneboucher-tremblayenfrance.fr
 https://www.lyceehenaff.fr
 https://www.lyceehenriavril.fr
-http://www.lyceehenrimartin.fr
+https://www.lyceehenrimartin.fr
 https://lyceehere.fr
 https://lyceehorticole.fr
 https://lyceehorticole56.fr
@@ -23666,7 +23656,6 @@ https://www.mairie-ecques.fr
 https://mairie-ecrainville.fr
 http://www.mairie-egliseneuvedesliards.fr
 https://mairie-egly.fr
-http://www.mairie-egly.fr
 https://www.mairie-eguilles.fr
 https://www.mairie-elbeuf.fr
 https://mairie-embreville.fr
@@ -25388,8 +25377,6 @@ http://stremydesmonts.mairie72.fr
 http://www.stremydesmonts.mairie72.fr
 http://stremyduval.mairie72.fr
 http://www.stremyduval.mairie72.fr
-http://tasse.mairie72.fr
-http://www.tasse.mairie72.fr
 http://villaineslagonais.mairie72.fr
 http://www.villaineslagonais.mairie72.fr
 https://www.mairieailleux.fr
@@ -31705,7 +31692,7 @@ https://www.saintjeandesollieres.fr
 https://www.saintjeandesoudain.fr
 https://saintjeandesvignes.fr
 https://www.saintjeandesvignes.fr
-http://saintjeandethurac.fr
+https://saintjeandethurac.fr
 https://saintjeandevedas.fr
 https://www.saintjeandevedas.fr
 https://www.saintjeandeverges.fr
@@ -36255,7 +36242,6 @@ https://www.villejuif.fr
 https://www.villejust.fr
 https://villelamentin971.fr
 https://villelaure.fr
-https://villelefousseret.fr
 https://villeloin-coulange.fr
 https://www.villelongue.fr
 http://www.villelongue-de-la-salanque.fr
@@ -37052,7 +37038,6 @@ http://briastre.net
 http://www.briastre.net
 https://www.brousselechateau.net
 http://burlats.net
-https://www.capemploi.net
 https://capexcellence.net
 https://www.capexcellence.net
 https://www.carticasi.net
