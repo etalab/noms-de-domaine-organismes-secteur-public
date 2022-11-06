@@ -5367,7 +5367,6 @@ https://id.ac-nancy-metz.fr
 http://mangin-sarrebourg.ac-nancy-metz.fr
 https://www.ac-nancy-metz.fr
 https://www4.ac-nancy-metz.fr
-http://cio44.ac-nantes.fr
 http://cio49.ac-nantes.fr
 http://cio53.ac-nantes.fr
 http://cio72.ac-nantes.fr
@@ -6107,6 +6106,7 @@ http://www.clg-racine-viroflay.ac-versailles.fr
 http://www.clg-rameau-versailles.ac-versailles.fr
 http://www.clg-ravel-montfort.ac-versailles.fr
 http://www.clg-renardieres-courbevoie.ac-versailles.fr
+http://www.clg-renoir-asnieres.ac-versailles.fr
 http://www.clg-renoir-boulogne.ac-versailles.fr
 http://www.clg-republique-nanterre.ac-versailles.fr
 http://www.clg-rimbaud-aubergenville.ac-versailles.fr
@@ -16050,7 +16050,7 @@ https://addna.aides-territoires.beta.gouv.fr
 https://alimentation-agriculture-guyane.aides-territoires.beta.gouv.fr
 https://arcinnovation.aides-territoires.beta.gouv.fr
 https://avenir-montagnes.aides-territoires.beta.gouv.fr
-http://biodiversite-adaptation-climat.aides-territoires.beta.gouv.fr
+https://biodiversite-adaptation-climat.aides-territoires.beta.gouv.fr
 https://biodiversite-hautsdefrance.aides-territoires.beta.gouv.fr
 https://biodiversite-iledefrance.aides-territoires.beta.gouv.fr
 https://biodiversite-occitanie.aides-territoires.beta.gouv.fr
