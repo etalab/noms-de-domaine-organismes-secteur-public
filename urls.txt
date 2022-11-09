@@ -723,6 +723,7 @@ https://www.castelmoronsurlot.com
 https://castelnau-de-guers.com
 https://www.castelnau-de-guers.com
 https://www.castelnau-riviere-basse.com
+https://castelnaud-la-chapelle.com
 http://castelnaudauzan.com
 https://castelnaudemontmiral-tourisme.com
 https://castera-verduzan.com
@@ -3363,7 +3364,6 @@ https://www.sanarysurmer.com
 https://www.sanilhac-sagries.com
 https://www.sansais-lagarette.com
 https://www.sarcenas.com
-http://sargesurbraye.com
 https://www.sargesurbraye.com
 https://sari-dorcino.com
 http://sarrancolin.com
@@ -5352,7 +5352,6 @@ https://clg-vilar-stgilles.ac-montpellier.fr
 https://clg-ville-pontstesprit.ac-montpellier.fr
 https://clg-villon-stgelydufesc.ac-montpellier.fr
 https://clg-violet-prades.ac-montpellier.fr
-https://lyc-coubertin-fontromeu.ac-montpellier.fr
 https://lyc-henriiv-beziers.ac-montpellier.fr
 https://lyc-lurcat-perpignan.ac-montpellier.fr
 https://lyc-valery-sete.ac-montpellier.fr
@@ -6399,6 +6398,7 @@ https://adour-madiran.fr
 https://www.adriers.fr
 https://www.aeroclub-boulonnais.fr
 https://beziers.aeroport.fr
+https://www.beziers.aeroport.fr
 http://www.lannion.aeroport.fr
 https://www.afd.fr
 https://affoux.fr
@@ -7400,7 +7400,7 @@ https://www.asv-cdc.fr
 https://www.atd31.fr
 https://athee-21.fr
 https://www.athee-21.fr
-http://www.athee-mayenne.fr
+https://www.athee-mayenne.fr
 https://www.athee-sur-cher.fr
 https://www.athies.fr
 https://www.athis.fr
@@ -8350,7 +8350,6 @@ https://www.baumelesmessieurs.fr
 https://baurech.fr
 https://www.baurech.fr
 https://www.bauzy.fr
-http://bavans.fr
 http://www.bavans.fr
 https://www.bavay-la-romaine.fr
 https://bavent.fr
@@ -8436,7 +8435,7 @@ https://www.beaumontduventoux.fr
 https://www.beaumontenauge.fr
 https://www.beaumontenveron.fr
 https://beaumontmonteux.fr
-http://www.beaumontmonteux.fr
+https://www.beaumontmonteux.fr
 https://beaumontois-en-perigord.fr
 https://beaumontsaintcyr.fr
 https://www.beaumontsuroise.fr
@@ -9917,7 +9916,7 @@ https://cc-coteaux-du-girou.fr
 https://www.cc-coteaux-du-girou.fr
 https://www.cc-coteauxbellevue.fr
 http://www.cc-cotesdemeuse-woevre.fr
-http://cc-creonnais.fr
+https://cc-creonnais.fr
 https://www.cc-creonnais.fr
 https://cc-cvl.fr
 https://www.cc-cvl.fr
@@ -10362,6 +10361,7 @@ https://www.ccpu.fr
 https://ccpvg.fr
 https://ccquercyblanc.fr
 https://www.ccquercyblanc.fr
+http://www.ccqva.fr
 https://www.ccra.fr
 http://belverne.ccrc70.fr
 http://echavanne.ccrc70.fr
@@ -12512,7 +12512,6 @@ https://cournonsec.fr
 https://www.cournonsec.fr
 http://courrieres.fr
 https://www.courrieres.fr
-http://www.cours.fr
 https://coursac.fr
 https://www.coursan.fr
 http://coursdepile.fr
@@ -12527,6 +12526,8 @@ http://www.courtenay38.fr
 https://www.courtenay45.fr
 https://www.courteuil.fr
 https://www.courthezon.fr
+https://courtillers.fr
+https://www.courtillers.fr
 http://www.courtisols.fr
 https://www.courtois-sur-yonne.fr
 https://courtomer.fr
@@ -14656,7 +14657,6 @@ https://ezanville.fr
 https://www.ezanville.fr
 https://ezysureure.fr
 https://www.fabas82.fr
-https://chat.anais.fabnum.fr
 https://www.fabregues.fr
 https://fabrezan.fr
 https://www.fagnieres.fr
@@ -15928,7 +15928,6 @@ https://v3-beta.entreprise.api.gouv.fr
 https://geo.api.gouv.fr
 https://sandbox.particulier.api.gouv.fr
 https://sandbox1.particulier.api.gouv.fr
-https://sandbox2.particulier.api.gouv.fr
 http://production.particulier-infra.api.gouv.fr
 http://staging.particulier-infra.api.gouv.fr
 https://staging.api.gouv.fr
@@ -18197,7 +18196,6 @@ https://www.indre.gouv.fr
 https://www.indre-et-loire.gouv.fr
 http://info-ebola.gouv.fr
 http://www.info-ebola.gouv.fr
-http://diffusion-numerique.info-routiere.gouv.fr
 https://insp.gouv.fr
 https://candidature-formation.insp.gouv.fr
 https://alumni.chee.insp.gouv.fr
@@ -18575,7 +18573,6 @@ https://base-donnees-publique.medicaments.gouv.fr
 http://www.base-donnees-publique.medicaments.gouv.fr
 https://mentor.gouv.fr
 https://administration.mentor.gouv.fr
-https://bbb.mentor.gouv.fr
 https://bbb-pre.mentor.gouv.fr
 http://bbb-qua-1.mentor.gouv.fr
 https://dev.mentor.gouv.fr
@@ -18854,10 +18851,8 @@ https://ceps.sante.gouv.fr
 https://cnitaat.sante.gouv.fr
 https://cnriph.sante.gouv.fr
 https://covid-19.sante.gouv.fr
-http://www.cloud.covid19.sante.gouv.fr
 https://widgets.dashboard.covid19.sante.gouv.fr
 https://data.widgets.dashboard.covid19.sante.gouv.fr
-http://www-2018.covid19.sante.gouv.fr
 https://eye.diffusion.dgs-urgent.sante.gouv.fr
 https://forms.diffusion.dgs-urgent.sante.gouv.fr
 http://img.diffusion.dgs-urgent.sante.gouv.fr
@@ -19601,7 +19596,6 @@ https://www.greta-cfa-paysdelaloire.fr
 https://www.greta-cher.fr
 http://greta-colmar.fr
 http://greta-deuxvallees.fr
-http://www.greta-deuxvallees.fr
 http://greta-doreallier.fr
 http://www.greta-doreallier.fr
 https://www.greta-du-limousin.fr
@@ -22556,7 +22550,6 @@ https://www.lycee-elie-vinet.fr
 https://www.lycee-emileroux.fr
 https://lycee-etienne-oehmichen.fr
 https://www.lycee-eucalyptus.fr
-https://lycee-eugene-decomble.fr
 https://www.lycee-europe-dunkerque.fr
 https://lycee-excellence-morin.fr
 https://www.lycee-flaubert-rouen.fr
@@ -24848,7 +24841,6 @@ https://mairie-st-hilaire-en-morvan.fr
 https://www.mairie-st-hilaire-en-morvan.fr
 http://mairie-st-jacques.fr
 http://www.mairie-st-jacques.fr
-http://www.mairie-st-laurent-du-pont.fr
 http://www.mairie-st-pierre-en-val.fr
 https://mairie-st-rivoal.fr
 https://www.mairie-st-savin.fr
@@ -26103,6 +26095,7 @@ https://www.maulevrier-sainte-gertrude.fr
 https://www.mauprevoir.fr
 https://www.mauregard.fr
 https://www.mauregnyenhaye.fr
+https://maureillas.fr
 https://maurens-scopont.fr
 https://www.maurepas.fr
 https://www.mauressac.fr
@@ -28438,7 +28431,7 @@ https://pages.perso.orange.fr
 https://www.orbec.fr
 https://www.orbeil.fr
 http://orbey.fr
-http://www.orbigny.fr
+https://www.orbigny.fr
 https://www.orchamps.fr
 http://www.orches.fr
 https://orcier.fr
@@ -31493,6 +31486,7 @@ http://www.saintechristine63.fr
 https://www.saintecolombesurgand.fr
 https://www.saintecroixauxmines.fr
 http://www.saintecroixdecaderle.fr
+https://saintecroixduverdon.fr
 https://www.saintecroixenplaine.fr
 https://sainteeulaliedolt.fr
 https://www.sainteeulaliedolt.fr
@@ -33669,7 +33663,7 @@ https://www.thiviers.fr
 https://thizylesbourgs.fr
 https://thoard04.fr
 https://thoiras.fr
-http://www.thoiresurdinan.fr
+https://www.thoiresurdinan.fr
 https://thoirette-coisia.fr
 https://www.thoirette-coisia.fr
 http://www.thoiry78.fr
@@ -37351,7 +37345,6 @@ http://www.villefranche.net
 https://villelaure.net
 https://www.villelaure.net
 https://villeneuvesurcher.net
-https://www.vitry-le-francois.net
 https://www.vivadom.net
 https://vornay.net
 http://wangen-alsace.net
@@ -37871,7 +37864,7 @@ https://sarthe.francebenevolat.org
 https://frespech.org
 https://gemeaux.org
 https://www.gemeaux.org
-http://germigny-leveque.org
+https://germigny-leveque.org
 https://0360008n.etab.giprecia.org
 https://0410959v.etab.giprecia.org
 http://girmont.org
