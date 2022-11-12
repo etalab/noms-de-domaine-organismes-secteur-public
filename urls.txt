@@ -34,7 +34,6 @@ http://bonrepossurblavet.bzh
 https://www.bourbriac.bzh
 https://www.bretagne.bzh
 https://www.bretagnecentre.bzh
-https://www.briec.bzh
 https://brignac.bzh
 https://www.cc-broceliande.bzh
 https://www.cca.bzh
@@ -795,7 +794,6 @@ https://www.ccvalleedugaron.com
 https://cda-asso.com
 https://www.cda-asso.com
 http://www.cdc-andelle.com
-http://www.cdc-desportesduperche.com
 https://www.cdc-fronsadais.com
 https://www.cdc-iledenoirmoutier.com
 http://www.cdc-mortagne-au-perche.com
@@ -2170,6 +2168,7 @@ https://www.mairie-couiza.com
 https://www.mairie-courchevel.com
 https://www.mairie-courgis-89.com
 https://mairie-courniou-34.com
+http://mairie-cubzaclesponts.com
 https://www.mairie-cuhon.com
 http://mairie-de-casseneuil.com
 http://www.mairie-de-casseneuil.com
@@ -4269,6 +4268,7 @@ https://www.aajpn.fr
 http://aajt.fr
 http://www.aajt.fr
 https://www.aasimh.fr
+https://abancourt.fr
 https://www.abbaretz.fr
 https://abbecourt.fr
 https://abbeville.fr
@@ -4912,6 +4912,7 @@ https://clg-louispasteur.ac-creteil.fr
 https://clg-pierreroux77.ac-creteil.fr
 http://collegehippolyteremy.ac-creteil.fr
 https://collegemariecurie.ac-creteil.fr
+https://www.ia94.ac-creteil.fr
 https://jvalleschoisy.ac-creteil.fr
 https://kmarx-villejuif.ac-creteil.fr
 https://lescloseaux.ac-creteil.fr
@@ -7014,7 +7015,6 @@ https://www.aquatropic-equalia.fr
 https://www.aracheslafrasse.fr
 https://aragonencabardes.fr
 https://www.aramits.fr
-https://www.aramon.fr
 https://www.arancou.fr
 https://www.araujuzon.fr
 https://arbanats.fr
@@ -8254,7 +8254,6 @@ https://barneville-carteret.fr
 https://baron-sur-odon.fr
 https://www.baronnies-provencales.fr
 http://www.baronville-57.fr
-https://www.barr.fr
 https://barr-heol.fr
 https://www.barr-heol.fr
 https://www.barran.fr
@@ -8849,7 +8848,6 @@ http://www.boeschepe.fr
 http://www.boeseghem.fr
 http://boesenbiesen.fr
 http://www.boesenbiesen.fr
-https://boffres.fr
 https://www.boffres.fr
 https://www.bogeve.fr
 https://www.bognysurmeuse.fr
@@ -11021,6 +11019,8 @@ https://www.chateauneuf-v-s-d-04.fr
 https://chateauneuf-vendee.fr
 https://www.chateauneuf-vendee.fr
 http://www.chateauneufdegadagne.fr
+http://chateauneufdemain.fr
+http://www.chateauneufdemain.fr
 https://chateauneufdurhone.fr
 https://www.chateauneufdurhone.fr
 https://www.chateauneuflerouge.fr
@@ -13163,7 +13163,6 @@ http://dours-65.fr
 http://www.dours-65.fr
 https://www.doussard.fr
 https://douvaine.fr
-https://www.douvaine.fr
 http://www.douville-sur-andelle.fr
 https://douvres.fr
 https://www.douvres-la-delivrande.fr
@@ -15745,7 +15744,6 @@ http://www.gouttieres63.fr
 http://1000paysages.gouv.fr
 http://www.1000paysages.gouv.fr
 https://www.1jeune1solution.gouv.fr
-https://admin.www.1jeune1solution.gouv.fr
 https://deposer-offre.www.1jeune1solution.gouv.fr
 http://abonnement-presse.gouv.fr
 http://www.academie-renseignement.gouv.fr
@@ -18452,6 +18450,7 @@ http://www.mjspaca.jeunesse-sports.gouv.fr
 https://pfs.jeunesse-sports.gouv.fr
 https://phototheque.jeunesse-sports.gouv.fr
 https://back.phototheque.jeunesse-sports.gouv.fr
+https://pfs.valid2.jeunesse-sports.gouv.fr
 https://www.jeveuxaider.gouv.fr
 http://jevote.gouv.fr
 https://associations-depot-comptes.journal-officiel.gouv.fr
@@ -18567,7 +18566,6 @@ https://bbb-pre.mentor.gouv.fr
 http://bbb-qua-1.mentor.gouv.fr
 https://dev.mentor.gouv.fr
 https://qualification.mentor.gouv.fr
-https://scalelite-pre.mentor.gouv.fr
 https://via.mentor.gouv.fr
 https://video.mentor.gouv.fr
 https://video-pre.mentor.gouv.fr
@@ -19194,6 +19192,7 @@ https://entraide.solidarites-sante.gouv.fr
 https://renfortrh.solidarites-sante.gouv.fr
 https://www.somme.gouv.fr
 https://sports.gouv.fr
+https://www.arquedi.sports.gouv.fr
 https://foromes.calendrier.sports.gouv.fr
 https://cnsnmm.sports.gouv.fr
 https://www.cnsnmm.sports.gouv.fr
@@ -19224,7 +19223,7 @@ https://rdp.creps-vichy.sports.gouv.fr
 https://www.creps-vichy.sports.gouv.fr
 https://zeus.creps-vichy.sports.gouv.fr
 https://cts-web.sports.gouv.fr
-http://eapspublic.sports.gouv.fr
+https://eapspublic.sports.gouv.fr
 https://ensa.sports.gouv.fr
 https://www.ensa.sports.gouv.fr
 https://ensm.sports.gouv.fr
@@ -20379,7 +20378,6 @@ http://www.jozerand.fr
 https://www.jublains.fr
 https://www.jugeals-nazareth.fr
 https://jugonleslacs-communenouvelle.fr
-http://www.juigne-sur-sarthe.fr
 https://www.juignedesmoutiers.fr
 http://www.juillac19.fr
 https://www.juillan.fr
@@ -22121,7 +22119,6 @@ http://www.lirey.fr
 https://lisieux-avocats.fr
 http://lisieux-normandie.fr
 https://lisledespagnac.fr
-https://www.lisledespagnac.fr
 https://lissac09.fr
 https://www.lissac09.fr
 https://www.lissacetmouret.fr
@@ -25251,7 +25248,6 @@ http://www.mairie.livre.la.touche.mairie53.fr
 http://villaines-la-juhel.mairie53.fr
 http://www.villaines-la-juhel.mairie53.fr
 http://vimartin-sur-orthe.mairie53.fr
-http://www.vimartin-sur-orthe.mairie53.fr
 https://www.aboncourt.mairie54.fr
 https://www.aingeray.mairie54.fr
 https://www.arnaville.mairie54.fr
@@ -30655,7 +30651,6 @@ https://www.saint-georges-cantal.fr
 https://saint-georges-d-aurac.fr
 https://www.saint-georges-d-aurac.fr
 https://saint-georges-de-la-riviere.fr
-http://www.saint-georges-de-la-riviere.fr
 https://www.saint-georges-de-luzencon.fr
 https://saint-georges-de-reintembault.fr
 https://www.saint-georges-la-pouge.fr
@@ -32263,6 +32258,7 @@ https://santilly.fr
 https://www.santilly.fr
 https://santo-pietro-di-tenda.fr
 https://www.santo-pietro-di-tenda.fr
+https://santopietrodivenaco.fr
 https://www.santopietrodivenaco.fr
 https://www.sanvensa.fr
 https://www.saone.fr
@@ -32931,7 +32927,7 @@ https://site-epj.fr
 https://site-lacavalerie.fr
 https://commune-leparc.sitego.fr
 https://lemesnilvilleman.sitego.fr
-http://saint-denis-de-mere.sitego.fr
+https://saint-denis-de-mere.sitego.fr
 https://saintepience.sitego.fr
 https://www.sitego.fr
 http://www.alboussiere.sitew.fr
@@ -36678,7 +36674,7 @@ https://www.wissous.fr
 http://witry-les-reims.fr
 http://www.witry-les-reims.fr
 https://www.wittenheim.fr
-https://witternheim.fr
+http://www.witternheim.fr
 https://www.wittisheim.fr
 https://www.wittring.fr
 https://wiwersheim.fr
