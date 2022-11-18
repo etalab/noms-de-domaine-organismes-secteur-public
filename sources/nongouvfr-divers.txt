@@ -77,6 +77,7 @@ www.saintbrieuc-armor-agglo.bzh  # (redirection from www.saintbrieuc-armor-agglo
 ville-landerneau.bzh
 www.ville-landerneau.bzh
 edu.osp.cat
+jni.edu.osp.cat  # Found in cert of CN=jni21.education.gouv.fr, see https://crt.sh/?id=7733657110
 grenelle.osp.cat
 dgs-sisacenq.cegedim.cloud
 dgs-sisacenq-integ.cegedim.cloud  # (redirection from si-enquetes-integ.sante.gouv.fr)
@@ -2558,6 +2559,9 @@ aseaj.fr
 www.aseaj.fr
 asi-aeroports.fr
 integrateurs-cps.asipsante.fr
+demo-enreg.show.asipsante.fr  # Found in cert of CN=demo-enreg.show.asipsante.fr, see https://crt.sh/?id=7928468744
+tryecps.show.asipsante.fr  # Found in cert of CN=demo-enreg.show.asipsante.fr, see https://crt.sh/?id=7928468744
+testssl.asipsante.fr  # Found in cert of CN=demo-enreg.show.asipsante.fr, see https://crt.sh/?id=7928468744
 asn.fr
 www.asn.fr
 asp-public.fr
@@ -4804,6 +4808,7 @@ clicseniormontagne.fr
 www.clicseniormontagne.fr
 clinchamps.fr
 www.clinchamps.fr
+stats.beta-gouv.cloud-ed.fr  # Found in cert of CN=stats.beta-gouv.cloud-ed.fr, see https://crt.sh/?id=7850928604
 lafabriquenumerique-mattermost.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-mattermost.cloud-ed.fr, see https://crt.sh/?id=6447780606
 lafabriquenumerique-nextcloud.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-nextcloud.cloud-ed.fr, see https://crt.sh/?id=6447780074
 lafabriquenumerique-onlyoffice.cloud-ed.fr  # Found in cert of CN=lafabriquenumerique-onlyoffice.cloud-ed.fr, see https://crt.sh/?id=6447774642
@@ -5433,6 +5438,7 @@ cas0.culture.fr  # from https://crt.sh/?id=5307308077
 designer-bw.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=auth-demarches.culture.gouv.fr, serialNumber=S241452285, see https://crt.sh/?id=7062900552
 admin.evenementiels.culture.fr
 ewscli0.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
+msg-ews.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, CN=messagerie.culture.gouv.fr, serialNumber=S254250512, see https://crt.sh/?id=7945497900
 pass.culture.fr  # (redirection from passculture.beta.gouv.fr)
 recherche-anmt-admin.culture.fr
 recherche-anmt-bo.culture.fr
@@ -5593,6 +5599,7 @@ wsechange.rh.edcs.fr  # Found in cert of CN=wsechange.rh.e2.rie.gouv.fr, see htt
 educagri.fr
 education.fr
 adc.education.fr
+deppadoc.pp-pleiade.adc.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=archives-statistiques-depp.education.gouv.fr, see https://crt.sh/?id=7984224669
 auth.apps.education.fr  # (redirection from nuage01.apps.education.fr)
 beta.apps.education.fr  # from https://crt.sh/?id=5192474144
 whoami.beta.apps.education.fr  # Found in cert of C=FR, L=Paris, O=Ministère de l'Education Nationale et de la Jeunesse, CN=whoami.beta.apps.education.fr, see https://crt.sh/?id=5192474144
@@ -5656,6 +5663,7 @@ orelie.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Minist�
 pp-chorus-dt.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pp-chorus-dt.orion.education.fr, see https://crt.sh/?id=5940259581
 racvision.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=racvision.phm.education.gouv.fr, see https://crt.sh/?id=6894063289
 wa-be1d.orion.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=wa-be1d.phm.education.gouv.fr, see https://crt.sh/?id=6971882971
+deppadoc.pleiade.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=archives-statistiques-depp.education.gouv.fr, see https://crt.sh/?id=7984224669
 eedk.fr
 www.eedk.fr
 egliseargenteuil.fr
@@ -8618,6 +8626,7 @@ www.prazsurarly.fr
 prebocageintercom.fr
 prefpolice-leblog.fr  # (redirection from prefpolice-leblog.interieur.gouv.fr)
 presidence-europe.fr
+mx.presse-ccne.fr  # Found in cert of C=FR, L=PARIS, O=DIRECTION DES SERVICES ADMINISTRATIFS ET FINANCIERS, CN=mx.presse.pm.gouv.fr, serialNumber=S252610862, see https://crt.sh/?id=7828419260
 prey27.fr
 prignac-et-marcamps.fr
 www.prignac-et-marcamps.fr
@@ -10233,6 +10242,8 @@ saintpierre09.net
 www.saintpierre09.net
 seinemaritime.net
 www.seinemaritime.net
+sports-gouv.signalement.net  # Found in cert of CN=sports-gouv.signalement.net, see https://crt.sh/?id=7982160662
+www.sports-gouv.signalement.net  # Found in cert of CN=sports-gouv.signalement.net, see https://crt.sh/?id=7982160662
 veneuxlessablons.net
 www.veneuxlessablons.net
 vignevieille.net
