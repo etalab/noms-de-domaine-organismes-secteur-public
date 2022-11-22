@@ -939,7 +939,6 @@ https://www.cidffdesyvelines.com
 https://www.cidj.com
 http://cij02.com
 https://ciohyeres.com
-https://cirey-les-mareilles.com
 https://citaenet.com
 https://www.cite-scolairedigoin.com
 https://www.citescolaireriberac.com
@@ -2219,7 +2218,6 @@ http://www.mairie-lalheue.com
 https://www.mairie-landry.com
 https://www.mairie-lautenbachzell-sengern.com
 https://www.mairie-laveuve.com
-https://www.mairie-lehommetdarthenay.com
 https://www.mairie-leluc.com
 http://www.mairie-les-eglisottes.com
 https://mairie-les-martys.com
@@ -2538,7 +2536,6 @@ http://www.missionlocaleromans.com
 https://www.missionlocaleruralehautevienne.com
 https://www.missionlocalesudessonne.com
 https://www.missionlocalesudvendee.com
-https://missionlocalevalence.com
 https://www.missionslocales-champagneardenne.com
 https://www.mjc-chablais.com
 https://www.mjc-lezignan-corbieres.com
@@ -3584,7 +3581,6 @@ https://www.tourisme-salies-du-salat.com
 https://tournissan.com
 https://www.tournon-dagenais.com
 https://www.tournon-savoie.com
-http://tournondagenais.com
 https://tourrettessurloup.com
 https://touzac-lot.com
 http://www.trambly.com
@@ -5314,7 +5310,6 @@ https://clg-picstloup-stclementderiviere.ac-montpellier.fr
 https://clg-pitot-aramon.ac-montpellier.fr
 https://clg-pons-chalabre.ac-montpellier.fr
 https://clg-quillan.ac-montpellier.fr
-https://clg-rabelais-montpellier.ac-montpellier.fr
 https://clg-racine-ales.ac-montpellier.fr
 https://clg-regordane-genolhac.ac-montpellier.fr
 https://clg-rolland-nimes.ac-montpellier.fr
@@ -5326,7 +5321,6 @@ https://clg-rousson-stetiennevalleefrancaise.ac-montpellier.fr
 https://clg-salins-villeneuvelesmaguelone.ac-montpellier.fr
 https://clg-stexupery-perpignan.ac-montpellier.fr
 https://clg-troisvallees-florac.ac-montpellier.fr
-https://clg-valery-roquemaure.ac-montpellier.fr
 https://clg-valles-nimes.ac-montpellier.fr
 https://clg-ventadour-bagnolssurceze.ac-montpellier.fr
 https://clg-verne-carcassonne.ac-montpellier.fr
@@ -5722,7 +5716,6 @@ https://www.ac-rennes.fr
 http://clg-bouvet.ac-reunion.fr
 http://clg-jean-desme.ac-reunion.fr
 http://college-letoullec.ac-reunion.fr
-http://college-raymondverges.ac-reunion.fr
 https://etab.ac-reunion.fr
 http://lp-roches-maigres.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
@@ -9065,7 +9058,6 @@ https://www.bourgougnague.fr
 https://www.bourgsaintmaurice.fr
 https://www.bourgssurcolagne.fr
 https://bourgueil.fr
-https://www.bourgueil.fr
 https://bourgvallees.fr
 https://www.bourgvilain.fr
 https://bourmont.fr
@@ -11669,7 +11661,6 @@ https://college-coutras.fr
 https://www.college-de-france.fr
 http://college-denecourt.fr
 https://www.college-diderot-massy.fr
-http://www.college-dumenieu.fr
 https://college-dunois.fr
 http://college-edmondnocard.fr
 https://college-edouard-herriot-luce.fr
@@ -15959,6 +15950,7 @@ https://droits-passagers-aeriens.dsac.aviation-civile.gouv.fr
 https://lcca.dsac.aviation-civile.gouv.fr
 https://oceane-candidat.dsac.aviation-civile.gouv.fr
 https://oceane-organisme.dsac.aviation-civile.gouv.fr
+https://aer.omega7.dsac.aviation-civile.gouv.fr
 https://cadas-dev.dsna.aviation-civile.gouv.fr
 https://cadas-nc.dsna.aviation-civile.gouv.fr
 https://alfresco.dsna-dti.aviation-civile.gouv.fr
@@ -16660,7 +16652,6 @@ https://arena.management.geo.data.gouv.fr
 https://openmaptiles.geo.data.gouv.fr
 https://info.data.gouv.fr
 https://f.info.data.gouv.fr
-https://s.info.data.gouv.fr
 http://datascience-01.infra.data.gouv.fr
 https://static-01.infra.data.gouv.fr
 https://static-02.infra.data.gouv.fr
@@ -17042,6 +17033,7 @@ https://extranet.rapide.din.developpement-durable.gouv.fr
 https://authentification.recette.din.developpement-durable.gouv.fr
 https://syfoaddv6.recette.din.developpement-durable.gouv.fr
 https://redmine-sps.din.developpement-durable.gouv.fr
+https://refsil.din.developpement-durable.gouv.fr
 https://registre-vtc.din.developpement-durable.gouv.fr
 http://reseau-tepcv.din.developpement-durable.gouv.fr
 https://scm-forge.din.developpement-durable.gouv.fr
@@ -17878,6 +17870,7 @@ https://ecoscore-appli.esante.gouv.fr
 http://emt.esante.gouv.fr
 https://diagcps.eservices.esante.gouv.fr
 https://pfc.eservices.esante.gouv.fr
+https://link.pfc-qualif.eservices.esante.gouv.fr
 http://testssl.eservices.esante.gouv.fr
 http://tops.eservices.esante.gouv.fr
 http://topsprosanteconnect.eservices.esante.gouv.fr
@@ -18596,7 +18589,6 @@ https://base-donnees-publique.medicaments.gouv.fr
 http://www.base-donnees-publique.medicaments.gouv.fr
 https://mentor.gouv.fr
 https://administration.mentor.gouv.fr
-https://bbb-pre.mentor.gouv.fr
 http://bbb-qua-1.mentor.gouv.fr
 https://dev.mentor.gouv.fr
 https://via.mentor.gouv.fr
@@ -19595,7 +19587,6 @@ https://gravieres.fr
 https://www.gravieres.fr
 https://www.gray.fr
 https://www.grayan.fr
-https://www.grazac-tarn.fr
 https://www.grazay.fr
 https://greez-sur-roc.fr
 https://www.greffe-tc-ajaccio.fr
@@ -19794,7 +19785,6 @@ https://www.haplincourt.fr
 https://haramont.fr
 https://www.harbonnieres.fr
 http://www.harcanville.fr
-https://hardricourt.fr
 https://www.hardricourt.fr
 https://www.hareville.fr
 https://www.harfleur.fr
@@ -20021,8 +20011,7 @@ https://www.herbeville.fr
 https://www.herbeys.fr
 https://www.herbitzheim.fr
 https://herblaysurseine.fr
-http://herbsheim.fr
-http://www.herbsheim.fr
+https://www.herbsheim.fr
 https://herchies.fr
 https://www.hergnies.fr
 https://heric.fr
@@ -24061,6 +24050,7 @@ https://www.mairie-lelamentin.fr
 https://www.mairie-lembeye.fr
 https://mairie-lemontsaintmichel.fr
 http://www.mairie-lemoule.fr
+http://www.mairie-lenax.fr
 https://mairie-lens-lestang.fr
 https://www.mairie-lentilly.fr
 https://mairie-lentiol.fr
@@ -24519,9 +24509,7 @@ https://www.mairie-prisse.fr
 https://mairie-provins.fr
 https://www.mairie-provins.fr
 https://mairie-prunayletemple.fr
-https://mairie-puilboreau.fr
-https://www.mairie-puilboreau.fr
-http://mairie-puisseguin.fr
+https://mairie-puisseguin.fr
 https://www.mairie-puisseguin.fr
 https://mairie-puligny-montrachet.fr
 https://www.mairie-puligny-montrachet.fr
@@ -24541,6 +24529,7 @@ http://www.mairie-queyrac.fr
 http://www.mairie-quiestede.fr
 https://www.mairie-quievy.fr
 https://www.mairie-quincampoix.fr
+https://mairie-quincy-sous-senart.fr
 http://mairie-quinssaines.fr
 http://www.mairie-quinssaines.fr
 https://www.mairie-quintal.fr
@@ -36038,7 +36027,6 @@ https://www.ville-tarnos.fr
 http://www.ville-tavaux.fr
 https://www.ville-taverny.fr
 http://www.ville-templeuve.fr
-https://www.ville-tergnier.fr
 https://www.ville-teyran.fr
 https://ville-thann.fr
 https://www.ville-thezan-les-beziers.fr
@@ -36570,7 +36558,7 @@ https://vouharte.fr
 https://vouhenans.fr
 https://www.vouille.fr
 http://voujeaucourt.fr
-http://www.voujeaucourt.fr
+https://www.voujeaucourt.fr
 https://voulangis.fr
 https://www.voulmentin.fr
 http://www.voulon.fr
@@ -37671,7 +37659,6 @@ http://webmail.ambafrance-tr.org
 http://webmail.ambafrance-tt.org
 http://webmail.ambafrance-zm.org
 https://ambleteuse.org
-http://www.ambleville.org
 https://www.amfreville-la-mivoie.org
 https://www.anil.org
 https://www.apajh09.org
@@ -37680,7 +37667,6 @@ https://arml-idf.org
 https://asso-heda.org
 https://association-aris.org
 https://www.association-aris.org
-http://association-cypres.org
 https://associations-dunkerque.org
 http://www.associations-dunkerque.org
 https://associations-lpdl.org
