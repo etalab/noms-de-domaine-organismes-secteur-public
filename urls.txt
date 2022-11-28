@@ -2128,8 +2128,6 @@ https://www.mairie-bouchet.com
 http://www.mairie-braud.com
 http://www.mairie-brennilis.com
 http://www.mairie-brieres.com
-http://mairie-brouy.com
-https://www.mairie-brouy.com
 http://mairie-buisson.com
 https://www.mairie-cales.com
 https://www.mairie-carisey-89.com
@@ -2992,7 +2990,7 @@ https://www.pouzauges.com
 https://prades.com
 https://www.prades.com
 http://prailles.com
-https://mairie.pralognan.com
+http://mairie.pralognan.com
 https://www.pralognan.com
 https://www.pratsdemollolapreste.com
 https://www.preixan.com
@@ -3357,7 +3355,6 @@ https://sari-dorcino.com
 http://sarrancolin.com
 http://www.sarrancolin.com
 https://sarrant.com
-https://www.sarrant.com
 https://www.sarrola-carcopino.com
 https://www.sassetot-le-mauconduit.com
 http://sassey.com
@@ -8129,7 +8126,6 @@ http://www.bainville-aux-miroirs.fr
 https://bairon-et-ses-environs.fr
 https://www.bais35.fr
 https://baix.fr
-https://www.baix.fr
 https://baixas.fr
 https://www.baixas.fr
 http://balade-pierry.fr
@@ -11039,6 +11035,7 @@ https://www.chatonnay.fr
 https://chatou.fr
 https://www.chatou.fr
 https://chatressurcher.fr
+https://chatuzangelegoubet.fr
 https://www.chatuzangelegoubet.fr
 https://www.chauche.fr
 https://chauconin-neufmontiers.fr
@@ -12152,7 +12149,6 @@ https://www.communedetavant.fr
 http://www.communedetherouanne.fr
 https://www.communedetoeufles.fr
 https://www.communedevalframbert.fr
-http://communedevraiville.fr
 http://www.communedewickerschwihr.fr
 https://communeevansjura.fr
 http://www.communefleury.fr
@@ -14702,7 +14698,7 @@ https://www.federationpeche.fr
 https://federationpeche18.fr
 https://www.federationpeche44.fr
 https://federationpeche57.fr
-https://www.federationpeche57.fr
+http://www.federationpeche57.fr
 https://www.federationpeche77.fr
 https://www.federationpechedordogne.fr
 https://www.fegersheim.fr
@@ -15125,7 +15121,6 @@ http://espenel26.free.fr
 http://mairie.etrat.free.fr
 http://etricourt.free.fr
 http://falvy.free.fr
-http://faucogney.free.fr
 http://fcpeprevert.free.fr
 http://fenioux79.free.fr
 http://fontaineaucoeur.free.fr
@@ -16593,7 +16588,6 @@ http://cms.rec2022.cybermalveillance.gouv.fr
 http://sandbox.rec2022.cybermalveillance.gouv.fr
 https://www.cybermalveillance.gouv.fr
 http://cybermois.gouv.fr
-https://preprod.cybermois.gouv.fr
 https://cyberveille-sante.gouv.fr
 https://www.cyberveille-sante.gouv.fr
 https://adresse.data.gouv.fr
@@ -16865,6 +16859,7 @@ https://preprod.db.aria.developpement-durable.gouv.fr
 http://tmd.db.aria.developpement-durable.gouv.fr
 http://dev.tmd.db.aria.developpement-durable.gouv.fr
 https://www.db.aria.developpement-durable.gouv.fr
+https://www.aria.developpement-durable.gouv.fr
 https://www.assainissement.developpement-durable.gouv.fr
 https://www.assainissement-non-collectif.developpement-durable.gouv.fr
 https://assistance-geoportail-urbanisme.developpement-durable.gouv.fr
@@ -18110,7 +18105,6 @@ https://jeu.garde-nationale.gouv.fr
 https://www.geoportail.gouv.fr
 https://www.geoportail-urbanisme.gouv.fr
 https://api.georisques.gouv.fr
-https://catalogue.georisques.gouv.fr
 https://errial.georisques.gouv.fr
 https://www.georisques.gouv.fr
 https://www.gers.gouv.fr
@@ -20017,7 +20011,6 @@ https://www.herm.fr
 https://www.hermanvillesurmer.fr
 https://www.hermenault.fr
 https://hermeray.fr
-http://www.hermeville76.fr
 https://herny.fr
 https://www.heronchelles.fr
 http://www.herran.fr
@@ -20045,7 +20038,6 @@ https://www.hexanet.fr
 https://www.heyrieux.fr
 http://hieres-sur-amby.fr
 http://www.hieres-sur-amby.fr
-http://www.hiers-brouage.fr
 https://www.hilsenheim.fr
 https://www.hindisheim.fr
 https://www.hinx.fr
@@ -21665,6 +21657,7 @@ https://www.legtfrancoisvillon.fr
 https://www.legua-mairie.fr
 http://leguedallere.fr
 https://www.leguerno.fr
+https://leguillacdelauche.fr
 https://leguille.fr
 https://www.leguille.fr
 http://lehautbreda.fr
@@ -25522,6 +25515,7 @@ http://www.mairiedemane.fr
 https://mairiedemanom.fr
 https://www.mairiedemanom.fr
 https://www.mairiedemarval.fr
+http://mairiedemaysel.fr
 https://www.mairiedemison.fr
 https://mairiedemoliets.fr
 https://www.mairiedemoliets.fr
@@ -26278,7 +26272,7 @@ https://mercuer.fr
 https://www.mercues.fr
 https://mercurey.fr
 https://www.mercurey.fr
-http://www.mercurol-veaunes.fr
+https://www.mercurol-veaunes.fr
 http://www.mere-village.fr
 https://merenslesvals.fr
 https://www.merenslesvals.fr
@@ -27940,7 +27934,7 @@ https://www.nanterre.fr
 https://metropole.nantes.fr
 https://www.nantes.fr
 https://nantes-terre-atlantique.fr
-http://nantesmetropole.fr
+https://nantesmetropole.fr
 https://museum.nantesmetropole.fr
 https://www.nantesmetropole.fr
 https://www.nantessaintnazaire.fr
@@ -29756,7 +29750,6 @@ https://www.rancy.fr
 https://www.randan.fr
 http://randon-margeride.fr
 http://www.randon-margeride.fr
-https://www.rans.fr
 http://rans-jura.fr
 http://www.rans-jura.fr
 http://ranspach-le-bas.fr
@@ -34997,7 +34990,6 @@ https://www.ville-bouffemont.fr
 https://www.ville-bougival.fr
 https://ville-bouguenais.fr
 https://www.ville-bouguenais.fr
-https://ville-boulazac.fr
 https://www.ville-bouliac.fr
 http://www.ville-boulogne-sur-gesse.fr
 https://www.ville-boulogne-sur-mer.fr
@@ -35388,7 +35380,7 @@ https://ville-isle-adam.fr
 http://www.ville-ivry-la-bataille.fr
 https://www.ville-jacou.fr
 https://www.ville-jardsurmer.fr
-http://www.ville-jarrie.fr
+https://www.ville-jarrie.fr
 https://www.ville-jausiers.fr
 https://www.ville-joeuf.fr
 https://ville-joigny.fr
@@ -37264,8 +37256,8 @@ https://www.saint-eloi-de-fourques.net
 https://saint-etienne-roilaye.net
 https://www.saint-flour.net
 https://www.saint-germain-de-la-grange.net
-http://saint-geyrac.net
-http://www.saint-geyrac.net
+https://saint-geyrac.net
+https://www.saint-geyrac.net
 https://saint-mariens.net
 http://saint-martin-de-re.net
 http://www.saint-martin-de-re.net
