@@ -2298,7 +2298,6 @@ https://www.mairie-saintlaurentdarce.com
 https://mairie-saintmartin.com
 https://www.mairie-saintmartin.com
 http://mairie-saintmont.com
-http://www.mairie-saintmont.com
 https://www.mairie-saintremydeprovence.com
 https://mairie-sainville.com
 https://www.mairie-sainville.com
@@ -2745,7 +2744,6 @@ https://www.orcieres.com
 https://www.ordre-avocats-bonneville.com
 https://www.ordre-avocats-bourgoin-jallieu.com
 http://ordre-avocats-moulins.com
-http://www.ordre-avocats-moulins.com
 https://www.ordre-avocats-saintquentin.com
 http://ordredesavocats-chartres.com
 http://www.ordredesavocats-chartres.com
@@ -6252,6 +6250,7 @@ http://www.lyc-santosdumont-st-cloud.ac-versailles.fr
 http://www.lyc-senghor-magnanville.ac-versailles.fr
 http://www.lyc-st-hilaire-etampes.ac-versailles.fr
 http://www.lyc-st-saens-deuil.ac-versailles.fr
+http://www.lyc-stex-mantes.ac-versailles.fr
 http://www.lyc-stexupery-mantes.ac-versailles.fr
 http://www.lyc-talma-brunoy.ac-versailles.fr
 http://www.lyc-tesla-dourdan.ac-versailles.fr
@@ -8639,7 +8638,6 @@ https://www.beutal.fr
 https://www.beuvillers.fr
 https://www.beuvrages.fr
 http://beuvrequen.fr
-http://www.beuvrequen.fr
 https://www.beuvron-en-auge.fr
 https://beuvry-la-foret.fr
 https://www.beuzec-cap-sizun.fr
@@ -10035,6 +10033,7 @@ https://cc-sudestuaire.fr
 https://www.cc-sudestuaire.fr
 https://www.cc-sudmarnais.fr
 https://www.cc-sudvendeelittoral.fr
+http://www.cc-sundgau.fr
 https://www.cc-tarnagout.fr
 http://cc-tenareze.fr
 https://cc-terrassonnais-thenon-hautefort.fr
@@ -15374,6 +15373,7 @@ https://www.gabriac.fr
 https://gabrias.fr
 https://www.gabrias.fr
 http://www.gace.fr
+https://gadancourt.fr
 https://www.gadancourt.fr
 http://www.gageac-et-rouillac.fr
 https://www.gages-montrozier.fr
@@ -16594,7 +16594,6 @@ https://geo.data.gouv.fr
 http://adresse-data-ipfo.geo.data.gouv.fr
 http://cadastre-data-ipfo.geo.data.gouv.fr
 http://geo-api-ipfo.geo.data.gouv.fr
-http://ban-ipfo.infra.geo.data.gouv.fr
 http://dvf-ipfo.infra.geo.data.gouv.fr
 http://geocode-4.infra.geo.data.gouv.fr
 http://geocode-5.infra.geo.data.gouv.fr
@@ -16710,6 +16709,7 @@ https://mediatheque-sga.defense.gouv.fr
 https://merlin.defense.gouv.fr
 https://mindefconnect-auth.defense.gouv.fr
 https://pmilourdes.defense.gouv.fr
+https://pprod-egerie-prestations.defense.gouv.fr
 https://pprod-merlin.defense.gouv.fr
 https://pprod-mindefconnect-auth.defense.gouv.fr
 https://preprod-lesalpps.defense.gouv.fr
@@ -16754,7 +16754,6 @@ https://www.lycee-militaire-st-cyr.terre.defense.gouv.fr
 https://www.rap35.terre.defense.gouv.fr
 https://www.rc12.terre.defense.gouv.fr
 https://www.rca1.terre.defense.gouv.fr
-https://www.re4.terre.defense.gouv.fr
 https://www.rec1.terre.defense.gouv.fr
 https://www.rep2.terre.defense.gouv.fr
 https://www.ri24.terre.defense.gouv.fr
@@ -17568,7 +17567,6 @@ https://racvision.phm.education.gouv.fr
 https://rh-proximite.phm.education.gouv.fr
 https://pr3-sir-vipwebext01.sirhen.phm.education.gouv.fr
 http://speedtest.phm.education.gouv.fr
-https://sumitara.phm.education.gouv.fr
 https://sumitfrs.phm.education.gouv.fr
 https://sumitget.phm.education.gouv.fr
 https://sumitjes.phm.education.gouv.fr
@@ -21697,6 +21695,7 @@ https://lentu.fr
 https://leogeats.fr
 https://www.leogeats.fr
 https://www.leognan.fr
+https://leon.fr
 https://www.leon.fr
 https://www.lepailly52.fr
 http://www.lepalais.fr
@@ -22783,7 +22782,7 @@ https://www.lyceejeanmoulin.fr
 https://www.lyceejeanmoulin-roubaix.fr
 https://www.lyceejeanperrin.fr
 https://lyceejeanracine.fr
-http://www.lyceejeanzay.fr
+https://www.lyceejeanzay.fr
 https://www.lyceejoliotcurie77.fr
 https://www.lyceejuleslecesne.fr
 http://www.lyceekastler.fr
@@ -25423,7 +25422,6 @@ https://mairiedegabian.fr
 https://mairiedegalan.fr
 https://mairiedegaye.fr
 https://www.mairiedegaye.fr
-http://mairiedegeneuille.fr
 https://mairiedegironville77.fr
 http://mairiedegland02.fr
 http://www.mairiedegland02.fr
@@ -25771,7 +25769,7 @@ http://mantoche.fr
 http://www.mantoche.fr
 http://www.manzacsurvern.fr
 https://manzat.fr
-http://www.manzat.fr
+https://www.manzat.fr
 http://marange-zondrange.fr
 http://www.marange-zondrange.fr
 https://maransin.fr
@@ -26413,7 +26411,6 @@ https://mirabel-aux-baronnies.fr
 https://www.mirabel-aux-baronnies.fr
 http://mirabel-et-blacons.fr
 http://www.mirabel-et-blacons.fr
-https://www.miramas.fr
 http://www.mirambeau17.fr
 http://www.miramont-de-comminges.fr
 https://www.miramont-de-quercy.fr
@@ -27558,7 +27555,6 @@ https://www.montrealdugers.fr
 https://montrealenbourgogne.fr
 https://www.montrealenbourgogne.fr
 https://www.montredon-labessonnie.fr
-https://montrelais.fr
 https://www.montrelais.fr
 https://www.montresor.fr
 https://www.montret71.fr
@@ -28789,6 +28785,7 @@ https://www.paysdefalaise.fr
 https://www.paysdefenelon.fr
 https://paysdegexagglo.fr
 https://www.paysdegexagglo.fr
+https://www.paysdegrasse.fr
 https://www.paysdelaloire.fr
 https://www.paysdelarbresle.fr
 https://www.paysdelaserre.fr
@@ -33153,8 +33150,8 @@ https://st-pardon-de-conques.fr
 https://www.st-pierre-aigle.fr
 https://www.st-pierre-daurillac.fr
 https://st-pierre-de-riviere09.fr
-http://st-pierre-du-bosguerard.fr
-http://www.st-pierre-du-bosguerard.fr
+https://st-pierre-du-bosguerard.fr
+https://www.st-pierre-du-bosguerard.fr
 http://st-pierre-toirac.fr
 http://st-porchaire.fr
 http://www.st-porchaire.fr
@@ -35336,6 +35333,7 @@ https://www.ville-la-roque-d-antheron.fr
 https://www.ville-la-turbie.fr
 https://ville-labassee.fr
 https://www.ville-labenne.fr
+https://ville-laboisse.fr
 https://www.ville-laboisse.fr
 http://ville-lachapellesaintmesmin.fr
 http://www.ville-lachapellesaintmesmin.fr
@@ -36892,8 +36890,6 @@ https://argancy.net
 https://www.argancy.net
 https://www.asnieres-sur-nouere.net
 https://www.aubigny.net
-http://auzon.net
-http://www.auzon.net
 https://www.bagnols.net
 https://balgau.net
 https://www.balgau.net
