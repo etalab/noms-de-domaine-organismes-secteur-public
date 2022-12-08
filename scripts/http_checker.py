@@ -30,7 +30,7 @@ def avoid_surrogates(s):
 
 
 def to_message(err):
-    """Try to producuce a clean and readable message from the given HTTP
+    """Try to produce a clean and readable message from the given HTTP
     response or exception caused by an HTTP query."""
     match err:
         case aiohttp.ClientResponse(status=200):
@@ -64,7 +64,7 @@ async def http_head(
     - if http://munster.alsace redirects to http://www.munster.alsace it's a redirection.
     - if http://munster.alsace redirects to http://muster.alsace/fr replying OK it's OK.
 
-    We try to use HEAD requests, but if not allwed we fallback to GET requests.
+    We try to use HEAD requests, but if not allowed we fall back to GET requests.
     """
     async with client.request(
         method, url, headers=HEADERS, allow_redirects=False
