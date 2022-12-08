@@ -2373,8 +2373,6 @@ www.agternois.fr
 aham.fr
 www.aham.fr
 www.aigueblanche.fr  # (redirection from ville-aigueblanche.fr)
-mdph.ain.fr
-www.mdph.ain.fr
 ain-cerdon.fr
 www.ain-cerdon.fr
 ain-profession-sport.fr
@@ -4933,7 +4931,6 @@ costa-verde.fr
 www.costa-verde.fr
 coteaux-bordelais.fr
 www.coteaux-bordelais.fr  # (redirection from coteaux-bordelais.fr)
-mdph.cotesdarmor.fr
 couesnon-marchesdebretagne.fr
 www.couesnon-marchesdebretagne.fr
 coulommierspaysdebrie.fr
@@ -5210,7 +5207,6 @@ denat-reseaudespetitescommunes.fr
 www.dentiste-degarde.fr  # (redirection from www.mgep-isbergues.fr)
 departement-touraine.fr
 www.departement-touraine.fr
-mdph.departement06.fr  # (redirection from www.mdph06.fr)
 www.departement41.fr  # (redirection from vivreautonome41.fr)
 devenirpolicier.fr
 www.devenirpolicier.fr
@@ -5263,13 +5259,11 @@ dompierresurmont.fr
 www.dompierresurmont.fr
 donville.fr
 www.donville.fr
-mdph.dordogne.fr
 dossierfacile.fr
 www.dossierfacile.fr
 douarnenez-communaute.fr
 www.douarnenez-communaute.fr
 cdad.doubs.fr
-mdph.doubs.fr
 dourgne-mairie.fr
 www.dourgne-mairie.fr
 douzillacmonvillage.fr
@@ -5735,7 +5729,6 @@ gensac-de-boulogne.fr
 gerontonord-marseille.fr
 www.gerontonord-marseille.fr
 matomo.gers.fr  # (redirection from www.cg32.fr)
-mdph32.gers.fr  # (redirection from mdph32.fr)
 gers-peche.fr
 www.gers-peche.fr
 gimont.fr
@@ -5944,9 +5937,6 @@ hautecourt-romaneche.fr
 www.hautecourt-romaneche.fr
 hauteloire.fr
 www.hauteloire.fr
-mda.hautes-alpes.fr  # (redirection from mdph.hautes-alpes.fr)
-mdph.hautes-alpes.fr
-www.mdph.hautes-alpes.fr
 hautes-de-seine.fr
 www.hautes-de-seine.fr
 hautesterres.fr
@@ -6051,7 +6041,6 @@ lecannet.ijca.fr
 www.lecannet.ijca.fr
 www.ijca.fr
 ile-et-vilaine.fr
-srv7-prod-mdph.ille-et-vilaine.fr  # (redirection from cg35.fr)
 illedesartene.fr
 imaj32.fr
 www.imaj32.fr
@@ -6409,7 +6398,6 @@ lemasdetence.fr
 www.lemasdetence.fr
 lemee28.fr
 www.lemee28.fr
-mdph.lenord.fr
 lentillac.fr
 www.lentillac.fr
 lepine-iledenoirmoutier.fr
@@ -6531,8 +6519,6 @@ maia-17.fr
 www.maia-17.fr
 maillage.fr
 www.maillage.fr
-mda.maine-et-loire.fr
-www.mda.maine-et-loire.fr
 mainecoeurdesarthe.fr
 www.mainecoeurdesarthe.fr
 maineetloire.fr
@@ -7021,10 +7007,6 @@ mazeley.fr
 www.mazeley.fr
 mclgauchy.fr
 www.mclgauchy.fr
-mda-tourcoing.fr
-www.mda-tourcoing.fr
-mda72.fr
-www.mda72.fr
 mde-grandperigueux.fr
 www.mde-grandperigueux.fr
 mde-lille.fr
@@ -7036,65 +7018,6 @@ mdef-senart.fr
 www.mdef-senart.fr
 mderpf.fr
 www.mderpf.fr
-mdph.fr
-www.mdph.fr
-mdph03.fr
-www.mdph03.fr
-mdph06.fr
-www.mdph06.fr
-mdph10.fr
-www.mdph10.fr
-mdph12.fr
-www.mdph12.fr
-mdph13.fr
-www.mdph13.fr
-mdph16.fr
-www.mdph16.fr
-mdph21.fr
-www.mdph21.fr
-mdph27.fr
-www.mdph27.fr
-mdph28.fr
-www.mdph28.fr
-mdph29.fr
-www.mdph29.fr
-mdph31.fr
-www.mdph31.fr
-mdph32.fr
-www.mdph32.fr
-mdph33.fr
-www.mdph33.fr
-mdph34.fr
-www.mdph34.fr
-mdph35.fr
-www.mdph35.fr
-mdph37.fr
-www.mdph37.fr
-mdph39.fr
-www.mdph39.fr
-mdph47.fr
-www.mdph47.fr
-mdph57.fr
-www.mdph57.fr
-mdph61.fr
-www.mdph61.fr
-mdph64.fr
-www.mdph64.fr
-mdph65.fr
-www.mdph65.fr
-mdph72.fr
-www.mdph72.fr
-mdph73.fr
-www.mdph73.fr
-mdph74.fr
-www.mdph74.fr
-mdph77.fr
-www.mdph77.fr
-mdph86.fr
-www.mdph86.fr
-mdph89.fr
-www.mdph89.fr
-mdph972.fr
 mdpstrasbourg.fr
 www.mdpstrasbourg.fr
 mdry.fr
@@ -7140,8 +7063,6 @@ www.metropole-rouen-normandie.fr
 metropolegrandparis.fr
 www.metropolegrandparis.fr
 metropoletpm.fr
-mdph.meurthe-et-moselle.fr
-www.mdph.meurthe-et-moselle.fr
 meurthe-moselle.fr
 www.meurthe-moselle.fr
 meuse-profession-sport-loisirs.fr
@@ -7841,8 +7762,6 @@ oger-en-champagne.fr
 www.oger-en-champagne.fr
 oiscl.fr
 www.oiscl.fr
-mdph.oise.fr
-www.mdph.oise.fr
 oizon.fr
 www.oizon.fr
 olette66.fr
@@ -7977,8 +7896,6 @@ parlement.fr
 www.parlement.fr
 partinellu.fr
 www.partinellu.fr
-mdph.pasdecalais.fr
-www.mdph.pasdecalais.fr
 mairie.saint.paul.fr
 www.mairie.saint.paul.fr
 paulhac15.fr
@@ -8341,8 +8258,6 @@ www.pulversheim.fr
 putotenbessin.fr
 www.putotenbessin.fr
 puy-de-dome.fr
-mdph.puy-de-dome.fr
-www.mdph.puy-de-dome.fr
 www.puy-de-dome.fr
 puy-saint-gulmier.fr
 www.puy-saint-gulmier.fr
@@ -8955,7 +8870,6 @@ tancrou.fr
 www.tancrou.fr
 tarcenay.fr
 www.tarcenay.fr
-mda.tarn.fr  # (redirection from personnes-agees.tarn.fr)
 personne-agee.tarn.fr
 personnes-agees.tarn.fr
 tauxigny.fr
@@ -9257,8 +9171,6 @@ www.valdevienne.fr
 valdille-aubigne.fr
 www.valdille-aubigne.fr
 cij.valdoise.fr
-mdph.valdoise.fr
-www.mdph.valdoise.fr
 valenciennes-metropole.fr
 www.valenciennes-metropole.fr
 valesdunes.fr
@@ -9301,8 +9213,6 @@ valvanoise.fr
 www.valvanoise.fr
 vanves.fr
 www.vanves.fr
-mdph.var.fr
-www.mdph.var.fr
 vascoeuil.fr
 www.vascoeuil.fr
 vauchretien.fr
@@ -10617,8 +10527,6 @@ www.chasse974.re
 fdc974.re  # (redirection from chasse974.re)
 mdaduport.re
 www.mdaduport.re
-mdph.re
-www.mdph.re
 mio.re
 www.mio.re
 mio-reunion.re
