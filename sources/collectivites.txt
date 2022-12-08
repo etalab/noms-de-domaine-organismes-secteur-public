@@ -17,9 +17,7 @@ arzal.bzh
 www.arzal.bzh
 bonrepossurblavet.bzh
 www.bonrepossurblavet.bzh
-bretagne.bzh
 megalis.bretagne.bzh
-www.bretagne.bzh
 ccpi.bzh
 ccpld.bzh
 chateauneufdufaou.bzh
@@ -2377,8 +2375,6 @@ autolibmetropole.fr
 www.autolibmetropole.fr
 autreville-sur-moselle.fr
 www.autreville-sur-moselle.fr
-auvergnerhonealpes.fr
-www.auvergnerhonealpes.fr
 auverslehamon.fr
 auvillar.fr
 www.auvillar.fr
@@ -2694,8 +2690,6 @@ www.bourgenbresse.fr
 bourgmadame.fr
 www.bourgmadame.fr
 bourgognefrancecomte.fr
-bourgognefranchecomte.fr
-www.bourgognefranchecomte.fr
 bournan.fr
 www.bournan.fr
 bournazel-aveyron.fr
@@ -4026,8 +4020,6 @@ drom.grandbourg.fr
 hautecourtromaneche.grandbourg.fr
 marboz.grandbourg.fr
 meillonnas.grandbourg.fr
-grandest.fr
-www.grandest.fr
 grandlieu.fr
 www.grandlieu.fr
 grandorlyseinebievre.fr
@@ -4122,8 +4114,6 @@ www.hauteroche.fr
 hautevigneulles.fr
 hauts-de-bienne.fr
 www.hauts-de-bienne.fr
-hautsdefrance.fr
-www.hautsdefrance.fr  # (redirection from hautsdefrance.fr)
 hautvalromey.fr
 www.hautvalromey.fr
 hautvillers-ouville.fr
@@ -4211,8 +4201,6 @@ ile-yeu.fr
 www.ile-yeu.fr
 iledarz.fr
 www.iledarz.fr
-iledefrance.fr
-www.iledefrance.fr
 illiat.fr
 www.illiat.fr
 illies.fr
@@ -4567,8 +4555,6 @@ www.lapeyrousse.fr
 lappion.fr
 www.lappion.fr
 laproiseliereetlangle.fr
-laregion.fr
-www.laregion.fr
 larobine.fr
 laroche-saint-cydroine.fr
 www.laroche-saint-cydroine.fr
@@ -5005,8 +4991,6 @@ marcilly-le-chatel.fr
 www.marcilly-le-chatel.fr
 marcillysurvienne.fr
 www.marcillysurvienne.fr
-maregionsud.fr
-www.maregionsud.fr
 marenla.fr
 marenneshiersbrouage.fr
 www.marenneshiersbrouage.fr
@@ -5474,8 +5458,6 @@ www.nonza.fr
 nordheim.fr
 www.nordheim.fr
 perso.nordnet.fr
-normandie.fr
-www.normandie.fr
 normandieparticipations.fr
 norrent-fontes.fr
 www.norrent-fontes.fr
@@ -5483,8 +5465,6 @@ notre-dame-des-landes.fr  # (redirection from notredamedeslandes.fr)
 notre-dame-losier.fr
 www.notre-dame-losier.fr
 notredamederiez.fr
-nouvelle-aquitaine.fr
-www.nouvelle-aquitaine.fr
 noyalsurbrutz.fr
 www.noyalsurbrutz.fr
 noyellette.fr
@@ -5713,8 +5693,6 @@ fontenoy.pays-vallee-aisne.fr
 st-pierre-aigle.pays-vallee-aisne.fr
 paysdebrisach.fr
 www.paysdebrisach.fr
-paysdelaloire.fr
-www.paysdelaloire.fr
 paysdemontereau77.fr
 paysdepontchateau.fr
 www.paysdepontchateau.fr
@@ -7772,8 +7750,6 @@ www.turquant.info
 dommartin25.github.io
 albertharris.me
 www.albertharris.me
-collectivitedemartinique.mq
-www.collectivitedemartinique.mq
 lafoa.nc
 www.lafoa.nc
 mont-dore.nc
