@@ -5603,6 +5603,7 @@ deppadoc.pp-pleiade.adc.education.fr  # Found in cert of C=FR, ST=Île-de-France
 auth.apps.education.fr  # (redirection from nuage01.apps.education.fr)
 beta.apps.education.fr  # from https://crt.sh/?id=5192474144
 whoami.beta.apps.education.fr  # Found in cert of C=FR, L=Paris, O=Ministère de l'Education Nationale et de la Jeunesse, CN=whoami.beta.apps.education.fr, see https://crt.sh/?id=5192474144
+edition.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=edition.apps.education.fr, see https://crt.sh/?id=8127795524
 lbnuage.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=lbnuage.apps.education.fr, see https://crt.sh/?id=6938933762
 metabase.apps.education.fr
 minio.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=minio.apps.education.fr, see https://crt.sh/?id=6938879011
@@ -5612,7 +5613,9 @@ nuage02.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Minist�
 nuage03.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuage03.apps.education.fr, see https://crt.sh/?id=6938906647
 nuagegrp.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=nuagegrp.apps.education.fr, see https://crt.sh/?id=6938892328
 podeduc.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=pod.phm.education.gouv.fr, see https://crt.sh/?id=5541894130
+polymnyeduc.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=polymnyeduc.apps.education.fr, see https://crt.sh/?id=8036785642
 tubes.apps.education.fr
+ws-polymnyeduc.apps.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=ws-polymnyeduc.apps.education.fr, see https://crt.sh/?id=8036808698
 cabinet.education.fr
 eduscol.education.fr  # (redirection from www.banqoutils.education.gouv.fr)
 listes.education.fr  # Found in cert of C=FR, ST=Île-de-France, O=Ministère de l'Education Nationale et de la Jeunesse des sports, CN=listes.education.fr, see https://crt.sh/?id=6924519368
@@ -10175,8 +10178,10 @@ hauts-de-seine.net
 www.hauts-de-seine.net
 i-carre.net
 www.idfr.net  # (redirection from portes-haut-doubs.com)
+incubateur.net
 audioconf.incubateur.net
 dashlord.incubateur.net
+auth.moana.incubateur.net  # Found in cert of CN=ows-142-44-36-29.eu-west-2.compute.outscale.com, see https://crt.sh/?id=8080125470
 secretariat.incubateur.net
 info-jeune.net
 www.info-jeune.net
