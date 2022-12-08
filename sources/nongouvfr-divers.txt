@@ -2,10 +2,6 @@ schillersdorf.hanau-lapetitepierre.alsace
 www.schillersdorf.hanau-lapetitepierre.alsace
 mlsaverne.alsace
 www.mlsaverne.alsace
-pfaffenheim.alsace
-www.pfaffenheim.alsace
-rothbach.alsace
-www.rothbach.alsace
 www.missionlocale.app  # (redirection from missionlocale.org)
 passculture.app
 backend.passculture.app  # from https://crt.sh/?id=5315716638
@@ -37,11 +33,7 @@ missionlocalecob.bzh
 www.missionlocalecob.bzh
 mlstmalo.bzh
 www.mlstmalo.bzh
-muel.bzh
-www.muel.bzh
 pays-broceliande.bzh  # (redirection from pays-broceliande.com)
-plozevet.bzh
-www.plozevet.bzh
 pommeritlevicomte.bzh
 www.pommeritlevicomte.bzh
 rmcom.bzh  # (redirection from roimorvancommunaute.com)
@@ -122,11 +114,7 @@ association-pari.com
 www.association-pari.com
 athee-sur-cher.com
 www.athee-sur-cher.com
-attiches.com
-www.attiches.com
 atziller.com
-aulnay-sous-bois.com
-www.aulnay-sous-bois.com
 avillysaintleonard.com
 www.avillysaintleonard.com
 avocat-bergerac-sarlat.com
@@ -233,8 +221,6 @@ www.barredescevennes.com
 bartres.com
 www.bartres.com
 www.bazaaretcompagnie.com  # (redirection from www.informationjeunesse-centre.fr)
-bazeilles.com
-www.bazeilles.com
 beaujolais-cci.com
 www.beaujolais-cci.com
 beaulieu-sur-oudon.com
@@ -242,8 +228,6 @@ www.beaulieu-sur-oudon.com
 ira-learning.beeznest.com  # Found in cert of CN=e-learning.ira-metz.gouv.fr, see https://crt.sh/?id=7619414970
 bernouville.com
 www.bernouville.com
-betschdorf.com
-www.betschdorf.com
 bij-le-pradet.com
 www.bij-le-pradet.com
 bij-maisons-alfort.com
@@ -278,8 +262,6 @@ www.bonneval-tarentaise.com
 bonnieres-ternois.com
 bourg-avocats.com
 www.bourg-avocats.com
-bourreac.com
-www.bourreac.com
 brainssurlesmarches.com
 www.brainssurlesmarches.com
 burgalays.com
@@ -290,8 +272,6 @@ cambounes.com
 www.cambounes.com
 camplong.com
 www.camplong.com
-campoussy.com
-www.campoussy.com
 champlecy.canalblog.com
 echogondulfien.canalblog.com
 www.echogondulfien.canalblog.com
@@ -339,12 +319,8 @@ capemploi88.com
 www.capemploi88.com
 capemploi91.com
 www.capemploi91.com
-cascastelvillage.com
-www.cascastelvillage.com
 casteil-tourisme.com
 www.casteil-tourisme.com
-castelnaudauzan.com
-www.castelnaudauzan.com
 caudebec-en-caux.com
 www.caudebec-en-caux.com
 caussedelaselle.com
@@ -392,10 +368,6 @@ chambre-agri63.com
 www.chambre-agri63.com
 chambre-huissiers-justice-dept91.com
 www.chambre-huissiers-justice-dept91.com
-champagne-sur-loue.com
-www.champagne-sur-loue.com
-champagnole.com
-www.champagnole.com
 champagny.com
 www.champagny.com
 champduboult.com
@@ -425,8 +397,6 @@ fdc63.chasseauvergnerhonealpes.com
 www.fdc63.chasseauvergnerhonealpes.com
 www.fdc73.chasseauvergnerhonealpes.com  # (redirection from www.chasseursdesavoie.com)
 www.chasseenvienne.com  # (redirection from chasse-en-vienne.com)
-chassenard.com
-www.chassenard.com
 chasseurdefrance.com
 www.chasseurdefrance.com
 chasseurdelozere.com
@@ -460,8 +430,6 @@ cidj.com
 www.cidj.com
 cij02.com
 www.cij02.com
-civraisiencharlois.com
-www.civraisiencharlois.com
 civraisienpoitou.com
 www.civraisienpoitou.com
 clermont-creans.com
@@ -507,17 +475,12 @@ communautedecommunes-nebbiu.com
 www.communautedecommunes-nebbiu.com  # (redirection from communautedecommunes-nebbiu.com)
 commune-avy.com
 www.commune-avy.com
-commune-de-mereville.com
-www.commune-de-mereville.com
 commune-poya.com
 www.commune-poya.com
 commune-saint-germain.com
 www.commune-saint-germain.com
 commune-sanssac-léglise.com
 wwww.commune-sanssac-léglise.com
-communedepierrefittedeux-sevres.com
-www.communedepierrefittedeux-sevres.com
-communedeverderonne.com
 communesebourg.com
 www.communesebourg.com
 comunautedecommunedes3foret.com
@@ -561,10 +524,6 @@ cscs-rivesdecharente.com
 www.cscs-rivesdecharente.com
 csrcantonauneuil.com
 www.csrcantonauneuil.com
-cussac-htvienne.com
-www.cussac-htvienne.com
-cybercommune.com
-www.cybercommune.com
 dalhunden.com
 www.dalhunden.com
 dampierre-les-conflans.com
@@ -586,7 +545,6 @@ www.3fonds.e-monsite.com
 asniereslagiraud17.e-monsite.com
 www.asniereslagiraud17.e-monsite.com
 avricourt54.e-monsite.com
-bisel.e-monsite.com
 chisseysurloue.e-monsite.com
 cidffguyane.e-monsite.com
 www.cidffguyane.e-monsite.com
@@ -596,17 +554,13 @@ communedevares.e-monsite.com
 www.communedevares.e-monsite.com
 douchy-montcorbon45220.e-monsite.com
 fdc972.e-monsite.com
-insming.e-monsite.com
 landouzylaville.e-monsite.com
 www.landouzylaville.e-monsite.com
 landrais.e-monsite.com
 larnat.e-monsite.com
 www.larnat.e-monsite.com
-mairie-cazevieille.e-monsite.com
 mairie-de-cambayrac.e-monsite.com
-mairie-de-saint-armou.e-monsite.com
 mairie-des-croutes.e-monsite.com
-mairie-epineuil89e-monsitecom.e-monsite.com
 mairie-trelou-sur-marne.e-monsite.com
 www.mairie-trelou-sur-marne.e-monsite.com
 mairie-vouzailles.e-monsite.com
@@ -623,7 +577,6 @@ menetreolsoussancerre.e-monsite.com
 noiron-sur-beze.e-monsite.com
 www.noiron-sur-beze.e-monsite.com
 notrevillagelaharengere.e-monsite.com
-ognes60.e-monsite.com
 paizayletort.e-monsite.com
 pamandzi.e-monsite.com
 peyratdebellac.e-monsite.com
@@ -644,7 +597,6 @@ villagedesaussaylacampagne.e-monsite.com
 eac-aime.com
 www.eac-aime.com
 ehpad-frontigan.com
-mairiedeoisy.ekablog.com
 lavernay.eklablog.com
 www.lavernay.eklablog.com
 mjc-uzes.eklablog.com
@@ -665,16 +617,12 @@ espace-initiativesmirepoix.com
 www.espace-initiativesmirepoix.com
 etagnac.com
 www.etagnac.com
-etoutteville.com
-www.etoutteville.com
 eure-peche.com
 www.eure-peche.com
 evergnicourt.com
 fr-fr.facebook.com
 falletans.com
 www.falletans.com
-faverollesenberry.com
-www.faverollesenberry.com
 fdc-11.com
 www.fdc-11.com
 fdc-13.com
@@ -746,12 +694,8 @@ federationpeche82.com
 www.federationpeche82.com
 feissons-sur-isere.com
 www.feissons-sur-isere.com
-fellering.com
-www.fellering.com
 feron-vrau.com
 www.feron-vrau.com
-ferralscorbieres.com
-www.ferralscorbieres.com
 ficif.com
 www.ficif.com
 finistereolympique.com
@@ -800,23 +744,15 @@ yonne.franceolympique.com
 www.yonne.franceolympique.com
 prijcoutras-lacali.franceserv.com
 www.prijcoutras-lacali.franceserv.com
-fressin.com
-www.fressin.com
 garazibaigorri.com
 www.garazibaigorri.com
-genetouze.com
-www.genetouze.com
 ghissignies.com
 www.ghissignies.com
-gilocourt.com
-www.gilocourt.com
 gommerville.com
 www.gommerville.com
 goyrans.com
 www.goyrans.com
 www.grand-armagnac.com  # (redirection from www.grandarmagnac.fr)
-grandparigny.com
-www.grandparigny.com
 granges-sur-vologne.com
 www.granges-sur-vologne.com
 greta-aquitaine.com
@@ -862,8 +798,6 @@ hopital-breil-roya.com
 www.hopital-breil-roya.com
 hopitalporteverte.com
 www.hopitalporteverte.com
-horgues.com
-www.horgues.com
 hottviller.com
 www.hottviller.com
 huissier-var.com
@@ -907,8 +841,6 @@ rejoindre.innoval.com
 avrilly.interco-abl.com
 ipeicc.com
 www.ipeicc.com
-is-sur-tille.com
-www.is-sur-tille.com
 jeunes-fc.com
 ijbelfort.jeunes-fc.com  # (redirection from www.ijbelfort.com)
 ijcopas.jeunes-fc.com
@@ -923,15 +855,8 @@ ijvesoul.jeunes-fc.com
 www.jeunes-fc.com
 commune-de-le-grez.jimbo.com
 www.commune-de-le-grez.jimbo.com
-achiet-le-grand.jimdo.com
 afarif.jimdo.com
 www.afarif.jimdo.com
-anjeux.jimdo.com
-www.anjeux.jimdo.com
-arbouans.jimdo.com
-www.arbouans.jimdo.com
-bailletenfrance.jimdo.com
-www.bailletenfrance.jimdo.com
 bournos.jimdo.com
 www.bournos.jimdo.com
 brassacariegepyrenees.jimdo.com
@@ -949,94 +874,34 @@ www.communedeblond.jimdo.com
 communedelanneenbaretous.jimdo.com
 communederonai.jimdo.com
 www.communederonai.jimdo.com
-communedesenan.jimdo.com
-conde-northen.jimdo.com
-www.conde-northen.jimdo.com
-corbereaberes.jimdo.com
 cormeilles60.jimdo.com
 www.cormeilles60.jimdo.com
-curac.jimdo.com
-www.curac.jimdo.com
-fleurac.jimdo.com
-www.fleurac.jimdo.com
-gacogne-en-morvan.jimdo.com
-geusdarzacq.jimdo.com
-www.geusdarzacq.jimdo.com
-gigouzac.jimdo.com
-grueylessurance.jimdo.com
-www.grueylessurance.jimdo.com
-heudicourt.jimdo.com
-higueres-souye.jimdo.com
-www.higueres-souye.jimdo.com
-hotot-en-auge.jimdo.com
 lachapellebertrand.jimdo.com
 www.lachapellebertrand.jimdo.com
-leromaintois.jimdo.com
-mairie-de-besingrand.jimdo.com
-mairie-de-bouillon.jimdo.com
-www.mairie-de-bouillon.jimdo.com
 mairie-lagrave-lameije.jimdo.com
-mairie-loncon.jimdo.com
 mairie-moutier-malcard.jimdo.com
 www.mairie-moutier-malcard.jimdo.com
 mairie-saint-priest-taurion.jimdo.com
 www.mairie-saint-priest-taurion.jimdo.com
-mairie-vernet-les-bains.jimdo.com
 mairieandernay.jimdo.com
 www.mairieandernay.jimdo.com
-mairieassier.jimdo.com
-www.mairieassier.jimdo.com
 mairiedeboussac.jimdo.com
 www.mairiedeboussac.jimdo.com
-mairiedesaillans.jimdo.com
-www.mairiedesaillans.jimdo.com
-mairiepezelerobert.jimdo.com
-www.mairiepezelerobert.jimdo.com
-martrin.jimdo.com
-nanton.jimdo.com
-nogentel.jimdo.com
-www.nogentel.jimdo.com
-passenansmairie.jimdo.com
-passirac1heureusenature.jimdo.com
-www.passirac1heureusenature.jimdo.com
 pauilhac.jimdo.com
 www.pauilhac.jimdo.com
 pays-redon.jimdo.com
 plateauhauteville.jimdo.com
-saanesaintjust.jimdo.com
-www.saanesaintjust.jimdo.com
 saint-appolinaire.jimdo.com
 saint-clementin.jimdo.com
 www.saint-clementin.jimdo.com
-saint-hilaire-cusson-la-valmitte.jimdo.com
-www.saint-hilaire-cusson-la-valmitte.jimdo.com
-saint-sulpice-de-ruffec.jimdo.com
-www.saint-sulpice-de-ruffec.jimdo.com
-saintbenoistsurvanne.jimdo.com
-sainthilaireautemple.jimdo.com
-www.sainthilaireautemple.jimdo.com
-saintmartin32300.jimdo.com
 saintnicodeme.jimdo.com
 saintpardouxdubreuil.jimdo.com
-savignac-de-miremont.jimdo.com
-www.savignac-de-miremont.jimdo.com
 smjnangis.jimdo.com
 www.smjnangis.jimdo.com
-sorel80.jimdo.com
-st-martin-le-redon.jimdo.com
 torderes.jimdo.com
-tremonzey.jimdo.com
-www.tremonzey.jimdo.com
 ulg2.jimdo.com  # (redirection from www.ulg.asso.fr)
 uzelpresloust.jimdo.com
 www.uzelpresloust.jimdo.com
-vauchelles.jimdo.com
-www.vauchelles.jimdo.com
-verdaches.jimdo.com
-www.verdaches.jimdo.com
-villeselve.jimdo.com
-www.villeselve.jimdo.com
-vulaines.jimdo.com
 afarif.jimdofree.com  # (redirection from afarif.jimdo.com)
 commune-de-le-grez.jimdofree.com  # (redirection from commune-de-le-grez.jimbo.com)
 cormeilles60.jimdofree.com  # (redirection from cormeilles60.jimdo.com)
@@ -1044,16 +909,10 @@ mairie-lagrave-lameije.jimdofree.com  # (redirection from mairie-lagrave-lameije
 mairie-saint-priest-taurion.jimdofree.com  # (redirection from www.mairie-saint-priest-taurion.jimdo.com)
 saint-appolinaire.jimdofree.com  # (redirection from saint-appolinaire.jimdo.com)
 smjnangis.jimdofree.com  # (redirection from smjnangis.jimdo.com)
-paroy-sur-tholon.jindo.com
-www.paroy-sur-tholon.jindo.com
 www.juralacs.com  # (redirection from jurasud.net)
 kerpert.com
 www.kerpert.com
-kervignac.com
-www.kervignac.com
 rct-agefice.kleegroup.com  # (redirection from communaute.agadir.emploi.gouv.fr)
-koestlach.com
-www.koestlach.com
 www.la-plagne.com  # (redirection from champagny.com)
 la-renaudie.com
 www.la-renaudie.com
@@ -1065,22 +924,16 @@ labrede-montesquieu.com
 www.labrede-montesquieu.com
 lachapellebouexic.com
 www.lachapellebouexic.com
-laforetsursevre.com
-www.laforetsursevre.com
 lagrasse.com
 www.lagrasse.com
 lamissionlocale.com
 www.lamissionlocale.com
 lamotheachard.com
 www.lamotheachard.com
-lamotteducaire.com
-www.lamotteducaire.com
 laneuvillegarnier.com
 www.laneuvillegarnier.com
 lareposance.com  # (redirection from www.lareposance.net)
 rejoignez.lataverne-rennes.com
-latourblanche.com
-www.latourblanche.com
 lavalette-31.com
 www.lavalette-31.com
 lavallee17.com
@@ -1110,9 +963,6 @@ lesunelles.com
 www.lesunelles.com
 levaladou.com
 www.levaladou.com
-levie-altarocca.com
-www.levie-altarocca.com
-lignylesaire.com
 location-gite-salle-reception-arriege.com
 www.location-gite-salle-reception-arriege.com
 loconville.com
@@ -1189,25 +1039,15 @@ mairie-anduze.com
 www.mairie-anduze.com
 mairie-antisanti.com
 www.mairie-antisanti.com
-mairie-aydoilles.com
-www.mairie-aydoilles.com
 mairie-belloy-sur-somme.com
 www.mairie-belloy-sur-somme.com
-mairie-caraman.com
-www.mairie-caraman.com
 mairie-ceret.com
 www.mairie-ceret.com
-mairie-chamboulive.com
-www.mairie-chamboulive.com
 mairie-charnoz.com
-mairie-ciboure.com
-www.mairie-ciboure.com
 mairie-de-gargenville.com
 www.mairie-de-gargenville.com
 mairie-enveitg.com
 www.mairie-enveitg.com
-mairie-etel.com
-www.mairie-etel.com
 mairie-farino.com
 www.mairie-farino.com
 mairie-fontes.com
@@ -1217,18 +1057,10 @@ www.mairie-idron.com
 mairie-ilerousse.com
 mairie-labouexiere.com
 www.mairie-labouexiere.com
-mairie-lalheue.com
-www.mairie-lalheue.com
 mairie-longeault.com
 www.mairie-longeault.com
-mairie-montceaux.com
-www.mairie-montceaux.com
-mairie-pisany17.com
-www.mairie-pisany17.com
 mairie-plelanlepetit.com
 www.mairie-plelanlepetit.com
-mairie-pouxeux.com
-www.mairie-pouxeux.com
 mairie-saint-sornin.com
 www.mairie-saint-sornin.com
 mairie-saintpardouxlevieux.com
@@ -1237,36 +1069,18 @@ mairie-saugues.com
 www.mairie-saugues.com
 mairie-sorigny.com
 www.mairie-sorigny.com
-mairie-stmichelstgeoirs.com
-www.mairie-stmichelstgeoirs.com
 mairie-this.com
 www.mairie-this.com
-mairie-villiers94.com
-www.mairie-villiers94.com
-mairie-vincey.com
-www.mairie-vincey.com
-mairiechateauvillevieille.com
-www.mairiechateauvillevieille.com
 mairiechiatradiverde.com
 www.mairiechiatradiverde.com
 mairiedauluslesbains.com
 www.mairiedauluslesbains.com
-mairiedebastelicaccia.com
-www.mairiedebastelicaccia.com
 mairiedecarnin.com
 www.mairiedecarnin.com
-mairiedecenac33.com
-www.mairiedecenac33.com
-mairiedecieux.com
-www.mairiedecieux.com
 mairiedecours-lot-46.com
 www.mairiedecours-lot-46.com
-mairiedecubnezais.com
-www.mairiedecubnezais.com
 mairiedelangon.com
 www.mairiedelangon.com
-mairiedelempaut.com
-www.mairiedelempaut.com
 mairiedemontfort.com
 www.mairiedemontfort.com
 mairiedesaintjacquesdambure-monsite.com
@@ -1278,22 +1092,16 @@ mairiefresneaux.com
 www.mairiefresneaux.com
 mairielagrauletdugers.com
 www.mairielagrauletdugers.com
-mairieleplessisbrion.com
-www.mairieleplessisbrion.com
 mairiemontbrehaininfos.com
 www.mairiemontbrehaininfos.com
 mairiepouembout.com
 www.mairiepouembout.com
-mairiesavignacleseglises.com
-www.mairiesavignacleseglises.com
 mairietourtour.com
 www.mairietourtour.com
 maison-myosotis-alzheimer.com
 www.maison-myosotis-alzheimer.com
 maisonsaintcyr.com
 www.maisonsaintcyr.com
-maizieres-54550.com
-www.maizieres-54550.com
 mamissionlocale.com
 www.mamissionlocale.com
 marquillies.com
@@ -1460,16 +1268,12 @@ www.montpezat-agenais.com
 montsdelacauneetmontagneduhaulandogue.com
 www.mrcholland.com  # (redirection from mlpa.com)
 saint-bonnet.muresallier.com
-nempont-saint-firmin.com
-www.nempont-saint-firmin.com
 www.nosenfantsdabord.com  # (redirection from herault.informationjeunesselr.fr)
 notaires-vendee.com
 www.notaires-vendee.com
 notaires2normandie.com  # (redirection from www.cr-bassenormandie.notaires.fr)
 notaires35.com
 www.notaires35.com
-nouvelle-eglise.com
-www.nouvelle-eglise.com
 noyers-sur-cher.com
 www.noyers-sur-cher.com
 ofpra.com  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
@@ -1513,12 +1317,8 @@ www.paladru.com
 passezalacte.com
 pays-broceliande.com
 www.pays-broceliande.com
-pays-de-bergerac.com
-www.pays-de-bergerac.com
 pays-leonard.com
 www.pays-leonard.com
-wingersheim.payszorn.com
-zoebersdorf.payszorn.com
 peche-ardeche.com
 www.peche-ardeche.com
 peche-ariege.com
@@ -1586,11 +1386,7 @@ pleumeleuc.com
 www.pleumeleuc.com
 polydom.com
 www.polydom.com
-pontscorff.com
-www.pontscorff.com
 hautesaintonge.pourlesjeunes.com
-prades-ariege.com
-www.prades-ariege.com
 prailles.com
 www.prailles.com
 profession-sport-56.com
@@ -1604,33 +1400,20 @@ www.puydedome.com
 quibou.com
 www.quibou.com
 club.quomodo.com
-rabouillet.com
-www.rabouillet.com
-raucoules.com
-www.raucoules.com
-recologne.com
-www.recologne.com
 regionreunion.com
 www.regionreunion.com
 regnie-durette.com
 www.regnie-durette.com
 rejoignez.reinemarine.com
-reinhardsmunster.com
-www.reinhardsmunster.com
 relais-presence.com
 www.relais-presence.com
 residenceleslierres.com
 ribennes.com
 www.ribennes.com
-rigarda.com
 roaillan.com
 www.roaillan.com
-romillysuraigre.com
-www.romillysuraigre.com
 jeunesse.romorantin.com
 www.jeunesse.romorantin.com
-saint-affrique-les-montagnes.com
-www.saint-affrique-les-montagnes.com
 saint-aignan-des-gues.com
 www.saint-aignan-des-gues.com
 saint-antoine-gers.com
@@ -1644,16 +1427,10 @@ saint-joachim.com
 www.saint-joachim.com
 saint-lupicin.com
 www.saint-lupicin.com
-saint-martin-darc.com
-www.saint-martin-darc.com
 saint-rome-de-dolan.com
 www.saint-rome-de-dolan.com
-saintbonnetlefroid.com
-www.saintbonnetlefroid.com
 sainte-maxime.com
 www.sainte-maxime.com
-saintflorent-corse.com
-www.saintflorent-corse.com
 saintgermainetmons.com
 www.saintgermainetmons.com
 saintgermainlherm.com
@@ -1663,12 +1440,6 @@ www.sainthilairedeloulay.com
 rejoignez.saintmalogolf.com
 saintmartinlestra.com
 www.saintmartinlestra.com
-saintmartinsurecaillon.com
-www.saintmartinsurecaillon.com
-saintscolasse.com
-www.saintscolasse.com
-saintvaastdelongmont.com
-www.saintvaastdelongmont.com
 saisirprudhommes.com
 www.saisirprudhommes.com
 sari-dorcino.com
@@ -1690,8 +1461,6 @@ www.soinsante-limoges.com
 sollieres-sardieres-mairie.com
 sommauthe.com
 www.sommauthe.com
-soubran.com
-www.soubran.com
 sport-troyes.com
 www.sport-troyes.com
 st-jean-de-belleville.com
@@ -1702,10 +1471,6 @@ st-sornin.com
 www.st-sornin.com
 stcapraiselalinde.com
 www.stcapraiselalinde.com
-stjust34.com
-www.stjust34.com
-stmartinlacaussade.com
-www.stmartinlacaussade.com
 tousanticovid.stonly.com  # (redirection from stopcovid.gouv.fr)
 sudaisne.com
 www.sudaisne.com
@@ -1720,8 +1485,6 @@ www.terres-du-lauragais.com
 tessancourt-sur-aubette.com
 www.tessancourt-sur-aubette.com
 rejoignez.thalasso-saintmalo.com
-tocanesaintapre.com
-www.tocanesaintapre.com
 www.tourisme-corbieres-minervois.com  # (redirection from www.lagrasse.com)
 toursensavoie.com
 www.toursensavoie.com
@@ -1730,8 +1493,6 @@ www.mairie.toutens.com
 treigny.com
 treschenu-creyers.com
 www.treschenu-creyers.com
-tressange.com
-www.tressange.com
 tribe-taxi.com  # Found in cert of CN=cartographie.societenumerique.gouv.fr, see https://crt.sh/?id=7223973331
 udaf08.com
 www.udaf08.com
@@ -1754,36 +1515,18 @@ vernajoulariegepyrenees.com
 www.vernajoulariegepyrenees.com
 versolsetlapeyre.com
 www.versolsetlapeyre.com
-vignols.com
-www.vignols.com
 durfort.village.com
 www.durfort.village.com
-village-vacances-cantal.com
-www.village-vacances-cantal.com
-villarzel-cabardes.com
-www.villarzel-cabardes.com
-ville-carbet.com
-www.ville-carbet.com
-ville-challesleseaux.com
-www.ville-challesleseaux.com
 ville-champs.com
 www.ville-champs.com
-ville-davayat.com
-www.ville-davayat.com
 ville-de-sciez.com
 www.ville-de-sciez.com
 ville-de-vernais.com
 www.ville-de-vernais.com
-ville-ecaillon.com
-www.ville-ecaillon.com
 ville-grandriviere.com
 www.ville-grandriviere.com
-ville-lafleche.com
-www.ville-lafleche.com
 ville-moirans.com
 www.ville-moirans.com
-ville-montcel.com
-www.ville-montcel.com
 ville-peronne.com
 www.ville-peronne.com
 ville-sartilly.com
@@ -1797,85 +1540,42 @@ vmgg.com
 www.vmgg.com
 voisenon.com
 www.voisenon.com
-voivres-les-le-mans.com
-www.voivres-les-le-mans.com
-volmerangelesmines.com
-www.volmerangelesmines.com
 vougy.com
 www.vougy.com
 vva-gers.com
 www.vva-gers.com
 communedevalframbert.weebly.com
 www.communedevalframbert.weebly.com
-boulonmonvillage.wifeo.com
-annoisin-chatelans.wix.com
-antezant.wix.com
-www.antezant.wix.com
 braux04240.wix.com
 cirieres.wix.com
 www.cirieres.wix.com
 communeoust.wix.com
-dalemmairie.wix.com
-www.dalemmairie.wix.com
-mairie-chambeire.wix.com
-mairieblomac.wix.com
-www.mairieblomac.wix.com
 mairieste-blandine38.wix.com
 mairiestpalais33.wix.com
 mairieteilhet.wix.com
 www.mairieteilhet.wix.com
-mairievalleres.wix.com
-pontlaville.wix.com
 simandre-sur-suran.wix.com
-stgeniesdevarensal.wix.com
-www.stgeniesdevarensal.wix.com
-viervillesurmer.wix.com
 auzaninfo.wixsite.com  # (redirection from www.castelnaudauzan.com)
 birieux.wixsite.com
-col-de-larzelier.wixsite.com
 comvernusse.wixsite.com
 devrouze.wixsite.com
 falck-moselle.wixsite.com
 fdpeche23.wixsite.com
 garniercha43.wixsite.com  # (redirection from www.tiranges.fr)
-lacombemairie.wixsite.com
-liebsdorf.wixsite.com
 mairie-clamensane04.wixsite.com  # (redirection from clamensane.fr)
-mairie-eschbach.wixsite.com
-mairie-guerting.wixsite.com
-mairie-morey.wixsite.com
-mairie60860.wixsite.com
-mairiecoudun.wixsite.com
-www.mairiecoudun.wixsite.com
-mairiedeblay.wixsite.com  # (redirection from blay.fr)
-mairiedelavallee.wixsite.com  # (redirection from lavallee17.com)
 mairieesclottes.wixsite.com
-mairiefontaine-le-2.wixsite.com
-www.mairiefontaine-le-2.wixsite.com
-mairiefronsac34.wixsite.com
-mairieglanges.wixsite.com
-mairieguntzviller.wixsite.com
-mairielaprade11.wixsite.com
 mairiemontjoyer.wixsite.com
 mairiepino.wixsite.com
 mairiesierville.wixsite.com
 mairiestchristophe.wixsite.com
 mairiesteliph.wixsite.com
 mairiesteolive01.wixsite.com
-mairiestlaurentlem.wixsite.com
-www.mairiestlaurentlem.wixsite.com
 marcieux.wixsite.com
 mission-locale.wixsite.com
 www.mission-locale.wixsite.com
-mouliscouserans.wixsite.com
 pointinfoseniors-a.wixsite.com
 salles-argeles.wixsite.com
 sornac19.wixsite.com
-st-martin-en-biere.wixsite.com
-www.st-martin-en-biere.wixsite.com
-teilletargenty.wixsite.com
-www.teilletargenty.wixsite.com
-vesigneul-sur-marne.wixsite.com
 consent.wizbii.com
 bijvienne.wordpress.com
 clanogaro.wordpress.com
@@ -1891,12 +1591,9 @@ www.mairiedelongchamps.wordpress.com
 mdebressuire.wordpress.com
 www.mdebressuire.wordpress.com
 tournedossurseine.wordpress.com
-wwwmairie-de-le-mesnil-guillaume.com
 wwwnatziller.com
 wwwroziere-en-beauce.com
 wikidemarches.xwiki.com
-yebles.com
-www.yebles.com
 castellu-di-rustinu.corsica
 www.castellu-di-rustinu.corsica
 fdc2a.corsica
@@ -1917,8 +1614,6 @@ www.auroux.eu
 bourgogne-franche-comte.eu
 www.bourgogne-franche-comte.eu
 www.bourgognefranchecomte.eu  # (redirection from www.bourgogne-franche-comte.eu)
-coaraze.eu
-www.coaraze.eu
 enim.eu
 authentication.enim.eu
 relais.enim.eu  # Found in cert of C=FR, L=PERIGNY, O=ETABLISSEMENT NATIONAL DES INVALIDES DE LA MARINE, CN=xsr.enim.gouv.fr, see https://crt.sh/?id=6954271249
@@ -2111,15 +1806,11 @@ alfarepit.fr
 www.alfarepit.fr
 aliso.fr
 www.aliso.fr
-allaire.fr
-www.allaire.fr
 allineuc.fr
 www.allineuc.fr
 bischheim.alsace.fr
 www.bischheim.alsace.fr
 alzheimer-aidants.fr
-ambleville.fr
-www.ambleville.fr
 ameli.fr
 assurance-maladie.ameli.fr  # (redirection from assurance-maladie.fr)
 www.ameli.fr
@@ -2135,10 +1826,6 @@ clavis.anah.fr
 www.anah.fr
 ancelle.fr
 www.ancelle.fr
-andelnans.fr
-www.andelnans.fr
-andolsheim.fr
-www.andolsheim.fr
 andornay.fr
 www.andornay.fr
 animations-marcko.fr
@@ -2149,8 +1836,6 @@ animravel.fr
 www.animravel.fr
 infojeunes.annecy.fr
 www.infojeunes.annecy.fr
-annemasse.fr
-www.annemasse.fr
 anses.fr
 www.anses.fr
 anssi.fr  # from https://crt.sh/?id=5325128770
@@ -2190,8 +1875,6 @@ arcep.fr
 www.arcep.fr
 archires.archi.fr
 www.archires.archi.fr
-arcis-le-ponsart.fr
-www.arcis-le-ponsart.fr
 arcizans-avant.fr
 www.arcizans-avant.fr
 areams.fr
@@ -2207,8 +1890,6 @@ arps-handi-emploi.fr
 www.arps-handi-emploi.fr
 arracourt.fr
 www.arracourt.fr
-arsenre.fr
-www.arsenre.fr
 artisanat-bourgogne.fr
 www.artisanat-bourgogne.fr
 artisanat-comtois.fr
@@ -2327,8 +2008,6 @@ consent.atsii.fr
 aubenton.fr
 www.aubenton.fr  # (redirection from aubenton.fr)
 pij.aubervilliers.fr
-aubinges.fr
-www.aubinges.fr  # (redirection from aubinges.fr)
 aucame.fr
 www.aucame.fr
 aude-mairie-montlaur.fr
@@ -2337,8 +2016,6 @@ auffay.fr
 www.auffay.fr
 aulhat-saint-privat.fr
 www.aulhat-saint-privat.fr
-aulnay-sur-mauldre.fr
-www.aulnay-sur-mauldre.fr
 aurh.fr
 www.aurh.fr
 autonomie-paris-saint-jacques.fr
@@ -2354,9 +2031,6 @@ autretot.fr
 www.autretot.fr
 auxy.fr
 www.auxy.fr
-auzeville-tolosane.fr
-www.auzeville-tolosane.fr
-auzouvillelesneval.fr
 avec-ml.fr
 www.avec-ml.fr
 avignon-les-saint-claude.fr
@@ -2507,7 +2181,6 @@ www.barreaulorient.fr
 barreaunantes.fr
 www.barreaunantes.fr
 barreautoulon.fr
-bassanne-mairie.fr
 basseux.fr
 www.basseux.fr
 bayonvilllers.fr
@@ -2517,41 +2190,21 @@ bazougescresurloir.fr
 www.bazougescresurloir.fr
 beaucens.fr
 www.beaucens.fr
-beaumont86.fr
-www.beaumont86.fr
-beauquesne.fr
-www.beauquesne.fr
-beautheil.fr
-www.beautheil.fr
 blog46.beauvais.fr
 beignon.fr
 www.beignon.fr
-beinheim.fr
-www.beinheim.fr
 belhomertguehouville.fr
 www.belhomertguehouville.fr
-bellaing.fr
-www.bellaing.fr
-bellegarde45.fr
-www.bellegarde45.fr
 bellevillesurloire.fr
 www.bellevillesurloire.fr
 belmont38.fr
 www.belmont38.fr
-bernardville.fr
-www.bernardville.fr
 bernay-en-champagne.fr
 www.bernay-en-champagne.fr
-bernay27.fr
-www.bernay27.fr
 berneval.fr
 www.berneval.fr
-berville95.fr
-www.berville95.fr
 betz.fr
 www.betz.fr
-beureysursaulx.fr
-www.beureysursaulx.fr
 beziers-mediterranee.fr
 www.beziers-mediterranee.fr
 bezuleguery.fr
@@ -2577,49 +2230,16 @@ blajan.fr
 www.blajan.fr
 blay.fr
 www.blay.fr
-blienschwiller.fr
-www.blienschwiller.fr
-chatillonlapalud01320.blogspot.fr
 clicmortainais.blogspot.fr
 csclespictons.blogspot.fr
-flagey-rigney.blogspot.fr
-www.flagey-rigney.blogspot.fr
-infomissy.blogspot.fr
-infos-montagnac.blogspot.fr
-www.infos-montagnac.blogspot.fr
-lesdinois-lesdinoises.blogspot.fr
-mairieargagnon.blogspot.fr
-www.mairieargagnon.blogspot.fr
 mairieballeroy.blogspot.fr
-mairiechateauvieux.blogspot.fr
-www.mairiechateauvieux.blogspot.fr
 mairiedebretagne.blogspot.fr
-mairiedecezac46.blogspot.fr
-www.mairiedecezac46.blogspot.fr
-mairiederavieres.blogspot.fr
-mairiederouvreslesbois.blogspot.fr
-www.mairiederouvreslesbois.blogspot.fr
-marcilly.blogspot.fr
-msj72140.blogspot.fr
-www.msj72140.blogspot.fr
-ollans.blogspot.fr
 pijcbbcastelsarrasin.blogspot.fr
 saint-longis.blogspot.fr
-stcapraisbx.blogspot.fr
-www.stcapraisbx.blogspot.fr
 treguidel.blogspot.fr
 bnf.fr
 www.bnf.fr
-bogy.fr
-www.bogy.fr
-bohas-meyriat-rignat.fr
-boirynotredame.fr
-www.boirynotredame.fr
 boismorand.fr
-bolsenheim.fr
-www.bolsenheim.fr
-bonsecours.fr
-www.bonsecours.fr
 boos40.fr
 www.boos40.fr
 bords.fr
@@ -2628,22 +2248,12 @@ boue-gazette.fr
 www.boue-gazette.fr
 bouelles.fr
 www.bouelles.fr
-bouguenais.fr
-www.bouguenais.fr
 boulleret.fr
 www.boulleret.fr
-bouraysurjuine.fr
-www.bouraysurjuine.fr
 bourberain.fr
 www.bourberain.fr
 bourbon-lancy.fr
 www.bourbon-lancy.fr
-bourgheim.fr
-www.bourgheim.fr
-bourisp.fr
-www.bourisp.fr
-boury-en-vexin.fr
-www.boury-en-vexin.fr
 braconne-charente.fr
 www.braconne-charente.fr
 bramans.fr
@@ -2654,8 +2264,6 @@ branville-hague.fr
 www.branville-hague.fr
 brazey-en-morvan.fr
 www.brazey-en-morvan.fr
-bresnay.fr
-www.bresnay.fr
 breurey.fr
 www.breurey.fr
 breuville.fr
@@ -2663,29 +2271,19 @@ www.breuville.fr
 brgm.fr
 www.brgm.fr
 rhsso-monaiot.brgm-rec.fr  # (redirection from gunrdd.din.developpement-durable.gouv.fr)
-briecomterobert.fr
-www.briecomterobert.fr
 www.briedesrivieresetchateaux.fr  # (redirection from valleesetchateaux-cc77.fr)
 brinon.fr
 www.brinon.fr
-brive.fr
-www.brive.fr
 brivezac.fr
 www.brivezac.fr
 brugny-vaudancourt.fr
 bruillelezmarchiennes.fr
 www.bruillelezmarchiennes.fr
-bsy.fr
-www.bsy.fr
 buerscroixluizet.fr
 www.buerscroixluizet.fr
 busnes.fr
-bussang.fr
-www.bussang.fr
 bussus-bussuel.fr
 www.bussus-bussuel.fr
-bussy-saint-georges.fr
-www.bussy-saint-georges.fr
 buswiller.fr
 www.buswiller.fr
 ca47.fr
@@ -2739,8 +2337,6 @@ olmi.cappella.fr
 www.olmi.cappella.fr
 capso.fr
 www.capso.fr
-carentan.fr
-www.carentan.fr
 mairie.carquefou.fr
 www.mairie.carquefou.fr
 carrefourdescouleures.fr
@@ -2776,14 +2372,8 @@ carsat-ra.fr
 www.carsat-ra.fr
 carsat-sudest.fr
 www.carsat-sudest.fr
-carticasi.fr
-www.carticasi.fr
-casinca.fr
-www.casinca.fr
 services.casmb.fr
 www.services.casmb.fr
-cassaniouze.fr
-www.cassaniouze.fr
 castera-lou.fr
 www.castera-lou.fr
 castetsendorthe.fr
@@ -3148,8 +2738,6 @@ smart-city.cerema.fr
 enqueteur.sud-ouest.cerema.fr
 enqueteur.territoires-ville.cerema.fr
 www.cerema.fr
-cernayleglise.fr
-www.cernayleglise.fr
 cerons.fr
 www.cerons.fr
 certificationprofessionnelle.fr
@@ -3250,8 +2838,6 @@ vienne.chambagri.fr
 www.vienne.chambagri.fr
 yonne.chambagri.fr
 www.yonne.chambagri.fr
-chambourcy.fr
-www.chambourcy.fr
 agri82.chambre-agriculture.fr
 www.agri82.chambre-agriculture.fr
 allier.chambre-agriculture.fr
@@ -3345,8 +2931,6 @@ paca.chambres-agriculture.fr
 pays-de-la-loire.chambres-agriculture.fr
 www.pays-de-la-loire.chambres-agriculture.fr
 www.chambres-agriculture-bretagne.fr  # (redirection from www.agriculteurs22.com)
-chamonix-mont-blanc.fr
-www.chamonix-mont-blanc.fr
 champagnacdebelair.fr
 www.champagnacdebelair.fr
 champigny-sur-veude.fr
@@ -3359,10 +2943,6 @@ chantelle-le-chateau.fr
 www.chantelle-le-chateau.fr
 chantonnay.fr
 www.chantonnay.fr
-charentonlepont.fr
-www.charentonlepont.fr
-charmes-la-cote.fr
-www.charmes-la-cote.fr
 chasse-correze.fr
 www.chasse-correze.fr
 chasse-nature-71.fr
@@ -3397,12 +2977,8 @@ www.chasseursducentrevaldeloire.fr
 chasvm-valdajol.fr
 chateau-chervix.fr
 www.chateau-chervix.fr
-chateau-larcher.fr
-www.chateau-larcher.fr
 chateauneufsursarthe.fr
 www.chateauneufsursarthe.fr
-chatel-montagne.fr
-www.chatel-montagne.fr
 chatelaudren.fr
 www.chatelaudren.fr
 chatillon86.fr
@@ -3414,12 +2990,8 @@ chauvé.fr
 www.chauvé.fr
 chelieu.fr
 www.chelieu.fr
-chemilly.fr
-www.chemilly.fr
 chenevelles.fr
 www.chenevelles.fr
-chenoise.fr
-www.chenoise.fr
 cher.fr
 www.cher.fr
 cheux.fr
@@ -3432,8 +3004,6 @@ chicheboville.fr
 www.chicheboville.fr
 chiroubles.fr
 www.chiroubles.fr
-chouppes.fr
-www.chouppes.fr
 chouzy-sur-cisse.fr
 www.chouzy-sur-cisse.fr
 ciamannacce.fr
@@ -3754,23 +3324,15 @@ coevrons.fr
 www.coevrons.fr
 coisesaintjean.fr
 www.coisesaintjean.fr
-coisia.fr
-www.coisia.fr
 colaursud.fr
 www.colaursud.fr
 collectif-rivages.fr
 www.collectif-rivages.fr
-collias.fr
-www.collias.fr
-colombiers-du-plessis.fr
-www.colombiers-du-plessis.fr
 colsbleus.fr
 com-villiers-en-lieu52.fr
 www.com-villiers-en-lieu52.fr
 comazy.fr
 www.comazy.fr
-comberouger.fr
-www.comberouger.fr
 combrit-saintemarine.fr
 www.combrit-saintemarine.fr
 comcompayssaintpourcinois.fr
@@ -3793,14 +3355,10 @@ www.rivierdaine.commune.fr
 commune-cailly.fr
 www.commune-cailly.fr
 commune-chance-35.fr
-commune-de-ballon.fr
-www.commune-de-ballon.fr
 commune-de-saint-ouen.fr
 www.commune-de-saint-ouen.fr
 commune-de-sellieres.fr
 www.commune-de-sellieres.fr
-commune-de-valdurenque.fr
-www.commune-de-valdurenque.fr
 commune-de-vaudes.fr
 www.commune-de-vaudes.fr
 commune-de-vers.fr
@@ -3809,13 +3367,9 @@ commune-dourlers.fr
 www.commune-dourlers.fr
 commune-du-limouxin.fr
 commune-ebersmunster.fr
-commune-epfig.fr
-www.commune-epfig.fr
 commune-hellimer.fr
 www.commune-hellimer.fr
 commune-lachapelle-auzac.fr
-commune-louvemont.fr
-www.commune-louvemont.fr
 commune-montalbalechateau.fr
 www.commune-montalbalechateau.fr
 commune-niedernai.fr
@@ -3824,8 +3378,6 @@ commune-ormoy-la-riviere.fr
 www.commune-ormoy-la-riviere.fr
 commune-saint-seine-en-bache.fr
 www.commune-saint-seine-en-bache.fr
-commune-saintpaterne.fr
-www.commune-saintpaterne.fr
 lagney.commune54.fr
 www.lagney.commune54.fr
 communedappenans.fr
@@ -3838,7 +3390,6 @@ communedemontfaucon46.fr
 www.communedemontfaucon46.fr
 communedeplou.fr
 www.communedeplou.fr
-communedereveillon.fr
 communedevignot.fr
 www.communedevignot.fr
 communedewidehem.fr
@@ -3906,8 +3457,6 @@ courdimanche-sur-essonne.fr
 www.courdimanche-sur-essonne.fr
 courteline.fr
 www.courteline.fr
-courzieu.fr
-www.courzieu.fr
 coutarnoux.fr
 www.coutarnoux.fr
 couturedargenson.fr
@@ -4074,8 +3623,6 @@ ctguyane.fr
 www.ctguyane.fr
 ctsb.fr
 www.ctsb.fr
-cudot.fr
-www.cudot.fr
 culture.fr
 msg-p0-exc501.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
 msg-p0-exc502.atm.ad.culture.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MIN CULTURE COMM, OU=0002 13001931800018, CN=cas0.culture.fr, serialNumber=S213581771, see https://crt.sh/?id=5307308077
@@ -4127,8 +3674,6 @@ dammarie-demain.fr
 www.dammarie-demain.fr
 damvillers.fr
 www.damvillers.fr
-dareize.fr
-www.dareize.fr
 datatourisme.fr  # Found in cert of CN=info.datatourisme.gouv.fr, see https://crt.sh/?id=5266909168
 dauphine.fr
 www.dauphine.fr
@@ -4153,8 +3698,6 @@ devenirpolicier.fr
 www.devenirpolicier.fr
 deviationduteil.fr
 www.deviationduteil.fr
-deyvillers.fr
-www.deyvillers.fr
 dg.fr
 www.dg.fr
 dgtpe.fr
@@ -4185,14 +3728,10 @@ dir-cnrs.fr
 dmp.fr
 www.dmp.fr
 csirt.docapost.fr
-dolleren.fr
-www.dolleren.fr
 domainedelacadene.fr
 www.domainedelacadene.fr
 dompierresurmont.fr
 www.dompierresurmont.fr
-donville.fr
-www.donville.fr
 dossierfacile.fr
 www.dossierfacile.fr
 cdad.doubs.fr
@@ -4200,8 +3739,6 @@ dourgne-mairie.fr
 www.dourgne-mairie.fr
 douzillacmonvillage.fr
 www.douzillacmonvillage.fr
-drancy.fr
-www.drancy.fr
 dri.fr
 www.dri.fr
 drome.fr
@@ -4212,8 +3749,6 @@ page.asap.dsna.fr
 redmine.asap.dsna.fr  # Found in cert of CN=vulcain.asap.dsna.fr, see https://crt.sh/?id=5133291970
 sso.asap.dsna.fr
 vulcain.asap.dsna.fr
-dury62.fr
-www.dury62.fr
 dynamique-emploi.fr
 www.dynamique-emploi.fr
 eascentreouest56.fr
@@ -4311,8 +3846,6 @@ eedk.fr
 www.eedk.fr
 egliseargenteuil.fr
 www.egliseargenteuil.fr
-eguilles.fr
-www.eguilles.fr
 ehpad-biscarrosse.fr
 www.ehpad-biscarrosse.fr
 ehpad-lamontagne.fr
@@ -4334,8 +3867,6 @@ www.emploi-nordest77.fr
 emploihandicapfinistere.fr
 ena.fr
 alumni.ena.fr
-enquinlesmines.fr
-www.enquinlesmines.fr
 entourage-bien-vieillir.fr
 entraide-bdr.fr
 www.entraide-bdr.fr
@@ -4367,12 +3898,8 @@ escal-witry.fr
 www.escal-witry.fr
 escaudes.fr
 www.escaudes.fr
-escaudoeuvres.fr
-www.escaudoeuvres.fr
 escazeaux.fr
 www.escazeaux.fr
-escherange.fr
-www.escherange.fr
 escolives-ste-camille.fr
 www.escolives-ste-camille.fr
 esidoc.fr
@@ -4389,10 +3916,6 @@ www.essone.fr
 estreeslacampagne.fr
 www.estreeslacampagne.fr
 etalab-tiles.fr  # Found in cert of CN=tiles.geo.api.gouv.fr, see https://crt.sh/?id=5181385737
-etampes.fr
-www.etampes.fr
-etrez.fr
-www.etrez.fr
 eure-en-ligne.fr
 www.eure-en-ligne.fr
 eureenligne.fr
@@ -4494,14 +4017,10 @@ feytiat.fr
 www.feytiat.fr
 flaugnac.fr
 www.flaugnac.fr
-fleurbaix.fr
-www.fleurbaix.fr
 fleuriel.fr
 www.fleuriel.fr
 fleury-la-vallee.fr
 www.fleury-la-vallee.fr
-florange.fr
-www.florange.fr
 florentinlacapelle.fr
 www.florentinlacapelle.fr
 fnap-logement.fr
@@ -4521,8 +4040,6 @@ fontenay-sous-bois.fr
 smj.fontenay-sous-bois.fr
 www.smj.fontenay-sous-bois.fr
 www.fontenay-sous-bois.fr
-fontenaylecomte.fr
-www.fontenaylecomte.fr
 formignylabataille.fr
 www.formignylabataille.fr
 fossieux.fr
@@ -4546,8 +4063,6 @@ francemobilites.fr
 aides.francemobilites.fr
 www.francemobilites.fr
 www.franceservices-buechdevoluy.fr  # (redirection from www.msap-buechdevoluy.fr)
-francheville-eure.fr
-www.francheville-eure.fr
 argenvieres.free.fr
 asnois86.free.fr
 buissurdamville.free.fr
@@ -4608,8 +4123,6 @@ fultot.fr
 www.fultot.fr
 fun-mooc.fr
 www.fun-mooc.fr
-furdenheim.fr
-www.furdenheim.fr
 gadancourt.fr
 www.gadancourt.fr
 www.gaillac-graulhet.fr  # (redirection from www.ted.fr)
@@ -4626,8 +4139,6 @@ www.gavesbidouze.fr
 gavray.fr
 www.gavray.fr
 gavraysursienne.fr  # (redirection from gavray.fr)
-gazeran.fr
-www.gazeran.fr
 gendinfo.fr
 www.gendinfo.fr
 gensac-de-boulogne.fr
@@ -4636,8 +4147,6 @@ www.gerontonord-marseille.fr
 matomo.gers.fr  # (redirection from www.cg32.fr)
 gers-peche.fr
 www.gers-peche.fr
-gimont.fr
-www.gimont.fr
 www.gip-competences.fr  # (redirection from www.greta.ac-versailles.fr)
 gipreussir.fr
 www.gipreussir.fr
@@ -4645,19 +4154,11 @@ givenchy-en-gohelle.fr
 www.givenchy-en-gohelle.fr
 golancourt.fr
 www.golancourt.fr
-goldbach-altenbach.fr
-www.goldbach-altenbach.fr
-gonneville-letheil.fr
-www.gonneville-letheil.fr
 gorron.fr
 www.gorron.fr
 goualade.fr
-goufferenauge.fr
-www.goufferenauge.fr
 gouvernement.fr
 www.gouvernement.fr
-goxwiller.fr
-www.goxwiller.fr
 granddebat.fr
 grandlyon.fr
 www.grandlyon.fr
@@ -4670,8 +4171,6 @@ greffe-tc-ajaccio.fr
 www.greffe-tc-ajaccio.fr
 greffe-tc-caen.fr
 www.greffe-tc-caen.fr
-gresin.fr
-www.gresin.fr
 bourgogne.greta.fr
 www.bourgogne.greta.fr
 cdma.greta.fr
@@ -4769,10 +4268,6 @@ www.gretapaysdelaloire.fr
 greville-hague.fr
 www.greville-hague.fr
 ww.grezac.fr
-guerville.fr
-www.guerville.fr
-gundolsheim.fr
-www.gundolsheim.fr
 ha-py.fr
 www.ha-py.fr
 hadopi.fr
@@ -4783,15 +4278,11 @@ www.handicaplandes.fr
 handyjob06.fr
 www.handyjob06.fr
 has-sante.fr
-haulchin.fr
-www.haulchin.fr
 www.hautbearn.fr  # (redirection from piemont-oloronais.fr)
 hautconseilclimat.fr
 www.hautconseilclimat.fr
 hautconseildesbiotechnologies.fr
 www.hautconseildesbiotechnologies.fr
-hautecourt-romaneche.fr
-www.hautecourt-romaneche.fr
 hauteloire.fr
 www.hauteloire.fr
 hautes-de-seine.fr
@@ -4806,8 +4297,6 @@ hcfp.fr
 www.hcfp.fr
 hebecrevon.fr
 www.hebecrevon.fr
-hellemmes.fr
-www.hellemmes.fr
 hermillon.fr
 www.hermillon.fr
 herran.fr
@@ -4859,14 +4348,8 @@ huissiersomme.fr
 www.huissiersomme.fr
 huma-num.fr
 www.huma-num.fr
-hundling.fr
-www.hundling.fr
-husseren-wesserling.fr
-www.husseren-wesserling.fr
 icatulleurbain.fr
 www.icatulleurbain.fr
-ichtratzheim.fr
-www.ichtratzheim.fr
 ideis-asso.fr
 www.ideis-asso.fr
 iedom.fr
@@ -4959,8 +4442,6 @@ institutcancer.fr
 institutnationalduservicepublic.fr  # Found in cert of CN=insp.gouv.fr, see https://crt.sh/?id=6838068032
 institutnationalservicepublic.fr  # Found in cert of CN=insp.gouv.fr, see https://crt.sh/?id=6791789503
 institutservicepublic.fr  # Found in cert of CN=insp.gouv.fr, see https://crt.sh/?id=6791789503
-st-didier-en-donjon.interco-abl.fr
-trezelles.interco-abl.fr
 bresselouhannaise.intercom.fr
 www.bresselouhannaise.intercom.fr
 hebergement.interieur-gouv.fr
@@ -4983,18 +4464,12 @@ www.irstea.fr
 isigny-grandcamp-intercom.fr
 www.isigny-grandcamp-intercom.fr
 isigny-omaha-tourisme.fr  # (redirection from isigny-grandcamp-intercom.fr)
-itterswiller-commune.fr
-www.itterswiller-commune.fr
 izelleshameau.fr
 www.izelleshameau.fr
 jabrondelure.fr
 www.jabrondelure.fr
-jambville.fr
-www.jambville.fr
 jamericourt.fr
 www.jamericourt.fr
-janville.fr
-www.janville.fr
 jarnioux.fr
 www.jarnioux.fr
 javrezac.fr
@@ -5021,8 +4496,6 @@ joue-labbe.fr
 www.joue-labbe.fr
 juigne-sur-loire.fr
 www.juigne-sur-loire.fr
-jullie.fr
-www.jullie.fr
 jura.fr
 www.jura.fr
 juradm.fr
@@ -5101,16 +4574,12 @@ pernes-en-artois.c.la.fr
 www.pernes-en-artois.c.la.fr
 la-ferte-hauterive.fr
 www.la-ferte-hauterive.fr
-laa-mondrans.fr
-www.laa-mondrans.fr
 labastideleveque.fr
 www.labastideleveque.fr
 labastidemonrejeau.fr
 www.labastidemonrejeau.fr
 labastidesurlhers.fr
 www.labastidesurlhers.fr
-labruguiere.fr
-www.labruguiere.fr
 lacabaneaprojets.fr
 www.lacabaneaprojets.fr
 lachapelle-auzac.fr  # (redirection from commune-lachapelle-auzac.fr)
@@ -5128,8 +4597,6 @@ www.ladon.fr
 extranet.lafrancesengage.fr
 lagardeenoisans.fr
 www.lagardeenoisans.fr  # (redirection from lagardeenoisans.fr)
-lagardefreinet.fr
-www.lagardefreinet.fr
 lagendarmerierecrute.fr
 www.lagendarmerierecrute.fr
 laguerche-aubois.fr
@@ -5141,10 +4608,6 @@ laliviniere.fr
 www.laliviniere.fr
 lalizolle.fr
 www.lalizolle.fr
-lamanon.fr
-www.lamanon.fr
-lamuraz.fr
-www.lamuraz.fr
 lancrans.fr
 www.lancrans.fr
 languedias.fr
@@ -5162,27 +4625,15 @@ larochechalais.fr
 www.larochechalais.fr
 larochefoucauld.fr
 www.larochefoucauld.fr
-laroin.fr
-www.laroin.fr
 www.lasabline.fr  # (redirection from mjclussac.org)
-lascazeres.fr
-www.lascazeres.fr
-lassay-les-chateau.fr
-www.lassay-les-chateau.fr
-lasseube.fr
-www.lasseube.fr
 lassuranceretraite-idf.fr
 www.lassuranceretraite-idf.fr
-lassy.fr
-www.lassy.fr
 latitude-nord-gironde.fr
 www.latitude-nord-gironde.fr
 cij.laval.fr
 www.cij.laval.fr
 lavau89.fr
 www.lavau89.fr
-laventie.fr
-www.laventie.fr
 laverdiere.fr
 www.laverdiere.fr
 le-brusquet.fr
@@ -5199,16 +4650,12 @@ le-saulcy.fr
 www.le-saulcy.fr
 lebazois.fr
 www.lebazois.fr
-lechelle77.fr
-www.lechelle77.fr
 ledepartement66.fr
 www.ledepartement66.fr
 leffcommunaute.fr
 www.leffcommunaute.fr
 legrandplatane.fr
 www.legrandplatane.fr
-legrostheil.fr
-www.legrostheil.fr
 leignessurfontaine.fr
 www.leignessurfontaine.fr
 leinsgardonnenque.fr
@@ -5219,12 +4666,8 @@ lelling.fr
 www.lelling.fr
 lemaillon.fr
 www.lemaillon.fr
-lemasdetence.fr
-www.lemasdetence.fr
 lemee28.fr
 www.lemee28.fr
-lentillac.fr
-www.lentillac.fr
 lepine-iledenoirmoutier.fr
 lepineauxbois.fr
 www.lepineauxbois.fr
@@ -5251,20 +4694,12 @@ levieilevreux.fr
 www.levieilevreux.fr
 lhermenault.fr
 www.lhermenault.fr
-liancourt-saint-pierre.fr
-www.liancourt-saint-pierre.fr
 lichtenberg.fr
 www.lichtenberg.fr
-lignandebazas.fr
-www.lignandebazas.fr
 lignerolles-03.fr
 www.lignerolles-03.fr
-lignieresdetouraine.fr
-www.lignieresdetouraine.fr
 lignyenbarrois.fr
 www.lignyenbarrois.fr
-limesy.fr
-www.limesy.fr
 limours.fr
 www.limours.fr
 lisieux-avocats.fr
@@ -5298,14 +4733,8 @@ lourdoueix23.fr
 www.lourdoueix23.fr
 loures-barousse.fr
 www.loures-barousse.fr
-lsg81.fr
-www.lsg81.fr
-lusigny03.fr
-www.lusigny03.fr
 lussagnet.fr
 www.lussagnet.fr
-luttenbach-mairie.fr
-www.luttenbach-mairie.fr
 lyslezlannoy.fr
 machecoul.fr
 www.machecoul.fr
@@ -5336,8 +4765,6 @@ mairie-annecy-le-vieux.fr
 www.mairie-annecy-le-vieux.fr
 mairie-ansignan.fr
 www.mairie-ansignan.fr
-mairie-argoeuves.fr
-www.mairie-argoeuves.fr
 mairie-arnaclaposte.fr
 www.mairie-arnaclaposte.fr
 mairie-avaray.fr
@@ -5366,8 +4793,6 @@ www.mairie-breze.fr
 mairie-bru.fr
 www.mairie-bru.fr
 mairie-campagnelesboulonnais.fr
-mairie-chalon-38.fr
-www.mairie-chalon-38.fr
 mairie-chamousset.fr
 www.mairie-chamousset.fr
 mairie-chantelouve.fr
@@ -5385,24 +4810,16 @@ mairie-damiatte.fr
 www.mairie-damiatte.fr
 mairie-dampierre-aube.fr
 www.mairie-dampierre-aube.fr
-mairie-damville.fr
-www.mairie-damville.fr
 mairie-darnieulles.fr
 www.mairie-darnieulles.fr
 mairie-de-becherel.fr
 www.mairie-de-becherel.fr
 mairie-de-massac.fr
 www.mairie-de-massac.fr
-mairie-de-mexy.fr
-www.mairie-de-mexy.fr
-mairie-de-moliets.fr
-www.mairie-de-moliets.fr
 mairie-dinsheim-sur-bruche.fr
 www.mairie-dinsheim-sur-bruche.fr
 mairie-dondas.fr
 www.mairie-dondas.fr
-mairie-epaignes.fr
-www.mairie-epaignes.fr
 www.mairie-epieds02.fr
 mairie-ervauville.fr
 www.mairie-ervauville.fr
@@ -5412,8 +4829,6 @@ mairie-fontaine-simon.fr
 www.mairie-fontaine-simon.fr
 mairie-fontenai-sur-orne.fr
 www.mairie-fontenai-sur-orne.fr
-mairie-fontromeu.fr
-www.mairie-fontromeu.fr
 mairie-forstfeld.fr
 www.mairie-forstfeld.fr
 mairie-fouquieres-lez-lens.fr
@@ -5429,40 +4844,28 @@ mairie-grossoeuvre.fr
 www.mairie-grossoeuvre.fr
 mairie-islesurlasorgue.fr
 www.mairie-islesurlasorgue.fr
-mairie-itteville.fr
-www.mairie-itteville.fr
 mairie-jaillon.fr
 www.mairie-jaillon.fr
 mairie-jobourg.fr
 www.mairie-jobourg.fr
-mairie-jort.fr
-www.mairie-jort.fr
 mairie-la-pallu.fr
 www.mairie-la-pallu.fr
-mairie-la-vespiere.fr
-www.mairie-la-vespiere.fr
 mairie-lacomte.fr
 www.mairie-lacomte.fr
 mairie-lacq-audejos.fr
 www.mairie-lacq-audejos.fr
 mairie-lamballe.fr
 www.mairie-lamballe.fr
-mairie-landas.fr
-www.mairie-landas.fr
 mairie-lanton.fr
 www.mairie-lanton.fr
 mairie-lecci.fr
 www.mairie-lecci.fr
 mairie-lepin.fr
 www.mairie-lepin.fr
-mairie-lerouret.fr
-www.mairie-lerouret.fr
 mairie-lesplans34.fr
 www.mairie-lesplans34.fr
 mairie-lurcy-levis.fr
 www.mairie-lurcy-levis.fr
-mairie-lutterbach.fr
-www.mairie-lutterbach.fr
 mairie-mancieulles.fr
 www.mairie-mancieulles.fr
 mairie-mantes-la-jolie.fr
@@ -5497,16 +4900,10 @@ www.mairie-pleure.fr
 mairie-ploulech.fr
 www.mairie-ploulech.fr
 www3.mairie-ponthoile.fr
-mairie-pontpoint.fr
-www.mairie-pontpoint.fr
 mairie-pouzilhac.fr
 www.mairie-pouzilhac.fr
 mairie-prat.fr
 www.mairie-prat.fr
-mairie-premilhat.fr
-www.mairie-premilhat.fr
-mairie-presnoy.fr
-www.mairie-presnoy.fr
 mairie-puiseuxenbray.fr
 www.mairie-puiseuxenbray.fr
 mairie-quernes.fr
@@ -5515,8 +4912,6 @@ mairie-reze.fr
 www.mairie-reze.fr
 mairie-ritzing.fr
 www.mairie-ritzing.fr
-mairie-rivesaltes.fr
-www.mairie-rivesaltes.fr
 mairie-roumazieres-loubert.fr
 www.mairie-roumazieres-loubert.fr
 mairie-rouville60.fr
@@ -5526,8 +4921,6 @@ mairie-saint-forgeot.fr
 www.mairie-saint-forgeot.fr
 mairie-saint-genes-de-lombaud.fr
 www.mairie-saint-genes-de-lombaud.fr
-mairie-saint-julien-sur-cher.fr
-www.mairie-saint-julien-sur-cher.fr
 mairie-saint-mande.fr
 www.mairie-saint-mande.fr
 mairie-saintbarthelemylestra.fr
@@ -5536,22 +4929,14 @@ mairie-sainte-colombe77650.fr
 www.mairie-sainte-colombe77650.fr
 mairie-sainthilairepetitville.fr
 www.mairie-sainthilairepetitville.fr
-mairie-saintmont.fr
-www.mairie-saintmont.fr
 mairie-saintpaul.fr
 www.mairie-saintpaul.fr
 mairie-saintpierredargencon.fr
 www.mairie-saintpierredargencon.fr
 mairie-saintremydeprovence.fr
 www.mairie-saintremydeprovence.fr
-mairie-saintromaindepopey.fr
-www.mairie-saintromaindepopey.fr
-mairie-saintvallierdethiey.fr
-www.mairie-saintvallierdethiey.fr
 mairie-sarran.fr
 www.mairie-sarran.fr
-mairie-saujon.fr
-www.mairie-saujon.fr
 mairie-sem.fr
 www.mairie-sem.fr
 mairie-soteville-les-rouen.fr
@@ -5564,8 +4949,6 @@ mairie-stoffenge-dessous.fr
 www.mairie-stoffenge-dessous.fr
 mairie-taillet.fr
 www.mairie-taillet.fr
-mairie-theillay.fr
-www.mairie-theillay.fr
 mairie-triel78.fr
 www.mairie-triel78.fr
 mairie-upaix.fr
@@ -5582,9 +4965,6 @@ mairie-vicsuraisne.fr
 www.mairie-vicsuraisne.fr
 mairie-vieux-chateau.fr
 www.mairie-vieux-chateau.fr
-mairie-vigneux-sur-seine.fr
-www.mairie-vigneux-sur-seine.fr
-mairie-villegailhenc.fr
 mairie-villeneuve.fr
 www.mairie-villeneuve.fr
 mairie-villers-sur-mer.fr
@@ -5597,8 +4977,6 @@ mairie-vyansleval.fr
 www.mairie-vyansleval.fr
 mairie-willgottheim.fr
 www.mairie-willgottheim.fr
-mairie-wolfisheim.fr
-www.mairie-wolfisheim.fr
 mairie15-16.fr
 www.mairie15-16.fr
 contigne.mairie49.fr
@@ -5609,26 +4987,14 @@ huille.mairie49.fr
 www.huille.mairie49.fr
 lacornuaille.mairie49.fr
 www.lacornuaille.mairie49.fr
-lescerqueux.mairie49.fr
-www.lescerqueux.mairie49.fr
 lezigne.mairie49.fr
 www.lezigne.mairie49.fr
 cizay.la.madeleine.mairie49.fr
 www.cizay.la.madeleine.mairie49.fr
 meignelevicomte.mairie49.fr
 www.meignelevicomte.mairie49.fr
-montfort.mairie49.fr
-www.montfort.mairie49.fr
-stgermaindespres.mairie49.fr
-www.stgermaindespres.mairie49.fr
 desertines.mairie53.fr
 www.desertines.mairie53.fr
-lachapelleauriboul.mairie53.fr
-www.lachapelleauriboul.mairie53.fr
-le-genest-saint-isle.mairie53.fr
-www.le-genest-saint-isle.mairie53.fr
-loignesurmayenne.mairie53.fr
-www.loignesurmayenne.mairie53.fr
 saint-baudelle.mairie53.fr
 www.saint-baudelle.mairie53.fr
 saint-sulpice.mairie53.fr
@@ -5639,31 +5005,19 @@ abbevillelesconflans.mairie54.fr
 www.abbevillelesconflans.mairie54.fr
 anthelupt.mairie54.fr
 www.anthelupt.mairie54.fr
-autrevillesurmoselle.mairie54.fr
-www.autrevillesurmoselle.mairie54.fr
 chanteheux.mairie54.fr
 www.chanteheux.mairie54.fr
-malleloy.mairie54.fr
-www.malleloy.mairie54.fr
-thiaville-sur-meurthe.mairie54.fr
-www.thiaville-sur-meurthe.mairie54.fr
-vandeleville.mairie54.fr
-www.vandeleville.mairie54.fr
 ville-en-vermois.mairie54.fr
 cherreau.mairie72.fr
 www.cherreau.mairie72.fr
 mairie_blicourt.fr
 www.mairie_blicourt.fr
-mairieauthieuxratieville.fr
-www.mairieauthieuxratieville.fr
 mairiebethencourt59.fr
 www.mairiebethencourt59.fr
 mairiebouan.fr
 www.mairiebouan.fr
 mairiecaveirac.fr
 www.mairiecaveirac.fr
-mairiechalmazel.fr
-www.mairiechalmazel.fr
 mairiechangey.fr
 www.mairiechangey.fr
 mairiedavrilsurloire.fr
@@ -5680,12 +5034,8 @@ mairiedefleurysurloire.fr
 www.mairiedefleurysurloire.fr
 mairiedefridefont.fr
 www.mairiedefridefont.fr
-mairiedejonquieres60.fr
-www.mairiedejonquieres60.fr
 mairiedejosnes.fr
 www.mairiedejosnes.fr
-mairiedelourde.fr
-www.mairiedelourde.fr
 mairiedemarizy.fr
 www.mairiedemarizy.fr
 mairiedemontberon.fr
@@ -5709,14 +5059,10 @@ mairieneuvy.fr
 www.mairieneuvy.fr
 mairieplanrupt.fr
 www.mairieplanrupt.fr
-mairiepujaut.fr
-www.mairiepujaut.fr
 mairiesainte-magnance.fr
 www.mairiesainte-magnance.fr
 mairiesinsat.fr
 www.mairiesinsat.fr
-mairiest-mamertdugard.fr
-www.mairiest-mamertdugard.fr
 mairieubayeserreponcon.fr
 maison-lyon-emploi.fr
 www.maison-lyon-emploi.fr
@@ -5735,16 +5081,8 @@ maisonemploi-saintquentin.fr
 www.maisonemploi-saintquentin.fr
 maisonthierache.fr
 www.maisonthierache.fr
-malemortsurcorreze.fr
-www.malemortsurcorreze.fr
 malleville-les-gres.fr
 www.malleville-les-gres.fr
-mallievre.fr
-www.mallievre.fr
-malville.fr
-www.malville.fr
-malzeville.fr
-www.malzeville.fr
 handicap.manche.fr
 www.handicap.manche.fr
 manderen.fr
@@ -5756,10 +5094,6 @@ www.marcesuresves.fr
 marcey-les-greves.fr
 marcillac33.fr
 www.marcillac33.fr
-marennes.fr
-www.marennes.fr
-mareuilsurbelle.fr
-www.mareuilsurbelle.fr
 margon.fr
 www.margon.fr
 mariedecireysurvezouze.fr
@@ -5782,14 +5116,8 @@ martigne-briand.fr
 www.martigne-briand.fr
 chambagri.martinique.fr
 www.chambagri.martinique.fr
-marville-moutiers-brule.fr
-www.marville-moutiers-brule.fr
 matha-mairie17.fr
 www.matha-mairie17.fr
-mattaincourt.fr
-www.mattaincourt.fr
-maucourt.fr
-www.maucourt.fr
 maximilien.fr
 www.maximilien.fr
 mayres63.fr
@@ -6176,8 +5504,6 @@ mnhn.fr
 www.mnhn.fr
 mon-entreprise.fr
 monavenirpro-hdf.fr  # (redirection from www.greta-lillemetropole.fr)
-monblancmairie.fr
-www.monblancmairie.fr
 oyre.monclocher.fr
 www.oyre.monclocher.fr
 quincay.monclocher.fr
@@ -6186,8 +5512,6 @@ moncoeurdherault.fr
 www.moncoeurdherault.fr
 moncoutant.fr
 www.moncoutant.fr
-mondelange.fr
-www.mondelange.fr
 bavi72.monsite-orange.fr
 clic-royan-marennes.monsite-orange.fr
 www.clic-royan-marennes.monsite-orange.fr
@@ -6202,14 +5526,6 @@ mairienueilsousfaye.monsite-orange.fr
 www.mairienueilsousfaye.monsite-orange.fr
 thiangesjpm.monsite-orange.fr
 monsuivipsy.fr  # Found in cert of CN=monsuivipsy.fr, see https://crt.sh/?id=7174756607
-montaignac-saint-hippolyte.fr
-www.montaignac-saint-hippolyte.fr
-montambert.fr
-www.montambert.fr
-montaulieu.fr
-www.montaulieu.fr
-montbeugny.fr
-www.montbeugny.fr
 montbrun48.fr
 www.montbrun48.fr
 montchanin.fr
@@ -6220,14 +5536,10 @@ monteneuf.fr
 www.monteneuf.fr
 mairie.montescot.fr
 www.mairie.montescot.fr
-montignac-charente.fr
-www.montignac-charente.fr
 montigny-sur-aube.fr
 www.montigny-sur-aube.fr
 montignylesvaucouleurs.fr
 www.montignylesvaucouleurs.fr
-montletroit.fr
-www.montletroit.fr
 montmartin-en-graignes.fr
 www.montmartin-en-graignes.fr
 montpellier-jeunes-emploi.fr
@@ -6259,10 +5571,6 @@ www.mosssig.fr
 www.moultchicheboville.fr  # (redirection from chicheboville.fr)
 mourjou.fr
 www.mourjou.fr
-moussyleneuf.fr
-www.moussyleneuf.fr
-moyenmoutier.fr
-www.moyenmoutier.fr
 mptcsrivery.fr
 ain-rhone.msa.fr  # (redirection from www.msa01-69.fr)
 alpes-vaucluse.msa.fr  # (redirection from www.msa-alpesvaucluse.fr)
@@ -6379,22 +5687,12 @@ nassiet.fr
 naturagora.fr
 www.naturagora.fr
 carmen.naturefrance.fr
-naves19.fr
-www.naves19.fr
-nerac.fr
-www.nerac.fr
 neufchatel.fr
 www.neufchatel.fr
 neuveglise.fr
 www.neuveglise.fr
-neuvillesuroise.fr
-www.neuvillesuroise.fr
-neuvylebarrois.fr
-www.neuvylebarrois.fr
 nevez.fr
 www.nevez.fr
-niederhergheim.fr
-www.niederhergheim.fr
 nieul-sur-lautise.fr
 www.nieul-sur-lautise.fr
 jeunesse.nimes.fr
@@ -6527,8 +5825,6 @@ oizon.fr
 www.oizon.fr
 olette66.fr
 www.olette66.fr
-olivet.fr
-www.olivet.fr
 omeps-castres.fr
 www.omeps-castres.fr
 omjc-info.fr
@@ -6553,8 +5849,6 @@ onf.fr
 www.onf.fr
 onisep.fr
 www.onisep.fr
-onzain.fr
-www.onzain.fr
 openacademie.fr  # (redirection from openacademie.beta.gouv.fr)
 oprf.fr
 www.oprf.fr
@@ -6573,13 +5867,7 @@ ordreavocats-meaux.fr
 orientation-pour-tous.fr
 www.orientation-pour-tous.fr
 osartis.fr
-osenbach.fr
-www.osenbach.fr
-osseja.fr
-www.osseja.fr
 osselle.fr
-ottmarsheim.fr
-www.ottmarsheim.fr
 ouangani.fr
 www.ouangani.fr
 ouestguyane.fr
@@ -6588,8 +5876,6 @@ www.oulmes.fr
 ouvrirlascience.fr
 www.ouvrirlascience.fr
 lepasej.over-blog.fr
-saintbonnetlechastel.over-blog.fr
-www.saintbonnetlechastel.over-blog.fr
 oxygene-association.fr
 www.oxygene-association.fr
 ozensemble.fr  # (redirection from ozensemble.fabrique.social.gouv.fr)
@@ -6614,7 +5900,6 @@ mairie-havange.pagesperso-orange.fr
 www.mairie-havange.pagesperso-orange.fr
 mairie-lance.pagesperso-orange.fr
 mairie-montharville.pagesperso-orange.fr
-mairie-viel.pagesperso-orange.fr
 mairiedebagnoles.pagesperso-orange.fr
 www.mairiedebagnoles.pagesperso-orange.fr
 monthiers02village.pagesperso-orange.fr
@@ -6623,7 +5908,6 @@ rocheslesblamont.pagesperso-orange.fr
 santeuil28.pagesperso-orange.fr
 semondans.pagesperso-orange.fr
 stetiennedemermorte.pagesperso-orange.fr
-mairie.vallerange.mairie.pagespro-orange.fr
 pagnylaville.fr
 www.pagnylaville.fr
 palleville81.fr
@@ -6631,8 +5915,6 @@ www.palleville81.fr
 palluel.fr
 www.palluel.fr
 pratique.pantin.fr
-pardies.fr
-www.pardies.fr
 parempuyre.fr
 www.parempuyre.fr
 handicap.paris.fr
@@ -6652,8 +5934,6 @@ parisot82commune.fr
 www.parisot82commune.fr
 parlement.fr
 www.parlement.fr
-partinellu.fr
-www.partinellu.fr
 mairie.saint.paul.fr
 www.mairie.saint.paul.fr
 paulhac15.fr
@@ -6669,16 +5949,12 @@ pays-questenbert.fr
 www.pays-questenbert.fr
 pays-thiberien.fr
 www.pays-thiberien.fr
-paysdecoulommiers.fr
-www.paysdecoulommiers.fr
 paysdeguer.fr
 www.paysdeguer.fr
 paysdeploermel-coeurdebretagne.fr
 www.paysdeploermel-coeurdebretagne.fr
 paysdessorgues.fr
 www.paysdessorgues.fr
-paysdethelle.fr
-www.paysdethelle.fr
 paysduder.fr
 www.paysduder.fr
 paysnedelamer.fr
@@ -6754,10 +6030,6 @@ www.perigueux-jeunesse.fr
 www.personne-agee-aide-issoire.fr  # (redirection from clic-issoire.fr)
 petit-bornand.fr
 www.petit-bornand.fr
-peynier.fr
-www.peynier.fr
-peyratlechateau.fr
-www.peyratlechateau.fr
 st.philbert.fr
 www.st.philbert.fr
 pierrelaye.fr
@@ -6820,8 +6092,6 @@ pole-emploi.fr
 deposer-offre.1jeune1solution.pole-emploi.fr
 www.deposer-offre.1jeune1solution.pole-emploi.fr
 www.pole-emploi.fr
-polienas.fr
-www.polienas.fr
 pompiersparis.fr
 www.pompiersparis.fr
 vers.pont-du-gard.fr
@@ -6830,13 +6100,8 @@ pontamafrey-montpascal.fr
 www.pontamafrey-montpascal.fr
 pontaven.fr
 www.pontaven.fr
-pontcharra.fr
 pontdugard.fr
 www.pontdugard.fr
-pontorson.fr
-www.pontorson.fr
-port-brillet.fr
-www.port-brillet.fr
 portesdelacreuse.fr
 www.portesdelacreuse.fr
 portesessonne.fr
@@ -6910,8 +6175,6 @@ puy-de-dome.fr
 www.puy-de-dome.fr
 puy-saint-gulmier.fr
 www.puy-saint-gulmier.fr
-puy-saint-vincent.fr
-www.puy-saint-vincent.fr
 pîtres.fr
 quaibranly.fr
 quaidorsay.fr
@@ -6928,8 +6191,6 @@ mattermost.quaidorsay.fr
 www.quaidorsay.fr
 quarante34.fr
 www.quarante34.fr
-quilly.fr
-www.quilly.fr
 quincy.fr
 www.quincy.fr
 radioclapas.fr
@@ -6954,10 +6215,6 @@ region-academique-occitanie.fr
 region-academique-paca.fr
 regioncentre-valdeloire.fr
 www.regioncentre-valdeloire.fr
-reguisheim.fr
-www.reguisheim.fr
-reichsfeld.fr
-www.reichsfeld.fr
 relais-enfance-famille.fr
 www.relais-enfance-famille.fr
 remauville77.fr
@@ -7008,8 +6265,6 @@ rn7deviationlivronloriol.fr
 rn82neulise-balbigny.fr
 rocquancourt.fr
 www.rocquancourt.fr
-rocques.fr
-www.rocques.fr
 roffiac.fr
 www.roffiac.fr
 romeries.fr
@@ -7025,8 +6280,6 @@ www.roset-fluans.fr
 roshautdefrance.fr
 rougiers-infos.fr
 www.rougiers-infos.fr
-rouille.fr
-www.rouille.fr
 administration.roulez-eco.fr
 dgccrf.roulez-eco.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
 donnees.roulez-eco.fr  # Found in cert of CN=www.prix-carburants.gouv.fr, see https://crt.sh/?id=5748244050
@@ -7045,10 +6298,6 @@ royeres87.fr
 www.royeres87.fr
 www.ruche-silo.fr  # (redirection from mjcverneuil.fr)
 ruilleenchampagne.fr
-rustenhart.fr
-www.rustenhart.fr
-rutali.fr
-www.rutali.fr
 sablonnieres.fr
 www.sablonnieres.fr
 sailly-labourse.fr
@@ -7061,25 +6310,17 @@ saint-andre-de-roquepertuis.fr
 www.saint-andre-de-roquepertuis.fr
 saint-andre-les-alpes.fr
 www.saint-andre-les-alpes.fr
-saint-andre-sur-orne.fr
-www.saint-andre-sur-orne.fr
 rejoignez.saint-antoine-hotel.fr
 saint-caprais-de-blaye.fr
 www.saint-caprais-de-blaye.fr
 mairie.saint-cezert.fr
 www.mairie.saint-cezert.fr
-saint-didier84.fr
-www.saint-didier84.fr
 saint-etienne-des-champs.fr
 www.saint-etienne-des-champs.fr
-saint-fargeau.fr
-www.saint-fargeau.fr
 saint-gal-sur-sioule.fr
 www.saint-gal-sur-sioule.fr
 saint-geniesdemalgoires.fr
 www.saint-geniesdemalgoires.fr
-saint-geniez-o-merle-mairie.fr
-www.saint-geniez-o-merle-mairie.fr
 saint-georges-sur-la-pree.fr
 www.saint-georges-sur-la-pree.fr
 saint-gereon.fr
@@ -7096,8 +6337,6 @@ saint-jean-le-vieux-01.fr
 www.saint-jean-le-vieux-01.fr
 saint-jean-sur-couesnon.fr
 www.saint-jean-sur-couesnon.fr
-saint-jeures.fr
-www.saint-jeures.fr
 saint-leger17.fr
 www.saint-leger17.fr
 saint-malo.fr
@@ -7111,14 +6350,10 @@ www.saint-martin-dollieres.fr
 espace-jeunes.saint-medard-en-jalles.fr
 saint-mexant.fr
 www.saint-mexant.fr
-saint-moreil.fr
-www.saint-moreil.fr
 www.saint-papoul.fr  # (redirection from saintpapoul.fr)
 saint-pardoux-63.fr
 saint-paul-en-limousin.fr
 www.saint-paul-en-limousin.fr
-saint-pierre-de-colombier.fr
-www.saint-pierre-de-colombier.fr
 saint-remy-chaussee.fr
 www.saint-remy-chaussee.fr
 saint-sauveur-samprieu.fr
@@ -7129,8 +6364,6 @@ saint-sever-calvados.fr
 www.saint-sever-calvados.fr
 saint-simeux.fr
 www.saint-simeux.fr
-saint-sylvain.fr
-www.saint-sylvain.fr
 saint-vincent-de-cosse.fr
 www.saint-vincent-de-cosse.fr
 saintandredesangonis.fr
@@ -7139,16 +6372,10 @@ saintaubindelocquenay.fr
 www.saintaubindelocquenay.fr
 saintbaldophe.fr
 www.saintbaldophe.fr
-saintbenezet.fr
-www.saintbenezet.fr
-saintbrice77.fr
-www.saintbrice77.fr
 saintchristbriost.fr
 www.saintchristbriost.fr
 saintdenislesponts.fr
 www.saintdenislesponts.fr
-sainte-colombe-en-auxois.fr
-www.sainte-colombe-en-auxois.fr
 sainte-genevieve-les-gasny.fr
 www.sainte-genevieve-les-gasny.fr
 sainte-helene-sur-mer.fr
@@ -7177,16 +6404,12 @@ saintjeanlecomtal.fr
 www.saintjeanlecomtal.fr
 saintjouindemarnes.fr
 www.saintjouindemarnes.fr
-saintlaurentdechamousset.fr
-www.saintlaurentdechamousset.fr
 saintlaurentsurmer.fr
 www.saintlaurentsurmer.fr
 saintloube-amades.fr
 saintmarcellin-vercors-isere.fr
 www.missionlocale.saintmarcellin-vercors-isere.fr  # (redirection from www.missionlocale.sud-gresivaudan.org)
 www.saintmarcellin-vercors-isere.fr
-saintmarcellinenforez.fr
-www.saintmarcellinenforez.fr
 saintmarcsurcouesnon.fr
 www.saintmarcsurcouesnon.fr
 saintmartindemailloc.fr
@@ -7194,33 +6417,21 @@ www.saintmartindemailloc.fr
 saintmartindufouilloux79.fr
 www.saintmartindufouilloux79.fr
 saintmartinencampagne.fr
-saintmartinenhaut.fr
-www.saintmartinenhaut.fr
 saintmartinsepert.fr
 www.saintmartinsepert.fr
 saintmhervon.fr
 www.saintmhervon.fr
-saintmihiel.fr
-www.saintmihiel.fr
-saintpapoul.fr
-www.saintpapoul.fr
 saintpaterneracan.fr
 www.saintpaterneracan.fr
 saintpaullacoste.fr
 www.saintpaullacoste.fr
-saintpierre-alsace.fr
-www.saintpierre-alsace.fr
 saintromaindejalionas.fr
 www.saintromaindejalionas.fr
-saintsavin.fr
-www.saintsavin.fr
 saisonculturelle.fr
 mairie.saligny.fr
 www.mairie.saligny.fr
 sallescourbaties.fr
 www.sallescourbaties.fr
-salsigne.fr
-www.salsigne.fr
 sambin.fr
 sampigny.fr
 www.sampigny.fr
@@ -7241,33 +6452,20 @@ www.nouvelle-aquitaine.pp.intranet.ars.sante.fr  # Found in cert of C=FR, L=PARI
 www.occitanie.pp.intranet.ars.sante.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MINISTERES CHARGES AFFAIRES SOCIALES, OU=0002 13000680200016, CN=intranetarspp.sd.intranet.sante.gouv.fr, serialNumber=S237372572, see https://crt.sh/?id=6798253193
 www.ocean-indien.pp.intranet.ars.sante.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MINISTERES CHARGES AFFAIRES SOCIALES, OU=0002 13000680200016, CN=intranetarspp.sd.intranet.sante.gouv.fr, serialNumber=S237372572, see https://crt.sh/?id=6798253193
 www.pays-de-la-loire.pp.intranet.ars.sante.fr  # Found in cert of C=FR, L=PARIS, O=SECRETARIAT GENERAL MINISTERES CHARGES AFFAIRES SOCIALES, OU=0002 13000680200016, CN=intranetarspp.sd.intranet.sante.gouv.fr, serialNumber=S237372572, see https://crt.sh/?id=6798253193
-santeuil.fr
-www.santeuil.fr
-sarrazac.fr
-www.sarrazac.fr
 sarrey.fr
 www.sarrey.fr
-sarzay.fr
 saurier.fr
 www.saurier.fr
-savignies.fr
-www.savignies.fr
 savoirrouleravelo.fr
 savy.fr
 www.savy.fr
 scalado.fr
-sceauxsurhuisne.fr
-www.sceauxsurhuisne.fr
 sciencespo.fr
 www.sciencespo.fr
 secours17.fr  # Found in cert of C=FR, L=Ville, O=DIRECTION GENERALE DE LA GENDARMERIE NATIONALE, OU=0002 15700001900461, CN=secours17.fr, serialNumber=S23599002, see https://crt.sh/?id=6738017135
 www.secours17.fr  # Found in cert of C=FR, L=Ville, O=DIRECTION GENERALE DE LA GENDARMERIE NATIONALE, OU=0002 15700001900461, CN=secours17.fr, serialNumber=S23599002, see https://crt.sh/?id=6738017135
-sees.fr
-www.sees.fr
 sejc.fr
 www.sejc.fr
-semeac.fr
-www.semeac.fr
 senat.fr
 public.senat.fr
 www.senat.fr
@@ -7279,8 +6477,6 @@ sengager.fr
 www.sengager.fr
 senior36.fr
 www.senior36.fr
-septfontaines.fr
-www.septfontaines.fr
 service-eco.fr
 service-public.fr
 bdc3939.service-public.fr  # Found in cert of C=FR, L=PARIS, O=DILA, OU=0002 13000918600011, CN=service-public.fr, serialNumber=S242741203, see https://crt.sh/?id=7147738692
@@ -7298,8 +6494,6 @@ servicejeunesse-jarny.fr
 www.servicejeunesse-jarny.fr
 seur41.fr
 www.seur41.fr
-sgdo.fr
-www.sgdo.fr
 shdb34.fr
 www.shdb34.fr
 shom.fr
@@ -7321,33 +6515,22 @@ sictiam.fr
 www.sictiam.fr
 sieds.fr
 www.sieds.fr
-siersthal.fr
-www.siersthal.fr
 sij-montauban.fr
 www.sij-montauban.fr
 sijean.fr
 www.sijean.fr
-sillans-la-cascade.fr
 simad.fr
 www.simad.fr
 simmbad.fr  # (redirection from biocides.developpement-durable.gouv.fr)
 sinard.fr
 www.sinard.fr
-sinderes.fr
-www.sinderes.fr
-sisteron.fr
-www.sisteron.fr
 site-epj.fr  # (redirection from epj.fr)
 eraines.sitew.fr
 www.eraines.sitew.fr
-nieurletmairieinfo.sitew.fr
-www.nieurletmairieinfo.sitew.fr
 sitiv.fr
 www.sitiv.fr
 sjdcrieulon.fr
 www.sjdcrieulon.fr
-smarves.fr
-www.smarves.fr
 smdlyon.fr
 www.smdlyon.fr  # (redirection from smdlyon.fr)
 smica.fr
@@ -7356,8 +6539,6 @@ social-islejourdain.fr
 www.social-islejourdain.fr
 arques-centres.sociaux.fr
 www.arques-centres.sociaux.fr
-sognolles-en-montois.fr
-www.sognolles-en-montois.fr
 soliha09.fr
 soluris.fr
 www.soluris.fr
@@ -7372,10 +6553,6 @@ soulatge.fr
 www.soulatge.fr
 soulignesousballon.fr
 www.soulignesousballon.fr
-soustelle.fr
-www.soustelle.fr
-souternon.fr
-www.souternon.fr
 soyez-cuirieux.fr
 www.soyez-cuirieux.fr
 sqyway1625.fr
@@ -7384,22 +6561,12 @@ st-andeol-le-chateau.fr
 www.st-andeol-le-chateau.fr
 st-aubin-le-depeint.fr
 www.st-aubin-le-depeint.fr
-st-beat.fr
-www.st-beat.fr
-st-berain-sur-dheune.fr
-www.st-berain-sur-dheune.fr
 st-denis-les-martel.fr
 www.st-denis-les-martel.fr
-st-hilaire.fr
-www.st-hilaire.fr
 st-leger-martiniere.fr
 www.st-leger-martiniere.fr
-st-paul-les-dax.fr
-www.st-paul-les-dax.fr
 st-sauveur-la-sagne.fr
 www.st-sauveur-la-sagne.fr
-st-simeon.fr
-www.st-simeon.fr
 st-theoffrey-rn85.fr
 www.st-theoffrey-rn85.fr
 st-vincent-de-paul.fr
@@ -7418,7 +6585,6 @@ stgi.fr
 www.stgi.fr
 sthilaire31.fr
 www.sthilaire31.fr
-sthippolyte37.fr
 stlegerlegueretois.fr
 www.stlegerlegueretois.fr
 stmartial.fr
@@ -7434,20 +6600,14 @@ stsauveurdepeyre.fr
 www.stsauveurdepeyre.fr
 stvictor-et-melvieu.fr
 www.stvictor-et-melvieu.fr
-stvincent63.fr
-www.stvincent63.fr
 sudmorvan.fr
 www.sudmorvan.fr
-sudvendeelittoral.fr
-www.sudvendeelittoral.fr
 rejoignez.sulky-burel.fr
 syndicat-emeraude.fr
 www.syndicat-emeraude.fr
 sytadin.fr
 www.sytadin.fr
 taaf.fr
-talissieu.fr
-www.talissieu.fr
 tamerville.fr
 www.tamerville.fr
 tancrou.fr
@@ -7467,8 +6627,6 @@ www.telerecours.fr
 ternant17.fr
 www.ternant17.fr
 ternay41.fr
-auzouville-auberbosc.terres-de-caux.fr
-saint-pierre-lavis.terres-de-caux.fr
 territoire-de-beaurepaire.fr
 www.territoire-de-beaurepaire.fr
 tessysurvire.fr
@@ -7477,12 +6635,8 @@ theses.fr
 thezillieu.fr
 www.thezillieu.fr
 thibivillers.fr
-thiers.fr
-www.thiers.fr
 thil54.fr
 www.thil54.fr
-thiolieres.fr
-www.thiolieres.fr
 thivencelle.fr
 www.thivencelle.fr
 mairie.thurey.fr
@@ -7643,8 +6797,6 @@ udaf80.fr
 www.udaf80.fr
 udaf85.fr
 www.udaf85.fr
-uffholtz.fr
-www.uffholtz.fr
 ugap.fr
 www.ugap.fr
 umm.fr
@@ -7689,30 +6841,18 @@ www.upmc.fr
 urssaf.fr
 mon-entreprise.urssaf.fr
 www.urssaf.fr
-urville-nacqueville.fr
-www.urville-nacqueville.fr
 usineachapeaux.fr
 www.usineachapeaux.fr
 usseau79.fr
 www.usseau79.fr
-uttenheim.fr
-www.uttenheim.fr
 val-darc.fr  # (redirection from randens.fr)
 cij.valdoise.fr
 valeuil.fr
 www.valeuil.fr
-valff.fr
-www.valff.fr
 communedeplaine.valleedelabruche.fr
 cdc.vallees-orne-odon.fr  # (redirection from www.vallees-orne-odon.fr)
 valleesud.fr
 www.valleesud.fr
-valli-d-alisgiani.fr
-www.valli-d-alisgiani.fr
-vanves.fr
-www.vanves.fr
-vascoeuil.fr
-www.vascoeuil.fr
 vauchretien.fr
 www.vauchretien.fr
 vaux-en-couhe.fr
@@ -7721,8 +6861,6 @@ veauville-les-quelles.fr
 www.veauville-les-quelles.fr
 velaine-en-haye.fr
 www.velaine-en-haye.fr
-velaux.fr
-www.velaux.fr
 vellesurmoselle.fr
 www.vellesurmoselle.fr
 velyjeunes.fr
@@ -7731,28 +6869,16 @@ vendee-enfance.fr
 www.vendee-enfance.fr
 vendee-senior.fr
 www.vendee-senior.fr
-saintchristophe.venez.fr
-www.saintchristophe.venez.fr
-verdigny.fr
-www.verdigny.fr
-verel-pragondran.fr
-www.verel-pragondran.fr
 vernetlavarenne.fr
 www.vernetlavarenne.fr
 verrieres-auvergne.fr
 www.verrieres-auvergne.fr
 ac.versailles.fr
 www.ac.versailles.fr
-vert-vaucouleurs.fr
-www.vert-vaucouleurs.fr
 vesdun.fr
 www.vesdun.fr
 vezinlecoquet.fr
 www.vezinlecoquet.fr
-vialas-commune.fr
-www.vialas-commune.fr
-vias-mediterranee.fr
-www.vias-mediterranee.fr
 vie-publique.fr
 www.vie-publique.fr
 vieille-eglise.fr
@@ -7771,8 +6897,6 @@ village-lauw.fr
 www.villagedefouquescourt.fr
 villanova-corse.fr
 www.villanova-corse.fr
-villarsfontaine.fr
-www.villarsfontaine.fr
 ville-aigueblanche.fr
 www.ville-aigueblanche.fr
 ville-allonnes.fr
@@ -7782,16 +6906,8 @@ ville-armentieres.fr
 www.ville-armentieres.fr
 ville-au-montois-relaisnature.fr
 www.ville-au-montois-relaisnature.fr
-ville-beaucourt.fr
-www.ville-beaucourt.fr
-ville-boulazac.fr
-www.ville-boulazac.fr
 ville-boulogne-s-gesse.fr
 www.ville-boulogne-s-gesse.fr
-ville-capestang.fr
-www.ville-capestang.fr
-ville-capinghem.fr
-www.ville-capinghem.fr
 ville-champdeniers.fr
 www.ville-champdeniers.fr
 ville-crangevrier.fr
@@ -7802,8 +6918,6 @@ ville-de-bourlon.fr
 www.ville-de-bourlon.fr
 ville-de-gorre.fr
 www.ville-de-gorre.fr
-ville-de-la-trinite.fr
-www.ville-de-la-trinite.fr
 ville-de-templemars.fr
 www.ville-de-templemars.fr
 ville-douelafontaine.fr
@@ -7812,24 +6926,14 @@ ville-eleuditleauwette.fr
 www.ville-eleuditleauwette.fr
 ville-ensisheim.fr
 www.ville-ensisheim.fr
-ville-escaudain.fr
-www.ville-escaudain.fr
 ville-fourqueux.fr
 www.ville-fourqueux.fr
-ville-gallardon.fr
-www.ville-gallardon.fr
 ville-genas.fr
 www.ville-genas.fr
-ville-gerardmer.fr
-www.ville-gerardmer.fr
 ville-gex.fr
 www.ville-gex.fr
-ville-halluin.fr
-www.ville-halluin.fr
 ville-hasnon.fr
 www.ville-hasnon.fr
-ville-joinville-le-pont.fr
-www.ville-joinville-le-pont.fr
 ville-jurancon.fr
 www.ville-jurancon.fr
 ville-kaysersberg.fr
@@ -7842,30 +6946,14 @@ ville-lalongueville.fr
 www.ville-lalongueville.fr
 ville-lannion.fr
 www.ville-lannion.fr
-ville-leffrinckoucke.fr
-www.ville-leffrinckoucke.fr
 ville-letouquet.fr
 www.ville-letouquet.fr
-ville-lomme.fr
-www.ville-lomme.fr
-ville-malakoff.fr
-www.ville-malakoff.fr
 ville-maraussan.fr
 www.ville-maraussan.fr
-ville-marcon.fr
-www.ville-marcon.fr
-ville-martigues.fr
-www.ville-martigues.fr
-ville-mayenne.fr
-www.ville-mayenne.fr
-ville-melle.fr
-www.ville-melle.fr
 ville-migne-auxances.fr
 www.ville-migne-auxances.fr
 ville-moret-sur-loing.fr
 www.ville-moret-sur-loing.fr
-ville-morez.fr
-www.ville-morez.fr
 ville-noyant.fr
 www.ville-noyant.fr
 ville-oize.fr
@@ -7873,8 +6961,6 @@ ville-ostricourt.fr
 www.ville-ostricourt.fr
 ville-parcaylespins.fr
 www.ville-parcaylespins.fr
-ville-pibrac.fr
-www.ville-pibrac.fr
 ville-pompadour.fr
 www.ville-pompadour.fr
 ville-saint-affrique.fr
@@ -7893,10 +6979,6 @@ ville-sancerre.fr
 www.ville-sancerre.fr
 ville-selongey.fr
 www.ville-selongey.fr
-ville-seltz.fr
-www.ville-seltz.fr
-ville-tence.fr
-www.ville-tence.fr
 ville-trelon.fr
 www.ville-trelon.fr
 ville-valdhazey.fr
@@ -7917,8 +6999,6 @@ villedegarlin.fr
 www.villedegarlin.fr
 villedegermaine.fr
 www.villedegermaine.fr
-villedemontmagny.fr
-www.villedemontmagny.fr
 villedesaintesprit.fr
 villedesaintfrancois.fr
 www.villedesaintfrancois.fr
@@ -7937,8 +7017,6 @@ villers-marmery.fr
 www.villers-marmery.fr
 villeveque.fr
 www.villeveque.fr
-villevouillers51.fr
-www.villevouillers51.fr
 viltais.fr
 www.viltais.fr
 vineuil41.fr
@@ -7946,8 +7024,6 @@ www.vineuil41.fr
 vireenmaconnais.fr
 virson.fr
 www.virson.fr
-viry-chatillon.fr
-www.viry-chatillon.fr
 vitacite.fr
 www.vitacite.fr
 vitracdordogne.fr
@@ -7977,8 +7053,6 @@ web63.fr
 63140.web63.fr
 faux-vesigneul.webnode.fr
 www.faux-vesigneul.webnode.fr
-westhalten.fr
-www.westhalten.fr
 wwwcroshautdefrance.fr
 wwwescalado.fr
 wwwmairie-tavernay.fr
@@ -7989,8 +7063,6 @@ yonne-nord.fr  # (redirection from www.cc-yonne-nord.fr)
 dev.yonval.fr
 zellenberg.fr
 www.zellenberg.fr
-zellwiller.fr
-www.zellwiller.fr
 www.zoofast.fr  # (redirection from arettelapierrestmartin.fr)
 émancé.fr
 www.émancé.fr
@@ -8119,10 +7191,6 @@ betpouey.net
 www.betpouey.net
 berbiguieres.blog4ever.net
 www.berbiguieres.blog4ever.net
-cairanne.net
-www.cairanne.net
-calcatoggio.net
-www.calcatoggio.net
 capemploi.net
 www.capemploi.net
 charost.net
@@ -8137,8 +7205,6 @@ www.citesenchampagne.net
 vs20.concept-image.cognix-systems.net  # (redirection from saintmalofougeres.cci.fr)
 collonges.net
 www.collonges.net
-criquetot-lesneval.net
-www.criquetot-lesneval.net
 csc-escale.net
 www.csc-escale.net
 ensastage.net  # Found in cert of CN=zensa.ensm.org, see https://crt.sh/?id=5244517637
@@ -8172,8 +7238,6 @@ info-jeune.net
 www.info-jeune.net
 info-jeunes.net
 www.info-jeunes.net
-itancourt.net
-www.itancourt.net
 jurasud.net
 www.jurasud.net
 lareposance.net
@@ -8206,8 +7270,6 @@ ofpra.net  # Found in cert of jurisdictionC=FR, businessCategory=Government Enti
 www.ofpra.net  # Found in cert of jurisdictionC=FR, businessCategory=Government Entity, serialNumber=Government Entity, C=FR, L=Fontenay sous Bois, O=Office Francais de Protection des Refugies et Apatrides, CN=www.ofpra.gouv.fr, see https://crt.sh/?id=7176027497
 olmeto.net
 www.olmeto.net
-ornaisons.net
-www.ornaisons.net
 pleugriffet.net
 www.pleugriffet.net
 puygouson.net
@@ -8218,8 +7280,6 @@ regis-dgac.net
 www.jeunesse.romorantin.net  # (redirection from jeunesse.romorantin.com)
 rougnac.net
 www.rougnac.net
-rouhling.net
-www.rouhling.net
 saint-barthelemy56.net
 www.saint-barthelemy56.net
 saint-geyrac.net
@@ -8246,8 +7306,6 @@ vivadom.net
 www.vivadom.net
 westhoffen.net
 www.westhoffen.net
-zevacu.net
-www.zevacu.net
 asp.zone-secure.net  # (redirection from guide-motards.conduire-un-deux-roues.gouv.fr)
 le-mesnil-simon.fr.nf
 acegaa.org
@@ -8430,8 +7488,6 @@ www.86.assoligue.org
 attachefiscal.org
 autodiscover.attachefiscal.org  # Found in cert of CN=webmail.dgtresor.gouv.fr, see https://crt.sh/?id=7055644282
 sip.attachefiscal.org  # Found in cert of C=FR, L=PARIS, O=DIRECTION GENERALE DU TRESOR, OU=0002 12000032800019, CN=dgtresor.gouv.fr, serialNumber=S208650582, see https://crt.sh/?id=5023412859
-aubepierre-ozouer-le-repos.org
-www.aubepierre-ozouer-le-repos.org
 aurbse.org
 www.aurbse.org
 auxilia-accueil.org
@@ -8505,12 +7561,8 @@ cdos64.org
 www.cdos64.org
 cdos94.org
 www.cdos94.org
-champagnac.org
-www.champagnac.org
 mission.locale.chateauroux.org
 www.mission.locale.chateauroux.org
-chenas.org
-www.chenas.org
 cidff04.org
 www.cidff04.org
 cidff06.org
@@ -8702,10 +7754,6 @@ ligueparis.org
 www.ligueparis.org
 loisireduc.org
 www.loisireduc.org
-luz.org
-www.luz.org
-macheren.org
-www.macheren.org
 maia-ugr-gard.org
 www.maia-ugr-gard.org
 mairie-torcy.org
@@ -8905,8 +7953,6 @@ reseau-sara.org
 www.reseau-sara.org
 saintamanddecoly.org
 www.saintamanddecoly.org
-salon-de-provence.org
-www.salon-de-provence.org
 cidpacclic.sarthe.org
 www.cidpacclic.sarthe.org
 cidpaclic.sarthe.org
@@ -8923,10 +7969,6 @@ sivrylaperche.org
 www.sivrylaperche.org
 st-martin-auxigny.org
 www.st-martin-auxigny.org
-chasselay.sud-gresivaudan.org
-www.chasselay.sud-gresivaudan.org
-cognin-les-gorges.sud-gresivaudan.org
-www.cognin-les-gorges.sud-gresivaudan.org
 missionlocale.sud-gresivaudan.org
 www.missionlocale.sud-gresivaudan.org
 jeunes.terresdelorraine.org
