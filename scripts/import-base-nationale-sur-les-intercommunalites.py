@@ -11,9 +11,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parent.parent
 
-
 import argparse
-
 
 NATURE_JURIDIQUES = {
     "MET69": "Métropole de Lyon",
@@ -59,12 +57,12 @@ def main():
     )
 
     with open(
-        ROOT / "sources" / "collectivites.txt", "a", encoding="UTF-8"
+            ROOT / "sources" / "collectivites.txt", "a", encoding="UTF-8"
     ) as collectivites:
         for line in (
-            df[df["Nature juridique"] == args.nature_juridique]["Site internet"]
-            .dropna()
-            .unique()
+                df[df["Nature juridique"] == args.nature_juridique]["Site internet"]
+                        .dropna()
+                        .unique()
         ):
             line = line.strip().replace("http://", "").replace("https://", "")
             line = line.split("/", maxsplit=2)[0]  # Drop the path part.

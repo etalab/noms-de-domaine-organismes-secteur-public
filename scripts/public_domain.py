@@ -61,6 +61,7 @@ class Domain:
     comment: str = ""
     http_status: str | None = None
     https_status: str | None = None
+
     # http*_status can also starts with "Redirects to: "
     #
     # It's encouraged to add any needed attributes like:
