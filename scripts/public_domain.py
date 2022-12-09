@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 
 logger = logging.getLogger(__name__)
 
-# Domains that are commonly found behind redurections but are not public service:
+# Domains that are commonly found behind redirections but are not public service:
 NON_PUBLIC_DOMAINS = {
     "128k.io",
     "3dathome.fr",
