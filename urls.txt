@@ -284,7 +284,7 @@ http://alos-sibas-abense.com
 http://www.alos-sibas-abense.com
 https://www.alpillesenprovence.com
 http://alta-rocca.com
-http://www.alta-rocca.com
+https://www.alta-rocca.com
 http://altillac.com
 http://www.altillac.com
 http://www.amblans.com
@@ -1963,10 +1963,10 @@ https://location-gite-salle-reception-ariege.com
 https://www.location-gite-salle-reception-ariege.com
 https://www.lochessudtouraine.com
 https://loconville.com
-http://www.lomagne-gersoise.com
+https://www.lomagne-gersoise.com
 https://lombez-gers.com
 https://www.lombez-gers.com
-https://www.lompnas.com
+http://www.lompnas.com
 http://lonlaylabbaye.com
 http://www.lonlaylabbaye.com
 http://loriges.com
@@ -2045,7 +2045,6 @@ http://www.lyceecharliechaplin.com
 https://www.lyceedecroisset.com
 https://www.lyceedurzy.com
 https://lyceefloratristan77.com
-https://lyceegaudier.com
 https://www.lyceegeiler.com
 https://www.lyceegeorgesand.com
 https://lyceegilbertcourtois.com
@@ -2149,7 +2148,6 @@ http://www.mairie-champdieu.com
 https://www.mairie-chatel.com
 https://www.mairie-cheniers-creuse.com
 https://mairie-cheverny.com
-https://mairie-chirac.com
 https://www.mairie-chirac.com
 http://www.mairie-clisson.com
 http://mairie-cologne.com
@@ -2806,7 +2804,6 @@ https://www.owlgeeks.com
 https://www.oz-en-oisans.com
 http://padlet.com
 https://www.pagnylaville.com
-http://paladru.com
 http://www.paladru.com
 http://palau-del-vidre.com
 http://www.palau-del-vidre.com
@@ -4039,7 +4036,6 @@ https://www.illkirch.eu
 http://www.bouce.interco-abl.eu
 http://www.cindre.interco-abl.eu
 http://www.treteau.interco-abl.eu
-http://www.varennes-sur-teche.interco-abl.eu
 https://ira-lille.eu
 https://www.ira-lille.eu
 http://kirrwiller.eu
@@ -9541,7 +9537,6 @@ https://www.cangt.fr
 https://www.canisy.fr
 https://www.canly.fr
 http://cannes.fr
-http://www.cannes.fr
 https://cannes-ecluse.fr
 https://cannesclairan.fr
 https://cannespaysdelerins.fr
@@ -11917,7 +11912,6 @@ https://www.commune-de-mainxe-gondeville.fr
 https://commune-de-maresche.fr
 https://www.commune-de-maresche.fr
 https://commune-de-mhere.fr
-https://commune-de-plurien.fr
 https://www.commune-de-plurien.fr
 https://www.commune-de-pouille.fr
 https://commune-de-pouilley-francais.fr
@@ -13858,7 +13852,6 @@ https://www.enac.fr
 https://encausse32.fr
 https://www.enchastrayes.fr
 https://enchenberg.fr
-https://www.enchenberg.fr
 https://endoufielle.fr
 https://www.energie28.fr
 https://www.enghienlesbains.fr
@@ -16046,7 +16039,6 @@ https://cfas.apprentissage.beta.gouv.fr
 https://cfas-dev.apprentissage.beta.gouv.fr
 https://cfas-recette.apprentissage.beta.gouv.fr
 https://contrat-pentest.apprentissage.beta.gouv.fr
-https://contrat-recette.apprentissage.beta.gouv.fr
 https://doctrina.apprentissage.beta.gouv.fr
 https://doctrina-recette.apprentissage.beta.gouv.fr
 https://labonnealternance.apprentissage.beta.gouv.fr
@@ -17466,7 +17458,6 @@ https://ssi.economie.gouv.fr
 https://www.ssi.economie.gouv.fr
 https://dev.supportaife.economie.gouv.fr
 https://test.supportaife.economie.gouv.fr
-https://www.tresor.economie.gouv.fr
 https://www.economie.gouv.fr
 http://ecoquartier2011.gouv.fr
 https://afet.education.gouv.fr
@@ -17852,7 +17843,6 @@ https://o3sis.esante.gouv.fr
 https://participez.esante.gouv.fr
 https://status.prosanteconnect.esante.gouv.fr
 https://api.bas.psc.esante.gouv.fr
-https://auth.bas.psc.esante.gouv.fr
 https://wallet.bas.psc.esante.gouv.fr
 https://ressources.esante.gouv.fr
 https://status.samu.esante.gouv.fr
@@ -18264,7 +18254,7 @@ https://auth.secure.gendarmerie.interieur.gouv.fr
 https://auth.sso.gendarmerie.interieur.gouv.fr
 https://reserve-gendform.sso.gendarmerie.interieur.gouv.fr
 https://session.tests-gav.gendarmerie.interieur.gouv.fr
-http://testsenligne.gendarmerie.interieur.gouv.fr
+https://testsenligne.gendarmerie.interieur.gouv.fr
 https://www.gendarmerie.interieur.gouv.fr
 https://www.goti.interieur.gouv.fr
 https://habilitation-siv.interieur.gouv.fr
@@ -19521,7 +19511,6 @@ https://grandvillersauxbois-beaupuits.fr
 https://www.grandvillersauxbois-beaupuits.fr
 http://www.grandvilliers.fr
 https://grane.fr
-https://www.grangermont.fr
 https://granges-aumontzey.fr
 https://granges71.fr
 https://www.granges71.fr
@@ -21333,7 +21322,6 @@ https://www.latronquiere.fr
 https://lattresaintquentin.fr
 https://latuiliere42.fr
 https://laturballe.fr
-https://www.laturballe.fr
 http://www.laubressel.fr
 https://laudrefang.fr
 https://laudunlardoise.fr
@@ -23787,6 +23775,7 @@ http://mairie-groslay.fr
 http://www.mairie-groslay.fr
 https://www.mairie-grosrouvre.fr
 http://www.mairie-grossoeuvre.fr
+http://www.mairie-gruffy.fr
 https://www.mairie-gruson.fr
 http://www.mairie-guemene-penfao.fr
 http://mairie-guilers.fr
@@ -25294,7 +25283,6 @@ http://fontenay-sur-vegre.mairie72.fr
 http://jouelabbe.mairie72.fr
 http://www.jouelabbe.mairie72.fr
 http://maigne.mairie72.fr
-http://www.maigne.mairie72.fr
 http://montmirail.mairie72.fr
 http://www.montmirail.mairie72.fr
 http://saintgervaisenbelin.mairie72.fr
@@ -27432,7 +27420,7 @@ https://montfarville.fr
 https://www.montfarville.fr
 https://www.montfaucon.fr
 https://www.montfaucon25.fr
-http://www.montfaucondargonne.fr
+https://www.montfaucondargonne.fr
 https://montfauconenvelay.fr
 https://montferrand-du-perigord.fr
 https://www.montferrand-le-chateau.fr
@@ -30452,6 +30440,7 @@ https://www.saint-cergues.fr
 https://saint-cernin.fr
 https://www.saint-cernin.fr
 http://www.saint-cernin-de-larche.fr
+https://saint-cernin-de-lherm-24.fr
 https://saint-cesaire17.fr
 http://www.saint-chaffrey.fr
 http://saint-chamant-cantal.fr
@@ -31113,6 +31102,8 @@ https://saint-thierry.fr
 https://www.saint-thierry.fr
 https://www.saint-thomas-31.fr
 http://www.saint-thomas-de-conac.fr
+https://saint-thonan.fr
+https://www.saint-thonan.fr
 https://saint-thual.fr
 https://www.saint-thual.fr
 https://www.saint-thuriau.fr
@@ -36526,7 +36517,7 @@ https://warhem.fr
 https://www.warluis.fr
 https://warlus.fr
 https://www.warlus.fr
-http://warluzel.fr
+https://warluzel.fr
 https://warmeriville.fr
 https://www.warmeriville.fr
 http://www.warnecourt.fr
@@ -36930,6 +36921,7 @@ https://www.brousselechateau.net
 http://burlats.net
 https://capexcellence.net
 https://www.capexcellence.net
+https://carticasi.net
 https://www.carticasi.net
 https://chalais.net
 https://www.chalais.net
@@ -37203,6 +37195,8 @@ http://saint-pever.net
 http://www.saint-pever.net
 http://saint-priest-la-feuille.net
 http://www.saint-priest-la-feuille.net
+https://saint-valbert.net
+https://www.saint-valbert.net
 https://www.saintblaise74.net
 http://saintbonnetletroncy.net
 http://www.saintbonnetletroncy.net
