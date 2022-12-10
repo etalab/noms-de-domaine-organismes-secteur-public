@@ -5,6 +5,7 @@ import asyncio
 from datetime import date
 from pathlib import Path
 import logging
+import re
 from urllib.parse import urlparse, urljoin
 
 import aiohttp
@@ -41,6 +42,8 @@ def to_message(err):
         case aiohttp.client_exceptions.ClientConnectorError() if err.strerror:
             return err.strerror
         case aiohttp.client_exceptions.ClientConnectorCertificateError():
+            if short_string := re.search(r"\[SSL: \S+\] ([^:]*): ", str(err.certificate_error)):
+                return short_string.group(1)
             return f"{err.certificate_error!s}"
         case asyncio.TimeoutError():
             return "Timeout"
