@@ -35,16 +35,27 @@ def to_message(err):
     response or exception caused by an HTTP query."""
     match err:
         case aiohttp.ClientResponse(status=200):
-            return f"200 {avoid_surrogates(err.reason)}"
+            return f"200 {avoid_surrogates(err.reason)}".strip()
         case aiohttp.ClientResponse(status=301 | 302 | 303 | 307 | 308):
             dest = err.headers.get("Location", "(but no Location in headers)")
             return f"{err.status} {avoid_surrogates(err.reason)} {dest}"
-        case aiohttp.client_exceptions.ClientConnectorError() if err.strerror:
-            return err.strerror
-        case aiohttp.client_exceptions.ClientConnectorCertificateError():
-            if short_string := re.search(r"\[SSL: \S+\] ([^:]*): ", str(err.certificate_error)):
-                return short_string.group(1)
-            return f"{err.certificate_error!s}"
+        case aiohttp.ServerDisconnectedError():
+            return "Server disconnected"
+        case aiohttp.client_exceptions.ClientResponseError():
+            return f"{err.status} {avoid_surrogates(err.message)}"
+        case aiohttp.client_exceptions.ClientError():
+            if hasattr(err, 'certificate_error'):
+                err = err.certificate_error
+            if hasattr(err, 'strerror') and err.strerror is not None:
+                err = err.strerror
+            err = re.sub(r"\([^\)]*\)", "", str(err))  # Remove parenthesed details
+            err = re.sub(r"\[[^\]]*\]", "", err)  # Remove bracketed details
+            err = err.split(":")[0].strip()
+            if "Cannot connect to host" in str(err):
+                return "Cannot connect"
+            if "Connect call failed" in str(err):
+                return "Connection failed"
+            return err
         case asyncio.TimeoutError():
             return "Timeout"
         case aiohttp.ClientResponse():
