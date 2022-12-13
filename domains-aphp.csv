@@ -1,0 +1,235 @@
+name,http_last_check,http_status,https_last_check,https_status
+aphp.fr,2022-12-13,302 Moved Temporarily https://aphp.fr:443/,2022-12-13,301 Moved Permanently https://www.aphp.fr/
+aaa.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+achats-ageps.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+addictovigilance.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+administration-goodmeeting.aphp.fr,2022-12-13,200 OK,2022-12-13,403 Forbidden
+affairesjuridiques.aphp.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+ageps.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ambroisepare.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ami-dd.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+anomaliescervelet.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+antithrombotiques.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+aphp.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+soutenir.aphp-centre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+soutenir.aphp-sorbonne-universite.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+archives.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+bbs-iamwam-q001.bbq.aphp.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+blogs.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+bo-myaphp.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+calipsso.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.calipsso.aphp.fr,2022-12-13,301 Moved Permanently http://calipsso.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.calipsso.aphp.fr'. (_ssl.c:997)"
+campus.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cancer.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cancer-estparisien.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cancer-ghparis10.aphp.fr,2022-12-13,410 Gone,2022-12-13,410 Gone
+cancer-grossesse.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cancer-hopitalpompidou.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cancer-psl.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cancer-psl.aphp.fr,2022-12-13,301 Moved Permanently http://cancer-psl.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cancer-psl.aphp.fr'. (_ssl.c:997)"
+cancer-seniors-paris-est.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cardiogen.aphp.fr,2022-12-13,302 Moved Temporarily http://www.cardiogen.aphp.fr/articles/articles.php?id=1&cat=1,2022-12-13,"Connect call failed ('164.2.250.209', 443)"
+www.cardiogen.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.209', 443)"
+cedit.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+centre-memoire.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+centremeary.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.centremeary.aphp.fr,2022-12-13,301 Moved Permanently http://centremeary.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.centremeary.aphp.fr'. (_ssl.c:997)"
+cfdc.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+charlesfoix.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chirurgie-digestive-sat.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chirurgie-refractive.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.195', 443)"
+chu-mondor.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu93.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cleanweb.aphp.fr,2022-12-13,302 Moved Temporarily https://cleanweb.aphp.fr:443/,2022-12-13,404 Not Found
+cme.aphp.fr,2022-12-13,302 Moved Temporarily https://cme.aphp.fr:443/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+cmfplastique-enfant.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cmfplastique-enfant.aphp.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmfplastique-enfant.aphp.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmfplastique-enfant.aphp.fr'. (_ssl.c:997)"
+cnr-escherichiacoli-robertdebre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+compare.aphp.fr,2022-12-13,302 Moved Temporarily https://compare.aphp.fr:443/,2022-12-13,200 OK
+concours.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+corevih-idfcentre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+covid-documentation.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+creutzfeldt-jakob.aphp.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.creutzfeldt-jakob.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.180', 443)"
+crmerc.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+darsaintantoine.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+dhu.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.41', 443)"
+diabete-robertdebre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+direct.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+disphelif.aphp.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+don-hopitaux-nord.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+eds.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+electionscommissionsoins.aphp.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+endocrino-sat.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+epilepsie-robertdebre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+espace-emploi.aphp.fr,2022-12-13,302 Moved Temporarily https://espace-emploi.aphp.fr:443/,2022-12-13,200 OK
+etabpharma-ageps.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ethique-clinique.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+evenementiels.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+fcm.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.141', 443)"
+fertilite-bichat.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+fertilitepariscentre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+formation.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+formulairesrendezvous.aphp.fr,2022-12-13,"Connect call failed ('164.2.184.67', 80)",2022-12-13,"Connect call failed ('164.2.184.67', 443)"
+frequentationdesurgences.aphp.fr,2022-12-13,ServerDisconnectedError: Server disconnected,2022-12-13,404 Not Found
+ghparis10.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+gmao-sorbonne-universite.aphp.fr,2022-12-13,"Connect call failed ('137.74.227.233', 80)",2022-12-13,200 OK
+gynecologieobstetrique-psl.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-antoine-beclere.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-beaujon.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-bicetre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-bichat.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-bretonneau.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-corentincelton.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-georgespompidou.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-lariboisiere.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-louis-mourier.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-necker.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-nouveau-lariboisiere.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.hopital-nouveau-lariboisiere.aphp.fr,2022-12-13,301 Moved Permanently http://hopital-nouveau-lariboisiere.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hopital-nouveau-lariboisiere.aphp.fr'. (_ssl.c:997)"
+hopital-paul-brousse.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-saintlouis.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopital-vaugirard.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopitaux-paris-centre.aphp.fr,2022-12-13,301 Moved Permanently https://hopitauxcentre-u-pariscite.aphp.fr//,2022-12-13,301 Moved Permanently https://hopitauxcentre-u-pariscite.aphp.fr//
+hopitaux-paris-sud.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hopitaux-parisouest.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hoptisoins.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hospitalisationadomicile.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.hospitalisationadomicile.aphp.fr,2022-12-13,301 Moved Permanently http://hospitalisationadomicile.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hospitalisationadomicile.aphp.fr'. (_ssl.c:997)"
+huep.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+huntington.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.133', 443)"
+hupifo.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hupnvs.aphp.fr,2022-12-13,301 Moved Permanently https://hopitauxnord-u-pariscite.aphp.fr//,2022-12-13,301 Moved Permanently https://hopitauxnord-u-pariscite.aphp.fr//
+innovations.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+institut-e3m.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+institut-memoire.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+lactarium-idf.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+langage-apprentissages.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+larocheguyon.aphp.fr,2022-12-13,302 Moved Temporarily http://huep.aphp.fr/larocheguyon/,2022-12-13,302 Moved Temporarily https://huep.aphp.fr/larocheguyon/
+magec.aphp.fr,2022-12-13,410 Gone,2022-12-13,410 Gone
+maladiesdigestives-robertdebre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+maladiesrares-cochin-hotel-dieu.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+maladiesrares-necker.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.maladiesrares-necker.aphp.fr,2022-12-13,301 Moved Permanently http://maladiesrares-necker.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.maladiesrares-necker.aphp.fr'. (_ssl.c:997)"
+maladiesrares-paris-saclay.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+maladiesrares-paris-sud.aphp.fr,2022-12-13,301 Moved Permanently https://maladiesrares-paris-saclay.aphp.fr/,2022-12-13,301 Moved Permanently https://maladiesrares-paris-saclay.aphp.fr/
+maladiessystemenerveux-psl.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mamea.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+marchespublics.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+maritimeberck.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+maternite-beclere.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+maternite-lariboisiere.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+maternite-necker.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.maternite-necker.aphp.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.maternite-necker.aphp.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.maternite-necker.aphp.fr'. (_ssl.c:997)"
+maternitelouismourier.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mda.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+medecinechinoise.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.medecinechinoise.aphp.fr,2022-12-13,301 Moved Permanently http://medecinechinoise.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.medecinechinoise.aphp.fr'. (_ssl.c:997)"
+melbase.aphp.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+migraine-robertdebre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mobilestore.aphp.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+mon.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+vasculaire.mondor.aphp.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.vasculaire.mondor.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.206', 443)"
+mondossier.aphp.fr,2022-12-13,404 Not Found,2022-12-13,404 Not Found
+soutenir.necker.aphp.fr,2022-12-13,301 Moved Permanently http://hopital-necker.aphp.fr/soutenez-nous,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'soutenir.necker.aphp.fr'. (_ssl.c:997)"
+www.soutenir.necker.aphp.fr,2022-12-13,301 Moved Permanently http://hopital-necker.aphp.fr/soutenez-nous,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.soutenir.necker.aphp.fr'. (_ssl.c:997)"
+neonatologie-robertdebre.aphp.fr,2022-12-13,410 Gone,2022-12-13,410 Gone
+neurofibromatoses.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.47', 443)"
+nutritiongastro-trousseau.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+obesite-robertdebre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+oncologie-psl.aphp.fr,2022-12-13,301 Moved Permanently https://cancer-psl.aphp.fr/,2022-12-13,301 Moved Permanently https://cancer-psl.aphp.fr/
+oncomolpath.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+orl-robertdebre.aphp.fr,2022-12-13,503 Service Unavailable,2022-12-13,503 Service Unavailable
+orl-rothschild.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+otms-g02.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+otms-g12.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+ottpi.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+paiement-en-ligne.aphp.fr,2022-12-13,ServerDisconnectedError: Server disconnected,2022-12-13,200 OK
+patho-pro-garches.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+pechad.aphp.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+pharmacie-hospitaliere-ageps.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+pharmadoc.aphp.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+pitiesalpetriere.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+plateforme-covid-idf.aphp.fr,2022-12-13,302 Moved Temporarily https://plateforme-covid-idf.aphp.fr:443/,2022-12-13,200 OK
+plateforme-covid-idf-part.aphp.fr,2022-12-13,302 Moved Temporarily https://plateforme-covid-idf-part.aphp.fr:443/,2022-12-13,200 OK
+plateformeprojets.aphp.fr,2022-12-13,302 Moved Temporarily https://plateformeprojets.aphp.fr:443/,2022-12-13,200 OK
+poleducoeur-hupo.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+poll.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+portail-web.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+portailvillehopital-ghparis10.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+prbmondor.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+preprod-lesprojetsdelaserre.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+psymondor.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ptah.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+pums.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+questionnaire.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+radiologie-saintantoine.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+radiotherapie-tenon.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+randoweb.aphp.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+raymondpoincare.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+reamondor.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.reamondor.aphp.fr,2022-12-13,301 Moved Permanently http://reamondor.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.reamondor.aphp.fr'. (_ssl.c:997)"
+reanimation-sat.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+recherche.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+recherche-ghparis10.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+recherche-hupnvs.aphp.fr,2022-12-13,301 Moved Permanently https://recherche-hopitauxnord-u-pariscite.aphp.fr//,2022-12-13,301 Moved Permanently https://recherche-hopitauxnord-u-pariscite.aphp.fr//
+recherche-innovation.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+recherche-robertdebre.aphp.fr,2022-12-13,503 Service Unavailable,2022-12-13,503 Service Unavailable
+registre-htap.aphp.fr,2022-12-13,302 Moved Temporarily https://registre-htap.aphp.fr:443/,2022-12-13,200 OK
+rendu-osler.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+reseau-ophdiat.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+resultatslaboratoires.aphp.fr,2022-12-13,302 Moved Temporarily https://resultatslaboratoires.aphp.fr:443/,2022-12-13,200 OK
+rmm.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+robertdebre.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+maternite-gynecologie.robertdebre.aphp.fr,2022-12-13,301 Moved Permanently https://maternite-gynecologie-robertdebre.aphp.fr//,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'maternite-gynecologie.robertdebre.aphp.fr'. (_ssl.c:997)"
+rothschild.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+s180-18.aphp.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 's180-18.aphp.fr'. (_ssl.c:997)"
+s184-10.aphp.fr,2022-12-13,200 OK,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+s184-111.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+s184-43.aphp.fr,2022-12-13,"Connect call failed ('164.2.184.43', 80)",2022-12-13,"Connect call failed ('164.2.184.43', 443)"
+s184-45.aphp.fr,2022-12-13,"Connect call failed ('164.2.184.45', 80)",2022-12-13,"Connect call failed ('164.2.184.45', 443)"
+s184-9.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+s250-241.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+s250-58.aphp.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+saintantoine.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+sainteperine.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+savoirserelever.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+seinarisque.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+seralpar.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+sipilink.aphp.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+speapsl.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.209', 443)"
+spraton.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+surrenales.aphp.fr,2022-12-13,301 Moved Permanently http://maladiesrares-cochin-hotel-dieu.aphp.fr/surrenale/,2022-12-13,301 Moved Permanently http://maladiesrares-cochin-hotel-dieu.aphp.fr/surrenale/
+surycat.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+tenon.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+test.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+travaux-cochin.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.49', 443)"
+trousseau.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+usic-eparis.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.12', 443)"
+vaccin-voyage-ghparis10.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+vnietsommeil.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+volontaire.aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+web106.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.206', 443)"
+web110.aphp.fr,2022-12-13,Timeout,2022-12-13,Timeout
+web111.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.41', 443)"
+web112.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.33', 443)"
+web118.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.47', 443)"
+web120.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.49', 443)"
+web122.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.182', 443)"
+web134.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.195', 443)"
+web143.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.133', 443)"
+web21.aphp.fr,2022-12-13,"Connect call failed ('164.2.250.38', 80)",2022-12-13,"Connect call failed ('164.2.250.38', 443)"
+web61.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.141', 443)"
+web90.aphp.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.2.250.180', 443)"
+webbmr-raisin.aphp.fr,2022-12-13,ServerDisconnectedError: Server disconnected,2022-12-13,200 OK
+wfr.aphp.fr,2022-12-13,502 Proxy Error,2022-12-13,502 Proxy Error
+wsso-gaiap.aphp.fr,2022-12-13,403 Forbidden,2022-12-13,403 Forbidden
+www.aphp.fr,2022-12-13,302 Moved Temporarily https://www.aphp.fr:443/,2022-12-13,200 OK
+soutenir.fondationaphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+fondationrechercheaphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+eye.news-aphp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+omedit-idf.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.omedit-idf.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+urologie-mondor.fr,2022-12-13,301 Moved Permanently http://www.urologie-mondor.fr/,2022-12-13,ClientConnectorError: Cannot connect to host urologie-mondor.fr:443 ssl:default [None]
+www.urologie-mondor.fr,2022-12-13,200 OK,2022-12-13,ClientConnectorError: Cannot connect to host www.urologie-mondor.fr:443 ssl:default [None]
