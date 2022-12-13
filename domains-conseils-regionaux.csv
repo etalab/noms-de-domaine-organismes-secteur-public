@@ -1,0 +1,33 @@
+name,http_last_check,http_status,https_last_check,https_status
+bretagne.bzh,2022-12-12,302 Moved Temporarily https://www.bretagne.bzh/,2022-12-12,302 Moved Temporarily https://www.bretagne.bzh/
+www.bretagne.bzh,2022-12-12,200 OK,2022-12-12,200 OK
+regionreunion.com,2022-12-12,200 OK,2022-12-12,200 OK
+www.regionreunion.com,2022-12-12,301 Moved Permanently https://regionreunion.com/,2022-12-12,301 Moved Permanently https://regionreunion.com/
+auvergnerhonealpes.fr,2022-12-12,301 Moved Permanently https://www.auvergnerhonealpes.fr/,2022-12-12,301 Moved Permanently https://www.auvergnerhonealpes.fr/
+www.auvergnerhonealpes.fr,2022-12-12,200 OK,2022-12-12,200 OK
+bourgognefranchecomte.fr,2022-12-12,301 Moved Permanently https://www.bourgognefranchecomte.fr/,2022-12-12,301 Moved Permanently https://www.bourgognefranchecomte.fr/
+www.bourgognefranchecomte.fr,2022-12-12,200 OK,2022-12-12,200 OK
+corse.fr,2022-12-12,Temporary failure in name resolution,2022-12-12,Temporary failure in name resolution
+www.corse.fr,2022-12-12,Temporary failure in name resolution,2022-12-12,Temporary failure in name resolution
+ctguyane.fr,2022-12-12,301 Moved Permanently https://www.ctguyane.fr/,2022-12-12,301 Moved Permanently https://www.ctguyane.fr/
+www.ctguyane.fr,2022-12-12,200 OK,2022-12-12,200 OK
+grandest.fr,2022-12-12,301 Moved Permanently http://www.grandest.fr/,2022-12-12,301 Moved Permanently https://www.grandest.fr
+www.grandest.fr,2022-12-12,403 Forbidden,2022-12-12,403 Forbidden
+hautsdefrance.fr,2022-12-12,301 Moved Permanently https://www.hautsdefrance.fr/,2022-12-12,301 Moved Permanently https://www.hautsdefrance.fr/
+www.hautsdefrance.fr,2022-12-12,200 OK,2022-12-12,200 OK
+iledefrance.fr,2022-12-12,301 Moved Permanently https://www.iledefrance.fr/,2022-12-12,301 Moved Permanently https://www.iledefrance.fr/
+www.iledefrance.fr,2022-12-12,200 OK,2022-12-12,200 OK
+laregion.fr,2022-12-12,301 Moved Permanently https://www.laregion.fr/,2022-12-12,301 Moved Permanently https://www.laregion.fr/
+www.laregion.fr,2022-12-12,200 OK,2022-12-12,200 OK
+maregionsud.fr,2022-12-12,301 Moved Permanently https://www.maregionsud.fr/,2022-12-12,301 Moved Permanently https://www.maregionsud.fr/
+www.maregionsud.fr,2022-12-12,200 OK,2022-12-12,200 OK
+normandie.fr,2022-12-12,Temporary failure in name resolution,2022-12-12,Temporary failure in name resolution
+www.normandie.fr,2022-12-12,Temporary failure in name resolution,2022-12-12,Temporary failure in name resolution
+nouvelle-aquitaine.fr,2022-12-12,301 Moved Permanently https://www.nouvelle-aquitaine.fr/,2022-12-12,200 OK
+www.nouvelle-aquitaine.fr,2022-12-12,200 OK,2022-12-12,200 OK
+paysdelaloire.fr,2022-12-12,301 Moved Permanently https://www.paysdelaloire.fr/,2022-12-12,301 Moved Permanently https://www.paysdelaloire.fr/
+www.paysdelaloire.fr,2022-12-12,200 OK,2022-12-12,200 OK
+regionguadeloupe.fr,2022-12-12,301 Moved Permanently http://www.regionguadeloupe.fr,2022-12-12,301 Moved Permanently http://www.regionguadeloupe.fr
+www.regionguadeloupe.fr,2022-12-12,200 OK,2022-12-12,200 OK
+collectivitedemartinique.mq,2022-12-12,200 OK,2022-12-12,200 OK
+www.collectivitedemartinique.mq,2022-12-12,200 OK,2022-12-12,200 OK
