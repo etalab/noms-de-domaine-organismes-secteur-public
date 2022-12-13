@@ -1,0 +1,55 @@
+name,http_last_check,http_status,https_last_check,https_status
+fr.ap-hm.fr,2022-12-13,Timeout,2022-12-13,"Connect call failed ('185.61.162.58', 443)"
+aphp-international.fr,2022-12-13,[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:997),2022-12-13,ClientConnectorError: Cannot connect to host aphp-international.fr:443 ssl:default [None]
+chr-metz-thionville.fr,2022-12-13,Timeout,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)
+chr-orleans.fr,2022-12-13,301 Moved Permanently https://www.chu-orleans.fr/,2022-12-13,301 Moved Permanently https://www.chu-orleans.fr/
+www.chr-orleans.fr,2022-12-13,301 Moved Permanently https://www.chu-orleans.fr/,2022-12-13,301 Moved Permanently https://www.chu-orleans.fr/
+chru-strasbourg.fr,2022-12-13,301 Moved Permanently https://www.chru-strasbourg.fr/,2022-12-13,301 Moved Permanently https://www.chru-strasbourg.fr/
+www.chru-strasbourg.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-amiens.fr,2022-12-13,301 Moved Permanently https://www.chu-amiens.fr/,2022-12-13,301 Moved Permanently https://www.chu-amiens.fr/
+www.chu-amiens.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,200 OK
+chu-angers.fr,2022-12-13,301 Moved Permanently http://www.chu-angers.fr/,2022-12-13,301 Moved Permanently http://www.chu-angers.fr/
+www.chu-angers.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-besancon.fr,2022-12-13,302 Object moved https://www.chu-besancon.fr//,2022-12-13,302 Object moved https://www.chu-besancon.fr//
+www.chu-besancon.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-bordeaux.fr,2022-12-13,301 Moved Permanently https://www.chu-bordeaux.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+chu-brest.fr,2022-12-13,301 Moved Permanently https://www.chu-brest.fr/,2022-12-13,301 Moved Permanently https://www.chu-brest.fr/
+www.chu-brest.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-caen.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.chu-caen.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-clermontferrand.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.chu-clermontferrand.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-dijon.fr,2022-12-13,301 Moved Permanently https://www.chu-dijon.fr,2022-12-13,301 Moved Permanently https://www.chu-dijon.fr
+www.chu-dijon.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-grenoble.fr,2022-12-13,301 Moved Permanently https://www.chu-grenoble.fr/,2022-12-13,302 Found http://www.chu-grenoble.fr/
+www.chu-grenoble.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-guadeloupe.fr,2022-12-13,403 Forbidden,2022-12-13,403 Forbidden
+chu-lille.fr,2022-12-13,301 Moved Permanently https://www.chu-lille.fr/,2022-12-13,301 Moved Permanently https://www.chu-lille.fr/
+www.chu-lille.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-limoges.fr,2022-12-13,403 Forbidden,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chu-limoges.fr'. (_ssl.c:997)"
+www.chu-limoges.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-lyon.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.chu-lyon.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-martinique.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.chu-martinique.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-montpellier.fr,2022-12-13,403 Forbidden,2022-12-13,403 Forbidden
+chu-nancy.fr,2022-12-13,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997),2022-12-13,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)
+chu-nantes.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.chu-nantes.fr,2022-12-13,200 200,2022-12-13,200 200
+chu-nice.fr,2022-12-13,301 Moved Permanently https://www.chu-nice.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+chu-nimes.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,302 Moved Temporarily https://www.chu-nimes.fr/ifms
+chu-poitiers.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.chu-poitiers.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+chu-reims.fr,2022-12-13,302 Found : Moved Temporarily https://www.chu-reims.fr/,2022-12-13,302 Found : Moved Temporarily https://www.chu-reims.fr/
+www.chu-reims.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-rennes.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.chu-rennes.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-reunion.fr,2022-12-13,301 Moved Permanently https://www.chu-reunion.fr/,2022-12-13,301 Moved Permanently https://www.chu-reunion.fr/
+chu-rouen.fr,2022-12-13,301 Moved Permanently https://www.chu-rouen.fr//,2022-12-13,301 Moved Permanently https://www.chu-rouen.fr//
+www.chu-rouen.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-st-etienne.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.chu-st-etienne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-toulouse.fr,2022-12-13,301 Moved Permanently https://www.chu-toulouse.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chu-toulouse.fr'. (_ssl.c:997)"
+www.chu-toulouse.fr,2022-12-13,200 OK,2022-12-13,200 OK
+chu-tours.fr,2022-12-13,301 Moved Permanently https://www.chu-tours.fr/,2022-12-13,301 Moved Permanently https://www.chu-tours.fr/
+www.chu-tours.fr,2022-12-13,200 OK,2022-12-13,200 OK
