@@ -1,0 +1,267 @@
+name,http_last_check,http_status,https_last_check,https_status
+aisne.com,2022-12-13,200 OK,2022-12-13,200 OK
+www.aisne.com,2022-12-13,200 OK,2022-12-13,200 OK
+www.deux-sevres.com,2022-12-13,Timeout,2022-12-13,Timeout
+ain.fr,2022-12-13,301 Moved Permanently https://www.ain.fr/,2022-12-13,301 Moved Permanently https://www.ain.fr/
+www.ain.fr,2022-12-13,200 OK,2022-12-13,200 OK
+allier.fr,2022-12-13,301 Moved Permanently https://www.allier.fr/,2022-12-13,301 Moved Permanently https://www.allier.fr/
+www.allier.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ardeche.fr,2022-12-13,301 Moved Permanently https://www.ardeche.fr/,2022-12-13,301 Moved Permanently https://www.ardeche.fr/
+www.ardeche.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ariege.fr,2022-12-13,301 Moved Permanently http://www.ariege.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.ariege.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+aube.fr,2022-12-13,301 Moved Permanently https://www.aube.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'aube.fr'. (_ssl.c:997)"
+www.aube.fr,2022-12-13,200 OK,2022-12-13,200 OK
+aude.fr,2022-12-13,301 Moved Permanently https://www.aude.fr/,2022-12-13,301 Moved Permanently https://www.aude.fr/
+www.aude.fr,2022-12-13,200 OK,2022-12-13,200 OK
+aveyron.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.aveyron.fr,2022-12-13,302 Moved Temporarily https://aveyron.fr/,2022-12-13,302 Moved Temporarily https://aveyron.fr/
+calvados.fr,2022-12-13,301 Moved Permanently https://www.calvados.fr/accueil.html,2022-12-13,301 Moved Permanently https://www.calvados.fr/accueil.html
+www.calvados.fr,2022-12-13,200 200,2022-12-13,200 200
+cantal.fr,2022-12-13,301 Moved Permanently https://www.cantal.fr/,2022-12-13,301 Moved Permanently https://www.cantal.fr/
+www.cantal.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cd-essonne.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cd-essonne.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cd08.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cd08.fr,2022-12-13,301 Moved Permanently https://cd08.fr/,2022-12-13,301 Moved Permanently https://cd08.fr/
+cd62.fr,2022-12-13,ServerDisconnectedError: Server disconnected,2022-12-13,"Connect call failed ('46.166.189.98', 443)"
+www.cd62.fr,2022-12-13,ServerDisconnectedError: Server disconnected,2022-12-13,"Connect call failed ('46.166.189.98', 443)"
+cd66.fr,2022-12-13,301 Moved Permanently http://www.ledepartement66.fr/,2022-12-13,"Connect call failed ('178.237.108.253', 443)"
+www.cd66.fr,2022-12-13,301 Moved Permanently http://www.ledepartement66.fr/,2022-12-13,"Connect call failed ('178.237.108.253', 443)"
+cd77.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cd77.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cd79.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cd79.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cg-corsedusud.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg-corsedusud.fr,2022-12-13,404 Not Found,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg-corsedusud.fr'. (_ssl.c:997)"
+cg04.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg04.fr,2022-12-13,Timeout,2022-12-13,Timeout
+cg05.fr,2022-12-13,301 Moved Permanently https://www.hautes-alpes.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg05.fr'. (_ssl.c:997)"
+www.cg05.fr,2022-12-13,301 Moved Permanently https://www.hautes-alpes.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg05.fr'. (_ssl.c:997)"
+cg08.fr,2022-12-13,301 Moved Permanently https://cd08.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg08.fr'. (_ssl.c:997)"
+www.cg08.fr,2022-12-13,301 Moved Permanently https://cd08.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg08.fr'. (_ssl.c:997)"
+cg09.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('217.70.184.38', 443)"
+www.cg09.fr,2022-12-13,503 Service Unavailable,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg09.fr'. (_ssl.c:997)"
+cg12.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg12.fr,2022-12-13,301 Moved Permanently http://aveyron.fr/,2022-12-13,301 Moved Permanently http://aveyron.fr/
+cg13.fr,2022-12-13,301 Moved Permanently https://www.departement13.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg13.fr'. (_ssl.c:997)"
+www.cg13.fr,2022-12-13,301 Moved Permanently https://www.departement13.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg13.fr'. (_ssl.c:997)"
+cg14.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg14.fr,2022-12-13,Timeout,2022-12-13,Timeout
+cg15.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg15.fr,2022-12-13,"Connect call failed ('94.127.13.97', 80)",2022-12-13,"Connect call failed ('94.127.13.97', 443)"
+cg24.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg24.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg24.fr'. (_ssl.c:997)"
+www.cg24.fr,2022-12-13,Timeout,2022-12-13,Timeout
+cg28.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg28.fr'. (_ssl.c:997)"
+www.cg28.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg28.fr'. (_ssl.c:997)"
+cg29.fr,2022-12-13,301 Moved Permanently http://www.finistere.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.cg29.fr,2022-12-13,301 Moved Permanently http://www.finistere.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+cg32.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg32.fr,2022-12-13,301 Moved Permanently https://matomo.gers.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+cg33.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg33.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cg34.fr,2022-12-13,301 Moved Permanently https://herault.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg34.fr'. (_ssl.c:997)"
+www.cg34.fr,2022-12-13,301 Moved Permanently https://herault.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg34.fr'. (_ssl.c:997)"
+cg35.fr,2022-12-13,301 Moved Permanently https://www.ille-et-vilaine.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.cg35.fr,2022-12-13,301 Moved Permanently https://www.ille-et-vilaine.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.cg37.fr,2022-12-13,301 Moved Permanently https://www.touraine.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg37.fr'. (_ssl.c:997)"
+cg39.fr,2022-12-13,301 Moved Permanently https://jura.fr/,2022-12-13,301 Moved Permanently https://jura.fr/
+www.cg39.fr,2022-12-13,301 Moved Permanently http://jura.fr/,2022-12-13,ClientConnectorError: Cannot connect to host www.cg39.fr:443 ssl:default [None]
+cg43.fr,2022-12-13,"Connect call failed ('46.105.33.25', 80)",2022-12-13,"Connect call failed ('46.105.33.25', 443)"
+www.cg43.fr,2022-12-13,301 Moved Permanently http://www.hauteloire.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg43.fr'. (_ssl.c:997)"
+cg46.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg46.fr,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg46.fr'. (_ssl.c:997)"
+www.cg47.fr,2022-12-13,404 Not Found,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg47.fr'. (_ssl.c:997)"
+cg49.fr,2022-12-13,301 Moved Permanently http://www.cg49.fr,2022-12-13,"Connect call failed ('217.70.184.38', 443)"
+www.cg49.fr,2022-12-13,301 Moved Permanently http://www.maine-et-loire.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg49.fr'. (_ssl.c:997)"
+cg57.fr,2022-12-13,302 Moved Temporarily https://www.moselle.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg57.fr'. (_ssl.c:997)"
+www.cg57.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,302 Moved Temporarily https://www.moselle.fr
+cg58.fr,2022-12-13,403 Forbidden,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cg58.fr,2022-12-13,403 Forbidden,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cg59.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg59.fr,2022-12-13,Timeout,2022-12-13,Timeout
+cg62.fr,2022-12-13,301 Moved Permanently https://www.pasdecalais.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.cg62.fr,2022-12-13,301 Moved Permanently https://www.pasdecalais.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+cg63.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg63.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cg65.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg65.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg66.fr,2022-12-13,301 Moved Permanently http://www.ledepartement66.fr/,2022-12-13,"Connect call failed ('178.237.108.253', 443)"
+cg70.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg70.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cg71.fr,2022-12-13,301 Moved Permanently http://www.saoneetloire71.fr/,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cg71.fr,2022-12-13,301 Moved Permanently http://www.saoneetloire71.fr/,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cg74.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg74.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg74.fr'. (_ssl.c:997)"
+www.cg74.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg74.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg74.fr'. (_ssl.c:997)"
+cg81.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cg81.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cg85.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg85.fr,2022-12-13,301 Moved Permanently https://www.vendee.fr/,2022-12-13,301 Moved Permanently https://www.vendee.fr/
+cg87.fr,2022-12-13,302 Moved Temporarily http://www.cg87.fr,2022-12-13,Connection reset by peer
+www.cg87.fr,2022-12-13,200 OK,2022-12-13,Connection reset by peer
+cg90.fr,2022-12-13,302 Moved Temporarily http://www.cg90.fr,2022-12-13,"Connect call failed ('213.186.33.5', 443)"
+www.cg90.fr,2022-12-13,301 Moved Permanently https://www.territoiredebelfort.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+cg91.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.cg91.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+cg93.fr,2022-12-13,301 Moved Permanently https://seinesaintdenis.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cg93.fr'. (_ssl.c:997)"
+www.cg93.fr,2022-12-13,301 Moved Permanently https://seinesaintdenis.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg93.fr'. (_ssl.c:997)"
+cg94.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cg94.fr,2022-12-13,301 Moved Permanently http://www.valdemarne.fr/cg94,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cg94.fr'. (_ssl.c:997)"
+cg971.fr,2022-12-13,301 Moved Permanently https://www.cg971.fr/,2022-12-13,301 Moved Permanently https://www.cg971.fr/
+www.cg971.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cg974.fr,2022-12-13,302 Found https://www.cg974.fr/,2022-12-13,[SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:997)
+www.cg974.fr,2022-12-13,[SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:997),2022-12-13,[SSL: WRONG_SIGNATURE_TYPE] wrong signature type (_ssl.c:997)
+www.cg975.fr,2022-12-13,200 OK,2022-12-13,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)
+cg976.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.cg976.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+charente-maritime.fr,2022-12-13,301 Moved Permanently https://la.charente-maritime.fr/,2022-12-13,301 Moved Permanently https://la.charente-maritime.fr/
+la.charente-maritime.fr,2022-12-13,308 Permanent Redirect https://la.charente-maritime.fr:443/,2022-12-13,200 OK
+www.charente-maritime.fr,2022-12-13,301 Moved Permanently https://la.charente-maritime.fr/,2022-12-13,301 Moved Permanently https://la.charente-maritime.fr/
+correze.fr,2022-12-13,301 Moved Permanently https://www.correze.fr/,2022-12-13,301 Moved Permanently https://www.correze.fr/
+www.correze.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cotedor.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer
+www.cotedor.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cotesdarmor.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cotesdarmor.fr,2022-12-13,200 OK,2022-12-13,200 OK
+creuse.fr,2022-12-13,301 Moved Permanently https://www.creuse.fr/,2022-12-13,301 Moved Permanently https://www.creuse.fr/
+www.creuse.fr,2022-12-13,200 OK,2022-12-13,200 OK
+departement06.fr,2022-12-13,301 Moved Permanently https://www.departement06.fr/,2022-12-13,301 Moved Permanently https://www.departement06.fr/
+www.departement06.fr,2022-12-13,200 OK,2022-12-13,200 OK
+departement13.fr,2022-12-13,301 Moved Permanently http://www.departement13.fr/,2022-12-13,301 Moved Permanently http://www.departement13.fr/
+www.departement13.fr,2022-12-13,200 OK,2022-12-13,200 OK
+departement18.fr,2022-12-13,301 Moved Permanently https://www.departement18.fr/,2022-12-13,301 Moved Permanently https://www.departement18.fr/
+www.departement18.fr,2022-12-13,200 OK,2022-12-13,200 OK
+dordogne.fr,2022-12-13,302 Found : Moved Temporarily https://www.dordogne.fr/,2022-12-13,302 Found : Moved Temporarily https://www.dordogne.fr/
+www.dordogne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+doubs.fr,2022-12-13,503 Service Unavailable,2022-12-13,503 Service Unavailable
+www.doubs.fr,2022-12-13,200 OK,2022-12-13,200 OK
+essonne.fr,2022-12-13,301 Moved Permanently https://www.essonne.fr/,2022-12-13,301 Moved Permanently https://www.essonne.fr/
+www.essonne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+eureennormandie.fr,2022-12-13,200 OK,2022-12-13,200 OK
+eurelien.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.eurelien.fr,2022-12-13,200 OK,2022-12-13,200 OK
+finistere.fr,2022-12-13,301 Moved Permanently http://www.finistere.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.finistere.fr,2022-12-13,200 OK,2022-12-13,200 OK
+gard.fr,2022-12-13,301 Moved Permanently https://www.gard.fr/,2022-12-13,301 Moved Permanently https://www.gard.fr/
+www.gard.fr,2022-12-13,200 OK,2022-12-13,200 OK
+gers.fr,2022-12-13,301 Moved Permanently https://www.gers.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.gers.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+gironde.fr,2022-12-13,302 Found https://www.gironde.fr/,2022-12-13,302 Found https://www.gironde.fr/
+www.gironde.fr,2022-12-13,200 OK,2022-12-13,200 OK
+haute-corse.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.haute-corse.fr,2022-12-13,Timeout,2022-12-13,Timeout
+haute-garonne.fr,2022-12-13,Connection reset by peer,2022-12-13,301 Moved Permanently https://www.haute-garonne.fr/
+www.haute-garonne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+haute-loire.fr,2022-12-13,301 Moved Permanently https://www.hauteloire.fr/,2022-12-13,301 Moved Permanently https://www.hauteloire.fr/
+www.haute-loire.fr,2022-12-13,301 Moved Permanently https://www.hauteloire.fr/,2022-12-13,301 Moved Permanently https://www.hauteloire.fr/
+haute-marne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.haute-marne.fr,2022-12-13,301 Moved Permanently https://haute-marne.fr/,2022-12-13,301 Moved Permanently https://haute-marne.fr/
+haute-saone.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.haute-saone.fr,2022-12-13,200 OK,2022-12-13,200 OK
+haute-vienne.fr,2022-12-13,301 Moved Permanently https://www.haute-vienne.fr/,2022-12-13,301 Moved Permanently https://www.haute-vienne.fr/
+www.haute-vienne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hautes-alpes.fr,2022-12-13,301 Moved Permanently https://www.hautes-alpes.fr/,2022-12-13,200 OK
+www.hautes-alpes.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hautesavoie.fr,2022-12-13,301 Moved Permanently http://www.hautesavoie.fr/,2022-12-13,301 Moved Permanently http://www.hautesavoie.fr/
+www.hautesavoie.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hautespyrenees.fr,2022-12-13,301 Moved Permanently https://www.hautespyrenees.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hautespyrenees.fr'. (_ssl.c:997)"
+www.hautespyrenees.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hauts-de-seine.fr,2022-12-13,301 Moved Permanently http://www.hauts-de-seine.fr/,2022-12-13,301 Moved Permanently http://www.hauts-de-seine.fr/
+www.hauts-de-seine.fr,2022-12-13,200 OK,2022-12-13,200 OK
+herault.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.herault.fr,2022-12-13,301 Moved Permanently https://herault.fr,2022-12-13,301 Moved Permanently https://herault.fr
+www.ille-et-vilaine.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+indre.fr,2022-12-13,301 Moved Permanently https://www.indre.fr/,2022-12-13,301 Moved Permanently https://www.indre.fr/
+www.indre.fr,2022-12-13,200 OK,2022-12-13,200 OK
+isere.fr,2022-12-13,301 Moved Permanently https://www.isere.fr/,2022-12-13,301 Moved Permanently https://www.isere.fr/
+www.isere.fr,2022-12-13,200 OK,2022-12-13,200 OK
+lacharente.fr,2022-12-13,301 Moved Permanently https://www.lacharente.fr/,2022-12-13,Connection reset by peer
+www.lacharente.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ladrome.fr,2022-12-13,301 Moved Permanently https://www.ladrome.fr/,2022-12-13,301 Moved Permanently https://www.ladrome.fr/
+www.ladrome.fr,2022-12-13,200 OK,2022-12-13,200 OK
+lamayenne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.lamayenne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+landes.fr,2022-12-13,301 Moved Permanently https://www.landes.fr/,2022-12-13,301 Moved Permanently https://www.landes.fr/
+www.landes.fr,2022-12-13,200 OK,2022-12-13,200 OK
+lavienne86.fr,2022-12-13,301 Moved Permanently https://www.lavienne86.fr/,2022-12-13,301 Moved Permanently https://www.lavienne86.fr/
+www.lavienne86.fr,2022-12-13,200 OK,2022-12-13,200 OK
+le-loir-et-cher.fr,2022-12-13,301 Moved Permanently http://www.le-loir-et-cher.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.le-loir-et-cher.fr,2022-12-13,301 Moved Permanently https://www.departement41.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+le04.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('217.70.184.38', 443)"
+www.le04.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('217.70.184.50', 443)"
+le64.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.le64.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ledepartement.fr,2022-12-13,301 Moved Permanently https://www.ledepartement.fr/,2022-12-13,301 Moved Permanently https://www.ledepartement.fr/
+www.ledepartement.fr,2022-12-13,200 OK,2022-12-13,200 OK
+lenord.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.lenord.fr,2022-12-13,302 Found https://lenord.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+loire.fr,2022-12-13,301 Moved Permanently https://www.loire.fr/,2022-12-13,301 Moved Permanently https://www.loire.fr/
+www.loire.fr,2022-12-13,200 200,2022-12-13,200 200
+loire-atlantique.fr,2022-12-13,302 Found https://www.loire-atlantique.fr/,2022-12-13,302 Found https://www.loire-atlantique.fr/
+www.loire-atlantique.fr,2022-12-13,200 200,2022-12-13,200 200
+loiret.fr,2022-12-13,301 Moved Permanently https://www.loiret.fr/,2022-12-13,301 Moved Permanently https://www.loiret.fr/
+www.loiret.fr,2022-12-13,200 OK,2022-12-13,200 OK
+lot.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.lot.fr,2022-12-13,301 Moved Permanently http://lot.fr/,2022-12-13,301 Moved Permanently http://lot.fr/
+lozere.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.lozere.fr,2022-12-13,301 Moved Permanently https://lozere.fr/,2022-12-13,301 Moved Permanently http://lozere.fr/
+maine-et-loire.fr,2022-12-13,301 Moved Permanently https://www.maine-et-loire.fr/,2022-12-13,301 Moved Permanently https://www.maine-et-loire.fr/
+www.maine-et-loire.fr,2022-12-13,200 OK,2022-12-13,200 OK
+manche.fr,2022-12-13,301 Moved Permanently https://www.manche.fr/,2022-12-13,301 Moved Permanently https://www.manche.fr/
+www.manche.fr,2022-12-13,200 OK,2022-12-13,200 OK
+marne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.marne.fr,2022-12-13,301 Moved Permanently https://marne.fr/,2022-12-13,301 Moved Permanently https://marne.fr/
+meurthe-et-moselle.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.meurthe-et-moselle.fr,2022-12-13,200 OK,2022-12-13,200 OK
+meuse.fr,2022-12-13,301 Moved Permanently https://www.meuse.fr/,2022-12-13,301 Moved Permanently https://www.meuse.fr/
+www.meuse.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mondepartement04.fr,2022-12-13,301 Moved Permanently https://www.mondepartement04.fr/,2022-12-13,301 Moved Permanently https://www.mondepartement04.fr/
+www.mondepartement04.fr,2022-12-13,200 OK,2022-12-13,200 OK
+morbihan.fr,2022-12-13,302 Found https://www.morbihan.fr/,2022-12-13,302 Found https://www.morbihan.fr/
+www.morbihan.fr,2022-12-13,200 OK,2022-12-13,200 OK
+nievre.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.nievre.fr,2022-12-13,301 Moved Permanently https://nievre.fr/,2022-12-13,301 Moved Permanently https://nievre.fr/
+oise.fr,2022-12-13,301 Moved Permanently https://www.oise.fr/,2022-12-13,301 Moved Permanently https://www.oise.fr/
+www.oise.fr,2022-12-13,200 OK,2022-12-13,200 OK
+orne.fr,2022-12-13,301 Moved Permanently https://www.orne.fr/,2022-12-13,301 Moved Permanently https://www.orne.fr/
+www.orne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+puydedome.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.puydedome.fr,2022-12-13,301 Moved Permanently https://www.puy-de-dome.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.puydedome.fr'. (_ssl.c:997)"
+rhone.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.rhone.fr,2022-12-13,200 OK,2022-12-13,200 OK
+saoneetloire71.fr,2022-12-13,301 Moved Permanently https://www.saoneetloire71.fr/,2022-12-13,301 Moved Permanently https://www.saoneetloire71.fr/
+www.saoneetloire71.fr,2022-12-13,200 OK,2022-12-13,200 OK
+sarthe.fr,2022-12-13,301 Moved Permanently https://www.sarthe.fr/,2022-12-13,301 Moved Permanently https://www.sarthe.fr/
+www.sarthe.fr,2022-12-13,200 OK,2022-12-13,200 OK
+savoie.fr,2022-12-13,301 Moved Permanently https://www.savoie.fr/,2022-12-13,301 Moved Permanently https://www.savoie.fr/
+www.savoie.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+seine-et-marne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.seine-et-marne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+seine-saint-denis.fr,2022-12-13,301 Moved Permanently https://seinesaintdenis.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'seine-saint-denis.fr'. (_ssl.c:997)"
+www.seine-saint-denis.fr,2022-12-13,301 Moved Permanently https://seinesaintdenis.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.seine-saint-denis.fr'. (_ssl.c:997)"
+seinemaritime.fr,2022-12-13,301 Moved Permanently https://www.seinemaritime.fr/,2022-12-13,301 Moved Permanently https://www.seinemaritime.fr/
+www.seinemaritime.fr,2022-12-13,200 OK,2022-12-13,200 OK
+seinesaintdenis.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.seinesaintdenis.fr,2022-12-13,301 Moved Permanently https://seinesaintdenis.fr/,2022-12-13,301 Moved Permanently https://seinesaintdenis.fr/
+somme.fr,2022-12-13,301 Moved Permanently https://www.somme.fr/,2022-12-13,301 Moved Permanently https://www.somme.fr/
+www.somme.fr,2022-12-13,200 OK,2022-12-13,200 OK
+tarn.fr,2022-12-13,503 Service Unavailable,2022-12-13,503 Service Unavailable
+www.tarn.fr,2022-12-13,503 Service Unavailable,2022-12-13,503 Service Unavailable
+territoiredebelfort.fr,2022-12-13,404 Not Found,2022-12-13,[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:997)
+www.territoiredebelfort.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+valdemarne.fr,2022-12-13,301 Moved Permanently https://www.valdemarne.fr/,2022-12-13,301 Moved Permanently https://www.valdemarne.fr/
+www.valdemarne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+valdoise.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.valdoise.fr,2022-12-13,200 OK,2022-12-13,200 OK
+var.fr,2022-12-13,301 Moved Permanently https://www.var.fr/,2022-12-13,301 Moved Permanently https://www.var.fr/
+www.var.fr,2022-12-13,200 200,2022-12-13,200 200
+vaucluse.fr,2022-12-13,301 Moved Permanently https://www.vaucluse.fr/,2022-12-13,301 Moved Permanently https://www.vaucluse.fr/
+www.vaucluse.fr,2022-12-13,200 OK,2022-12-13,200 OK
+vendee.fr,2022-12-13,301 Moved Permanently https://www.vendee.fr/,2022-12-13,301 Moved Permanently https://www.vendee.fr/
+www.vendee.fr,2022-12-13,200 OK,2022-12-13,200 OK
+vosges.fr,2022-12-13,301 Moved Permanently http://www.vosges.fr/,2022-12-13,301 Moved Permanently https://www.vosges.fr/
+www.vosges.fr,2022-12-13,200 OK,2022-12-13,200 OK
+yonne.fr,2022-12-13,301 Moved Permanently https://www.yonne.fr/,2022-12-13,200 OK
+www.yonne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+yvelines.fr,2022-12-13,301 Moved Permanently https://www.yvelines.fr/,2022-12-13,301 Moved Permanently https://www.yvelines.fr/
+www.yvelines.fr,2022-12-13,200 OK,2022-12-13,200 OK
