@@ -1,0 +1,195 @@
+name,http_last_check,http_status,https_last_check,https_status
+sante.fr,2022-12-13,301 Moved Permanently https://www.sante.fr/,2022-12-13,301 Moved Permanently https://www.sante.fr/
+annuaire.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+partenaire.annuaire.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+partenaires.annuaire.sante.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)
+temp.partenaires.annuaire.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+ws.partenaires.annuaire.sante.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)
+ws2.partenaires.annuaire.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+ws.annuaire.sante.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:997)
+ansm.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+agence-prd.ansm.sante.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'agence-prd.ansm.sante.fr'. (_ssl.c:997)"
+expertlink.ansm.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+iccnq.ansm.sante.fr,2022-12-13,Timeout,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+icelearning.ansm.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+icprhosper.ansm.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ictaxercb.ansm.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+arh-centre.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.arh-centre.sante.fr,2022-12-13,"Connect call failed ('213.56.30.98', 80)",2022-12-13,Timeout
+ars.sante.fr,2022-12-13,301 Moved Permanently https://www.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ars.sante.fr'. (_ssl.c:997)"
+arhgos.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+auvergne-rhone-alpes.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.auvergne-rhone-alpes.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'auvergne-rhone-alpes.ars.sante.fr'. (_ssl.c:997)"
+www.auvergne-rhone-alpes.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+bourgogne-franche-comte.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.bourgogne-franche-comte.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bourgogne-franche-comte.ars.sante.fr'. (_ssl.c:997)"
+www.bourgogne-franche-comte.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+bretagne.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.bretagne.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bretagne.ars.sante.fr'. (_ssl.c:997)"
+www.bretagne.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+centre-val-de-loire.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.centre-val-de-loire.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'centre-val-de-loire.ars.sante.fr'. (_ssl.c:997)"
+www.centre-val-de-loire.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+corse.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.corse.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'corse.ars.sante.fr'. (_ssl.c:997)"
+cellulecovid.corse.ars.sante.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+patient.corse.ars.sante.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.corse.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+declarations-pharmacie.ars.sante.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+democratie-sanitaire-pays-de-la-loire.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.democratie-sanitaire-pays-de-la-loire.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'democratie-sanitaire-pays-de-la-loire.ars.sante.fr'. (_ssl.c:997)"
+www.democratie-sanitaire-pays-de-la-loire.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+img.diffusion.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ecarsproxy.ars.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+grand-est.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.grand-est.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'grand-est.ars.sante.fr'. (_ssl.c:997)"
+www.grand-est.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+guadeloupe.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.guadeloupe.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'guadeloupe.ars.sante.fr'. (_ssl.c:997)"
+www.guadeloupe.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+guyane.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.guyane.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'guyane.ars.sante.fr'. (_ssl.c:997)"
+www.guyane.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hauts-de-france.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.hauts-de-france.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'hauts-de-france.ars.sante.fr'. (_ssl.c:997)"
+www.hauts-de-france.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+iledefrance.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.iledefrance.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'iledefrance.ars.sante.fr'. (_ssl.c:997)"
+www.iledefrance.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+img.ars.sante.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'img.ars.sante.fr'. (_ssl.c:997)"
+lareunion.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.lareunion.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'lareunion.ars.sante.fr'. (_ssl.c:997)"
+www.lareunion.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+martinique.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.martinique.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'martinique.ars.sante.fr'. (_ssl.c:997)"
+www.martinique.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mayotte.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.mayotte.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mayotte.ars.sante.fr'. (_ssl.c:997)"
+www.mayotte.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mini-site1.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.mini-site1.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mini-site1.ars.sante.fr'. (_ssl.c:997)"
+www.mini-site1.ars.sante.fr,2022-12-13,401 Unauthorized,2022-12-13,401 Unauthorized
+mini-site3.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.mini-site3.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mini-site3.ars.sante.fr'. (_ssl.c:997)"
+www.mini-site3.ars.sante.fr,2022-12-13,401 Unauthorized,2022-12-13,401 Unauthorized
+mini-site5.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.mini-site5.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mini-site5.ars.sante.fr'. (_ssl.c:997)"
+www.mini-site5.ars.sante.fr,2022-12-13,401 Unauthorized,2022-12-13,401 Unauthorized
+img.newsletter.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+normandie.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.normandie.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'normandie.ars.sante.fr'. (_ssl.c:997)"
+www.normandie.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+nouvelle-aquitaine.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.nouvelle-aquitaine.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'nouvelle-aquitaine.ars.sante.fr'. (_ssl.c:997)"
+www.nouvelle-aquitaine.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+occitanie.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.occitanie.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'occitanie.ars.sante.fr'. (_ssl.c:997)"
+www.occitanie.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ocean-indien.ars.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.ocean-indien.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+omedit-auvergne-rhone-alpes.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.omedit-auvergne-rhone-alpes.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'omedit-auvergne-rhone-alpes.ars.sante.fr'. (_ssl.c:997)"
+www.omedit-auvergne-rhone-alpes.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+omedit-grand-est.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.omedit-grand-est.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'omedit-grand-est.ars.sante.fr'. (_ssl.c:997)"
+www.omedit-grand-est.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+paca.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.paca.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'paca.ars.sante.fr'. (_ssl.c:997)"
+etap.paca.ars.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+lesagoras.paca.ars.sante.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.paca.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+pays-de-la-loire.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.pays-de-la-loire.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pays-de-la-loire.ars.sante.fr'. (_ssl.c:997)"
+www.pays-de-la-loire.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+pharma-si.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+projet-regional-de-sante-pays-de-la-loire.ars.sante.fr,2022-12-13,301 Moved Permanently https://www.projet-regional-de-sante-pays-de-la-loire.ars.sante.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'projet-regional-de-sante-pays-de-la-loire.ars.sante.fr'. (_ssl.c:997)"
+www.projet-regional-de-sante-pays-de-la-loire.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+prs-martinique.ars.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.prs-martinique.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+sdli.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+si-etp.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+siicea.ars.sante.fr,2022-12-13,403 Forbidden,2022-12-13,403 Forbidden
+sirec.ars.sante.fr,2022-12-13,301 Moved Permanently https://sirec.ars.sante.fr:443/,2022-12-13,200 OK
+stats.ars.sante.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'stats.ars.sante.fr'. (_ssl.c:997)"
+wanpa.ars.sante.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('164.131.212.147', 443)"
+www.ars.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+atih.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+docker-registry.binaires.atih.sante.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'docker-registry.binaires.atih.sante.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'docker-registry.binaires.atih.sante.fr'. (_ssl.c:997)"
+carto.atih.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cartographie.atih.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cas.atih.sante.fr,2022-12-13,503 Maintenance,2022-12-13,503 Maintenance
+download.atih.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+enc.atih.sante.fr,2022-12-13,200 OK,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+epmsi.atih.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+exldsvo01.atih.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+forums.atih.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+piwik.atih.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+plage.atih.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+sap.atih.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cng.sante.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cng.sante.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cng.sante.fr'. (_ssl.c:997)"
+concours.cng.sante.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+extranet.cng.sante.fr,2022-12-13,"ServerDisconnectedError: <RawResponseMessage(version=HttpVersion(major=1, minor=1), code=302, reason='Found', headers=<CIMultiDictProxy('Location': 'https://extranet.cng.sante.fr/', 'Connection': 'close', 'Content-Length': '0')>, raw_headers=((b'Location', b'https://extranet.cng.sante.fr/'), (b'Connection', b'close'), (b'Content-Length', b'0')), should_close=True, compression=None, upgrade=False, chunked=False)>",2022-12-13,200 OK
+devel.extranet.cng.sante.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,200 OK
+integ.extranet.cng.sante.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,200 OK
+preprod.extranet.cng.sante.fr,2022-12-13,"ServerDisconnectedError: <RawResponseMessage(version=HttpVersion(major=1, minor=1), code=302, reason='Found', headers=<CIMultiDictProxy('Location': 'https://preprod.extranet.cng.sante.fr/', 'Connection': 'close', 'Content-Length': '0')>, raw_headers=((b'Location', b'https://preprod.extranet.cng.sante.fr/'), (b'Connection', b'close'), (b'Content-Length', b'0')), should_close=True, compression=None, upgrade=False, chunked=False)>",2022-12-13,200 OK
+valid.extranet.cng.sante.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,200 OK
+www.cng.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cng-valid.sante.fr,2022-12-13,ClientOSError: [Errno 104] Connection reset by peer,2022-12-13,"Connect call failed ('164.131.214.78', 443)"
+cns.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+efs.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+api.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.api.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cms.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.cms.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+dondesang.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.dondesang.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+dondesang972.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.dondesang972.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+donneurs.efs.sante.fr,2022-12-13,302 Found https://dondesang.efs.sante.fr/?login_layer,2022-12-13,302 Found https://dondesang.efs.sante.fr/?login_layer
+en.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+enquetes.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+laboutique.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+missingtype.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.missingtype.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mon-rdv-dondesang.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+form.mon-rdv-dondesang.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.mon-rdv-dondesang.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mti.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.mti.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ndefmail.efs.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+elearning.pacac.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ra.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+re7.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ucil.efs.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.efs.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ars.franche-comte.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.ars.franche-comte.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+invs.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+esprits.paca.sante.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'esprits.paca.sante.fr'. (_ssl.c:997)"
+paps.sante.fr,2022-12-13,301 Moved Permanently https://www.paps.sante.fr/,2022-12-13,200 OK
+auvergne-rhone-alpes.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.auvergne-rhone-alpes.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.auvergne-rhone-alpes.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+bourgogne-franche-comte.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.bourgogne-franche-comte.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.bourgogne-franche-comte.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+bretagne.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.bretagne.paps.sante.fr/,2022-12-13,301 Moved Permanently https://www.bretagne.paps.sante.fr/
+www.bretagne.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+centre-val-de-loire.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.centre-val-de-loire.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.centre-val-de-loire.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+corse.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.corse.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.corse.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+grand-est.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.grand-est.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.grand-est.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+guadeloupe.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.guadeloupe.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.guadeloupe.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+guyane.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.guyane.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.guyane.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+hauts-de-france.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.hauts-de-france.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.hauts-de-france.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+iledefrance.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.iledefrance.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.iledefrance.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+lareunion-mayotte.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.lareunion-mayotte.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.lareunion-mayotte.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+martinique.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.martinique.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.martinique.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+normandie.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.normandie.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.normandie.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+nouvelle-aquitaine.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.nouvelle-aquitaine.paps.sante.fr/,2022-12-13,301 Moved Permanently https://www.nouvelle-aquitaine.paps.sante.fr/
+www.nouvelle-aquitaine.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+occitanie.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.occitanie.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.occitanie.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+paca.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.paca.paps.sante.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+www.paca.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+paysdelaloire.paps.sante.fr,2022-12-13,301 Moved Permanently https://www.paysdelaloire.paps.sante.fr/,2022-12-13,301 Moved Permanently https://www.paysdelaloire.paps.sante.fr/
+www.paysdelaloire.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.paps.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+carto-had.parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+carto-ssr.parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+cartographie.parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+forums.parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+midi-pyrenees.parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+parhtage.parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.parhtage.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+sivss.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+paca.sport.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cns.valid.sante.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cns.valid.sante.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.sante.fr,2022-12-13,200 OK,2022-12-13,200 OK
+santepubliquefrance.fr,2022-12-13,301 Moved Permanently https://www.santepubliquefrance.fr/,2022-12-13,301 Moved Permanently https://www.santepubliquefrance.fr/
+www.santepubliquefrance.fr,2022-12-13,200 OK,2022-12-13,200 OK
