@@ -44,8 +44,8 @@ Il est possible de savoir ce qui cause l’inaccessibilité en regardant
 dans `domains.csv` :
 
     $ head -n 1 domains.csv; grep mairie-valognes.fr domains.csv
-    name,http_last_check,http_status,https_last_check,https_status
-    mairie-valognes.fr,2022-04-04,301 Moved Permanently https://www.valognes.fr/,2022-04-04,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+    name,http_status,https_status
+    mairie-valognes.fr,301 Moved Permanently https://www.valognes.fr/,certificate verify failed
 
 Ici on apprend qu’en HTTP le domaine redirige en HTTPS, et qu’en HTTPS
 le certificat est expiré.
@@ -64,23 +64,21 @@ Pour vérifier la cohérence des fichiers :
 
     python scripts/check.py
 
-Et éventuellement pour consolider dans `urls.txt` :
-
-    python scripts/http_checker.py --check-new
-
 
 ## Maintenance des fichiers consolidés
 
 L’action github `refresh` exécute périodiquement :
 
-    python scripts/http_checker.py --limit 1000
+    python scripts/http_checker.py --partial $(date +%d)/28
 
-Cette commande vérifie les `1000` domaines dont la vérification est la
-plus ancienne. Il est possible de lancer cette commande à la main.
+Cette commande vérifie 1/28ème des domaines, garantissant que chaque
+domaine est testé au moins une fois par mois.
 
-Une autre action github, `fast-reinsert` re-vérifie les domaines
-récement retirés d’`urls.txt` pour leur donner rapidement une seconde
-chance.
+Il est possible d’utiliser `--partial` en dehors de l'action github.
+Par exemple, pour tout actualiser en deux invocations :
+
+    python scripts/http_checker.py --partial 1/2  # Actualise une première moitiée,
+    python scripts/http_checker.py --partial 2/2  # puis la seconde.
 
 
 ## Scripts de collecte

@@ -2,6 +2,7 @@
 
 import argparse
 import asyncio
+from binascii import crc32
 from datetime import date
 from pathlib import Path
 import logging
@@ -44,9 +45,9 @@ def to_message(err):
         case aiohttp.client_exceptions.ClientResponseError():
             return f"{err.status} {avoid_surrogates(err.message)}"
         case aiohttp.client_exceptions.ClientError():
-            if hasattr(err, 'certificate_error'):
+            if hasattr(err, "certificate_error"):
                 err = err.certificate_error
-            if hasattr(err, 'strerror') and err.strerror is not None:
+            if hasattr(err, "strerror") and err.strerror is not None:
                 err = err.strerror
             err = re.sub(r"\([^\)]*\)", "", str(err))  # Remove parenthesed details
             err = re.sub(r"\[[^\]]*\]", "", err)  # Remove bracketed details
@@ -114,6 +115,16 @@ async def check_domain(
 
 
 def parse_args():
+    def _partial(arg):
+        """Parses --partial."""
+        left, right = arg.split("/")
+        left, right = int(left), int(right)
+        if left <= 0:
+            raise ValueError
+        if left > right:
+            raise ValueError
+        return left, right
+
     parser = argparse.ArgumentParser()
     project_root = Path(__file__).parent.parent
     default_files = list((project_root / "sources").glob("*.txt"))
@@ -163,9 +174,11 @@ def parse_args():
         "-s", "--silent", action="store_true", help="Disable progress bar"
     )
     parser.add_argument(
-        "--check-new",
-        action="store_true",
-        help="Just check new domains.",
+        "--partial",
+        help="Check a subset of the domains. Except a fraction, "
+        """like "1/2" meaning "the first half" or "2/2" meaning "the 2nd half""",
+        type=_partial,
+        default=(1, 1),
     )
     args = parser.parse_args()
     args.verbose = min(args.verbose, 2)
@@ -193,25 +206,23 @@ async def rescan_domains(
 
 
 def filter_domains(
-    domains: set[Domain], limit: int, check_new: bool, grep: list[str]
-) -> set[Domain]:
-    """Filter domains according to --limit, --grep, and --check-new command line args."""
+    domains: set[Domain], limit: int, grep: list[str], partial: tuple[int, int]
+) -> list[Domain]:
+    """Filter domains according to --limit and --grep command line args."""
     if grep:
         domains = [
             domain
             for domain in domains
             if any(pattern in domain.name for pattern in grep)
         ]
-    if check_new:
+    if partial != (1, 1):
+        bucket_id, bucket_count = partial
         domains = [
             domain
             for domain in domains
-            if date.min in (domain.http_last_check, domain.https_last_check)
+            if crc32(domain.name.encode("UTF-8")) % bucket_count == bucket_id - 1
         ]
-    return sorted(
-        domains,
-        key=lambda domain: min(domain.http_last_check, domain.https_last_check),
-    )[:limit]
+    return list(domains)[:limit]
 
 
 def main():
@@ -222,7 +233,7 @@ def main():
     sources = parse_files(*args.files)
     domains = parse_csv_file(args.output) | sources
     domains.difference_update(domains - sources)  # Remove domains removed from sources/
-    to_check = filter_domains(domains, args.limit, args.check_new, args.grep)
+    to_check = filter_domains(domains, args.limit, args.grep, args.partial)
     try:
         asyncio.run(rescan_domains(to_check, args.kindness, args.verbose, args.silent))
     except KeyboardInterrupt:

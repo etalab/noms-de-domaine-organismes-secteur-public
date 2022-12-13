@@ -60,28 +60,17 @@ class Domain:
     source_file: Path = None
     comment: str = ""
     http_status: str | None = None
-    http_last_check: date = date.min
     https_status: str | None = None
-    https_last_check: date = date.min
     # http*_status can also starts with "Redirects to: "
     #
-    # It's encouraged to add any needed attributes pair like:
-    # smtp_status, smtp_status_last_check
-    # ssh_status, ssh_status_last_check
+    # It's encouraged to add any needed attributes like:
+    # smtp_status
+    # ssh_status
     # ...
 
     @classmethod
     def csv_headers(cls):
-        try:
-            return cls._csv_headers
-        except AttributeError:
-            cls._csv_headers = ("name",) + tuple(
-                attr
-                for attr in dir(cls)
-                if attr.endswith("_status") or attr.endswith("_last_check")
-                if not attr.startswith("set_")
-            )
-        return cls._csv_headers
+        return ('name', 'http_status', 'https_status')
 
     def set_status(self, service, status):
         """Set new status for the given service.
@@ -93,13 +82,7 @@ class Domain:
                 f"Can't set status for service {service}: "
                 f"{service}_status is not a Domain attribute."
             )
-        if f"{service}_last_check" not in self.csv_headers():
-            raise ValueError(
-                f"Can't set status for service {service}: "
-                f"{service}_last_check is not a Domain attribute."
-            )
         setattr(self, f"{service}_status", status)
-        setattr(self, f"{service}_last_check", date.today())
 
     def astuple(self):
         """Usefull for CSV output."""
@@ -109,9 +92,6 @@ class Domain:
     def fromtuple(cls, t):
         """Usefull to read from CSV files."""
         attrs = dict(zip(cls.csv_headers(), t))
-        for key, value in attrs.items():
-            if key.endswith("_last_check"):
-                attrs[key] = date.fromisoformat(value)
         return cls(**attrs)
 
     @classmethod
