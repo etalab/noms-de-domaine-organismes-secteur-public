@@ -35,11 +35,10 @@ But we almost stored the source, so we'll use git log to deduce it from commit m
 
 from subprocess import run, PIPE
 from pathlib import Path
-import csv
 import shelve
 import re
 
-from public_domain import parse_csv_file, parse_files, Domain
+from public_domain import parse_csv_file, write_csv_file, parse_files, Domain
 
 
 def git(*args):
@@ -172,7 +171,7 @@ def commit_to_source(commit):
     return "Ajout manuel de " + get_commit_author(commit)
 
 
-def emit_source_csv():
+def convert_domains_csv():
     """As a reminder, the following columns are expected:
     - Nom de domaine
     - SIRET
@@ -180,42 +179,19 @@ def emit_source_csv():
     - Sources (URL)
     - Scripts qui moissonnent (URL)
     """
-    SIRET = None
     types_map = domains_and_types()
     commit_map = domains_and_commits()
-    checker_map = {domain.name: domain for domain in parse_csv_file("domains.csv")}
-    domains = parse_files(*(Path("sources").glob("*.txt")))
-    with open("domains.csv", "w") as domains_file:
-        writer = csv.writer(domains_file, lineterminator="\n")
-        writer.writerow(
-            [
-                "name",
-                "http_status",
-                "https_status",
-                "SIRET",
-                "type",
-                "sources",
-                "script",
-            ]
-        )
-        for domain in sorted(domains):
-            checks = checker_map.get(
-                domain, Domain("", None, "", None, None, None, None)
-            )
-            commit = commit_map[domain]
-            source = commit_to_source(commit)
-            script = commit_to_script(commit)
-            writer.writerow(
-                [
-                    domain.name,
-                    checks.http_status,
-                    checks.https_status,
-                    SIRET,
-                    types_map.get(domain),
-                    source,
-                    script,
-                ]
-            )
+    old_domains_csv = {domain.name: domain for domain in parse_csv_file("domains.csv")}
+    from_sources_txt = sorted(parse_files(*(Path("sources").glob("*.txt"))))
+    domains = [old_domains_csv.get(domain.name, Domain(domain.name)) for domain in from_sources_txt]
+    domains.sort()
+    for domain in domains:
+        commit = commit_map[domain.name]
+        domain.sources = commit_to_source(commit)
+        domain.script = commit_to_script(commit)
+        domain.type = types_map.get(domain.name)
+    write_csv_file("domains.csv", domains)
 
 
-emit_source_csv()
+if __name__ == "__main__":
+    convert_domains_csv()
