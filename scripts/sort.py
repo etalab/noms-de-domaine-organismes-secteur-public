@@ -1,31 +1,14 @@
-"""Just sort the given files.
+"""Just sort domains.csv."""
 
-And remove blank lines, and remove duplicates, and lowercase.
-"""
-
-import argparse
 from pathlib import Path
-from public_domain import Domain, parse_files
-
-
-def parse_args():
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("file", nargs="*", type=Path)
-    return parser.parse_args()
-
-
-def sort_files(files):
-    for file in files:
-        domains = parse_files(file)
-        file.write_text(
-            "\n".join([str(d) for d in sorted(domains) if d.name]) + "\n",
-            encoding="UTF-8",
-        )
+from public_domain import parse_csv_file, write_csv_file
 
 
 def main():
-    args = parse_args()
-    sort_files(args.file)
+    file = Path("domains.csv")
+    domains = parse_csv_file(file)
+    domains = sorted(domains)
+    write_csv_file(file, domains)
 
 
 if __name__ == "__main__":
