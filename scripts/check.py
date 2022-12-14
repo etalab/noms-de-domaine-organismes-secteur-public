@@ -1,9 +1,9 @@
 """Script to run a quick consistency check:
 
-- Are all files properly sorted?
-- Are all domains in urls.txt also in sources/*.txt?
-- Are there duplicates in sources/*.txt?
-- Are all lines in sources/*.txt domain names?
+- Is domains.csv properly sorted?
+- Are all domains in urls.txt also in domains.csv?
+- Are there duplicates in domains.csv?
+- Are all domains in domains.csv proper domain names?
 """
 
 
@@ -22,7 +22,7 @@ def err(*args, **kwargs):
 def check_is_sorted(file, lines):
     domains = [Domain.from_file_line(file, line) for line in lines]
     if domains != sorted(domains):
-        err(f"{file}: Is not sorted, run `python scripts/sort.py sources/*.txt`")
+        err(f"{file}: Is not sorted, run `python scripts/sort.py domains.csv`")
 
 
 def check_is_valid_domain(file, lineno, line):
@@ -38,16 +38,6 @@ def check_lowercased(file, lineno, line):
 def check_is_public_domain(file, lineno, line):
     if Domain.from_file_line(file, line).is_not_public():
         err(f"{file}:{lineno}: {line!r} is not a public domain.")
-
-
-def check_gouvfr(file, lineno, line):
-    if file.name == "gouvfr-divers.txt" and not line.endswith(".gouv.fr"):
-        err(f"{file}:{lineno}: {line!r} does is not a '.gouv.fr' domain")
-
-
-def check_nongouvfr(file, lineno, line):
-    if file.name == "nongouvfr-divers.txt" and line.endswith(".gouv.fr"):
-        err(f"{file}:{lineno}: {line!r} should be in file 'gouvfr-divers.txt'")
 
 
 class DuplicateChecker:
@@ -93,23 +83,19 @@ class DuplicateChecker:
 
 def main():
     check_duplicate_line = DuplicateChecker()
-    for file in Path("sources/").glob("*.txt"):
-        lines = [
-            line.split("#", maxsplit=1)[0].strip()
-            for line in file.read_text(encoding="UTF-8").splitlines()
-            if not line.startswith("#")
-        ]
-        check_is_sorted(file, lines)
-        for lineno, line in enumerate(lines, start=1):
-            check_is_valid_domain(file, lineno, line)
-            check_is_public_domain(file, lineno, line)
-            check_duplicate_line(file, lineno, line)
-            check_lowercased(file, lineno, line)
-            check_gouvfr(file, lineno, line)
-            check_nongouvfr(file, lineno, line)
+    lines = [
+        line.split(",")[0]
+        for line in Path("domains.csv").read_text(encoding="UTF-8").splitlines()[1:]
+    ]
+    check_is_sorted("domains.csv", lines)
+    for lineno, line in enumerate(lines, start=2):
+        check_is_valid_domain("domains.csv", lineno, line)
+        check_is_public_domain("domains.csv", lineno, line)
+        check_duplicate_line("domains.csv", lineno, line)
+        check_lowercased("domains.csv", lineno, line)
 
     for domain in parse_files(Path("urls.txt")) - check_duplicate_line.all_domains:
-        err(f"urls.txt: {domain} not found in sources/*.txt.")
+        err(f"urls.txt: {domain} not found in domains.csv.")
 
 
 if __name__ == "__main__":
