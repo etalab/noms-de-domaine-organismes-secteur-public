@@ -181,7 +181,7 @@ def parse_files(*files: Path) -> set[Domain]:
     }
 
 
-def parse_csv_file(domainsfile):
+def parse_csv_file(domainsfile) -> set[Domain]:
     domains = set()
     try:
         with open(domainsfile, "r", encoding="UTF-8") as domainsfile:
