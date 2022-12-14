@@ -1,9 +1,14 @@
+"Script to manipulate the domain names of french public organizations."
+
+import argparse
 import csv
 from dataclasses import dataclass
 from datetime import date
 from functools import total_ordering
 import logging
 from pathlib import Path
+import re
+import sys
 from typing import Literal
 from urllib.parse import urlparse
 
@@ -61,6 +66,10 @@ class Domain:
     comment: str = ""
     http_status: str | None = None
     https_status: str | None = None
+    SIRET: str | None = None
+    type: str | None = None
+    sources: str | None = None
+    script: str | None = None
     # http*_status can also starts with "Redirects to: "
     #
     # It's encouraged to add any needed attributes like:
@@ -70,7 +79,15 @@ class Domain:
 
     @classmethod
     def csv_headers(cls):
-        return ('name', 'http_status', 'https_status')
+        return (
+            "name",
+            "http_status",
+            "https_status",
+            "SIRET",
+            "type",
+            "sources",
+            "script",
+        )
 
     def set_status(self, service, status):
         """Set new status for the given service.
@@ -186,3 +203,90 @@ def write_csv_file(domainsfile, domains):
                 domainswriter.writerow(domain.astuple())
             except UnicodeEncodeError:
                 logger.exception(f"Can't write line in CSV file: {domain.astuple()!r}")
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description=__doc__)
+    subparsers = parser.add_subparsers(help="Sub commands", required=True)
+
+    parser_get = subparsers.add_parser("get", help="Get a domain informations.")
+    parser_get.add_argument("name", help="A domain name")
+    parser.set_defaults(func=main_get)
+
+    return parser.parse_args()
+
+
+TITLE_COLOR = "\x1b[1;33m"
+PROPERTY_COLOR = "\x1b[32m"
+OK_COLOR = "\x1b[32m"
+OKISH_COLOR = "\x1b[33m"
+KO_COLOR = "\x1b[31m"
+NO_COLOR = "\x1b[0m"
+
+
+def _http_status_color(domain):
+    """Give an indication of the HTTP status.
+
+    green: It redirects to HTTPS.
+    yellow: It returns 200 OK, should probably redirect to HTTPS.
+    red: Other cases.
+    """
+    if domain.http_status.startswith("301") and "https" in domain.http_status:
+        return OK_COLOR
+    if domain.http_status.startswith("200"):
+        return OKISH_COLOR  # Should probably redirect to HTTPS
+    return KO_COLOR
+
+
+def _https_status_color(domain):
+    """Give an indication of the HTTPS status.
+
+    green: It returns 200 OK.
+    yellow: It returns a redirection.
+    red: Other cases.
+    """
+    if domain.https_status.startswith("200"):
+        return OK_COLOR
+    if domain.https_status.startswith("3"):
+        return OKISH_COLOR
+    return KO_COLOR
+
+
+def main_get(args):
+    """TODO: Ajouter l'historique d'un domaine en consultant le git log?"""
+    def title(string):
+        return TITLE_COLOR + string + NO_COLOR
+
+    def property(string):
+        return PROPERTY_COLOR + string + NO_COLOR
+
+    data = parse_csv_file("domains.csv")
+    domains = [domain for domain in data if re.search(args.name, domain.name)]
+    for domain in domains:
+        print(title(domain.name))
+        if domain.type:
+            print(property("Type:"), domain.type)
+        if domain.sources:
+            print(property("Source:"), domain.sources)
+        if domain.SIRET:
+            print(property("SIRET:"), domain.SIRET)
+        if domain.script:
+            print(property("Script:"), domain.script)
+        print(
+            property("HTTP:"),
+            f"http://{domain.name} {_http_status_color(domain)}{domain.http_status}{NO_COLOR}",
+        )
+        print(
+            property("HTTPS:"),
+            f"https://{domain.name} {_https_status_color(domain)}{domain.https_status}{NO_COLOR}",
+        )
+        print("\n")
+
+
+def main():
+    args = parse_args()
+    sys.exit(args.func(args))
+
+
+if __name__ == "__main__":
+    main()
