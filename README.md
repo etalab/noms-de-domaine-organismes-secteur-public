@@ -6,61 +6,40 @@ remplissant des missions de service public.
 
 ## La liste des noms de domaines
 
-Le dossier `sources/` contient les domaines connus, qu’ils soient
-accessibles en HTTP ou non.
+Le fichier `domains.csv` contient les domaines connus, qu’ils soient
+accessibles en HTTP ou non, qu’ils exposent un MX ou non, etc.
 
-Les ajouts et suppressions s’y font soit manuellement soit via des
-scripts de collecte (voir [Contribution](#contribution)).
+C'est le seul fichier modifiable manuellement, les ajouts et
+suppressions s’y font soit manuellement soit via des scripts de
+collecte (voir [Contribution](#contribution)).
 
 
 ## La liste des URLs
 
 Le fichier `urls.txt` est une liste d’URLs basée sur les domaines du
-dossier `sources/` et répondant `200 OK` en HTTP ou en HTTPS
+fichier `domains.csv` et répondant `200 OK` en HTTP ou en HTTPS
 éventuellement après une redirection sur le **même** domaine
 (typiquement l’ajout d’un `/fr/`).
 
 Les ajouts et suppressions s’y font automatiquement, il n’est pas
 nécessaire de modifier ce fichier manuellement.
 
-Attention, cette liste étant basée sur des noms de domaines
-d’organismes publics, certaines pages d’organismes publics comme
-https://sites.google.com/site/mairiedemacey/ ne peuvent pas y figurer.
-
-
-# Les domaines inaccessibles en HTTP/HTTPS
-
-La liste des domaines qui sont dans le dossier `sources/` mais ne sont
-pas dans le fichier `urls.txt` sont inaccessibles en HTTP ou HTTPS
-(n’ont pas d’adresse IP, ne répondent pas en HTTP, répondent autre
-chose que 200 en HTTP…).
-
-Pour obtenir cette liste vous pouvez utiliser :
-
-    export LC_COLLATE=C
-    comm -13 <(cut -d/ -f3 urls.txt | sort) <(sort sources/*.txt)
-
-Il est possible de savoir ce qui cause l’inaccessibilité en regardant
-dans `domains.csv` :
-
-    $ head -n 1 domains.csv; grep mairie-valognes.fr domains.csv
-    name,http_status,https_status
-    mairie-valognes.fr,301 Moved Permanently https://www.valognes.fr/,certificate verify failed
-
-Ici on apprend qu’en HTTP le domaine redirige en HTTPS, et qu’en HTTPS
-le certificat est expiré.
+Attention, cette liste étant basée sur des **noms de domaines**
+d’organismes publics, il n'est pas possible pour des **URL**
+d’organismes publics hébergés sur des domaines privés comme
+https://sites.google.com/site/mairiedemacey/ d’y figurer.
 
 
 # Contribution
 
-Ajoutez le ou les domaines que vous connaissez dans un des fichiers du
-dossier `sources/`.
+Ajoutez le ou les domaines que vous connaissez dans le fichier
+`domains.csv`.
 
-Pour trier le fichier que vous venez de modifier, vous pouvez utiliser :
+Ce fichier doit rester trié, pour le trier automatiquement utilisez :
 
-    python scripts/sort.py sources/*.txt
+    python scripts/sort.py
 
-Pour vérifier la cohérence des fichiers :
+Pour vérifier que tout va bien avant de commit :
 
     python scripts/check.py
 
