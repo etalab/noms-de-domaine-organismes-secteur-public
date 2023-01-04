@@ -223,34 +223,6 @@ KO_COLOR = "\x1b[31m"
 NO_COLOR = "\x1b[0m"
 
 
-def _http_status_color(domain):
-    """Give an indication of the HTTP status.
-
-    green: It redirects to HTTPS.
-    yellow: It returns 200 OK, should probably redirect to HTTPS.
-    red: Other cases.
-    """
-    if domain.http_status.startswith("301") and "https" in domain.http_status:
-        return OK_COLOR
-    if domain.http_status.startswith("200"):
-        return OKISH_COLOR  # Should probably redirect to HTTPS
-    return KO_COLOR
-
-
-def _https_status_color(domain):
-    """Give an indication of the HTTPS status.
-
-    green: It returns 200 OK.
-    yellow: It returns a redirection.
-    red: Other cases.
-    """
-    if domain.https_status.startswith("200"):
-        return OK_COLOR
-    if domain.https_status.startswith("3"):
-        return OKISH_COLOR
-    return KO_COLOR
-
-
 def main_get(args):
     """TODO: Ajouter l'historique d'un domaine en consultant le git log?"""
 
@@ -272,15 +244,8 @@ def main_get(args):
             print(property("SIREN:"), domain.SIREN)
         if domain.script:
             print(property("Script:"), domain.script)
-        start_color, end_color = _http_status_color(domain), NO_COLOR
-        print(
-            property("HTTP:"),
-            f"http://{domain.name} {start_color}{domain.http_status}{end_color}",
-        )
-        print(
-            property("HTTPS:"),
-            f"https://{domain.name} {start_color}{domain.https_status}{end_color}",
-        )
+        print(property(f"http://{domain.name}:"), domain.http_status)
+        print(property(f"https://{domain.name}:"), domain.https_status)
         print("\n")
 
 
