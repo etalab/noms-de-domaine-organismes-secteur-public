@@ -26,7 +26,8 @@ source.csv file instead of a directory with the following columns:
 
 - Nom de domaine
 - SIRET
-- Type d’établissement (à partir du découpage actuel des noms de fichier, des catégories banatic, catégorie juridique INSEE)
+- Type d’établissement (à partir du découpage actuel des noms de fichier,
+  des catégories banatic, catégorie juridique INSEE)
 - Sources (URL)
 - Scripts qui moissonnent (URL)
 
@@ -43,7 +44,9 @@ from public_domain import parse_csv_file, write_csv_file, parse_files, Domain
 
 def git(*args):
     """Just calls git, returns a list of lines."""
-    return run(["git"] + list(args), stdout=PIPE, encoding="UTF-8").stdout.splitlines()
+    return run(
+        ["git"] + list(args), stdout=PIPE, encoding="UTF-8", check=True
+    ).stdout.splitlines()
 
 
 def shelve_cache(path):
@@ -133,11 +136,11 @@ def commit_to_script(commit):
     """In case we can know which script was used to find this domain, return it."""
     message = get_commit_message(commit)
     if "CT log" in message:
-        return "scripts/import-from-ct-logs.py"
+        return "import-from-ct-logs.py"
     if "banatic" in message:
-        return "scripts/import-base-nationale-sur-les-intercommunalites.py"
+        return "import-base-nationale-sur-les-intercommunalites.py"
     if "Auracom" in message:
-        return "scripts/import-auracom-opendata.py"
+        return "import-auracom-opendata.py"
     return None
 
 
@@ -175,7 +178,8 @@ def convert_domains_csv():
     """As a reminder, the following columns are expected:
     - Nom de domaine
     - SIRET
-    - Type d’établissement (à partir du découpage actuel des noms de fichier, des catégories banatic, catégorie juridique INSEE)
+    - Type d’établissement (à partir du découpage actuel des noms de fichier,
+      des catégories banatic, catégorie juridique INSEE)
     - Sources (URL)
     - Scripts qui moissonnent (URL)
     """
@@ -183,7 +187,10 @@ def convert_domains_csv():
     commit_map = domains_and_commits()
     old_domains_csv = {domain.name: domain for domain in parse_csv_file("domains.csv")}
     from_sources_txt = sorted(parse_files(*(Path("sources").glob("*.txt"))))
-    domains = [old_domains_csv.get(domain.name, Domain(domain.name)) for domain in from_sources_txt]
+    domains = [
+        old_domains_csv.get(domain.name, Domain(domain.name))
+        for domain in from_sources_txt
+    ]
     domains.sort()
     for domain in domains:
         commit = commit_map[domain.name]

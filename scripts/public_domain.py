@@ -3,13 +3,11 @@
 import argparse
 import csv
 from dataclasses import dataclass
-from datetime import date
 from functools import total_ordering
 import logging
 from pathlib import Path
 import re
 import sys
-from typing import Literal
 from urllib.parse import urlparse
 
 logger = logging.getLogger(__name__)
@@ -62,11 +60,11 @@ NON_PUBLIC_DOMAINS = {
 @dataclass
 class Domain:
     name: str
-    source_file: Path = None
+    source_file: Path | None = None
     comment: str = ""
     http_status: str | None = None
     https_status: str | None = None
-    SIRET: str | None = None
+    SIRET: str | None = None  # pylint: disable=invalid-name
     type: str | None = None
     sources: str | None = None
     script: str | None = None
@@ -79,6 +77,7 @@ class Domain:
 
     @classmethod
     def csv_headers(cls):
+        """List of columns to generate for the CSV files."""
         return (
             "name",
             "http_status",
@@ -106,9 +105,9 @@ class Domain:
         return tuple(getattr(self, attr) for attr in self.csv_headers())
 
     @classmethod
-    def fromtuple(cls, t):
+    def fromtuple(cls, domain_tuple):
         """Usefull to read from CSV files."""
-        attrs = dict(zip(cls.csv_headers(), t))
+        attrs = dict(zip(cls.csv_headers(), domain_tuple))
         return cls(**attrs)
 
     @classmethod
@@ -254,6 +253,7 @@ def _https_status_color(domain):
 
 def main_get(args):
     """TODO: Ajouter l'historique d'un domaine en consultant le git log?"""
+
     def title(string):
         return TITLE_COLOR + string + NO_COLOR
 
@@ -272,18 +272,20 @@ def main_get(args):
             print(property("SIRET:"), domain.SIRET)
         if domain.script:
             print(property("Script:"), domain.script)
+        start_color, end_color = _http_status_color(domain), NO_COLOR
         print(
             property("HTTP:"),
-            f"http://{domain.name} {_http_status_color(domain)}{domain.http_status}{NO_COLOR}",
+            f"http://{domain.name} {start_color}{domain.http_status}{end_color}",
         )
         print(
             property("HTTPS:"),
-            f"https://{domain.name} {_https_status_color(domain)}{domain.https_status}{NO_COLOR}",
+            f"https://{domain.name} {start_color}{domain.https_status}{end_color}",
         )
         print("\n")
 
 
 def main():
+    """Pretty print domains, to use from command line."""
     args = parse_args()
     sys.exit(args.func(args))
 

@@ -14,13 +14,15 @@ from pathlib import Path
 import bz2
 import re
 from tqdm import tqdm
-from sort import sort_files
+
+from public_domain import Domain, parse_csv_file, write_csv_file
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCES = ROOT / "sources"
+FILE = ROOT / "domains.csv"
 
 
 def parse_args():
+    """Parse command line arguments."""
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("wikipedia_dump")
     return parser.parse_args()
@@ -45,6 +47,7 @@ URL = re.compile(  # Restricted URL regex inspired from validators.
 
 
 def main():
+    """Parse a bz2 wikipedia dump searching for .gouv.fr domains."""
     args = parse_args()
     found = set()
     with tqdm(
@@ -55,10 +58,12 @@ def main():
                 for match in URL.findall(line):
                     found_progress.update()
                     found.add(match.split("/")[2].split(":", maxsplit=1)[0])
-    with open(SOURCES / "gouvfr-divers.txt", "a", encoding="UTF-8") as gouvfr_divers:
-        for domain in found:
-            gouvfr_divers.write(domain + "  # (from Wikipedia dump)\n")
-    sort_files([SOURCES / "gouvfr-divers.txt", SOURCES / "nongouvfr-divers.txt"])
+    domains = parse_csv_file(FILE)
+    for line in found:
+        domain = Domain(line, script=Path(__file__).name, type="Gouvernement")
+        if domain not in domains:
+            domains.add(domain)
+    write_csv_file(FILE, sorted(domains))
 
 
 if __name__ == "__main__":
