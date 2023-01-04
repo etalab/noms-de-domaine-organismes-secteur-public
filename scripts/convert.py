@@ -171,7 +171,7 @@ def commit_to_source(commit):
         return "DNS"
     if "CT log" in message or "certificate transparency logs" in message:
         return "CT logs"
-    return "Ajout manuel de " + get_commit_author(commit)
+    return ""
 
 
 def convert_domains_csv():
@@ -186,15 +186,20 @@ def convert_domains_csv():
     types_map = domains_and_types()
     commit_map = domains_and_commits()
     old_domains_csv = {domain.name: domain for domain in parse_csv_file("domains.csv")}
-    from_sources_txt = sorted(parse_files(*(Path("sources").glob("*.txt"))))
+    from_sources_txt = {domain.name: domain for domain in parse_files(*(Path("sources").glob("*.txt")))}
     domains = [
-        old_domains_csv.get(domain.name, Domain(domain.name))
-        for domain in from_sources_txt
+        old_domains_csv.get(domain.name, domain)
+        for domain in sorted(from_sources_txt.values())
     ]
     domains.sort()
     for domain in domains:
         commit = commit_map[domain.name]
         domain.sources = commit_to_source(commit)
+        if not domain.sources:
+            domain.sources = from_sources_txt[domain.name].comment.lstrip('(').rstrip(')')
+            domain.sources = domain.sources.replace("redirection from ", "Redirection depuis ")
+        if not domain.sources:
+            domain.sources = "Ajout manuel de " + get_commit_author(commit)
         domain.script = commit_to_script(commit)
         domain.type = types_map.get(domain.name)
     write_csv_file("domains.csv", domains)
