@@ -1,4 +1,4 @@
-"""Update domains.csv from sources/*.txt."""
+"""Update domains.csv with HTTP responses."""
 
 import argparse
 import asyncio
@@ -127,12 +127,10 @@ def parse_args():
 
     parser = argparse.ArgumentParser()
     project_root = Path(__file__).parent.parent
-    default_files = list((project_root / "sources").glob("*.txt"))
-    parser.add_argument("files", type=Path, nargs="*", default=default_files)
     parser.add_argument(
-        "--output",
+        "--file",
         type=Path,
-        help="File to write domains with OK HTTP responses.",
+        help="CSV file containing the domain list to check.",
         default=project_root / "domains.csv",
     )
     parser.add_argument(
@@ -230,16 +228,14 @@ def main():
     logging.basicConfig(
         level=[logging.WARNING, logging.INFO, logging.DEBUG][args.verbose]
     )
-    sources = parse_files(*args.files)
-    domains = parse_csv_file(args.output) | sources
-    domains.difference_update(domains - sources)  # Remove domains removed from sources/
+    domains = parse_csv_file(args.file)
     to_check = filter_domains(domains, args.limit, args.grep, args.partial)
     try:
         asyncio.run(rescan_domains(to_check, args.kindness, args.verbose, args.silent))
     except KeyboardInterrupt:
         logging.info("Interrupted by keyboard, saving before exiting…")
 
-    write_csv_file(args.output, domains)
+    write_csv_file(args.file, domains)
 
     # Refresh .txt from .csv, it's fast:
     domains_csv_to_urls_txt.main()

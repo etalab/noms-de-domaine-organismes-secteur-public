@@ -18,14 +18,15 @@ import argparse
 from pathlib import Path
 
 import psycopg2
-from sort import sort_files
-from public_domain import Domain, NON_PUBLIC_DOMAINS
+
+from public_domain import Domain, NON_PUBLIC_DOMAINS, parse_csv_file, write_csv_file
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCES = ROOT / "sources"
+FILE = ROOT / "domains.csv"
 
 
 def query_ct_logs(last_id):
+    """Query crt.sh using their postgres public API."""
     conn = psycopg2.connect(dbname="certwatch", user="guest", host="crt.sh")
     conn.set_session(readonly=True, autocommit=True)
     cur = conn.cursor()
@@ -35,30 +36,31 @@ def query_ct_logs(last_id):
     WHERE plainto_tsquery('gouv.fr') @@ identities(certificate) AND id > %s""",
         (last_id,),
     )
-    with (
-        open(SOURCES / "gouvfr-divers.txt", "a", encoding="UTF-8") as gouv_fr,
-        open(SOURCES / "nongouvfr-divers.txt", "a", encoding="UTF-8") as nongouv_fr,
-    ):
-        for pk, domain, subject in cur.fetchall():
-            if Domain(domain).is_not_public():
-                continue
-            if any(non_public in subject for non_public in NON_PUBLIC_DOMAINS):
-                continue
-            if domain.startswith("*."):
-                domain = domain[2:]
-            if domain.lower().endswith(".gouv.fr"):
-                gouv_fr.write(
-                    f"{domain}  # Found in cert of {subject}, see https://crt.sh/?id={pk}\n"
-                )
-            else:
-                nongouv_fr.write(
-                    f"{domain}  # Found in cert of {subject}, see https://crt.sh/?id={pk}\n"
-                )
 
-    return pk
+    domains = parse_csv_file(FILE)
+    primary_key = None
+    for primary_key, domain, subject in cur.fetchall():
+        if any(non_public in subject for non_public in NON_PUBLIC_DOMAINS):
+            continue
+        domain = Domain(
+            domain.lower(),
+            script=Path(__file__).name,
+            sources=f"https://crt.sh/?id={primary_key}",
+        )
+        if domain.is_not_public():
+            continue
+        if domain.name.startswith("*."):
+            domain.name = domain.name[2:]
+        if domain.name.endswith(".gouv.fr"):
+            domain.type = "Gouvernement"
+        if domain not in domains:
+            domains.add(domain)
+    write_csv_file(FILE, sorted(domains))
+    return primary_key
 
 
 def parse_args():
+    """Parse command line arguments."""
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "last_id",
@@ -72,10 +74,9 @@ def parse_args():
 def main():
     args = parse_args()
     last_id = query_ct_logs(args.last_id)
-    sort_files(SOURCES.glob("*.txt"))
-    print("Manually review sources/nongouvfr-divers.txt for false positives.")
+    print("Please manually review diff for false positives.")
     print("Don't forgot to run `python scripts/check.py`, then:")
-    print("    git add sources/*.txt")
+    print("    git add domains.csv")
     print(f'    git commit -m "Import from CT logs up to id {last_id}."')
 
 
