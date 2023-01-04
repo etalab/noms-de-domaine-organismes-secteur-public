@@ -64,7 +64,7 @@ class Domain:
     comment: str = ""
     http_status: str | None = None
     https_status: str | None = None
-    SIRET: str | None = None  # pylint: disable=invalid-name
+    SIREN: str | None = None  # pylint: disable=invalid-name
     type: str | None = None
     sources: str | None = None
     script: str | None = None
@@ -82,7 +82,7 @@ class Domain:
             "name",
             "http_status",
             "https_status",
-            "SIRET",
+            "SIREN",
             "type",
             "sources",
             "script",
@@ -268,8 +268,8 @@ def main_get(args):
             print(property("Type:"), domain.type)
         if domain.sources:
             print(property("Source:"), domain.sources)
-        if domain.SIRET:
-            print(property("SIRET:"), domain.SIRET)
+        if domain.SIREN:
+            print(property("SIREN:"), domain.SIREN)
         if domain.script:
             print(property("Script:"), domain.script)
         start_color, end_color = _http_status_color(domain), NO_COLOR

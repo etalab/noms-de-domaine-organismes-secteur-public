@@ -25,7 +25,7 @@ But this split was arbitrary, we're converting it to a single
 source.csv file instead of a directory with the following columns:
 
 - Nom de domaine
-- SIRET
+- SIREN
 - Type d’établissement (à partir du découpage actuel des noms de fichier,
   des catégories banatic, catégorie juridique INSEE)
 - Sources (URL)
@@ -177,7 +177,7 @@ def commit_to_source(commit):
 def convert_domains_csv():
     """As a reminder, the following columns are expected:
     - Nom de domaine
-    - SIRET
+    - SIREN
     - Type d’établissement (à partir du découpage actuel des noms de fichier,
       des catégories banatic, catégorie juridique INSEE)
     - Sources (URL)
