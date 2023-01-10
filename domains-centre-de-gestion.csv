@@ -1,0 +1,190 @@
+name,http_last_check,http_status,https_last_check,https_status
+cdg29.bzh,2022-12-13,302 Found https://www.cdg29.bzh/,2022-12-13,200 OK
+www.cdg29.bzh,2022-12-13,200 OK,2022-12-13,200 OK
+cdg07.com,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg07.com,2022-12-13,200 OK,2022-12-13,200 OK
+cdg13.com,2022-12-13,302 Found https://www.cdg13.com/,2022-12-13,301 Moved Permanently http://www.cdg13.com/
+www.cdg13.com,2022-12-13,200 OK,2022-12-13,200 OK
+cdg2a.com,2022-12-13,301 Moved Permanently https://www.cdg2a.com/,2022-12-13,301 Moved Permanently https://www.cdg2a.com/
+www.cdg2a.com,2022-12-13,200 OK,2022-12-13,200 OK
+cdg2b.com,2022-12-13,301 Moved Permanently https://www.cdg2b.com/,2022-12-13,301 Moved Permanently https://www.cdg2b.com/
+www.cdg2b.com,2022-12-13,200 OK,2022-12-13,200 OK
+cdg58.com,2022-12-13,301 Moved Permanently https://www.cdg58.com/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cdg58.com'. (_ssl.c:997)"
+www.cdg58.com,2022-12-13,200 OK,2022-12-13,200 OK
+cdg60.com,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cdg60.com'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cdg60.com'. (_ssl.c:997)"
+www.cdg60.com,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg73.com,2022-12-13,200 OK,2022-12-13,200 OK
+cdg971.com,2022-12-13,301 Moved Permanently http://www.cdg971.com/,2022-12-13,301 Moved Permanently http://www.cdg971.com/
+www.cdg971.com,2022-12-13,200 OK,2022-12-13,200 OK
+cdg-64.fr,2022-12-13,301 Moved Permanently http://www.cdg-64.fr/,2022-12-13,301 Moved Permanently http://www.cdg-64.fr/
+www.cdg-64.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg-martinique.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg01.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('92.243.25.238', 443)"
+www.cdg01.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('92.243.25.238', 443)"
+cdg02.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.cdg02.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+cdg03.fr,2022-12-13,301 Moved Permanently https://www.cdg03.fr/,2022-12-13,301 Moved Permanently https://www.cdg03.fr/
+www.cdg03.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg04.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg04.fr,2022-12-13,301 Moved Permanently https://cdg04.fr/,2022-12-13,301 Moved Permanently https://cdg04.fr/
+cdg06.fr,2022-12-13,301 Moved Permanently http://www.cdg06.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.cdg06.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+cdg08.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg08.fr,2022-12-13,Timeout,2022-12-13,200 OK
+cdg09.fr,2022-12-13,301 Moved Permanently http://www.cdg09.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.cdg09.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+cdg10.fr,2022-12-13,301 Moved Permanently https://www.cdg10.fr/,2022-12-13,301 Moved Permanently https://www.cdg10.fr/
+www.cdg10.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg11.fr,2022-12-13,301 Moved Permanently https://www.cdg11.fr/,2022-12-13,301 Moved Permanently https://www.cdg11.fr/
+www.cdg11.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg14.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg14.fr,2022-12-13,301 Moved Permanently https://cdg14.fr/,2022-12-13,301 Moved Permanently https://cdg14.fr/
+cdg15.fr,2022-12-13,302 Found http://www.cdg15.fr/cdg,2022-12-13,302 Found http://www.cdg15.fr/cdg
+www.cdg15.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg16.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg16.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg17.fr,2022-12-13,302 Found https://www.cdg17.fr/,2022-12-13,"Connect call failed ('46.105.230.71', 443)"
+www.cdg17.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg18.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg18.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg19.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cdg19.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg21.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg21.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg22.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg22.fr,2022-12-13,503 Service Temporarily Unavailable,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+cdg23.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cdg23.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg24.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cdg24.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg26.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg26.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg27.fr,2022-12-13,301 Moved Permanently https://www.cdg27.fr/,2022-12-13,301 Moved Permanently http://www.cdg27.fr/
+www.cdg27.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg28.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg28.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg30.fr,2022-12-13,403 Forbidden,2022-12-13,403 Forbidden
+www.cdg30.fr,2022-12-13,403 Forbidden,2022-12-13,403 Forbidden
+cdg31.fr,2022-12-13,301 Moved Permanently https://www.cdg31.fr/,2022-12-13,301 Moved Permanently https://www.cdg31.fr/
+www.cdg31.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg32.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg32.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg33.fr,2022-12-13,301 Moved Permanently https://www.cdg33.fr/,2022-12-13,301 Moved Permanently https://www.cdg33.fr/
+www.cdg33.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg34.fr,2022-12-13,301 Moved Permanently https://www.cdg34.fr/,2022-12-13,301 Moved Permanently https://www.cdg34.fr/
+www.cdg34.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg35.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg35.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg36.fr,2022-12-13,301 Moved Permanently https://www.cdg36.fr/,2022-12-13,301 Moved Permanently https://www.cdg36.fr/
+www.cdg36.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg37.fr,2022-12-13,200 OK,2022-12-13,Timeout
+www.cdg37.fr,2022-12-13,200 OK,2022-12-13,Timeout
+cdg38.fr,2022-12-13,301 Moved Permanently https://www.cdg38.fr/,2022-12-13,301 Moved Permanently https://www.cdg38.fr/
+www.cdg38.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg40.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cdg40.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg43.fr,2022-12-13,404 Not Found,2022-12-13,"Connect call failed ('94.127.13.194', 443)"
+www.cdg43.fr,2022-12-13,404 Not Found,2022-12-13,"Connect call failed ('94.127.13.194', 443)"
+cdg44.fr,2022-12-13,301 Moved Permanently http://www.cdg44.fr/,2022-12-13,301 Moved Permanently http://www.cdg44.fr/
+www.cdg44.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg45.fr,2022-12-13,301 Moved Permanently http://www.cdg45.fr/,2022-12-13,301 Moved Permanently https://www.cdg45.fr/
+www.cdg45.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg46.fr,2022-12-13,301 Moved Permanently https://www.cdg46.fr/,2022-12-13,308 Permanent Redirect https://www.cdg46.fr/
+www.cdg46.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg47.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cdg47.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg48.fr,2022-12-13,301 Moved Permanently https://www.cdg48.fr/,2022-12-13,301 Moved Permanently https://www.cdg48.fr/
+www.cdg48.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg49.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg49.fr,2022-12-13,301 Moved Permanently https://cdg49.fr/,2022-12-13,301 Moved Permanently https://cdg49.fr/
+cdg50.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg50.fr,2022-12-13,301 Moved Permanently https://cdg50.fr/,2022-12-13,301 Moved Permanently https://cdg50.fr/
+cdg52.fr,2022-12-13,301 Moved Permanently http://www.cdg52.fr/,2022-12-13,301 Moved Permanently https://www.cdg52.fr/
+www.cdg52.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg53.fr,2022-12-13,"Connect call failed ('164.132.161.101', 80)",2022-12-13,"Connect call failed ('164.132.161.101', 443)"
+www.cdg53.fr,2022-12-13,"Connect call failed ('164.132.161.101', 80)",2022-12-13,"Connect call failed ('164.132.161.101', 443)"
+cdg54.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg54.fr,2022-12-13,Timeout,2022-12-13,Timeout
+cdg56.fr,2022-12-13,301 Moved Permanently http://www.cdg56.fr,2022-12-13,"Connect call failed ('217.70.184.38', 443)"
+www.cdg56.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg57.fr,2022-12-13,301 Moved Permanently https://www.cdg57.fr/,2022-12-13,301 Moved Permanently https://www.cdg57.fr/
+www.cdg57.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg59.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('195.25.30.57', 443)"
+www.cdg59.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('195.25.30.57', 443)"
+cdg61.fr,2022-12-13,"Connect call failed ('164.132.15.139', 80)",2022-12-13,"Connect call failed ('164.132.15.139', 443)"
+www.cdg61.fr,2022-12-13,"Connect call failed ('164.132.15.139', 80)",2022-12-13,"Connect call failed ('164.132.15.139', 443)"
+cdg62.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg62.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg63.fr,2022-12-13,404 Not Found,2022-12-13,"Connect call failed ('94.127.13.194', 443)"
+www.cdg63.fr,2022-12-13,404 Not Found,2022-12-13,"Connect call failed ('94.127.13.194', 443)"
+cdg65.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cdg65.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg66.fr,2022-12-13,301 Moved Permanently http://www.cdg66.fr/,2022-12-13,"Connect call failed ('185.171.21.8', 443)"
+www.cdg66.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('185.171.21.8', 443)"
+cdg67.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg67.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg68.fr,2022-12-13,301 Moved Permanently http://www.cdg68.fr/,2022-12-13,301 Moved Permanently https://www.cdg68.fr/
+www.cdg68.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg69.fr,2022-12-13,302 Found https://www.cdg69.fr/,2022-12-13,200 OK
+www.cdg69.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg70.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cdg70.fr,2022-12-13,Timeout,2022-12-13,Timeout
+cdg71.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cdg71.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'cdg71.fr'. (_ssl.c:997)"
+www.cdg71.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg72.fr,2022-12-13,"Connect call failed ('164.132.15.139', 80)",2022-12-13,"Connect call failed ('164.132.15.139', 443)"
+www.cdg72.fr,2022-12-13,"Connect call failed ('164.132.15.139', 80)",2022-12-13,"Connect call failed ('164.132.15.139', 443)"
+cdg73.fr,2022-12-13,Timeout,2022-12-13,200 OK
+www.cdg73.fr,2022-12-13,301 Moved Permanently https://www.cdg73.com,2022-12-13,"Connect call failed ('213.186.33.5', 443)"
+cdg74.fr,2022-12-13,301 Moved Permanently https://www.cdg74.fr/,2022-12-13,301 Moved Permanently https://www.cdg74.fr/
+www.cdg74.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg76.fr,2022-12-13,301 Moved Permanently https://www.cdg76.fr/,2022-12-13,301 Moved Permanently https://www.cdg76.fr/
+www.cdg76.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg77.fr,2022-12-13,301 Moved Permanently https://www.cdg77.fr/,2022-12-13,301 Moved Permanently https://www.cdg77.fr/
+www.cdg77.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg79.fr,2022-12-13,301 Moved Permanently https://www.cdg79.fr/,2022-12-13,301 Moved Permanently https://www.cdg79.fr/
+www.cdg79.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg80.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdg80.fr,2022-12-13,301 Moved Permanently https://cdg80.fr/,2022-12-13,301 Moved Permanently https://cdg80.fr/
+cdg81.fr,2022-12-13,302 Found https://www.cdg81.fr/,2022-12-13,302 Found https://www.cdg81.fr/
+www.cdg81.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg82.fr,2022-12-13,301 Moved Permanently https://www.cdg82.fr//,2022-12-13,301 Moved Permanently https://www.cdg82.fr//
+www.cdg82.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg84.fr,2022-12-13,301 Moved Permanently https://www.cdg84.fr/,2022-12-13,301 Moved Permanently https://www.cdg84.fr/
+www.cdg84.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg85.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg85.fr,2022-12-13,301 Moved Permanently http://maisondescommunes85.com,2022-12-13,"Connect call failed ('213.186.33.5', 443)"
+cdg86.fr,2022-12-13,301 Moved Permanently https://www.cdg86.fr/,2022-12-13,301 Moved Permanently https://www.cdg86.fr/
+www.cdg86.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg87.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+www.cdg87.fr,2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997),2022-12-13,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)
+cdg88.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.cdg88.fr,2022-12-13,301 Moved Permanently https://www.cdgplus.fr/,2022-12-13,301 Moved Permanently https://www.cdgplus.fr/
+cdg89.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.cdg89.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+cdg90.fr,2022-12-13,301 Moved Permanently https://www.cdg90.fr/,2022-12-13,301 Moved Permanently https://www.cdg90.fr/
+www.cdg90.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdgjura.fr,2022-12-13,301 Moved Permanently https://www.cdgjura.fr/,2022-12-13,301 Moved Permanently https://www.cdgjura.fr/
+www.cdgjura.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdgplus.fr,2022-12-13,301 Moved Permanently https://www.cdgplus.fr/,2022-12-13,301 Moved Permanently https://www.cdgplus.fr/
+51.cdgplus.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.51.cdgplus.fr,2022-12-13,301 Moved Permanently https://51.cdgplus.fr/,2022-12-13,301 Moved Permanently https://51.cdgplus.fr/
+54.cdgplus.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.54.cdgplus.fr,2022-12-13,301 Moved Permanently https://54.cdgplus.fr/,2022-12-13,301 Moved Permanently https://54.cdgplus.fr/
+55.cdgplus.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.cdgplus.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdgreunion.fr,2022-12-13,301 Moved Permanently http://www.cdgreunion.fr/,2022-12-13,301 Moved Permanently http://www.cdgreunion.fr/
+www.cdgreunion.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdgvar.fr,2022-12-13,302 Found https://www.cdgvar.fr/wp-signup.php?new=cdgvar.fr,2022-12-13,302 Found https://www.cdgvar.fr/wp-signup.php?new=cdgvar.fr
+www.cdgvar.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cig929394.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.cig929394.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cigversailles.fr,2022-12-13,301 Moved Permanently https://www.cigversailles.fr/,2022-12-13,301 Moved Permanently https://www.cigversailles.fr/
+www.cigversailles.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cdg-41.org,2022-12-13,301 Moved Permanently https://www.cdg-41.org/,2022-12-13,301 Moved Permanently https://www.cdg-41.org/
+www.cdg-41.org,2022-12-13,200 OK,2022-12-13,200 OK
+cdg25.org,2022-12-13,301 Moved Permanently http://www.cdg25.org/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.cdg25.org,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+cdg42.org,2022-12-13,200 OK,2022-12-13,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)
+www.cdg42.org,2022-12-13,200 OK,2022-12-13,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:997)
+cdg973.org,2022-12-13,301 Moved Permanently https://www.cdg973.org/,2022-12-13,301 Moved Permanently https://www.cdg973.org/
+www.cdg973.org,2022-12-13,200 OK,2022-12-13,200 OK

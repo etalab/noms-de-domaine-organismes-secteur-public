@@ -6,7 +6,6 @@
 - Are all lines in sources/*.txt domain names?
 """
 
-
 import sys
 from pathlib import Path
 from functools import cached_property

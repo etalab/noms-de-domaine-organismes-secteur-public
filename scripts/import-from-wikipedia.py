@@ -48,7 +48,7 @@ def main():
     args = parse_args()
     found = set()
     with tqdm(
-        desc="Domains found", unit="domain", position=1, total=float("inf")
+            desc="Domains found", unit="domain", position=1, total=float("inf")
     ) as found_progress:
         with bz2.open(args.wikipedia_dump, mode="rt", encoding="UTF-8") as dump:
             for line in tqdm(dump, "Lines scanned", unit="line"):

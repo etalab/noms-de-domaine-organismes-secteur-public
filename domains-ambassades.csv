@@ -1,0 +1,383 @@
+name,http_last_check,http_status,https_last_check,https_status
+france.cz,2022-12-13,301 Moved Permanently https://cz.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'france.cz'. (_ssl.c:997)"
+botschaft-frankreich.de,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.botschaft-frankreich.de,2022-12-13,301 Moved Permanently http://de.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.botschaft-frankreich.de'. (_ssl.c:997)"
+1-ambassadeur-1-entrepreneur.eu,2022-12-13,301 Moved Permanently https://1ambassadeur1entrepreneur.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for '1-ambassadeur-1-entrepreneur.eu'. (_ssl.c:997)"
+assemblee-afe.eu,2022-12-13,301 Moved Permanently http://www.assemblee-afe.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'assemblee-afe.eu'. (_ssl.c:997)"
+archives-climat.fr,2022-12-13,200 OK,2022-12-13,Timeout
+ambafrance.org,2022-12-13,301 Moved Permanently https://diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-du-ministere-de-l-europe-et-des-affaires-etrangeres/ambassades-et-consulats-francais-a-l-etranger/,2022-12-13,301 Moved Permanently https://diplomatie.gouv.fr/fr/le-ministere-et-son-reseau/annuaires-du-ministere-de-l-europe-et-des-affaires-etrangeres/ambassades-et-consulats-francais-a-l-etranger/
+ad.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ae.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+af.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+al.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+am.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ambassadesvertes.ambafrance.org,2022-12-13,401 Unauthorized,2022-12-13,401 Unauthorized
+antispam.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'antispam.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'antispam.ambafrance.org'. (_ssl.c:997)"
+ao.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ar.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+at.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+au.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+az.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ba.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bd.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+be.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bf.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bh.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bi.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bj.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bmw.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bmw.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'bmw.ambafrance.org'. (_ssl.c:997)"
+bn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bo.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+br.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+bw.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+by.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ca.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cd.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cf.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ch.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ci.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cl.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cm.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+co.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cu.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cv.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cy.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+cz.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+de.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+dev-ambassadesvertes.ambafrance.org,2022-12-13,401 Unauthorized,2022-12-13,401 Unauthorized
+dj.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+dk.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+do.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+dz.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ec.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ee.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+eg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+er.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+es.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+et.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+fi.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+fj.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+fr.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fr.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fr.ambafrance.org'. (_ssl.c:997)"
+ga.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ge.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+gh.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+gn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+gq.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+gr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+gt.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+gw.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+hn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+hr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ht.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+hu.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+id.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ie.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+il.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+in.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+iq.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ir.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+webmail.ir.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ir.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ir.ambafrance.org'. (_ssl.c:997)"
+is.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+it.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+jm.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+jo.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+jp.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ke.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+kg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+kh.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+km.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+kosovo.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+kr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+kw.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+kz.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+l.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'l.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'l.ambafrance.org'. (_ssl.c:997)"
+la.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+lb.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+lc.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+li.ambafrance.org,2022-12-13,301 Moved Permanently https://ch.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'li.ambafrance.org'. (_ssl.c:997)"
+www.li.ambafrance.org,2022-12-13,301 Moved Permanently https://ch.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.li.ambafrance.org'. (_ssl.c:997)"
+lk.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+lr.ambafrance.org,2022-12-13,200 OK,2022-12-13,Timeout
+lt.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+lu.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+lv.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ly.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ma.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mc.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+md.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+me.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+messagerie.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mk.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ml.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mm.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ms.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ms.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ms.ambafrance.org'. (_ssl.c:997)"
+ms1.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ms1.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ms1.ambafrance.org'. (_ssl.c:997)"
+mt.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mta.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mta.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mta.ambafrance.org'. (_ssl.c:997)"
+mu.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mx.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+my.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+mz.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+na.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ne.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ng.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ni.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+nl.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+no.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+np.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+nz.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+om.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ottawa.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ottawa.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ottawa.ambafrance.org'. (_ssl.c:997)"
+owa.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'owa.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'owa.ambafrance.org'. (_ssl.c:997)"
+pa.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+pe.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+pg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ph.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+pk.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+pl.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+po.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'po.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'po.ambafrance.org'. (_ssl.c:997)"
+pt.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+py.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+qa.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ro.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+rs.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ru.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+rw.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sa.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sc.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sd.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+se.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+si.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sk.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+soudan.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'soudan.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'soudan.ambafrance.org'. (_ssl.c:997)"
+sr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ssd.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sv.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+sy.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+td.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+teams.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'teams.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'teams.ambafrance.org'. (_ssl.c:997)"
+tg.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+th.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+tj.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+tm.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+tn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+tr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+tt.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+tz.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ua.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ug.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+uk.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+uy.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+uz.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+va.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ve.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+visio-bah.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+visio-de.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+visio-gr.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+visio-lv.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+visio-pl.ambafrance.org,2022-12-13,"Connect call failed ('213.77.11.251', 80)",2022-12-13,"Connect call failed ('213.77.11.251', 443)"
+visio-rsa.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+vmail.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vmail.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vmail.ambafrance.org'. (_ssl.c:997)"
+vn.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+vpn.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vpn.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vpn.ambafrance.org'. (_ssl.c:997)"
+vps.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vps.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'vps.ambafrance.org'. (_ssl.c:997)"
+vu.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+www.ambafrance.org,2022-12-13,301 Moved Permanently https://ambafrance.org/,2022-12-13,301 Moved Permanently https://ambafrance.org/
+xx.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xx.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xx.ambafrance.org'. (_ssl.c:997)"
+ye.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+za.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+zimbra.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'zimbra.ambafrance.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'zimbra.ambafrance.org'. (_ssl.c:997)"
+zm.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+zw.ambafrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+ambafrance-at.org,2022-12-13,301 Moved Permanently https://at.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-at.org'. (_ssl.c:997)"
+webmail.ambafrance-at.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-at.org'. (_ssl.c:997)"
+www.ambafrance-at.org,2022-12-13,301 Moved Permanently https://at.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-at.org'. (_ssl.c:997)"
+ambafrance-au.org,2022-12-13,301 Moved Permanently https://au.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-au.org'. (_ssl.c:997)"
+www.ambafrance-au.org,2022-12-13,301 Moved Permanently https://au.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-au.org'. (_ssl.c:997)"
+ambafrance-be.org,2022-12-13,301 Moved Permanently https://be.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-be.org'. (_ssl.c:997)"
+webmail.ambafrance-be.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-be.org'. (_ssl.c:997)"
+ambafrance-bi.org,2022-12-13,301 Moved Permanently https://bi.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-bi.org'. (_ssl.c:997)"
+ambafrance-bo.org,2022-12-13,301 Moved Permanently https://bo.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-bo.org'. (_ssl.c:997)"
+webmail.ambafrance-bo.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-bo.org'. (_ssl.c:997)"
+www.ambafrance-bo.org,2022-12-13,301 Moved Permanently https://bo.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-bo.org'. (_ssl.c:997)"
+ambafrance-br.org,2022-12-13,301 Moved Permanently https://br.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-br.org'. (_ssl.c:997)"
+webmail.ambafrance-br.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-br.org'. (_ssl.c:997)"
+www.ambafrance-br.org,2022-12-13,301 Moved Permanently https://br.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-br.org'. (_ssl.c:997)"
+ambafrance-bw.org,2022-12-13,301 Moved Permanently https://bw.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-bw.org'. (_ssl.c:997)"
+ambafrance-ca.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ca.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ca.org'. (_ssl.c:997)"
+www.ambafrance-ca.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ca.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ca.org'. (_ssl.c:997)"
+ambafrance-ch.org,2022-12-13,301 Moved Permanently https://ch.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ch.org'. (_ssl.c:997)"
+www.ambafrance-ch.org,2022-12-13,301 Moved Permanently https://ch.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ch.org'. (_ssl.c:997)"
+ambafrance-cl.org,2022-12-13,301 Moved Permanently https://cl.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-cl.org'. (_ssl.c:997)"
+ambafrance-cn.org,2022-12-13,301 Moved Permanently https://cn.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-cn.org'. (_ssl.c:997)"
+webmail.ambafrance-cn.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-cn.org'. (_ssl.c:997)"
+www.ambafrance-cn.org,2022-12-13,301 Moved Permanently https://cn.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-cn.org'. (_ssl.c:997)"
+ambafrance-cv.org,2022-12-13,301 Moved Permanently https://cv.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-cv.org'. (_ssl.c:997)"
+ambafrance-de.org,2022-12-13,301 Moved Permanently https://de.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-de.org'. (_ssl.c:997)"
+webmail.ambafrance-de.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-de.org'. (_ssl.c:997)"
+www.ambafrance-de.org,2022-12-13,301 Moved Permanently https://de.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-de.org'. (_ssl.c:997)"
+ambafrance-dk.org,2022-12-13,301 Moved Permanently https://dk.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-dk.org'. (_ssl.c:997)"
+webmail.ambafrance-dk.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-dk.org'. (_ssl.c:997)"
+ambafrance-ec.org,2022-12-13,301 Moved Permanently https://ec.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ec.org'. (_ssl.c:997)"
+webmail.ambafrance-ec.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-ec.org'. (_ssl.c:997)"
+www.ambafrance-ec.org,2022-12-13,301 Moved Permanently https://ec.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ec.org'. (_ssl.c:997)"
+ambafrance-ee.org,2022-12-13,301 Moved Permanently https://ee.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ee.org'. (_ssl.c:997)"
+webmail.ambafrance-ee.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-ee.org'. (_ssl.c:997)"
+ambafrance-eg.org,2022-12-13,301 Moved Permanently https://eg.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-eg.org'. (_ssl.c:997)"
+www.ambafrance-eg.org,2022-12-13,301 Moved Permanently https://eg.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-eg.org'. (_ssl.c:997)"
+ambafrance-es.org,2022-12-13,301 Moved Permanently https://es.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-es.org'. (_ssl.c:997)"
+webmail.ambafrance-es.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-es.org'. (_ssl.c:997)"
+www.ambafrance-es.org,2022-12-13,301 Moved Permanently https://es.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-es.org'. (_ssl.c:997)"
+ambafrance-et.org,2022-12-13,301 Moved Permanently https://et.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-et.org'. (_ssl.c:997)"
+webmail.ambafrance-et.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-et.org'. (_ssl.c:997)"
+ambafrance-fj.org,2022-12-13,301 Moved Permanently https://fj.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-fj.org'. (_ssl.c:997)"
+webmail.ambafrance-fj.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-fj.org'. (_ssl.c:997)"
+ambafrance-ga.org,2022-12-13,301 Moved Permanently https://ga.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ga.org'. (_ssl.c:997)"
+webmail.ambafrance-ga.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-ga.org'. (_ssl.c:997)"
+www.ambafrance-ga.org,2022-12-13,301 Moved Permanently https://ga.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ga.org'. (_ssl.c:997)"
+ambafrance-gh.org,2022-12-13,301 Moved Permanently https://gh.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-gh.org'. (_ssl.c:997)"
+webmail.ambafrance-gh.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-gh.org'. (_ssl.c:997)"
+www.ambafrance-gh.org,2022-12-13,301 Moved Permanently https://gh.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-gh.org'. (_ssl.c:997)"
+ambafrance-gr.org,2022-12-13,301 Moved Permanently https://gr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-gr.org'. (_ssl.c:997)"
+webmail.ambafrance-gr.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-gr.org'. (_ssl.c:997)"
+www.ambafrance-gr.org,2022-12-13,301 Moved Permanently https://gr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-gr.org'. (_ssl.c:997)"
+ambafrance-gt.org,2022-12-13,301 Moved Permanently https://gt.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-gt.org'. (_ssl.c:997)"
+webmail.ambafrance-gt.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-gt.org'. (_ssl.c:997)"
+www.ambafrance-gt.org,2022-12-13,301 Moved Permanently https://gt.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-gt.org'. (_ssl.c:997)"
+ambafrance-gw.org,2022-12-13,301 Moved Permanently https://gw.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-gw.org'. (_ssl.c:997)"
+webmail.ambafrance-gw.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-gw.org'. (_ssl.c:997)"
+ambafrance-hn.org,2022-12-13,301 Moved Permanently https://hn.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-hn.org'. (_ssl.c:997)"
+webmail.ambafrance-hn.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-hn.org'. (_ssl.c:997)"
+ambafrance-hr.org,2022-12-13,301 Moved Permanently https://hr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-hr.org'. (_ssl.c:997)"
+webmail.ambafrance-hr.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-hr.org'. (_ssl.c:997)"
+www.ambafrance-hr.org,2022-12-13,301 Moved Permanently https://hr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-hr.org'. (_ssl.c:997)"
+ambafrance-ht.org,2022-12-13,301 Moved Permanently https://ht.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ht.org'. (_ssl.c:997)"
+www.ambafrance-ht.org,2022-12-13,301 Moved Permanently https://ht.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ht.org'. (_ssl.c:997)"
+ambafrance-id.org,2022-12-13,301 Moved Permanently https://id.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-id.org'. (_ssl.c:997)"
+webmail.ambafrance-id.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-id.org'. (_ssl.c:997)"
+www.ambafrance-id.org,2022-12-13,301 Moved Permanently https://id.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-id.org'. (_ssl.c:997)"
+ambafrance-ie.org,2022-12-13,301 Moved Permanently https://ie.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ie.org'. (_ssl.c:997)"
+webmail.ambafrance-ie.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-ie.org'. (_ssl.c:997)"
+www.ambafrance-ie.org,2022-12-13,301 Moved Permanently https://ie.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ie.org'. (_ssl.c:997)"
+ambafrance-il.org,2022-12-13,301 Moved Permanently https://il.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-il.org'. (_ssl.c:997)"
+webmail.ambafrance-il.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-il.org'. (_ssl.c:997)"
+www.ambafrance-il.org,2022-12-13,301 Moved Permanently https://il.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-il.org'. (_ssl.c:997)"
+ambafrance-in.org,2022-12-13,301 Moved Permanently https://in.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-in.org'. (_ssl.c:997)"
+webmail.ambafrance-in.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-in.org'. (_ssl.c:997)"
+www.ambafrance-in.org,2022-12-13,301 Moved Permanently https://in.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-in.org'. (_ssl.c:997)"
+ambafrance-ir.org,2022-12-13,301 Moved Permanently https://ir.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ir.org'. (_ssl.c:997)"
+webmail.ambafrance-ir.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-ir.org'. (_ssl.c:997)"
+www.ambafrance-ir.org,2022-12-13,301 Moved Permanently https://ir.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ir.org'. (_ssl.c:997)"
+ambafrance-is.org,2022-12-13,301 Moved Permanently https://is.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-is.org'. (_ssl.c:997)"
+webmail.ambafrance-is.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-is.org'. (_ssl.c:997)"
+ambafrance-it.org,2022-12-13,301 Moved Permanently https://it.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-it.org'. (_ssl.c:997)"
+webmail.ambafrance-it.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-it.org'. (_ssl.c:997)"
+www.ambafrance-it.org,2022-12-13,301 Moved Permanently https://it.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-it.org'. (_ssl.c:997)"
+ambafrance-jp.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-jp.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-jp.org'. (_ssl.c:997)"
+www.ambafrance-jp.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-jp.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-jp.org'. (_ssl.c:997)"
+ambafrance-kp.org,2022-12-13,301 Moved Permanently https://www.diplomatie.gouv.fr/fr/dossiers-pays/coree-du-nord/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-kp.org'. (_ssl.c:997)"
+ambafrance-kr.org,2022-12-13,301 Moved Permanently https://kr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-kr.org'. (_ssl.c:997)"
+www.ambafrance-kr.org,2022-12-13,301 Moved Permanently https://kr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-kr.org'. (_ssl.c:997)"
+ambafrance-kw.org,2022-12-13,301 Moved Permanently https://kw.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-kw.org'. (_ssl.c:997)"
+webmail.ambafrance-kw.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-kw.org'. (_ssl.c:997)"
+ambafrance-kz.org,2022-12-13,301 Moved Permanently https://kz.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-kz.org'. (_ssl.c:997)"
+webmail.ambafrance-kz.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-kz.org'. (_ssl.c:997)"
+www.ambafrance-kz.org,2022-12-13,301 Moved Permanently https://kz.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-kz.org'. (_ssl.c:997)"
+ambafrance-lc.org,2022-12-13,301 Moved Permanently https://lc.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-lc.org'. (_ssl.c:997)"
+webmail.ambafrance-lc.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-lc.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-lc.org'. (_ssl.c:997)"
+www.ambafrance-lc.org,2022-12-13,301 Moved Permanently https://lc.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-lc.org'. (_ssl.c:997)"
+ambafrance-lk.org,2022-12-13,301 Moved Permanently https://lk.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-lk.org'. (_ssl.c:997)"
+webmail.ambafrance-lk.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-lk.org'. (_ssl.c:997)"
+ambafrance-me.org,2022-12-13,301 Moved Permanently https://me.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-me.org'. (_ssl.c:997)"
+ambafrance-mn.org,2022-12-13,301 Moved Permanently https://mn.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-mn.org'. (_ssl.c:997)"
+www.ambafrance-mn.org,2022-12-13,301 Moved Permanently https://mn.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-mn.org'. (_ssl.c:997)"
+ambafrance-mr.org,2022-12-13,301 Moved Permanently https://mr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-mr.org'. (_ssl.c:997)"
+ambafrance-mu.org,2022-12-13,301 Moved Permanently https://mu.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-mu.org'. (_ssl.c:997)"
+www.ambafrance-mu.org,2022-12-13,301 Moved Permanently https://mu.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-mu.org'. (_ssl.c:997)"
+ambafrance-mx.org,2022-12-13,301 Moved Permanently https://mx.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-mx.org'. (_ssl.c:997)"
+webmail.ambafrance-mx.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-mx.org'. (_ssl.c:997)"
+www.ambafrance-mx.org,2022-12-13,301 Moved Permanently https://mx.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-mx.org'. (_ssl.c:997)"
+ambafrance-my.org,2022-12-13,301 Moved Permanently https://my.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-my.org'. (_ssl.c:997)"
+www.ambafrance-my.org,2022-12-13,301 Moved Permanently https://my.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-my.org'. (_ssl.c:997)"
+ambafrance-mz.org,2022-12-13,301 Moved Permanently https://mz.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-mz.org'. (_ssl.c:997)"
+www.ambafrance-mz.org,2022-12-13,301 Moved Permanently https://mz.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-mz.org'. (_ssl.c:997)"
+ambafrance-na.org,2022-12-13,301 Moved Permanently https://na.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-na.org'. (_ssl.c:997)"
+webmail.ambafrance-na.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-na.org'. (_ssl.c:997)"
+www.ambafrance-na.org,2022-12-13,301 Moved Permanently https://na.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-na.org'. (_ssl.c:997)"
+ambafrance-ng.org,2022-12-13,301 Moved Permanently https://ng.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ng.org'. (_ssl.c:997)"
+ambafrance-ni.org,2022-12-13,301 Moved Permanently https://ni.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ni.org'. (_ssl.c:997)"
+ambafrance-nl.org,2022-12-13,301 Moved Permanently https://nl.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-nl.org'. (_ssl.c:997)"
+webmail.ambafrance-nl.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-nl.org'. (_ssl.c:997)"
+www.ambafrance-nl.org,2022-12-13,301 Moved Permanently https://nl.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-nl.org'. (_ssl.c:997)"
+ambafrance-np.org,2022-12-13,301 Moved Permanently https://np.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-np.org'. (_ssl.c:997)"
+www.ambafrance-np.org,2022-12-13,301 Moved Permanently https://np.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-np.org'. (_ssl.c:997)"
+ambafrance-om.org,2022-12-13,301 Moved Permanently https://om.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-om.org'. (_ssl.c:997)"
+webmail.ambafrance-om.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-om.org'. (_ssl.c:997)"
+ambafrance-pa.org,2022-12-13,301 Moved Permanently https://pa.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-pa.org'. (_ssl.c:997)"
+webmail.ambafrance-pa.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-pa.org'. (_ssl.c:997)"
+ambafrance-pe.org,2022-12-13,301 Moved Permanently https://pe.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-pe.org'. (_ssl.c:997)"
+www.ambafrance-pe.org,2022-12-13,301 Moved Permanently https://pe.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-pe.org'. (_ssl.c:997)"
+ambafrance-pl.org,2022-12-13,301 Moved Permanently https://pl.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-pl.org'. (_ssl.c:997)"
+webmail.ambafrance-pl.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-pl.org'. (_ssl.c:997)"
+ambafrance-qa.org,2022-12-13,301 Moved Permanently https://qa.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-qa.org'. (_ssl.c:997)"
+ambafrance-rsa.org,2022-12-13,301 Moved Permanently https://za.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-rsa.org'. (_ssl.c:997)"
+webmail.ambafrance-rsa.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-rsa.org'. (_ssl.c:997)"
+www.ambafrance-rsa.org,2022-12-13,301 Moved Permanently https://za.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-rsa.org'. (_ssl.c:997)"
+ambafrance-ru.org,2022-12-13,301 Moved Permanently https://ru.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-ru.org'. (_ssl.c:997)"
+webmail.ambafrance-ru.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-ru.org'. (_ssl.c:997)"
+www.ambafrance-ru.org,2022-12-13,301 Moved Permanently https://ru.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-ru.org'. (_ssl.c:997)"
+ambafrance-rw.org,2022-12-13,301 Moved Permanently https://rw.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-rw.org'. (_ssl.c:997)"
+ambafrance-sa.org,2022-12-13,301 Moved Permanently https://sa.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-sa.org'. (_ssl.c:997)"
+ambafrance-sc.org,2022-12-13,301 Moved Permanently https://sc.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-sc.org'. (_ssl.c:997)"
+webmail.ambafrance-sc.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-sc.org'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-sc.org'. (_ssl.c:997)"
+ambafrance-sd.org,2022-12-13,301 Moved Permanently https://sd.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-sd.org'. (_ssl.c:997)"
+www.ambafrance-sd.org,2022-12-13,301 Moved Permanently https://sd.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-sd.org'. (_ssl.c:997)"
+ambafrance-sds.org,2022-12-13,301 Moved Permanently https://ssd.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-sds.org'. (_ssl.c:997)"
+webmail.ambafrance-sds.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-sds.org'. (_ssl.c:997)"
+ambafrance-se.org,2022-12-13,301 Moved Permanently https://se.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-se.org'. (_ssl.c:997)"
+webmail.ambafrance-se.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-se.org'. (_ssl.c:997)"
+ambafrance-sg.org,2022-12-13,301 Moved Permanently https://sg.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-sg.org'. (_ssl.c:997)"
+webmail.ambafrance-sg.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-sg.org'. (_ssl.c:997)"
+www.ambafrance-sg.org,2022-12-13,301 Moved Permanently https://sg.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-sg.org'. (_ssl.c:997)"
+ambafrance-si.org,2022-12-13,301 Moved Permanently https://si.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-si.org'. (_ssl.c:997)"
+webmail.ambafrance-si.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-si.org'. (_ssl.c:997)"
+ambafrance-sn.org,2022-12-13,301 Moved Permanently https://sn.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-sn.org'. (_ssl.c:997)"
+www.ambafrance-sn.org,2022-12-13,301 Moved Permanently https://sn.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-sn.org'. (_ssl.c:997)"
+ambafrance-sv.org,2022-12-13,301 Moved Permanently https://sv.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-sv.org'. (_ssl.c:997)"
+webmail.ambafrance-sv.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-sv.org'. (_ssl.c:997)"
+ambafrance-th.org,2022-12-13,301 Moved Permanently https://th.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-th.org'. (_ssl.c:997)"
+www.ambafrance-th.org,2022-12-13,301 Moved Permanently https://th.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-th.org'. (_ssl.c:997)"
+ambafrance-tj.org,2022-12-13,301 Moved Permanently https://tj.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-tj.org'. (_ssl.c:997)"
+www.ambafrance-tj.org,2022-12-13,301 Moved Permanently https://tj.ambafrance.org,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-tj.org'. (_ssl.c:997)"
+ambafrance-tr.org,2022-12-13,301 Moved Permanently https://tr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-tr.org'. (_ssl.c:997)"
+webmail.ambafrance-tr.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-tr.org'. (_ssl.c:997)"
+www.ambafrance-tr.org,2022-12-13,301 Moved Permanently https://tr.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-tr.org'. (_ssl.c:997)"
+ambafrance-tt.org,2022-12-13,301 Moved Permanently https://tt.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-tt.org'. (_ssl.c:997)"
+webmail.ambafrance-tt.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-tt.org'. (_ssl.c:997)"
+ambafrance-uk.org,2022-12-13,301 Moved Permanently https://uk.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-uk.org'. (_ssl.c:997)"
+www.ambafrance-uk.org,2022-12-13,301 Moved Permanently https://uk.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-uk.org'. (_ssl.c:997)"
+ambafrance-zm.org,2022-12-13,301 Moved Permanently https://zm.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-zm.org'. (_ssl.c:997)"
+webmail.ambafrance-zm.org,2022-12-13,Timeout,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.ambafrance-zm.org'. (_ssl.c:997)"
+ambafrance-zw.org,2022-12-13,301 Moved Permanently https://zw.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafrance-zw.org'. (_ssl.c:997)"
+www.ambafrance-zw.org,2022-12-13,301 Moved Permanently https://zw.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafrance-zw.org'. (_ssl.c:997)"
+ambafranceuruguay.org,2022-12-13,301 Moved Permanently https://uy.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ambafranceuruguay.org'. (_ssl.c:997)"
+www.ambafranceuruguay.org,2022-12-13,301 Moved Permanently https://uy.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ambafranceuruguay.org'. (_ssl.c:997)"
+pointe-noire.consulfrance.org,2022-12-13,200 OK,2022-12-13,200 OK
+consulfrance-alexandrie.org,2022-12-13,301 Moved Permanently https://eg.ambafrance.org/-Le-Consulat-general-de-France-a-Alexandrie-,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'consulfrance-alexandrie.org'. (_ssl.c:997)"
+consulfrance-buenos-aires.org,2022-12-13,301 Moved Permanently https://ar.ambafrance.org/-Consulat-general-a-Buenos-Aires-,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'consulfrance-buenos-aires.org'. (_ssl.c:997)"
+www.consulfrance-buenos-aires.org,2022-12-13,301 Moved Permanently https://ar.ambafrance.org/-Consulat-general-a-Buenos-Aires-,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.consulfrance-buenos-aires.org'. (_ssl.c:997)"
+consulfrance-pointe-noire.org,2022-12-13,301 Moved Permanently https://pointe-noire.consulfrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'consulfrance-pointe-noire.org'. (_ssl.c:997)"
+www.consulfrance-pointe-noire.org,2022-12-13,301 Moved Permanently https://pointe-noire.consulfrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.consulfrance-pointe-noire.org'. (_ssl.c:997)"
+embafrancia-argentina.org,2022-12-13,301 Moved Permanently https://ar.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'embafrancia-argentina.org'. (_ssl.c:997)"
+webmail.embafrancia-argentina.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.embafrancia-argentina.org'. (_ssl.c:997)"
+www.embafrancia-argentina.org,2022-12-13,301 Moved Permanently https://ar.ambafrance.org/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.embafrancia-argentina.org'. (_ssl.c:997)"
+webmail.pekin-phedre.org,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'webmail.pekin-phedre.org'. (_ssl.c:997)"

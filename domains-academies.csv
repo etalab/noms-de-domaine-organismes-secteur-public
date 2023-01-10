@@ -1,0 +1,73 @@
+name,http_last_check,http_status,https_last_check,https_status
+ac-aix-marseille.fr,2022-12-13,301 Moved Permanently https://www.ac-aix-marseille.fr/,2022-12-13,301 Moved Permanently https://www.ac-aix-marseille.fr/
+www.ac-aix-marseille.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-amiens.fr,2022-12-13,301 Moved Permanently https://www.ac-amiens.fr/,2022-12-13,301 Moved Permanently https://www.ac-amiens.fr/
+www.ac-amiens.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-besancon.fr,2022-12-13,301 Moved Permanently https://www.ac-besancon.fr/,2022-12-13,301 Moved Permanently https://www.ac-besancon.fr/
+www.ac-besancon.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-bordeaux.fr,2022-12-13,301 Moved Permanently https://www.ac-bordeaux.fr/,2022-12-13,301 Moved Permanently https://www.ac-bordeaux.fr/
+www.ac-bordeaux.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-caen.fr,2022-12-13,302 Moved Temporarily https://www.ac-caen.fr/,2022-12-13,302 Moved Temporarily https://www.ac-caen.fr/
+www.ac-caen.fr,2022-12-13,301 Moved Permanently https://www.ac-normandie.fr/,2022-12-13,301 Moved Permanently https://www.ac-normandie.fr/
+ac-clermont.fr,2022-12-13,301 Moved Permanently https://www.ac-clermont.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ac-clermont.fr'. (_ssl.c:997)"
+www.ac-clermont.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-corse.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ac-corse.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-creteil.fr,2022-12-13,301 Moved Permanently https://www.ac-creteil.fr/,2022-12-13,301 Moved Permanently https://www.ac-creteil.fr/
+www.ac-creteil.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-dijon.fr,2022-12-13,301 Moved Permanently https://www.ac-dijon.fr/,2022-12-13,301 Moved Permanently https://www.ac-dijon.fr/
+www.ac-dijon.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-grenoble.fr,2022-12-13,301 Moved Permanently http://www.ac-grenoble.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.ac-grenoble.fr,2022-12-13,301 Moved Permanently https://www1.ac-grenoble.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www1.ac-grenoble.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-guadeloupe.fr,2022-12-13,301 Moved Permanently https://www.ac-guadeloupe.fr/,2022-12-13,301 Moved Permanently https://www.ac-guadeloupe.fr/
+www.ac-guadeloupe.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-guyane.fr,2022-12-13,301 Moved Permanently https://www.ac-guyane.fr/,2022-12-13,301 Moved Permanently https://www.ac-guyane.fr/
+www.ac-guyane.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-lille.fr,2022-12-13,301 Moved Permanently http://www.ac-lille.fr/,2022-12-13,301 Moved Permanently http://www.ac-lille.fr/
+www.ac-lille.fr,2022-12-13,301 Moved Permanently http://www1.ac-lille.fr/,2022-12-13,301 Moved Permanently http://www1.ac-lille.fr/
+www1.ac-lille.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-limoges.fr,2022-12-13,301 Moved Permanently https://www.ac-limoges.fr/,2022-12-13,301 Moved Permanently https://www.ac-limoges.fr/
+www.ac-limoges.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-lyon.fr,2022-12-13,301 Moved Permanently https://www.ac-lyon.fr/,2022-12-13,301 Moved Permanently https://www.ac-lyon.fr/
+www.ac-lyon.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-martinique.fr,2022-12-13,301 Moved Permanently https://www.ac-martinique.fr/,2022-12-13,301 Moved Permanently https://www.ac-martinique.fr/
+www.ac-martinique.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-mayotte.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ac-mayotte.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-montpellier.fr,2022-12-13,301 Moved Permanently https://www.ac-montpellier.fr/,2022-12-13,301 Moved Permanently https://www.ac-montpellier.fr/
+www.ac-montpellier.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-nancy-metz.fr,2022-12-13,301 Moved Permanently https://www.ac-nancy-metz.fr/,2022-12-13,301 Moved Permanently https://www.ac-nancy-metz.fr/
+www.ac-nancy-metz.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-nantes.fr,2022-12-13,301 Moved Permanently https://www.ac-nantes.fr,2022-12-13,301 Moved Permanently https://www.ac-nantes.fr
+www.ac-nantes.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-nice.fr,2022-12-13,302 Found https://www.ac-nice.fr/,2022-12-13,302 Found https://www.ac-nice.fr/
+www.ac-nice.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-normandie.fr,2022-12-13,302 Moved Temporarily https://www.ac-normandie.fr/,2022-12-13,302 Moved Temporarily https://www.ac-normandie.fr/
+www.ac-normandie.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-orleans-tours.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ac-orleans-tours.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-paris.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ac-paris.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-poitiers.fr,2022-12-13,301 Moved Permanently https://www.ac-poitiers.fr/,2022-12-13,301 Moved Permanently https://www.ac-poitiers.fr/
+www.ac-poitiers.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-reims.fr,2022-12-13,301 Moved Permanently https://www.ac-reims.fr/,2022-12-13,301 Moved Permanently https://www.ac-reims.fr/
+www.ac-reims.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-rennes.fr,2022-12-13,301 Moved Permanently https://www.ac-rennes.fr/,2022-12-13,301 Moved Permanently https://www.ac-rennes.fr/
+www.ac-rennes.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-reunion.fr,2022-12-13,301 Moved Permanently https://www.ac-reunion.fr/,2022-12-13,301 Moved Permanently https://www.ac-reunion.fr/
+www.ac-reunion.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-rouen.fr,2022-12-13,302 Found http://www.ac-normandie.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:997)
+www.ac-rouen.fr,2022-12-13,302 Found http://www.ac-normandie.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:997)
+ac-spm.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ac-spm.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ac-spm.fr'. (_ssl.c:997)"
+ac-strasbourg.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ac-strasbourg.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-toulouse.fr,2022-12-13,301 Moved Permanently https://www.ac-toulouse.fr/,2022-12-13,301 Moved Permanently https://www.ac-toulouse.fr/
+www.ac-toulouse.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-versailles.fr,2022-12-13,301 Moved Permanently https://www.ac-versailles.fr/,2022-12-13,301 Moved Permanently https://www.ac-versailles.fr/
+www.ac-versailles.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ac-puy-de-dome.gouv.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+ac-noumea.nc,2022-12-13,301 Moved Permanently https://9830002k-ndrce5-1.ac-noumea.nc/,2022-12-13,403 Forbidden
+ac-polynesie.pf,2022-12-13,301 Moved Permanently https://www.monvr.pf/,2022-12-13,301 Moved Permanently https://www.monvr.pf/
+ac-wf.wf,2022-12-13,301 Moved Permanently https://www.ac-wf.wf/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ac-wf.wf'. (_ssl.c:997)"

@@ -1,0 +1,93 @@
+name,http_last_check,http_status,https_last_check,https_status
+mdph.ain.fr,2022-12-13,301 Moved Permanently https://www.ain.fr/solutions-services-infos-pratiques/handicaps/dossier-mdph/,2022-12-13,301 Moved Permanently https://www.ain.fr/solutions-services-infos-pratiques/handicaps/dossier-mdph/
+www.mdph.ain.fr,2022-12-13,301 Moved Permanently https://www.ain.fr/solutions-services-infos-pratiques/handicaps/dossier-mdph/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+mdph.cotesdarmor.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('80.240.161.220', 443)"
+mdph.departement06.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph.dordogne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph.doubs.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph32.gers.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mda.hautes-alpes.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph.hautes-alpes.fr,2022-12-13,301 Moved Permanently https://mda.hautes-alpes.fr,2022-12-13,301 Moved Permanently https://mda.hautes-alpes.fr
+www.mdph.hautes-alpes.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+srv7-prod-mdph.ille-et-vilaine.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+mdph.lenord.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mda.maine-et-loire.fr,2022-12-13,301 Moved Permanently https://www.mda.maine-et-loire.fr/,2022-12-13,301 Moved Permanently https://www.mda.maine-et-loire.fr/
+www.mda.maine-et-loire.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mda-tourcoing.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mda-tourcoing.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mda72.fr,2022-12-13,301 Moved Permanently https://www.mda72.fr/,2022-12-13,301 Moved Permanently https://www.mda72.fr/
+www.mda72.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.mdph.fr,2022-12-13,Timeout,2022-12-13,Timeout
+mdph03.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.mdph03.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+mdph06.fr,2022-12-13,301 Moved Permanently https://mdph.departement06.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mdph06.fr'. (_ssl.c:997)"
+www.mdph06.fr,2022-12-13,301 Moved Permanently https://mdph.departement06.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph06.fr'. (_ssl.c:997)"
+mdph10.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mdph10.fr,2022-12-13,301 Moved Permanently https://mdph10.fr/,2022-12-13,301 Moved Permanently https://mdph10.fr/
+mdph12.fr,2022-12-13,301 Moved Permanently https://www.mdph12.fr/,2022-12-13,301 Moved Permanently https://www.mdph12.fr/
+www.mdph12.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph13.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.mdph13.fr,2022-12-13,200 OK,2022-12-13,Timeout
+mdph16.fr,2022-12-13,301 Moved Permanently https://www.mdph16.fr/,2022-12-13,301 Moved Permanently https://www.mdph16.fr/
+www.mdph16.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph21.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mdph21.fr'. (_ssl.c:997)"
+www.mdph21.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph21.fr'. (_ssl.c:997)"
+mdph27.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.mdph27.fr,2022-12-13,"Connect call failed ('176.57.242.173', 80)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph27.fr'. (_ssl.c:997)"
+mdph28.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mdph28.fr'. (_ssl.c:997)"
+www.mdph28.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph28.fr'. (_ssl.c:997)"
+mdph29.fr,2022-12-13,301 Moved Permanently https://www.mdph29.fr/,2022-12-13,301 Moved Permanently https://www.mdph29.fr/
+www.mdph29.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph31.fr,2022-12-13,302 Found https://www.mdph31.fr/,2022-12-13,302 Found https://www.mdph31.fr/
+www.mdph31.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph32.fr,2022-12-13,301 Moved Permanently https://mdph32.gers.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.mdph32.fr,2022-12-13,301 Moved Permanently https://mdph32.gers.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+mdph33.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mdph33.fr,2022-12-13,400 Bad Request,2022-12-13,200 OK
+mdph34.fr,2022-12-13,301 Moved Permanently https://herault.fr/381-personnes-handicapees-et-agees.htm,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mdph34.fr'. (_ssl.c:997)"
+www.mdph34.fr,2022-12-13,301 Moved Permanently https://herault.fr/381-personnes-handicapees-et-agees.htm,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph34.fr'. (_ssl.c:997)"
+mdph35.fr,2022-12-13,301 Moved Permanently https://www.mdph35.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.mdph35.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph37.fr,2022-12-13,301 Moved Permanently https://www.mdph37.fr/,2022-12-13,200 OK
+www.mdph37.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph39.fr,2022-12-13,301 Moved Permanently https://www.mdph39.fr/,2022-12-13,301 Moved Permanently https://www.mdph39.fr/
+www.mdph39.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph47.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.mdph47.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph57.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mdph57.fr'. (_ssl.c:997)"
+www.mdph57.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph57.fr'. (_ssl.c:997)"
+mdph61.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mdph61.fr,2022-12-13,301 Moved Permanently http://mdph61.fr/,2022-12-13,301 Moved Permanently https://mdph61.fr/
+mdph64.fr,2022-12-13,301 Moved Permanently http://www.mdph64.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'mdph64.fr'. (_ssl.c:997)"
+www.mdph64.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph64.fr'. (_ssl.c:997)"
+mdph65.fr,2022-12-13,301 Moved Permanently https://www.mdph65.fr/,2022-12-13,301 Moved Permanently https://www.mdph65.fr/
+www.mdph65.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph72.fr,2022-12-13,301 Moved Permanently https://www.mdph72.fr/,2022-12-13,301 Moved Permanently https://www.mdph72.fr/
+www.mdph72.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph73.fr,2022-12-13,301 Moved Permanently https://www.savoie.fr/web/sw_55076/MDPH/Accueil,2022-12-13,301 Moved Permanently https://www.savoie.fr/web/sw_55076/MDPH/Accueil
+www.mdph73.fr,2022-12-13,301 Moved Permanently https://www.savoie.fr/web/sw_55076/MDPH/Accueil,2022-12-13,301 Moved Permanently https://www.savoie.fr/web/sw_55076/MDPH/Accueil
+mdph74.fr,2022-12-13,301 Moved Permanently https://www.mdph74.fr/,2022-12-13,301 Moved Permanently https://www.mdph74.fr/
+www.mdph74.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph77.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mdph77.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph86.fr,2022-12-13,302 Found https://www.mdph86.fr/,2022-12-13,200 OK
+www.mdph86.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph89.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.mdph89.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph89.fr'. (_ssl.c:997)"
+mdph972.fr,2022-12-13,301 Move Permanently https://www.mmph.fr,2022-12-13,301 Move Permanently https://www.mmph.fr
+mdph.meurthe-et-moselle.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mdph.meurthe-et-moselle.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+mdph.oise.fr,2022-12-13,301 Moved Permanently http://www.mdph.oise.fr/,2022-12-13,301 Moved Permanently http://www.mdph.oise.fr/
+www.mdph.oise.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph.pasdecalais.fr,2022-12-13,301 Moved Permanently https://www.pasdecalais.fr/Solidarite-Sante/Personnes-en-situation-de-handicap/Ma-MDPH,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.mdph.pasdecalais.fr,2022-12-13,301 Moved Permanently https://www.pasdecalais.fr/Solidarite-Sante/Personnes-en-situation-de-handicap/Ma-MDPH,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+mdph.puy-de-dome.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mdph.puy-de-dome.fr,2022-12-13,301 Moved Permanently https://mdph.puy-de-dome.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph.puy-de-dome.fr'. (_ssl.c:997)"
+mda.tarn.fr,2022-12-13,503 Service Unavailable,2022-12-13,503 Service Unavailable
+mdph.valdoise.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.mdph.valdoise.fr,2022-12-13,200 OK,2022-12-13,200 OK
+mdph.var.fr,2022-12-13,200 200,2022-12-13,200 200
+www.mdph.var.fr,2022-12-13,301 Moved Permanently https://mdph.var.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mdph.var.fr'. (_ssl.c:997)"
+mdph.re,2022-12-13,Timeout,2022-12-13,Timeout
+www.mdph.re,2022-12-13,200 OK,2022-12-13,200 OK

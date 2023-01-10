@@ -1,0 +1,173 @@
+name,http_last_check,http_status,https_last_check,https_status
+universita.corsicafr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+ensam.eu,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ensam.eu,2022-12-13,301 Moved Permanently https://www.artsetmetiers.fr/,2022-12-13,301 Moved Permanently https://www.artsetmetiers.fr/
+artsetmetiers.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.artsetmetiers.fr,2022-12-13,200 OK,2022-12-13,200 OK
+centralesupelec.fr,2022-12-13,301 Moved Permanently https://www.centralesupelec.fr/,2022-12-13,301 Moved Permanently https://www.centralesupelec.fr/
+www.centralesupelec.fr,2022-12-13,200 OK,2022-12-13,200 OK
+bibliotheque-virtuelle.clermont-universite.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+college-de-france.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.college-de-france.fr,2022-12-13,200 OK,2022-12-13,200 OK
+cyu.fr,2022-12-13,301 Moved Permanently https://www.cyu.fr/,2022-12-13,301 Moved Permanently https://www.cyu.fr/
+www.cyu.fr,2022-12-13,200 ,2022-12-13,200 
+devenir-aviateur.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ec-nantes.fr,2022-12-13,301 Moved Permanently https://www.ec-nantes.fr/,2022-12-13,301 Moved Permanently https://www.ec-nantes.fr/
+www.ec-nantes.fr,2022-12-13,200 ,2022-12-13,200 
+ecole-navale.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ecole-navale.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ecoledesponts.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.ecoledesponts.fr,2022-12-13,301 Moved Permanently https://ecoledesponts.fr/,2022-12-13,301 Moved Permanently https://ecoledesponts.fr/
+ehesp.fr,2022-12-13,302 Found https://www.ehesp.fr/,2022-12-13,302 Found https://www.ehesp.fr/
+www.ehesp.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ehess.fr,2022-12-13,301 Moved Permanently https://www.ehess.fr/,2022-12-13,301 Moved Permanently https://www.ehess.fr/fr
+www.ehess.fr,2022-12-13,200 OK,2022-12-13,200 OK
+enac.fr,2022-12-13,301 Moved Permanently http://www.enac.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'enac.fr'. (_ssl.c:997)"
+www.enac.fr,2022-12-13,200 OK,2022-12-13,200 OK
+enpc.fr,2022-12-13,301 Moved Permanently https://www.ecoledesponts.fr/,2022-12-13,301 Moved Permanently https://www.ecoledesponts.fr/
+enssib.fr,2022-12-13,302 Found https://sso.enssib.fr/cas/login?service=http%3a%2f%2fenssibweb.enssib.fr%2f,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'enssib.fr'. (_ssl.c:997)"
+sso.enssib.fr,2022-12-13,200 OK,2022-12-13,200 OK
+entpe.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.entpe.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+epf-normandie.fr,2022-12-13,301 Moved Permanently http://www.epf-normandie.fr/,2022-12-13,"Connect call failed ('46.183.50.17', 443)"
+www.epf-normandie.fr,2022-12-13,200 OK,2022-12-13,"Connect call failed ('46.183.50.17', 443)"
+inha.fr,2022-12-13,301 Moved Permanently https://www.inha.fr//,2022-12-13,200 OK
+ipb.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.ipb.fr,2022-12-13,200 OK,2022-12-13,200 OK
+isae.fr,2022-12-13,301 Moved Permanently https://www.isae-supaero.fr/,2022-12-13,301 Moved Permanently https://www.isae-supaero.fr/
+isae-supaero.fr,2022-12-13,301 Moved Permanently https://www.isae-supaero.fr/,2022-12-13,301 Moved Permanently https://www.isae-supaero.fr/
+www.isae-supaero.fr,2022-12-13,200 OK,2022-12-13,200 OK
+pantheonsorbonne.fr,2022-12-13,302 Moved Temporarily https://www.pantheonsorbonne.fr/,2022-12-13,302 Moved Temporarily https://www.pantheonsorbonne.fr/
+www.pantheonsorbonne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+parisnanterre.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.parisnanterre.fr,2022-12-13,200 200,2022-12-13,200 200
+sorbonne-universite.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.sorbonne-universite.fr,2022-12-13,200 OK,2022-12-13,200 OK
+supmaritime.fr,2022-12-13,301 Moved Permanently https://www.supmaritime.fr/,2022-12-13,301 Moved Permanently https://www.supmaritime.fr/
+www.supmaritime.fr,2022-12-13,200 OK,2022-12-13,200 OK
+u-bordeaux.fr,2022-12-13,301 Moved Permanently https://www.u-bordeaux.fr/,2022-12-13,[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:997)
+www.u-bordeaux.fr,2022-12-13,200 OK,2022-12-13,200 OK
+u-bordeaux-montaigne.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.u-bordeaux-montaigne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+u-bourgogne.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.u-bourgogne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+u-paris.fr,2022-12-13,200 OK,2022-12-13,200 OK
+u-paris2.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.u-paris2.fr,2022-12-13,200 OK,2022-12-13,200 OK
+u-pec.fr,2022-12-13,Timeout,2022-12-13,Timeout
+u-picardie.fr,2022-12-13,302 Found https://www.u-picardie.fr/,2022-12-13,302 Found https://www.u-picardie.fr/
+www.u-picardie.fr,2022-12-13,200 OK,2022-12-13,200 OK
+u-strasbg.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+uca.fr,2022-12-13,301 Moved Permanently https://www.uca.fr/,2022-12-13,301 Moved Permanently https://www.uca.fr/
+bibliotheque-virtuelle.bu.uca.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.uca.fr,2022-12-13,200 200,2022-12-13,200 200
+uha.fr,2022-12-13,301 Moved Permanently http://www.uha.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:997)
+www.uha.fr,2022-12-13,200 OK,2022-12-13,200 OK
+umontpellier.fr,2022-12-13,301 Moved Permanently https://www.umontpellier.fr/,2022-12-13,301 Moved Permanently https://www.umontpellier.fr/
+www.umontpellier.fr,2022-12-13,200 OK,2022-12-13,200 OK
+unicaen.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.unicaen.fr,2022-12-13,200 OK,2022-12-13,200 OK
+unilim.fr,2022-12-13,301 Moved Permanently https://www.unilim.fr/,2022-12-13,301 Moved Permanently https://www.unilim.fr/
+www.unilim.fr,2022-12-13,200 OK,2022-12-13,200 OK
+unimes.fr,2022-12-13,301 Moved Permanently https://www.unimes.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'unimes.fr'. (_ssl.c:997)"
+www.unimes.fr,2022-12-13,200 ,2022-12-13,200 
+unistra.fr,2022-12-13,301 Moved Permanently https://www.unistra.fr/,2022-12-13,301 Moved Permanently https://www.unistra.fr/
+www.unistra.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-ag.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-ag.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.univ-ag.fr'. (_ssl.c:997)"
+univ-amu.fr,2022-12-13,301 Moved Permanently http://www.univ-amu.fr/,2022-12-13,301 Moved Permanently https://www.univ-amu.fr/
+www.univ-amu.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-angers.fr,2022-12-13,301 Moved Permanently https://www.univ-angers.fr//,2022-12-13,301 Moved Permanently https://www.univ-angers.fr//
+www.univ-angers.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-artois.fr,2022-12-13,200 OK,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'univ-artois.fr'. (_ssl.c:997)"
+www.univ-artois.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-avignon.fr,2022-12-13,200 ,2022-12-13,200 
+univ-brest.fr,2022-12-13,403 Forbidden,2022-12-13,301 Moved Permanently https://nouveau.univ-brest.fr/
+www.univ-brest.fr,2022-12-13,301 Moved Permanently https://nouveau.univ-brest.fr/,2022-12-13,301 Moved Permanently https://nouveau.univ-brest.fr/
+univ-cotedazur.fr,2022-12-13,200 ,2022-12-13,200 
+univ-evry.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-evry.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+univ-fcomte.fr,2022-12-13,301 Moved Permanently https://www.univ-fcomte.fr/,2022-12-13,200 OK
+www.univ-fcomte.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-guyane.fr,2022-12-13,301 Moved Permanently https://www.univ-guyane.fr/,2022-12-13,301 Moved Permanently https://www.univ-guyane.fr/
+www.univ-guyane.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-larochelle.fr,2022-12-13,301 Moved Permanently https://www.univ-larochelle.fr/,2022-12-13,301 Moved Permanently https://www.univ-larochelle.fr/
+www.univ-larochelle.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-lehavre.fr,2022-12-13,301 Moved Permanently http://www.univ-lehavre.fr/,2022-12-13,301 Moved Permanently https://www.univ-lehavre.fr/
+www.univ-lehavre.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-lemans.fr,2022-12-13,301 Moved Permanently https://www.univ-lemans.fr/,2022-12-13,301 Moved Permanently https://www.univ-lemans.fr/fr/index.html
+www.univ-lemans.fr,2022-12-13,404 ,2022-12-13,404 
+univ-lille.fr,2022-12-13,301 Moved Permanently https://www.univ-lille.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'univ-lille.fr'. (_ssl.c:997)"
+www.univ-lille.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-littoral.fr,2022-12-13,301 Moved Permanently https://www.univ-littoral.fr/,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.univ-littoral.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+univ-lorraine.fr,2022-12-13,302 Found https://www.univ-lorraine.fr/,2022-12-13,302 Found https://www.univ-lorraine.fr/
+www.univ-lorraine.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-lyon1.fr,2022-12-13,301 Moved Permanently https://www.univ-lyon1.fr,2022-12-13,301 Moved Permanently https://www.univ-lyon1.fr
+www.univ-lyon1.fr,2022-12-13,200 200,2022-12-13,200 200
+univ-lyon2.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-lyon2.fr,2022-12-13,200 200,2022-12-13,200 200
+univ-lyon3.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-lyon3.fr,2022-12-13,200 200,2022-12-13,200 200
+univ-montp3.fr,2022-12-13,301 Moved Permanently https://www.univ-montp3.fr:443/,2022-12-13,301 Moved Permanently https://www.univ-montp3.fr:443/
+www.univ-montp3.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-nantes.fr,2022-12-13,302  https://www.univ-nantes.fr/,2022-12-13,302  https://www.univ-nantes.fr/
+www.univ-nantes.fr,2022-12-13,200 ,2022-12-13,200 
+univ-orleans.fr,2022-12-13,403 Forbidden,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+www.univ-orleans.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997),2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)
+univ-paris1.fr,2022-12-13,302 Moved Temporarily https://www.univ-paris1.fr/,2022-12-13,302 Moved Temporarily https://www.univ-paris1.fr/
+univ-paris13.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-paris13.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-paris3.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-paris3.fr,2022-12-13,200 OK,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:997)
+univ-paris8.fr,2022-12-13,"Connect call failed ('193.54.174.1', 80)",2022-12-13,"Connect call failed ('193.54.174.1', 443)"
+www.univ-paris8.fr,2022-12-13,400 Bad Request,2022-12-13,200 OK
+univ-pau.fr,2022-12-13,302 Found http://www.univ-pau.fr//fr/index.html,2022-12-13,302 Found http://www.univ-pau.fr//fr/index.html
+www.univ-pau.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-perp.fr,2022-12-13,302 302 https://www.univ-perp.fr/,2022-12-13,302 302 https://www.univ-perp.fr/
+www.univ-perp.fr,2022-12-13,200 200,2022-12-13,200 200
+univ-poitiers.fr,2022-12-13,403 Forbidden,2022-12-13,403 Forbidden
+univ-reims.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-reims.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-rennes1.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-rennes1.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-rennes2.fr,2022-12-13,302 Found https://www.univ-rennes2.fr/,2022-12-13,301 Moved Permanently https://www.univ-rennes2.fr/
+www.univ-rennes2.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-reunion.fr,2022-12-13,302 Found https://w3old.univ-reunion.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'univ-reunion.fr'. (_ssl.c:997)"
+www.univ-reunion.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-rouen.fr,2022-12-13,301 Moved Permanently https://www.univ-rouen.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'univ-rouen.fr'. (_ssl.c:997)"
+www.univ-rouen.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-savoie.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-savoie.fr,2022-12-13,301 Moved Permanently https://www.univ-smb.fr/,2022-12-13,301 Moved Permanently https://www.univ-smb.fr/
+univ-smb.fr,2022-12-13,301 Moved Permanently https://www.univ-smb.fr,2022-12-13,301 Moved Permanently https://www.univ-smb.fr
+www.univ-smb.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-st-etienne.fr,2022-12-13,301 Moved Permanently https://www.univ-st-etienne.fr/,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'univ-st-etienne.fr'. (_ssl.c:997)"
+cas.univ-st-etienne.fr,2022-12-13,Timeout,2022-12-13,200 OK
+portail.univ-st-etienne.fr,2022-12-13,301 Moved Permanently https://www.univ-st-etienne.fr,2022-12-13,302 Found https://cas.univ-st-etienne.fr/esup-cas/login?service=http%3a%2f%2fagenda.univ-st-etienne.fr%2f
+www.univ-st-etienne.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-tln.fr,2022-12-13,Timeout,2022-12-13,Timeout
+www.univ-tln.fr,2022-12-13,200 OK,2022-12-13,200 OK
+univ-tlse2.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'univ-tlse2.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'univ-tlse2.fr'. (_ssl.c:997)"
+www.univ-tlse2.fr,2022-12-13,200 ,2022-12-13,200 
+univ-tlse3.fr,2022-12-13,302 302 https://www.univ-tlse3.fr/,2022-12-13,302 302 https://www.univ-tlse3.fr/
+www.univ-tlse3.fr,2022-12-13,200 200,2022-12-13,200 200
+univ-tours.fr,2022-12-13,302  https://www.univ-tours.fr/,2022-12-13,302  https://www.univ-tours.fr/
+www.univ-tours.fr,2022-12-13,200 ,2022-12-13,200 
+univ-ubs.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-ubs.fr,2022-12-13,200 OK,2022-12-13,200 OK
+universite-paris-saclay.fr,2022-12-13,302 Found https://www.universite-paris-saclay.fr/,2022-12-13,302 Found https://www.universite-paris-saclay.fr/
+www.universite-paris-saclay.fr,2022-12-13,200 OK,2022-12-13,200 OK
+universiteparis2019.fr,2022-12-13,302 Found https://u-paris.fr,2022-12-13,[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
+uphf.fr,2022-12-13,200 OK,2022-12-13,200 OK
+www.uphf.fr,2022-12-13,200 OK,2022-12-13,200 OK
+ut-capitole.fr,2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ut-capitole.fr'. (_ssl.c:997)",2022-12-13,"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ut-capitole.fr'. (_ssl.c:997)"
+www.ut-capitole.fr,2022-12-13,200 ,2022-12-13,200 
+uvsq.fr,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.uvsq.fr,2022-12-13,200 200,2022-12-13,200 200
+vetagro-sup.fr,2022-12-13,301 Moved Permanently https://www.vetagro-sup.fr/,2022-12-13,301 Moved Permanently https://www.vetagro-sup.fr/
+www.vetagro-sup.fr,2022-12-13,200 OK,2022-12-13,200 OK
+unc.nc,2022-12-13,200 OK,2022-12-13,200 OK
+univ-nc.nc,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.univ-nc.nc,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+upf.pf,2022-12-13,Name or service not known,2022-12-13,Name or service not known
+www.upf.pf,2022-12-13,200 OK,2022-12-13,200 OK
