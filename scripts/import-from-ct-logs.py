@@ -40,7 +40,10 @@ def query_ct_logs(last_id):
     domains = parse_csv_file(FILE)
     primary_key = None
     for primary_key, domain, subject in cur.fetchall():
-        if any(non_public in subject for non_public in NON_PUBLIC_DOMAINS):
+        if any(
+            non_public in subject or non_public in domain
+            for non_public in NON_PUBLIC_DOMAINS
+        ):
             continue
         domain = Domain(
             domain.lower(),
