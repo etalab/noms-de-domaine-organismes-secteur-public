@@ -23,7 +23,11 @@ jobs:
         run: python scripts/http_checker.py --silent --partial $(date +%d)/28
 
       - name: Recheck removed domains
-        run: python scripts/http_checker.py --silent --slow --partial $(date +%d)/28 --grep $(git diff urls.txt | grep ^-http | cut -d/ -f3)
+        run: |
+          if [[ $(date +%d) -le 28 ]]
+          then
+              python scripts/http_checker.py --silent --slow --partial $(date +%d)/28 --grep $(git diff urls.txt | grep ^-http | cut -d/ -f3)
+          fi
 
       - name: Setup git
         run: |
