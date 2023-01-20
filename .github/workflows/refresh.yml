@@ -20,7 +20,11 @@ jobs:
         run: python -m pip install aiohttp tqdm
 
       - name: Check some domains over HTTP
-        run: python scripts/http_checker.py --silent --partial $(date +%d)/28
+        run: |
+          if [[ $(date +%d) -le 28 ]]
+          then
+              python scripts/http_checker.py --silent --partial $(date +%d)/28
+          fi
 
       - name: Recheck removed domains
         run: |
