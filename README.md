@@ -1,4 +1,4 @@
-# Liste de noms de domaine d’organismes publics
+# Liste de noms de domaine de la sphère publique
 
 Ce dépôt contient une liste de noms de domaine d’organismes
 remplissant des missions de service public.
