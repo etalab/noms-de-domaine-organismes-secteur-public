@@ -13,6 +13,16 @@ C'est le seul fichier modifiable manuellement, les ajouts et
 suppressions s’y font soit manuellement soit via des scripts de
 collecte (voir [Contribution](#contribution)).
 
+Les colonnes de  `domains.csv` sont les suivantes :
+
+- `name`: Le nom de domaine
+- `http_status`: la réponse à une requête http 80 ou vide
+- `https_status`: la réponse à une requête http 443 ou vide
+- `SIREN`: Le numéro SIREN de l'établissement ou vide
+- `type`: Le type d'établissement ou vide
+- `sources`: La source de la donnée
+- `script`: Le nom du script de collecte qui a ajouté l'entrée
+
 
 ## La liste des URLs
 
