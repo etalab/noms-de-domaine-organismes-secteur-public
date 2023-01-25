@@ -88,6 +88,6 @@ DashLord est né à la [Fabrique des ministères sociaux](https://fabrique.socia
 
 # Licence
 
-2020-2021, DINUM et les contributrices et contributeurs du dépôt.
+2020-2023, DINUM et les contributrices et contributeurs du dépôt.
 
 Le contenu de ce dépôt est sous [licence Ouverte 2.0](LICENCE.md).
