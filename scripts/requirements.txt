@@ -1,3 +1,4 @@
 tqdm
 aiohttp
 validators
+psycopg2
