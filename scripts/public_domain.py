@@ -34,6 +34,7 @@ NON_PUBLIC_DOMAINS = {
     "dropcatch.com",  # squatte mairie-clarensac.com
     "esbooks.co.jp",  # squatte pezenes.info
     "eureka27.fr",  # squatte paulhac15.fr
+    "eurodislog.com",  # Apparaît sur https://crt.sh/?id=8553100537
     "gitbook.com",
     "github.com",
     "go.crisp.chat",
@@ -61,6 +62,7 @@ NON_PUBLIC_DOMAINS = {
     "orthographii.com",  # Apparaît sur https://crt.sh/?id=8163089048
     "ovh.co.uk",
     "passeport-mairie.com",  # squatte www.mairiedeliverdy.fr et www.mairieozon.fr
+    "pegacloud.net",  # Apparaît sur  https://crt.sh/?id=8648440978
     "plafond-pinel.info",  # squatte la CC du Lauragais Sud: www.colaursud.fr
     "pohjolanliikenne.fi",  # Apparaît sur https://crt.sh/?id=8401456994
     "portes-sectionnelles-mathysen.be",  # Apparaît sur https://crt.sh/?id=8163089048
