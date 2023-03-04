@@ -441,6 +441,7 @@ https://baudre.com
 http://baudreix.com
 http://www.baudreix.com
 https://www.bazaaretcompagnie.com
+https://www.bazeilles.com
 https://bazoncourt.com
 https://www.bazougescresurloir.com
 https://www.beaucroissant.com
@@ -1774,6 +1775,7 @@ https://landes-le-gaulois.com
 https://laneuvevilledevantlepanges.com
 https://www.laneuvevilledevantlepanges.com
 https://www.laneuvilleenhez.com
+https://langeadois.com
 https://www.langonsurcher.com
 https://lanmerin.com
 https://www.lannion-tregor.com
@@ -2212,6 +2214,8 @@ https://www.mairie-orignac.com
 https://www.mairie-orvillers-sorel.com
 https://mairie-pailhes.com
 https://www.mairie-pailhes.com
+http://mairie-parthenay35.com
+https://www.mairie-parthenay35.com
 https://www.mairie-payrac.com
 http://mairie-pecqueuse.com
 http://www.mairie-pecqueuse.com
@@ -2290,7 +2294,6 @@ https://www.mairie-taize-aizie-charente.com
 http://mairie-tarascon.com
 http://www.mairie-tarascon.com
 http://www.mairie-targon.com
-http://www.mairie-tartaras.com
 http://mairie-tauriac.com
 http://www.mairie-tauriac.com
 http://www.mairie-treves.com
@@ -2980,7 +2983,6 @@ https://revel-belledonne.com
 https://www.revel-belledonne.com
 https://www.revel-lauragais.com
 http://www.riantec.com
-http://www.ribeauville-riquewihr.com
 http://rigarda.com
 http://www.rigarda.com
 https://rimbach-zell.com
@@ -6235,6 +6237,7 @@ https://www.ailhon.fr
 https://aillantsurmilleron.fr
 https://aillas.fr
 https://aillonlejeune.fr
+https://aillonlevieux.fr
 https://www.aillonlevieux.fr
 https://ailly27.fr
 https://www.ailly27.fr
@@ -6952,6 +6955,7 @@ https://rousseau.arsene76.fr
 https://saintexupery.arsene76.fr
 https://theophilegautier.arsene76.fr
 https://victorhugo.arsene76.fr
+https://www.arsenre.fr
 https://arsensaintonge.fr
 https://arsy.fr
 https://artagnan.fr
@@ -6989,7 +6993,6 @@ https://www.artsetmetiers.fr
 https://www.arue.fr
 https://www.arve-saleve.fr
 https://arvefaucigny-greta.fr
-https://www.arvert.fr
 https://arveyres.fr
 https://arviere-en-valromey.fr
 https://www.arvieu.fr
@@ -8074,6 +8077,7 @@ https://www.bazolles.fr
 https://bazougeslaperouse.fr
 https://www.beard-geovreissiat.fr
 https://beaubery.fr
+https://www.beaubery.fr
 https://www.beaucaire.fr
 https://www.beaucamps-ligny.fr
 http://www.beauce35.fr
@@ -8110,7 +8114,6 @@ https://www.beaumetzlesloges.fr
 http://www.beaumont-de-lomagne.fr
 https://beaumont-du-gatinais.fr
 http://beaumont-hague.fr
-http://www.beaumont-hague.fr
 https://www.beaumont-le-roger.fr
 https://beaumont-louestault.fr
 https://www.beaumont-redon.fr
@@ -9903,7 +9906,6 @@ https://www.cotesdarmor.cci.fr
 https://www.creuse.cci.fr
 https://dordogne.cci.fr
 https://www.dordogne.cci.fr
-http://essonne.cci.fr
 http://www.essonne.cci.fr
 https://www.gers.cci.fr
 https://www.haute-savoie.cci.fr
@@ -11029,7 +11031,6 @@ http://www.cidff07.fr
 https://www.cidff26.fr
 https://cidff30.fr
 http://cidff69.fr
-http://www.cidff69.fr
 http://cidff94.fr
 http://www.cidff94.fr
 http://www.cidff95.fr
@@ -11855,7 +11856,6 @@ https://communedelacanche.fr
 https://www.communedelacanche.fr
 https://communedeleoville.fr
 https://www.communedelerrain.fr
-https://communedelery.fr
 https://www.communedelery.fr
 http://www.communedemarac.fr
 https://communedemars.fr
@@ -12902,6 +12902,7 @@ https://dupuydelome-lorient.fr
 https://www.duranceluberon.fr
 https://www.durcet.fr
 https://www.durdat-larequille.fr
+https://durenque.fr
 http://www.durfort-lacapelette.fr
 https://www.durmenach.fr
 https://durnes25.fr
@@ -15656,6 +15657,7 @@ https://popp.stitch.aviation-civile.gouv.fr
 http://portos.validation.aviation-civile.gouv.fr
 https://synapse.validation.aviation-civile.gouv.fr
 https://webdas.aviation-civile.gouv.fr
+https://www.bas-rhin.gouv.fr
 https://kiosque.bercy.gouv.fr
 https://lettres-infos.bercy.gouv.fr
 https://cedef.lettres-infos.bercy.gouv.fr
@@ -17046,6 +17048,7 @@ https://api.documentation-administrative.gouv.fr
 https://gestion.documentation-administrative.gouv.fr
 https://www.documentation-administrative.gouv.fr
 http://documentationadministrative.gouv.fr
+https://www.dordogne.gouv.fr
 https://defi.douane.gouv.fr
 https://form.douane.gouv.fr
 https://co.ftpmaya.douane.gouv.fr
@@ -17336,7 +17339,6 @@ https://metrologie.entreprises.gouv.fr
 https://mnt.entreprises.gouv.fr
 https://outils.entreprises.gouv.fr
 https://precurseurschimiques.entreprises.gouv.fr
-https://rapport-activite.entreprises.gouv.fr
 https://sbdu.entreprises.gouv.fr
 https://www.entreprises.gouv.fr
 http://www.ecoresponsabilite.environnement.gouv.fr
@@ -17707,6 +17709,7 @@ https://www.haute-corse.gouv.fr
 https://www.rdv.haute-loire.gouv.fr
 https://www.haute-loire.gouv.fr
 https://www.haute-marne.gouv.fr
+https://www.haute-saone.gouv.fr
 https://www.haute-savoie.gouv.fr
 https://www.haute-vienne.gouv.fr
 https://www.rdv.hautes-alpes.gouv.fr
@@ -17916,7 +17919,6 @@ https://www.rdv-permisdeconduire-ppol.interieur.gouv.fr
 https://institu.referendum.interieur.gouv.fr
 https://sil.institu.referendum.interieur.gouv.fr
 https://sir.institu.referendum.interieur.gouv.fr
-https://sil.referendum.interieur.gouv.fr
 https://sir.referendum.interieur.gouv.fr
 https://www.referendum.interieur.gouv.fr
 https://sia.registres.interieur.gouv.fr
@@ -18113,6 +18115,7 @@ https://www.loir-et-cher.gouv.fr
 https://www.rdv.loire.gouv.fr
 https://www.loire.gouv.fr
 http://www.paysages.loire-atlantique.gouv.fr
+https://www.loire-atlantique.gouv.fr
 https://longuevieauxobjets.gouv.fr
 http://www.ancien.lorraine.gouv.fr
 https://www.rdv.lot.gouv.fr
@@ -19299,7 +19302,6 @@ https://www.gunsbach.fr
 http://www.guyans-vennes.fr
 https://www.guyencourt-sur-noye.fr
 http://www.h-poincare.fr
-https://habarcq.fr
 https://www.habarcq.fr
 https://www.habas.fr
 https://www.habere-lullin.fr
@@ -19960,7 +19962,7 @@ https://julesferry-cannes.fr
 http://www.julienas.fr
 https://julienne.fr
 http://www.julienne.fr
-http://jullianges.fr
+https://jullianges.fr
 http://www.jullianges.fr
 https://jullie-beaujolais.fr
 https://jully-les-buxy.fr
@@ -20187,7 +20189,7 @@ http://www.la-villedieu-du-clain.fr
 https://www.la-wantzenau.fr
 https://www.la4c.fr
 https://labachellerie-perigord.fr
-http://www.labaconniere.fr
+https://www.labaconniere.fr
 http://www.labalmedesillingy.fr
 https://www.labarben.fr
 https://www.labarde.fr
@@ -20615,7 +20617,6 @@ https://www.lambreslezdouai.fr
 https://lambruisse.fr
 http://www.lameac.fr
 https://www.lameaugon.fr
-http://www.lameillerayedebretagne.fr
 http://www.lamelouze.fr
 https://www.lamenitre.fr
 https://lamilesse.fr
@@ -21991,6 +21992,7 @@ https://www.lupiac.fr
 http://luppy.fr
 http://www.luppy.fr
 https://luquet.fr
+http://luray.fr
 http://www.luray.fr
 https://lurcy.fr
 https://www.lure.fr
@@ -22019,7 +22021,6 @@ https://www.luxey.fr
 https://luynes.fr
 http://luzay.fr
 http://www.luzay.fr
-http://www.luzenac.fr
 https://www.luzille.fr
 https://www.luzy.fr
 https://www.lyas.fr
@@ -22327,6 +22328,7 @@ https://www.lyceehenaff.fr
 https://www.lyceehenriavril.fr
 https://www.lyceehenrimartin.fr
 https://lyceehere.fr
+https://lyceehorticole.fr
 https://lyceehorticole56.fr
 https://www.lyceehorticulture93.fr
 https://www.lyceehotelierdinard.fr
@@ -24418,7 +24420,6 @@ http://www.mairie-vantoux.fr
 https://mairie-varennes37.fr
 https://www.mairie-vars16.fr
 http://mairie-vaucresson.fr
-http://www.mairie-vaucresson.fr
 https://www.mairie-vaux-le-penil.fr
 https://mairie-vaux03.fr
 http://mairie-vayres.fr
@@ -24560,7 +24561,6 @@ http://arquenay.mairie53.fr
 http://www.arquenay.mairie53.fr
 http://asse-le-berenger.mairie53.fr
 http://www.asse-le-berenger.mairie53.fr
-http://www.bais.mairie53.fr
 http://bouessay.mairie53.fr
 http://chatelain.mairie53.fr
 http://www.chatelain.mairie53.fr
@@ -25829,7 +25829,7 @@ https://www.mission-locale-epinal.fr
 https://mission-locale-ivry-vitry.fr
 https://www.mission-locale-montlucon.fr
 https://mission-locale-nord-ouest-aubois.fr
-https://www.mission-locale-soissons.fr
+http://www.mission-locale-soissons.fr
 https://www.mission-locale-taverny.fr
 https://www.mission-locale-toulon.fr
 https://www.missionjeunestarnnord.fr
@@ -27535,7 +27535,6 @@ http://www.saintgervais86.notremairie.fr
 http://stpierredechignac.notremairie.fr
 http://www.stpierredechignac.notremairie.fr
 http://vitray.notremairie.fr
-http://www.vitray.notremairie.fr
 https://notremairiegolinhac.fr
 https://nouainville.fr
 https://www.nouainville.fr
@@ -27562,6 +27561,7 @@ https://www.noyal-muzillac.fr
 https://www.noyal-pontivy.fr
 http://noyalsurbrutz.fr
 https://www.noyant-de-touraine.fr
+https://noyant-villages.fr
 https://www.noyant-villages.fr
 https://www.noyantdallier.fr
 http://noyantlagravoyere.fr
@@ -29049,7 +29049,6 @@ https://www.randan.fr
 http://randon-margeride.fr
 http://www.randon-margeride.fr
 https://www.rans.fr
-http://rans-jura.fr
 http://ranspach-le-bas.fr
 https://www.rantigny.fr
 https://www.ranville.fr
@@ -32144,7 +32143,6 @@ https://www.sigeif.fr
 https://www.sigidurs.fr
 https://signes.fr
 https://signeville.fr
-http://signy-abbaye.fr
 http://www.signy-abbaye.fr
 https://www.sigonce.fr
 https://sigoules-et-flaugeac.fr
@@ -32184,7 +32182,6 @@ https://www.sipperec.fr
 https://www.sira59.fr
 https://www.siran-minervois.fr
 https://www.sircc.fr
-https://siros.fr
 https://www.siros.fr
 https://sirp-coutach.fr
 https://www.sirp-coutach.fr
@@ -33286,7 +33283,6 @@ https://www.udaf07.fr
 https://www.udaf11.fr
 https://www.udaf15.fr
 https://www.udaf18.fr
-https://udaf26.fr
 https://www.udaf26.fr
 https://www.udaf28.fr
 https://www.udaf30.fr
@@ -34140,6 +34136,7 @@ https://www.ville-aubenas.fr
 https://ville-aubiere.fr
 https://www.ville-aucamville.fr
 https://www.ville-audenge.fr
+http://ville-aulnat.fr
 https://www.ville-aulnat.fr
 https://ville-aureilhan.fr
 https://www.ville-aussillon.fr
@@ -34534,6 +34531,7 @@ https://www.ville-gauchy.fr
 https://www.ville-gennevilliers.fr
 https://www.ville-gentilly.fr
 https://www.ville-gerzat.fr
+https://www.ville-geveze.fr
 https://ville-gevrey-chambertin.fr
 https://www.ville-gieres.fr
 https://www.ville-gif.fr
@@ -34661,7 +34659,6 @@ http://ville-laon.fr
 http://www.ville-laon.fr
 http://ville-lapalisse.fr
 http://www.ville-lapalisse.fr
-http://www.ville-lapugnoy.fr
 https://www.ville-larcay.fr
 https://www.ville-lardy.fr
 http://www.ville-larichardais.fr
@@ -34851,6 +34848,7 @@ https://www.ville-montgermont.fr
 https://ville-montgiscard.fr
 https://www.ville-montivilliers.fr
 https://www.ville-montlouis-loire.fr
+https://ville-montluel.fr
 https://www.ville-montluel.fr
 https://www.ville-montmorency.fr
 https://ville-montreuil-bellay.fr
@@ -36471,6 +36469,7 @@ https://rimbaud34.net
 https://www.rocles.net
 http://www.jeunesse.romorantin.net
 http://mairie.rustrel.net
+https://www.saint-eloi-de-fourques.net
 https://saint-etienne-roilaye.net
 https://www.saint-flour.net
 https://www.saint-germain-de-la-grange.net
@@ -36855,7 +36854,6 @@ http://www.bij82.org
 https://bodilis.org
 https://www.bonson.org
 http://www.boust.org
-https://www.brengues.org
 https://breville.org
 https://www.breville.org
 https://www.brittanyhotels.org
