@@ -16,74 +16,45 @@ logger = logging.getLogger(__name__)
 NON_PUBLIC_DOMAINS = {
     "128k.io",
     "3dathome.fr",
-    "ambiance-verriere-atelier.be",  # Apparaît sur https://crt.sh/?id=8163089048
-    "ambiance-verriere-atelier.com",  # Apparaît sur https://crt.sh/?id=8163089048
-    "ambiance-verriere-atelier.fr",  # Apparaît sur https://crt.sh/?id=8163089048
-    "asyngest.be",  # Apparaît sur https://crt.sh/?id=8163089048
+    "lexigraphie.fr",
     "attichy.com",
     "bellevillesurmeuse.com",  # Domaine squatté
-    "cabf.be",  # Apparaît sur https://crt.sh/?id=8163089048
     "catchtiger.com",  # squatte www.villedesaintfrancois.fr
     "changementadresse-carte-grise.com",  # squatte www.roussillo-conflent.fr
     "cloudflaressl.com",
     "commententreprendre.com",  # squatte cma-bourgogne.fr
     "communecter.org",  # Une association
-    "creationdesites.net",  # Apparaît sur https://crt.sh/?id=8421861002
     "creps.ovh",
     "cyberfinder.com",
     "dropcatch.com",  # squatte mairie-clarensac.com
     "esbooks.co.jp",  # squatte pezenes.info
     "eureka27.fr",  # squatte paulhac15.fr
-    "eurodislog.com",  # Apparaît sur https://crt.sh/?id=8553100537
     "gitbook.com",
     "github.com",
     "go.crisp.chat",
-    "gold-gym.be",  # Apparaît sur https://crt.sh/?id=8163089048
     "google.com",
     "host-web.com",
     "imperva.com",
     "incapsula.com",
     "infomaniak.com",
-    "institut-oceane.be",  # Apparaît sur https://crt.sh/?id=8163089048
-    "jamespot.pro",  # Apparaît sur https://crt.sh/?id=8386084597
-    "kamaeru.com",  # Apparaît sur https://crt.sh/?id=8357153221
-    "kamaeru.net",  # Apparaît sur https://crt.sh/?id=8357153221
-    "lanno.be",  # Apparaît sur https://crt.sh/?id=8338465077
-    "luciegoerig.fr",  # Apparaît sur https://crt.sh/?id=8163089048
     "medium.com",
-    "meetartconcepteditions.com",  # Apparaît sur https://crt.sh/?id=8163089048
     "mesvres.com",  # Domaine squatté
     "microsoftonline.com",
     "milfshorny.com",  # squatte www.opoul.fr et villelefousseret.fr.
     "notes-de-frais.info",  # squatte la mairie de lamotheachard.com
     "odyssey-messaging.com",  # Apparaît sur https://crt.sh/?id=8153702506
-    "on-web.fr",  # Apparaît sur https://crt.sh/?id=8258153317
     "opendatasoft.com",
-    "orthographii.com",  # Apparaît sur https://crt.sh/?id=8163089048
     "ovh.co.uk",
     "passeport-mairie.com",  # squatte www.mairiedeliverdy.fr et www.mairieozon.fr
-    "pegacloud.net",  # Apparaît sur  https://crt.sh/?id=8648440978
     "plafond-pinel.info",  # squatte la CC du Lauragais Sud: www.colaursud.fr
-    "pohjolanliikenne.fi",  # Apparaît sur https://crt.sh/?id=8401456994
-    "portes-sectionnelles-mathysen.be",  # Apparaît sur https://crt.sh/?id=8163089048
-    "portes-sectionnelles-mathysen.com",  # Apparaît sur https://crt.sh/?id=8163089048
-    "portes-sectionnelles-mathysen.fr",  # Apparaît sur https://crt.sh/?id=8163089048
     "pre-demande.fr",  # squatte www.ponthevrard-mairie.fr
-    "primmo.be",  # Apparaît sur https://crt.sh/?id=8163089048
-    "remixjeux.com",  # Apparaît sur https://crt.sh/?id=8338465077
     "remixweb.eu",  # Apparaît sur https://crt.sh/?id=8421861002
-    "remixweb10.fr",  # Apparaît sur https://crt.sh/?id=8163089048
-    "salle-fitness-musculation-mouscron-discount.be",  # Apparaît sur https://crt.sh/?id=8163089048
     "sarbacane.com",
     "sendinblue.com",
     "sioracderiberac.com",
-    "studio111.fr",  # Apparaît sur https://crt.sh/?id=8357153221
-    "technifroidclim.fr",  # Apparaît sur https://crt.sh/?id=8163089048
-    "theryad.com",  # Apparaît sur https://crt.sh/?id=8421861002
     "varchetta.fr",  # squatte www.commune-la-chapelle-de-brain.fr
     "viteundevis.com",  # squatte mairiemarignaclasclares.fr
     "voxaly.com",
-    "vr.fi",  # Apparaît sur https://crt.sh/?id=8373975524
     "wewmanager.com",
 }
 

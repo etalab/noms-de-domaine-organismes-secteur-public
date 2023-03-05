@@ -39,10 +39,17 @@ def query_ct_logs(last_id):
 
     domains = parse_csv_file(FILE)
     primary_key = None
-    for primary_key, domain, subject in cur.fetchall():
+    results = cur.fetchall()
+    deny_list = NON_PUBLIC_DOMAINS.copy()
+    for primary_key, domain, subject in results:
+        if any(non_public in domain for non_public in NON_PUBLIC_DOMAINS):
+            # This is to exclude big certificates like https://crt.sh/?id=8728203850
+            # with always changing subject.
+            deny_list.add(subject)
+    for primary_key, domain, subject in results:
         if any(
             non_public in subject or non_public in domain
-            for non_public in NON_PUBLIC_DOMAINS
+            for non_public in deny_list
         ):
             continue
         domain = Domain(
