@@ -15969,11 +15969,6 @@ https://classes-virtuelles.cfssi.gouv.fr
 https://nuage.cfssi.gouv.fr
 http://cget.gouv.fr
 https://agent-dauphin.cget.gouv.fr
-http://lab-egalite-citoyennete.cget.gouv.fr
-http://lab-innovation.cget.gouv.fr
-http://ns3082897.cget.gouv.fr
-http://periurbain.cget.gouv.fr
-http://pol-ville.cget.gouv.fr
 https://usager-dauphin.cget.gouv.fr
 https://www.charente.gouv.fr
 https://www.charente-maritime.gouv.fr
@@ -17762,13 +17757,16 @@ https://ees-questionnaire.dgef.interieur.gouv.fr
 https://siaef.dgef.interieur.gouv.fr
 https://preprod.siaef.dgef.interieur.gouv.fr
 https://qualification.siaef.dgef.interieur.gouv.fr
+https://auth.dgscgc.interieur.gouv.fr
 https://formation.auth.dgscgc.interieur.gouv.fr
 https://sir.auth.dgscgc.interieur.gouv.fr
 https://qualification.infopublic.dgscgc.interieur.gouv.fr
 https://ocmi.dgscgc.interieur.gouv.fr
 https://preproduction.sinus-dps.dgscgc.interieur.gouv.fr
 https://qualification.sinus-dps.dgscgc.interieur.gouv.fr
+https://preproduction.sinus-novi.dgscgc.interieur.gouv.fr
 https://qualification.sinus-novi.dgscgc.interieur.gouv.fr
+https://api.synergi2.dgscgc.interieur.gouv.fr
 https://formation.synergi2.dgscgc.interieur.gouv.fr
 https://preproduction.synergi2.dgscgc.interieur.gouv.fr
 https://qualification.synergi2.dgscgc.interieur.gouv.fr
@@ -17864,6 +17862,8 @@ https://www.prefecturedepolice.interieur.gouv.fr
 https://preprod-pof.interieur.gouv.fr
 https://programme-candidats.interieur.gouv.fr
 https://qualif-psij.interieur.gouv.fr
+https://dgscgc.questionnaire.interieur.gouv.fr
+https://dgscgc-brirc.questionnaire.interieur.gouv.fr
 https://radiopolice.interieur.gouv.fr
 https://rdv-etrangers-94.interieur.gouv.fr
 https://demo.rdv-permis.interieur.gouv.fr
@@ -35885,7 +35885,6 @@ https://www.zuydcoote.fr
 https://mairie-epieds02.fr.gd
 https://monthurel.fr.gd
 https://villagedefouquescourt.fr.gd
-https://www.cgss.gf
 http://www.roura.gf
 https://www.guadeloupe.developpement-durable.gp
 http://agel.info
