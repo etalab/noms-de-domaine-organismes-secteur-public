@@ -2,12 +2,12 @@
 
 import argparse
 import csv
-from dataclasses import dataclass
-from functools import total_ordering
 import logging
-from pathlib import Path
 import re
 import sys
+from dataclasses import dataclass
+from functools import total_ordering
+from pathlib import Path
 from urllib.parse import urlparse
 
 logger = logging.getLogger(__name__)
@@ -105,6 +105,7 @@ class Domain:
     type: str | None = None
     sources: str | None = None
     script: str | None = None
+
     # http*_status can also start with "Redirects to: "
     #
     # It's encouraged to add any needed attributes like:

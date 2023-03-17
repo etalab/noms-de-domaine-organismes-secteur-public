@@ -48,8 +48,8 @@ def query_ct_logs(last_id):
             deny_list.add(subject)
     for primary_key, domain, subject in results:
         if any(
-            non_public in subject or non_public in domain
-            for non_public in deny_list
+                non_public in subject or non_public in domain
+                for non_public in deny_list
         ):
             continue
         domain = Domain(

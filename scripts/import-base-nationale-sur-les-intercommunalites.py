@@ -7,11 +7,10 @@ https://www.data.gouv.fr/fr/datasets/base-nationale-sur-les-intercommunalites/
 import argparse
 from pathlib import Path
 
-import validators
 import pandas as pd
+import validators
 
 from public_domain import Domain, parse_csv_file, write_csv_file
-
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -60,9 +59,9 @@ def main():
 
     domains = parse_csv_file(ROOT / "domains.csv")
     for line in (
-        df[df["Nature juridique"] == args.nature_juridique]["Site internet"]
-        .dropna()
-        .unique()
+            df[df["Nature juridique"] == args.nature_juridique]["Site internet"]
+                    .dropna()
+                    .unique()
     ):
         line = line.strip().replace("http://", "").replace("https://", "")
         line = line.split("/", maxsplit=2)[0]  # Drop the path part.

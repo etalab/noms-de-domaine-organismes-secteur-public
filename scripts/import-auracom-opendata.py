@@ -10,7 +10,6 @@ import requests
 
 from public_domain import parse_csv_file, write_csv_file, Domain
 
-
 ROOT = Path(__file__).resolve().parent.parent
 FILE = ROOT / "domains.csv"
 

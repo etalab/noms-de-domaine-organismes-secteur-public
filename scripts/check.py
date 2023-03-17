@@ -6,12 +6,13 @@
 - Are all domains in domains.csv proper domain names?
 """
 
-
 import sys
-from pathlib import Path
 from functools import cached_property
-from public_domain import Domain, parse_files
+from pathlib import Path
+
 import validators
+
+from public_domain import Domain, parse_files
 
 
 def err(*args, **kwargs):

@@ -2,18 +2,17 @@
 
 import argparse
 import asyncio
-from binascii import crc32
-from datetime import date
-from pathlib import Path
 import logging
 import re
+from binascii import crc32
+from pathlib import Path
 from urllib.parse import urlparse, urljoin
 
 import aiohttp
 from tqdm.asyncio import tqdm
 
-from public_domain import Domain, parse_files, parse_csv_file, write_csv_file
 import domains_csv_to_urls_txt
+from public_domain import Domain, parse_csv_file, write_csv_file
 
 USER_AGENT = "See https://github.com/etalab/noms-de-domaine-organismes-publics"
 
@@ -70,7 +69,7 @@ def share_same_domain(url1: str, url2: str):
 
 
 async def http_head(
-    url: str, client: aiohttp.ClientSession, max_redirects=10, method="HEAD"
+        url: str, client: aiohttp.ClientSession, max_redirects=10, method="HEAD"
 ) -> aiohttp.ClientResponse:
     """Performs an HTTP GET on the given URL.
 
@@ -82,24 +81,24 @@ async def http_head(
     We try to use HEAD requests, but if not allowed we fall back to GET requests.
     """
     async with client.request(
-        method, url, headers=HEADERS, allow_redirects=False
+            method, url, headers=HEADERS, allow_redirects=False
     ) as response:
         logger.info("%s: %s %s", url, response.status, response.reason)
     if response.status == 405 and method == "HEAD":  # Method Not Allowed
         return await http_head(url, client, method="GET")
     if (
-        300 < response.status < 400
-        and "Location" in response.headers
-        and share_same_domain(url, dest := urljoin(url, response.headers["Location"]))
-        and max_redirects > 0
+            300 < response.status < 400
+            and "Location" in response.headers
+            and share_same_domain(url, dest := urljoin(url, response.headers["Location"]))
+            and max_redirects > 0
     ):
         return await http_head(dest, client, max_redirects - 1, method=method)
     return response
 
 
 async def check_domain(
-    domain: Domain,
-    client: aiohttp.ClientSession,
+        domain: Domain,
+        client: aiohttp.ClientSession,
 ) -> None:
     """Check if the given domain replies an ok-ish response over HTTP or HTTPS."""
     for protocol in "https", "http":
@@ -174,19 +173,19 @@ def parse_args():
     parser.add_argument(
         "--partial",
         help="Check a subset of the domains. Except a fraction, "
-        """like "1/2" meaning "the first half" or "2/2" meaning "the 2nd half""",
+             """like "1/2" meaning "the first half" or "2/2" meaning "the 2nd half""",
         type=_partial,
         default=(1, 1),
     )
     args = parser.parse_args()
     args.verbose = min(args.verbose, 2)
     if args.limit is None:
-        args.limit = 2**32
+        args.limit = 2 ** 32
     return args
 
 
 async def rescan_domains(
-    to_check: list[Domain], kindness: int = 0, verbose: int = 0, silent: bool = False
+        to_check: list[Domain], kindness: int = 0, verbose: int = 0, silent: bool = False
 ) -> None:
     sem = asyncio.Semaphore([20, 10, 5, 2][kindness])
 
@@ -204,7 +203,7 @@ async def rescan_domains(
 
 
 def filter_domains(
-    domains: set[Domain], limit: int, grep: list[str], partial: tuple[int, int]
+        domains: set[Domain], limit: int, grep: list[str], partial: tuple[int, int]
 ) -> list[Domain]:
     """Filter domains according to --limit and --grep command line args."""
     if grep:

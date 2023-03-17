@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from public_domain import Domain, parse_csv_file
+from public_domain import parse_csv_file
 
 
 def is_interesting_domain(domain):

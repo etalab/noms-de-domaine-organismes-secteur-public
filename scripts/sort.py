@@ -1,6 +1,7 @@
 """Just sort domains.csv."""
 
 from pathlib import Path
+
 from public_domain import parse_csv_file, write_csv_file
 
 
