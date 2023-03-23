@@ -1,0 +1,115 @@
+---
+
+image: registry.gitlab.com/python-devs/ci-images:main
+
+variables:
+  LC_ALL: "C.UTF-8"
+  LANG: "C.UTF-8"
+
+  # We store ssh known hosts in the cached directory, and we accept the
+  # fingerprint if we don't have a known_host file yet.
+  # So humans don't have to cope with fingerprints (file is created as needed).
+  # The security is not that bad (while the cache is here, no mitm can occur).
+  GIT_SSH_COMMAND: "ssh -o UserKnownHostsFile=$CI_PROJECT_DIR/.cache/known_hosts -o StrictHostKeyChecking=accept-new"
+
+  # Change pip's cache directory to be inside the project directory since we can
+  # only cache local items.
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+
+cache:
+  paths:
+    - .cache/
+
+stages:
+  - test
+  - refresh
+
+check:
+  stage: test
+  rules:
+    - if: $CI_PIPELINE_SOURCE != "schedule"
+  script:
+    - python3 -m pip install validators
+    - python3 scripts/check.py
+
+refresh:
+  # This pipeline is triggered by a schedule job at:
+  # https://gitlab.adullact.net/dinum/noms-de-domaine-organismes-secteur-public/-/pipeline_schedules
+  #
+  # It can be started manually using the `Run pipeline` button from:
+  # https://gitlab.adullact.net/dinum/noms-de-domaine-organismes-secteur-public/-/pipelines
+  # by manually entering those variables:
+  # - CI_PIPELINE_SOURCE to schedule
+  # - SSH_PRIVATE_KEY to an accepted private key
+  stage: refresh
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+  before_script:
+    # Git refuses to read `.git/` owned by other users unless explicitly
+    # marked as safe, that's the case here:
+    # - GitLab clones the repository as `root`.
+    # - The Docker image we use is logging us as the user `runner`.
+    # See CVE-2022-24765 for more informations.
+    - git config --global --add safe.directory "$(pwd)"
+
+    # If we need to commit, we'll need a username and an email:
+    - git config --global user.name "${GITLAB_USER_NAME}"
+    - git config --global user.email "${GITLAB_USER_EMAIL}"
+
+    # Tell git we're pushing over SSH, not over HTTP.
+    - git remote set-url origin --push
+          "$(git remote get-url origin | sed 's~https://.*@\([^/]\+\)/~git@\1:~g')"
+    - git checkout "$CI_COMMIT_REF_NAME"
+    - git reset --hard "$CI_COMMIT_SHA"
+
+    # Setup of private ssh key in case we need to push:
+    - mkdir -p ~/.ssh/
+    - chmod 700 ~/.ssh
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_ed25519
+    - chmod 600 ~/.ssh/id_ed25519
+
+    # Just to see the user, email, and pushurl used:
+    - cat ~/.gitconfig
+    - cat .git/config
+
+    # And while we're at showing debug information:
+    - python3 --version
+  script:
+    - python3 -m pip install aiohttp tqdm
+    # Each day we're checking 1/28 of the domains we know.
+    # This ensures us that all domains are tested every month.
+    # For simplicity we just don't test on days that may not exist
+    # in some months (29, 30, 31).
+
+    - if [[ $(date +%d) -le 28 ]];
+      then
+          echo "Check some domains over HTTP...";
+          python3 scripts/http_checker.py --silent --partial $(date +%d)/28;
+          echo "What changed:";
+          git diff --stat urls.txt;
+          CHANGED="$(git diff urls.txt | grep ^-http | cut -d/ -f3)";
+          if [[ $CHANGED ]]; then
+              echo "Re-check domains that we just considered down";
+              echo "just in case they're up now...";
+              python3 scripts/http_checker.py
+                  --silent
+                  --slow
+                  --partial $(date +%d)/28
+                  --grep $CHANGED;
+              echo "What changed now:";
+              git diff --stat urls.txt;
+          fi
+      fi
+    # Here, if some files has changed, we're commiting and pushing
+    # back to the repo.
+    # For this to work we need a ssh key pair:
+    # - The public part is configured as a "deploy key"
+    #   with write permission on the repo.
+    # - The private part is configured in the CI schedule configuration
+    #   so it is **not** available from pull requests.
+    - if [[ $(git status --porcelain --untracked-files=no) ]];
+      then
+          echo "Some files has changed, let's commit and push them.";
+          git commit -am "Refreshing 1k domains.";
+          git push origin;
+      fi
