@@ -40,29 +40,17 @@ def query_ct_logs(last_id):
     domains = parse_csv_file(FILE)
     primary_key = None
     results = cur.fetchall()
-    deny_list = NON_PUBLIC_DOMAINS.copy()
     for primary_key, domain, subject in results:
-        if any(non_public in domain for non_public in NON_PUBLIC_DOMAINS):
-            # This is to exclude big certificates like https://crt.sh/?id=8728203850
-            # with always changing subject.
-            deny_list.add(subject)
-    for primary_key, domain, subject in results:
-        if any(
-                non_public in subject or non_public in domain
-                for non_public in deny_list
-        ):
-            continue
         domain = Domain(
             domain.lower(),
             script=Path(__file__).name,
             sources=f"https://crt.sh/?id={primary_key}",
         )
-        if domain.is_not_public():
-            continue
         if domain.name.startswith("*."):
             domain.name = domain.name[2:]
-        if domain.name.endswith(".gouv.fr"):
-            domain.type = "Gouvernement"
+        if not domain.name.endswith(".gouv.fr"):
+            continue
+        domain.type = "Gouvernement"
         if domain not in domains:
             domains.add(domain)
     write_csv_file(FILE, sorted(domains))
@@ -84,8 +72,7 @@ def parse_args():
 def main():
     args = parse_args()
     last_id = query_ct_logs(args.last_id)
-    print("Please manually review diff for false positives.")
-    print("Don't forgot to run `python scripts/check.py`, then:")
+    print("You can commit this by running:")
     print("    git add domains.csv")
     print(f'    git commit -m "Import from CT logs up to id {last_id}."')
 
