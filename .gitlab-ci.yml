@@ -49,7 +49,7 @@ refresh:
     # marked as safe, that's the case here:
     # - GitLab clones the repository as `root`.
     # - The Docker image we use is logging us as the user `runner`.
-    # See CVE-2022-24765 for more informations.
+    # See CVE-2022-24765 for more information.
     - git config --global --add safe.directory "$(pwd)"
 
     # If we need to commit, we'll need a username and an email:
@@ -78,7 +78,7 @@ refresh:
     - python3 -m pip install aiohttp tqdm
     # Each day we're checking 1/28 of the domains we know.
     # This ensures us that all domains are tested every month.
-    # For simplicity we just don't test on days that may not exist
+    # For simplicity, we just don't test on days that may not exist
     # in some months (29, 30, 31).
 
     - if [[ $(date +%d) -le 28 ]];
@@ -100,7 +100,7 @@ refresh:
               git diff --stat urls.txt;
           fi
       fi
-    # Here, if some files has changed, we're commiting and pushing
+    # Here, if some files has changed, we're committing and pushing
     # back to the repo.
     # For this to work we need a ssh key pair:
     # - The public part is configured as a "deploy key"

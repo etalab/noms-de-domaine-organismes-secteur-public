@@ -10,7 +10,7 @@ Le fichier `domains.csv` contient les domaines connus, qu’ils soient
 accessibles en HTTP ou non, qu’ils exposent un MX ou non, etc.
 
 C'est le seul fichier modifiable manuellement, les ajouts et
-suppressions s’y font soit manuellement soit via des scripts de
+suppressions s’y font soit manuellement, soit via des scripts de
 collecte (voir [Contribution](#contribution)).
 
 Les colonnes de  `domains.csv` sont les suivantes :
