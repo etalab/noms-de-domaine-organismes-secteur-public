@@ -509,7 +509,6 @@ https://bievre-isere.com
 https://www.bij-maisons-alfort.com
 https://bij-orne.com
 https://www.bilheres-mairie.com
-http://www.biltzheim.com
 https://blangy-sur-ternoise.com
 http://blanquefort-sur-briolance.com
 http://www.blanquefort-sur-briolance.com
@@ -1444,7 +1443,6 @@ http://garnerans.com
 http://www.garnerans.com
 https://gerdemonclocher.com
 https://www.gervanne-sye.com
-https://gevingey.com
 https://www.gevingey.com
 http://www.gevrey-chambertin.com
 https://www.girondesurdropt.com
@@ -2182,8 +2180,6 @@ https://www.mairie-la-chapelle-vaupelteigne-89.com
 https://mairie-la-limouziniere.com
 https://www.mairie-la-limouziniere.com
 https://www.mairie-la-pesse.com
-http://mairie-labouexiere.com
-http://www.mairie-labouexiere.com
 https://www.mairie-lachevroliere.com
 http://www.mairie-lalheue.com
 https://www.mairie-landry.com
@@ -2400,7 +2396,6 @@ https://mairielesgrangesleroi.com
 https://mairielespins.com
 https://www.mairiemontchevreuil.com
 http://www.mairiemuille-villette.com
-http://www.mairiepiedicorte.com
 https://www.mairiepihem.com
 https://www.mairieplanrupt.com
 https://mairiepouembout.com
@@ -4702,7 +4697,6 @@ https://bucaille-charcot.etab.ac-caen.fr
 https://chevalier.etab.ac-caen.fr
 https://cite-marcel-gambier.etab.ac-caen.fr
 https://claudel.etab.ac-caen.fr
-https://clg-montgomeri.etab.ac-caen.fr
 https://clgmonnetflers.etab.ac-caen.fr
 https://college-barbey.etab.ac-caen.fr
 https://college-brecey.etab.ac-caen.fr
@@ -6474,7 +6468,6 @@ https://www.ampoigne.fr
 https://www.ampuis.fr
 https://www.amrf.fr
 https://www.amue.fr
-http://amure79.fr
 http://www.amure79.fr
 https://www.amy-oise.fr
 https://clavis.anah.fr
@@ -13513,7 +13506,6 @@ https://ecouen.fr
 https://www.ecouflant.fr
 https://ecouis.fr
 http://www.ecourt-saint-quentin.fr
-https://www.ecourt-st-quentin.fr
 http://ecoyeux.fr
 http://www.ecoyeux.fr
 https://www.ecpad.fr
@@ -14256,7 +14248,6 @@ https://www.essartsenbocage.fr
 http://www.essay.fr
 https://www.esse-larocheauxfees.fr
 https://www.essegney.fr
-https://www.essert.fr
 https://www.essert-romand.fr
 https://essertenne71.fr
 https://www.essertenne71.fr
@@ -14565,6 +14556,7 @@ https://www.fletre.fr
 http://www.fleurat.fr
 https://www.fleurbaix.fr
 https://fleure86.fr
+https://www.fleurey.fr
 https://fleurie.fr
 https://fleurieuxsurlarbresle.fr
 http://www.fleurigne.fr
@@ -15535,6 +15527,7 @@ https://eation-r-gohzby.agents-intervention.dev.incubateur.anct.gouv.fr
 https://annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
 https://api.annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
 https://b-b8oo44.annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
+https://d-a7jiio.annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
 https://d-x60808.annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
 https://e-pdw1wk.annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
 https://o-iaecn6.annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
@@ -15708,7 +15701,7 @@ https://oceane-candidat.dsac.aviation-civile.gouv.fr
 https://oceane-organisme.dsac.aviation-civile.gouv.fr
 https://cadas-dev.dsna.aviation-civile.gouv.fr
 https://cadas-nc.dsna.aviation-civile.gouv.fr
-http://cev.dsna-dti.aviation-civile.gouv.fr
+https://cev.dsna-dti.aviation-civile.gouv.fr
 https://drive.dsna-dti.aviation-civile.gouv.fr
 http://gevol3.dsna-dti.aviation-civile.gouv.fr
 https://pfisng.dsna-dti.aviation-civile.gouv.fr
@@ -15814,6 +15807,7 @@ https://maps.anais.beta.gouv.fr
 https://monitoring.anais.beta.gouv.fr
 https://sample-geoserver.anais.beta.gouv.fr
 https://sentry.anais.beta.gouv.fr
+https://api.staging.anais.beta.gouv.fr
 https://swagger.anais.beta.gouv.fr
 https://ticket.anais.beta.gouv.fr
 https://api-engagement.beta.gouv.fr
@@ -16691,7 +16685,7 @@ https://enqueteur.dgampa.developpement-durable.gouv.fr
 http://enqueteur.dgec.developpement-durable.gouv.fr
 http://enqueteur.dgitm.developpement-durable.gouv.fr
 https://enqueteur.dgpr.developpement-durable.gouv.fr
-http://enqueteur.dihal.developpement-durable.gouv.fr
+https://enqueteur.dihal.developpement-durable.gouv.fr
 http://anonim.din.developpement-durable.gouv.fr
 https://api.din.developpement-durable.gouv.fr
 https://apiop.din.developpement-durable.gouv.fr
@@ -16831,7 +16825,7 @@ http://webconf.din.developpement-durable.gouv.fr
 http://meet.webconf.din.developpement-durable.gouv.fr
 https://z.din.developpement-durable.gouv.fr
 https://enqueteur.dir-centre-est.developpement-durable.gouv.fr
-http://enqueteur.dir-est.developpement-durable.gouv.fr
+https://enqueteur.dir-est.developpement-durable.gouv.fr
 https://enqueteur.dir-ile-de-france.developpement-durable.gouv.fr
 https://enqueteur.dir-mediterranee.developpement-durable.gouv.fr
 https://enqueteur.dir-sud-ouest.developpement-durable.gouv.fr
@@ -16852,6 +16846,7 @@ http://repertoiresites.documentation.developpement-durable.gouv.fr
 https://temix.documentation.developpement-durable.gouv.fr
 http://www.donnees-communales.developpement-durable.gouv.fr
 https://www.msr25.doubs.developpement-durable.gouv.fr
+https://enqueteur.draaf-bretagne.developpement-durable.gouv.fr
 http://enqueteur.dreal-aquitaine-limousin-poitou-charentes.developpement-durable.gouv.fr
 http://enqueteur.dreal-auvergne-rhone-alpes.developpement-durable.gouv.fr
 https://enqueteur.dreal-centre.developpement-durable.gouv.fr
@@ -17569,6 +17564,7 @@ http://extranet2.lot-et-garonne.equipement-agriculture.gouv.fr
 http://enqueteur.mayenne.equipement-agriculture.gouv.fr
 https://enqueteur.moselle.equipement-agriculture.gouv.fr
 https://enqueteur.nievre.equipement-agriculture.gouv.fr
+https://enqueteur.nord.equipement-agriculture.gouv.fr
 http://enqueteur.pas-de-calais.equipement-agriculture.gouv.fr
 https://enqueteur.saone-et-loire.equipement-agriculture.gouv.fr
 http://www.observatoire.savoie.equipement-agriculture.gouv.fr
@@ -17576,6 +17572,7 @@ http://enqueteur.seine-et-marne.equipement-agriculture.gouv.fr
 http://enqueteur.val-d-oise.equipement-agriculture.gouv.fr
 https://enqueteur.vosges.equipement-agriculture.gouv.fr
 http://enqueteur.yonne.equipement-agriculture.gouv.fr
+http://enqueteur.yvelines.equipement-agriculture.gouv.fr
 https://esante.gouv.fr
 https://status.annuaires.esante.gouv.fr
 https://ans-test-1.esante.gouv.fr
@@ -17638,6 +17635,7 @@ https://landings.serviceclients.esante.gouv.fr
 http://shares.serviceclients.esante.gouv.fr
 https://status.sesali.esante.gouv.fr
 https://smt.esante.gouv.fr
+https://sondage.esante.gouv.fr
 https://psc.stats.esante.gouv.fr
 https://vault.psc.stats.esante.gouv.fr
 https://status.esante.gouv.fr
@@ -18741,6 +18739,7 @@ https://mesconseilscovid.sante.gouv.fr
 https://monparcourspsy.sante.gouv.fr
 https://www.etape1.oc-collecte.sante.gouv.fr
 https://www.etape2.oc-collecte.sante.gouv.fr
+https://orobnat.sante.gouv.fr
 https://ouverture.sante.gouv.fr
 https://www.portail-enquetes.sante.gouv.fr
 https://www.sante-habitat.pp.sante.gouv.fr
@@ -19139,6 +19138,7 @@ https://talents.ssi.gouv.fr
 https://www.stationnement.gouv.fr
 https://www.stop-djihadisme.gouv.fr
 http://tr.strategie.gouv.fr
+https://www.strategie.gouv.fr
 http://sup-n.gouv.fr
 http://www.sup-n.gouv.fr
 http://isoprod.sup-numerique.gouv.fr
@@ -19355,7 +19355,6 @@ https://www.grandparissud.fr
 https://www.grandperigueux.fr
 https://grandpicsaintloup.fr
 https://www.grandpoitiers.fr
-http://grandpontarlier.fr
 https://www.grandpontarlier.fr
 https://grandquevilly.fr
 https://www.grandreims.fr
@@ -19853,7 +19852,6 @@ http://www.heudicourt27.fr
 https://heudrevillesureure.fr
 https://www.heudrevillesureure.fr
 https://www.heugas.fr
-http://www.heuglevillesurscie.fr
 https://heugnes.fr
 https://heuilley-sur-saone.fr
 https://www.heuilley-sur-saone.fr
@@ -21174,7 +21172,6 @@ http://www.laubressel.fr
 https://laudrefang.fr
 https://laudunlardoise.fr
 https://www.laudunlardoise.fr
-https://www.laugnac47.fr
 https://www.launoissurvence.fr
 https://laurabuc.fr
 https://lauracenvivarais.fr
@@ -22030,7 +22027,6 @@ https://loisey-meuse.fr
 https://loisieux.fr
 https://www.loisin.fr
 https://loisy54.fr
-https://loivre.fr
 https://www.loivre.fr
 https://loix.fr
 https://lombers.fr
@@ -22334,7 +22330,6 @@ https://www.lycee-champo.fr
 https://www.lycee-champollion.fr
 https://www.lycee-chaptal.fr
 http://lycee-chaptal-saintbrieuc.fr
-http://www.lycee-charlemagne.fr
 https://www.lycee-charles-jully.fr
 https://www.lycee-charles-nodier-ac-besancon.fr
 https://www.lycee-charlesdegaulle-vannes.fr
@@ -23138,7 +23133,6 @@ https://mairie-caveirac.fr
 https://mairie-caves.fr
 https://www.mairie-caves.fr
 https://mairie-cazaubon.fr
-https://www.mairie-cazaubon.fr
 https://www.mairie-cazeres.fr
 https://mairie-cazevieille.fr
 https://mairie-ceauce.fr
@@ -28398,8 +28392,6 @@ https://pays-clermontois.fr
 https://www.pays-colombey-sudtoulois.fr
 http://www.pays-couserans.fr
 http://www.pays-de-corlay-bretagne-centre.fr
-https://pays-des-abers.fr
-https://www.pays-des-abers.fr
 https://www.pays-etain.fr
 https://www.pays-fontainebleau.fr
 https://www.pays-gevaudan-lozere.fr
@@ -28942,7 +28934,7 @@ https://www.pont-sur-sambre.fr
 http://pontarme.fr
 http://www.pontarme.fr
 https://pontaubault.fr
-http://www.pontaubault.fr
+https://www.pontaubault.fr
 https://www.pontault-combault.fr
 https://pontaumur.fr
 https://pontcharra.fr
@@ -31614,7 +31606,7 @@ https://salles-arbuissonnas.fr
 https://www.salles-curan.fr
 https://salles-sous-bois.fr
 http://salles-sur-garonne.fr
-https://www.salles-sur-garonne.fr
+http://www.salles-sur-garonne.fr
 https://salles-sur-mer.fr
 https://www.salles-sur-mer.fr
 https://sallescourbaties.fr
@@ -32946,7 +32938,6 @@ https://www.sudmessin.fr
 https://www.sudmorvan.fr
 https://sudrhone.fr
 https://sudroussillon.fr
-https://www.sudroussillon.fr
 https://suger.fr
 https://www.sugeres.fr
 https://suillylatour.fr
@@ -33004,6 +32995,7 @@ http://talais-informations.fr
 http://www.talais-informations.fr
 https://talant.fr
 https://www.talant.fr
+https://www.talence.fr
 https://talencieux.fr
 https://www.talencieux.fr
 https://www.talensac.fr
@@ -36161,7 +36153,6 @@ https://www.willems.fr
 https://www.willersurthur.fr
 https://www.willerwald.fr
 https://www.wimmenau.fr
-https://wingen.fr
 https://www.wingen.fr
 https://www.wingensurmoder.fr
 https://wingles.fr
@@ -37476,7 +37467,6 @@ https://www.ml-st-etienne.org
 https://ml-thierache.org
 https://www.ml-thierache.org
 https://en.ml09.org
-https://www.ml09.org
 https://mlab-mlidf.org
 https://www.mlaveyron.org
 https://mlbdm.org
@@ -37493,7 +37483,7 @@ https://www.mljchablais.org
 https://mlloiretouraine.org
 https://www.mllorient.org
 https://www.mlma94.org
-http://mlmedoc.org
+https://mlmedoc.org
 http://www.mlmedoc.org
 https://www.mlpm.org
 https://www.mlpnvs.org
@@ -37613,6 +37603,7 @@ https://www.stantoinedeficalba.org
 http://steinbach68.org
 http://www.steinbach68.org
 https://www.stgermaindelacoudre.org
+http://rovon.sud-gresivaudan.org
 http://vinay.sud-gresivaudan.org
 https://www.syded87.org
 https://www.symevad.org
