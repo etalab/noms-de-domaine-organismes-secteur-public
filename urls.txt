@@ -264,8 +264,6 @@ http://www.aiguefonde.com
 https://www.aigueze.com
 http://aiguines.com
 https://aijam.com
-https://aillant-sur-tholon.com
-https://www.aillant-sur-tholon.com
 https://aisne.com
 https://www.aisne.com
 https://aaa-vm35-sgacom.ajaris.com
@@ -495,6 +493,7 @@ http://www.benonces.com
 http://berengeville-la-campagne.com
 http://www.berneuil-en-bray.com
 https://www.bernieres-sur-mer.com
+http://bernouville.com
 https://bertignat.com
 https://www.bertignat.com
 https://www.bessans.com
@@ -1119,6 +1118,7 @@ https://www.crij-bretagne.com
 https://www.crij-montpellier.com
 https://crij-reunion.com
 https://www.crij-reunion.com
+http://croettwiller.com
 http://www.croettwiller.com
 https://www.croissy.com
 http://croissysurcelle.com
@@ -1772,7 +1772,9 @@ https://www.lagardiolle.com
 https://lagrauletdugers.com
 http://www.lagrauletdugers.com
 https://www.lagrave-lameije.com
+https://www.lahallotiere.com
 https://www.lalongue.com
+https://www.lamarche88.com
 http://lamesniere.com
 http://lameyze.com
 http://www.lameyze.com
@@ -2158,7 +2160,6 @@ https://www.mairie-farino.com
 https://www.mairie-farschviller.com
 https://www.mairie-fleys-89.com
 http://mairie-fontes.com
-http://www.mairie-fontes.com
 https://www.mairie-garidech.com
 https://www.mairie-gastins.com
 http://mairie-gervans.com
@@ -2670,8 +2671,6 @@ https://notaires2normandie.com
 https://notaires35.com
 http://notre-dame-de-bliquetuit.com
 https://www.notre-dame-de-riez.com
-https://notredamedecommiers.com
-https://www.notredamedecommiers.com
 https://www.nouaille.com
 http://nouatre.com
 http://www.nouatre.com
@@ -2878,7 +2877,6 @@ http://www.plaisance24.com
 http://plaisancedugers.com
 http://www.plaisancedugers.com
 http://www.planay.com
-http://chouvigny.planet-allier.com
 http://lebrethon.planet-allier.com
 http://louroux-de-beaune.planet-allier.com
 http://mairie-chamblet.planet-allier.com
@@ -3100,7 +3098,6 @@ https://www.saint-laurent-blangy.com
 https://saint-laurent-des-arbres.com
 http://www.saint-laurent-des-arbres.com
 https://saint-leger-de-rostes.com
-https://www.saint-leger-de-rostes.com
 https://www.saint-lizier.com
 http://saint-martin-osmonville.com
 http://www.saint-martin-osmonville.com
@@ -3910,7 +3907,6 @@ https://www.zevacu.com
 https://zinswiller.com
 https://www.zinswiller.com
 http://bellon.zoom-24.com
-https://zouafques.com
 https://alata.corsica
 https://asco.corsica
 https://www.asco.corsica
@@ -5121,7 +5117,6 @@ https://clg-chamson-meyrueis.ac-montpellier.fr
 https://clg-corbieresmaritimes-sigean.ac-montpellier.fr
 https://clg-curie-aiguesmortes.ac-montpellier.fr
 https://clg-curie-pignan.ac-montpellier.fr
-https://clg-daudet-ales.ac-montpellier.fr
 https://clg-dubosquet-bagnolssurceze.ac-montpellier.fr
 https://clg-duhautgevaudan-stchelydapcher.ac-montpellier.fr
 https://clg-faure-olonzac.ac-montpellier.fr
@@ -5517,6 +5512,7 @@ http://lycee-patu.ac-reunion.fr
 https://www.ac-reunion.fr
 https://blog.ac-rouen.fr
 http://cio.ac-rouen.fr
+http://ia76.ac-rouen.fr
 https://lycees.ac-rouen.fr
 https://braque-col.spip.ac-rouen.fr
 https://briand-lyc.spip.ac-rouen.fr
@@ -5536,6 +5532,7 @@ https://maupassant-lyc.spip.ac-rouen.fr
 https://maurois-lyc.spip.ac-rouen.fr
 https://porte-normandie-lyc.spip.ac-rouen.fr
 https://queneau-col.spip.ac-rouen.fr
+https://queneau-lyc.spip.ac-rouen.fr
 https://schuman-lyc.spip.ac-rouen.fr
 https://senghor-lyc.spip.ac-rouen.fr
 https://stsaens.spip.ac-rouen.fr
@@ -5572,9 +5569,7 @@ http://www.clg-bert-chatou.ac-versailles.fr
 http://www.clg-bert-malakoff.ac-versailles.fr
 http://www.clg-blum-villepreux.ac-versailles.fr
 http://www.clg-boileau-st-michel.ac-versailles.fr
-http://www.clg-bonsraisins-rueil.ac-versailles.fr
 http://www.clg-bosc-st-prix.ac-versailles.fr
-http://www.clg-bouvets-puteaux.ac-versailles.fr
 http://www.clg-brassens-persan.ac-versailles.fr
 http://www.clg-brassens-taverny.ac-versailles.fr
 http://www.clg-briand-domont.ac-versailles.fr
@@ -5595,7 +5590,6 @@ http://www.clg-cesaire-ezanville.ac-versailles.fr
 http://www.clg-chabanne-pontoise.ac-versailles.fr
 http://www.clg-champaigne-lemesnil.ac-versailles.fr
 http://www.clg-chantemerle-corbeil.ac-versailles.fr
-http://www.clg-charpak-goussainville.ac-versailles.fr
 http://www.clg-chatelet-deuil.ac-versailles.fr
 http://www.clg-chenevreux-nanterre.ac-versailles.fr
 http://www.clg-clagny-versailles.ac-versailles.fr
@@ -5613,9 +5607,7 @@ http://www.clg-daubigny-auvers.ac-versailles.fr
 http://www.clg-daudet-draveil.ac-versailles.fr
 http://www.clg-debussy-st-germain-laye.ac-versailles.fr
 http://www.clg-delalande-athis.ac-versailles.fr
-http://www.clg-delaunay-grigny.ac-versailles.fr
 http://www.clg-derain-chambourcy.ac-versailles.fr
-http://www.clg-descartes-antony.ac-versailles.fr
 http://www.clg-descartes-fontenay.ac-versailles.fr
 http://www.clg-dines-chiens-chilly-mazarin.ac-versailles.fr
 http://www.clg-doisneau-itteville.ac-versailles.fr
@@ -5625,8 +5617,6 @@ http://www.clg-duhamel-herblay.ac-versailles.fr
 http://www.clg-dumas-maurepas.ac-versailles.fr
 http://www.clg-duras-colombes.ac-versailles.fr
 http://www.clg-einstein-magny.ac-versailles.fr
-http://www.clg-eisenbach-haverland-menucourt.ac-versailles.fr
-http://www.clg-eluard-bretigny.ac-versailles.fr
 http://www.clg-eluard-evry.ac-versailles.fr
 http://www.clg-eluard-guyancourt.ac-versailles.fr
 http://www.clg-eluard-nanterre.ac-versailles.fr
@@ -5637,12 +5627,9 @@ http://www.clg-ferry-eaubonne.ac-versailles.fr
 http://www.clg-ferry-mantes.ac-versailles.fr
 http://www.clg-ferry-ste-genevieve.ac-versailles.fr
 http://www.clg-flamel-pontoise.ac-versailles.fr
-http://www.clg-floratristan-carrieres.ac-versailles.fr
 http://www.clg-fontaineduroy-ville-avray.ac-versailles.fr
 http://www.clg-fort-courcouronnes.ac-versailles.fr
 http://www.clg-fort-montlhery.ac-versailles.fr
-http://www.clg-fournier-clamart.ac-versailles.fr
-http://www.clg-fournier-orsay.ac-versailles.fr
 http://www.clg-france-clayes.ac-versailles.fr
 http://www.clg-france-sarcelles.ac-versailles.fr
 http://www.clg-franck-palaiseau.ac-versailles.fr
@@ -5681,7 +5668,6 @@ http://www.clg-leroussay-etrechy.ac-versailles.fr
 http://www.clg-les-pres-mlb.ac-versailles.fr
 http://www.clg-lumiere-marly.ac-versailles.fr
 http://www.clg-lurcat-acheres.ac-versailles.fr
-http://www.clg-lurcat-ris.ac-versailles.fr
 http://www.clg-lussac-colombes.ac-versailles.fr
 http://www.clg-lutherking-buc.ac-versailles.fr
 http://www.clg-luxemburg-lisses.ac-versailles.fr
@@ -5695,17 +5681,14 @@ http://www.clg-mare-coignieres.ac-versailles.fr
 http://www.clg-martinets-rueil.ac-versailles.fr
 http://www.clg-masaryk-chatenay.ac-versailles.fr
 http://www.clg-matisse-garges.ac-versailles.fr
-http://www.clg-mauldre-maule.ac-versailles.fr
 http://www.clg-mauriac-houdan.ac-versailles.fr
 http://www.clg-mauriac-louvres.ac-versailles.fr
 http://www.clg-maurois-neuilly.ac-versailles.fr
 http://www.clg-michel-corbeil.ac-versailles.fr
-http://www.clg-molieres-essarts.ac-versailles.fr
 http://www.clg-mondetour-lesulis.ac-versailles.fr
 http://www.clg-monet-argenteuil.ac-versailles.fr
 http://www.clg-monnet-briis.ac-versailles.fr
 http://www.clg-montaigne-conflans.ac-versailles.fr
-http://www.clg-montaigne-goussainville.ac-versailles.fr
 http://www.clg-montesquieu-evry.ac-versailles.fr
 http://www.clg-moquet-gennevilliers.ac-versailles.fr
 http://www.clg-moulin-arnouville.ac-versailles.fr
@@ -5716,7 +5699,6 @@ http://www.clg-moulinjoly-colombes.ac-versailles.fr
 http://www.clg-mozart-athis.ac-versailles.fr
 http://www.clg-mozart-boisdarcy.ac-versailles.fr
 http://www.clg-nenuphars-breval.ac-versailles.fr
-http://www.clg-neruda-bretigny.ac-versailles.fr
 http://www.clg-neruda-grigny.ac-versailles.fr
 http://www.clg-pagnol-montsoult.ac-versailles.fr
 http://www.clg-pagnol-rueil.ac-versailles.fr
@@ -5733,7 +5715,6 @@ http://www.clg-paulhan-sartrouville.ac-versailles.fr
 http://www.clg-peguy-bondoufle.ac-versailles.fr
 http://www.clg-peguy-lechesnay.ac-versailles.fr
 http://www.clg-peguy-morsang.ac-versailles.fr
-http://www.clg-pergaud-maurepas.ac-versailles.fr
 http://www.clg-perrin-nanterre.ac-versailles.fr
 http://www.clg-petitbois-pierrelaye.ac-versailles.fr
 http://www.clg-petitsponts-clamart.ac-versailles.fr
@@ -5768,7 +5749,6 @@ http://www.clg-senghor-corbeil.ac-versailles.fr
 http://www.clg-serres-viry.ac-versailles.fr
 http://www.clg-seurat-courbevoie.ac-versailles.fr
 http://www.clg-sevres.ac-versailles.fr
-http://www.clg-st-exupery-andresy.ac-versailles.fr
 http://www.clg-st-exupery-vlb.ac-versailles.fr
 http://www.clg-st-simon-jouars.ac-versailles.fr
 http://www.clg-stendhal-fosses.ac-versailles.fr
@@ -5791,7 +5771,6 @@ http://www.clg-villeroy-mennecy.ac-versailles.fr
 http://www.clg-vinci-ecquevilly.ac-versailles.fr
 http://www.clg-vinci-eragny.ac-versailles.fr
 http://www.clg-wallon-bezons.ac-versailles.fr
-http://www.clg-wallon-vigneux.ac-versailles.fr
 http://www.clg-weiler-montgeron.ac-versailles.fr
 http://www.clg-zay-st-gratien.ac-versailles.fr
 http://www.clg-zola-igny.ac-versailles.fr
@@ -9417,6 +9396,7 @@ https://www.catenay.fr
 https://www.catenoy.fr
 https://biblio-diocese35.catholique.fr
 http://www.catillonsursambre.fr
+https://catllar.fr
 https://catus.fr
 https://www.caubonstsauveur.fr
 http://caudebecleselbeuf.fr
@@ -10290,7 +10270,6 @@ https://www.chamalieres-sur-loire.fr
 https://www.chamarande.fr
 http://www.ariege.chambagri.fr
 http://www.franche-comte.chambagri.fr
-http://herault.chambagri.fr
 http://landes.chambagri.fr
 http://www.manche.chambagri.fr
 http://moselle.chambagri.fr
@@ -12010,7 +11989,7 @@ https://www.coudures.fr
 http://couesmes.fr
 https://www.couesnon-marchesdebretagne.fr
 https://couetronauperche.fr
-http://www.couetronauperche.fr
+https://www.couetronauperche.fr
 https://www.couffe.fr
 https://couffoulens.fr
 https://www.couffouleux.fr
@@ -16723,7 +16702,7 @@ http://www.donnees-communales.developpement-durable.gouv.fr
 https://www.msr25.doubs.developpement-durable.gouv.fr
 https://enqueteur.draaf-bretagne.developpement-durable.gouv.fr
 http://enqueteur.dreal-aquitaine-limousin-poitou-charentes.developpement-durable.gouv.fr
-http://enqueteur.dreal-auvergne-rhone-alpes.developpement-durable.gouv.fr
+https://enqueteur.dreal-auvergne-rhone-alpes.developpement-durable.gouv.fr
 https://enqueteur.dreal-centre.developpement-durable.gouv.fr
 https://enqueteur.dreal-grand-est.developpement-durable.gouv.fr
 https://enqueteur.dreal-normandie.developpement-durable.gouv.fr
@@ -16949,6 +16928,8 @@ https://enqueteur.daei.sg.developpement-durable.gouv.fr
 https://enqueteur.daf.sg.developpement-durable.gouv.fr
 https://enqueteur.daj.sg.developpement-durable.gouv.fr
 http://enqueteur.dicom.sg.developpement-durable.gouv.fr
+https://enqueteur.dnum.sg.developpement-durable.gouv.fr
+https://enqueteur.evaluation-ipec.sg.developpement-durable.gouv.fr
 https://enqueteur.shfds.sg.developpement-durable.gouv.fr
 http://enqueteur.spes.sg.developpement-durable.gouv.fr
 https://enqueteur.sg-drh.developpement-durable.gouv.fr
@@ -17244,6 +17225,7 @@ https://prestatairecrous2.phm.education.gouv.fr
 https://qt-wa.phm.education.gouv.fr
 https://racvision.phm.education.gouv.fr
 https://rh-proximite.phm.education.gouv.fr
+https://si2gfm.phm.education.gouv.fr
 https://si2gpp.phm.education.gouv.fr
 https://pr3-sir-vipwebext01.sirhen.phm.education.gouv.fr
 http://speedtest.phm.education.gouv.fr
@@ -17502,7 +17484,6 @@ https://o3sis-pprod.esante.gouv.fr
 https://observatoire.esante.gouv.fr
 https://preprod.observatoire.esante.gouv.fr
 https://participez.esante.gouv.fr
-https://tech.pp.esante.gouv.fr
 https://api.bas.psc.esante.gouv.fr
 https://wallet.bas.psc.esante.gouv.fr
 https://status.psig.esante.gouv.fr
@@ -18502,6 +18483,7 @@ https://www.prevention-dechets.gouv.fr
 https://www.primealaconversion.gouv.fr
 https://www.prix-carburants.gouv.fr
 https://prix-controle-technique.gouv.fr
+https://proconnect.gouv.fr
 https://demonstrateur-dev.proconnect.gouv.fr
 https://demonstrateur-int.proconnect.gouv.fr
 https://demonstrateur-pprd.proconnect.gouv.fr
@@ -18547,6 +18529,7 @@ http://scans.club.ssi.rie.gouv.fr
 http://www.club.ssi.rie.gouv.fr
 https://www.saint-barth-saint-martin.gouv.fr
 https://saint-pierre-et-miquelon.gouv.fr
+https://www.saint-pierre-et-miquelon.gouv.fr
 https://api-geodae.sante.gouv.fr
 https://aquasise.sante.gouv.fr
 https://data.aquasise.sante.gouv.fr
@@ -18967,6 +18950,7 @@ https://snosm.ensm.sports.gouv.fr
 https://snosm-beta.ensm.sports.gouv.fr
 https://www.ensm.sports.gouv.fr
 https://zensa.ensm.sports.gouv.fr
+https://formulaires.envsn.sports.gouv.fr
 https://mta.envsn.sports.gouv.fr
 https://www.envsn.sports.gouv.fr
 https://equipements.sports.gouv.fr
@@ -21625,7 +21609,6 @@ https://www.lestourrettes.fr
 https://www.lestroispierres.fr
 https://www.lesulis.fr
 http://lesvastres.fr
-http://www.lesvastres.fr
 https://lesvigneaux.fr
 http://www.lesvillardssurthones.fr
 https://www.letablier.fr
@@ -23962,7 +23945,6 @@ http://www.mairie-orthez.fr
 https://mairie-osthoffen.fr
 http://mairie-ouessant.fr
 http://www.mairie-ouessant.fr
-https://www.mairie-ouges.fr
 https://mairie-ouillon.fr
 https://www.mairie-ouillon.fr
 https://mairie-oulles.fr
@@ -24318,7 +24300,6 @@ https://mairie-sapignicourt.fr
 https://www.mairie-saramon.fr
 https://www.mairie-satillieu.fr
 https://www.mairie-saucats.fr
-https://mairie-sault-84.fr
 http://www.mairie-sault-84.fr
 https://mairie-saultlesrethel.fr
 https://mairie-saulxures.fr
@@ -24664,7 +24645,6 @@ http://port-brillet.mairie53.fr
 http://www.port-brillet.mairie53.fr
 http://saint-sulpice.mairie53.fr
 http://www.saint-sulpice.mairie53.fr
-http://saintchristopheduluat.mairie53.fr
 http://www.saintchristopheduluat.mairie53.fr
 http://mairie.livre.la.touche.mairie53.fr
 http://www.mairie.livre.la.touche.mairie53.fr
@@ -29333,6 +29313,7 @@ https://revestdesbrousses.fr
 https://reviers.fr
 https://www.reviers.fr
 https://www.revigny-sur-ornain.fr
+https://rexpoede.fr
 https://www.rey78.fr
 https://www.reynes.fr
 http://www.reynies.fr
@@ -29781,6 +29762,7 @@ https://www.saint-andre-de-lidon.fr
 https://saint-andre-des-eaux.fr
 https://www.saint-andre-des-eaux.fr
 http://www.saint-andre-en-royans.fr
+http://www.saint-andre-goule-doie.fr
 https://www.saint-andre66.fr
 https://saint-androny.fr
 https://www.saint-androny.fr
@@ -31071,6 +31053,7 @@ https://saintlambertlapotherie.fr
 https://www.saintlambertlapotherie.fr
 https://saintlaurent18.fr
 https://www.saintlaurentdarce.fr
+https://www.saintlaurentdecerdans.fr
 http://saintlaurentdecondel.fr
 https://www.saintlaurentdegosse.fr
 http://saintlaurentdelapree.fr
@@ -33032,6 +33015,7 @@ https://thuir.fr
 https://thuitdeloison.fr
 https://www.thumeries.fr
 https://thunsaintamand.fr
+https://www.thunsaintamand.fr
 https://thurins-commune.fr
 https://thury.fr
 https://www.thury.fr
@@ -33220,7 +33204,7 @@ https://www.treillieres.fr
 https://www.treize-septiers.fr
 https://treize-vents.fr
 https://www.trelaze.fr
-http://www.trelevern.fr
+https://www.trelevern.fr
 https://trelins.fr
 https://trelivan.fr
 http://www.tremaouezan.fr
@@ -33252,7 +33236,7 @@ https://trescleoux.fr
 https://www.trespoux-rassiels.fr
 https://tresques.fr
 http://tressan.fr
-http://www.tressan.fr
+https://www.tressan.fr
 https://tressange.fr
 https://www.tresserre.fr
 https://tresserve.fr
@@ -34407,7 +34391,7 @@ https://www.ville-change.fr
 https://www.ville-chanteau.fr
 https://ville-chantenay-saint-imbert.fr
 https://www.ville-chantenay-saint-imbert.fr
-https://ville-chantilly.fr
+http://ville-chantilly.fr
 http://www.ville-chantilly.fr
 https://www.ville-chantonnay.fr
 https://ville-charlieu.fr
@@ -34774,7 +34758,6 @@ https://www.ville-lauzun.fr
 https://ville-lavalette.fr
 https://www.ville-lavardac.fr
 http://mediatheque.ville-lavaur.fr
-https://www.ville-lavaur.fr
 https://www.ville-laventie.fr
 https://www.ville-layrac.fr
 https://www.ville-le-barp.fr
@@ -36063,6 +36046,7 @@ http://yville-sur-seine.fr
 https://www.yville-sur-seine.fr
 https://yvoire.fr
 https://www.yvrac.fr
+https://yvrelepolin.fr
 https://www.yzengremer.fr
 http://www.yzeron.fr
 https://www.zaessingue.fr
@@ -36107,7 +36091,6 @@ https://www.cairon.info
 https://cazilhac.info
 https://www.cazilhac.info
 https://chevincourt.info
-https://www.chevincourt.info
 http://chignylesroses.info
 http://www.chignylesroses.info
 https://basrhin.cidff.info
@@ -36690,6 +36673,7 @@ http://collegevictorlouis.fr.nf
 http://le-mesnil-simon.fr.nf
 http://san-lurenzu.fr.nf
 http://www.san-lurenzu.fr.nf
+https://het-onlinecasino.nl
 https://acegaa.org
 https://www.acegaa.org
 https://annuaire.action-sociale.org
@@ -37275,7 +37259,6 @@ https://www.missionlocale-aubervilliers.org
 https://www.missionlocale-chateauthierry.org
 https://www.missionlocale-eeb.org
 https://www.missionlocale-issoire.org
-https://www.missionlocale-mlisol.org
 https://www.missionlocale-paysbasque.org
 https://www.missionlocale-paysyonnais.org
 https://www.missionlocale04.org
@@ -37414,7 +37397,6 @@ http://www.semilly.org
 https://www.sessenheim.org
 https://www.siah-croult.org
 https://www.sicaudieres.org
-http://www.sictomu.org
 https://siderm.org
 https://www.siderm.org
 http://www.maisondesinitiatives.sitew.org
@@ -37425,7 +37407,6 @@ https://www.smavd.org
 https://www.smdl.org
 http://sorbs.org
 http://www.sorbs.org
-http://www.souge.org
 https://st-martin-auxigny.org
 https://www.stantoinedeficalba.org
 http://steinbach68.org
