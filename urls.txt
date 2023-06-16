@@ -1922,7 +1922,6 @@ http://levignac-de-guyenne.com
 http://www.levignac-de-guyenne.com
 https://lewebpedagogique.com
 https://leymentmairie.com
-http://www.lgtbellevue.com
 https://www.lhtgosier.com
 http://www.liebenswiller.com
 http://www.liergues.com
@@ -4517,6 +4516,7 @@ https://www.lyc-monnet.ac-aix-marseille.fr
 https://www.lyc-montesquieu.ac-aix-marseille.fr
 https://www.lyc-montgrand-marseille.ac-aix-marseille.fr
 https://www.lyc-moulin.ac-aix-marseille.fr
+https://www.lyc-pascal.ac-aix-marseille.fr
 https://www.lyc-pasquet.ac-aix-marseille.fr
 https://www.lyc-perier.ac-aix-marseille.fr
 https://www.lyc-perrin.ac-aix-marseille.fr
@@ -4731,7 +4731,6 @@ https://college-quintefeuille.etab.ac-caen.fr
 https://college-rene-goscinny.etab.ac-caen.fr
 https://college-rostand.etab.ac-caen.fr
 https://college-sainte-mere-eglise.etab.ac-caen.fr
-https://college-senghor.etab.ac-caen.fr
 https://college-truffaut-argentan.etab.ac-caen.fr
 https://college-valdaure.etab.ac-caen.fr
 https://college-zola-la-glacerie.etab.ac-caen.fr
@@ -5120,7 +5119,6 @@ https://clg-curie-pignan.ac-montpellier.fr
 https://clg-dubosquet-bagnolssurceze.ac-montpellier.fr
 https://clg-duhautgevaudan-stchelydapcher.ac-montpellier.fr
 https://clg-faure-olonzac.ac-montpellier.fr
-https://clg-lanadiere-portlanouvelle.ac-montpellier.fr
 https://clg-lesdeuxpins-frontignan.ac-montpellier.fr
 https://clg-loupian.ac-montpellier.fr
 https://clg-montesquieu-narbonne.ac-montpellier.fr
@@ -5340,6 +5338,7 @@ http://clg-alain-fournier.scola.ac-paris.fr
 http://clg-beranger.scola.ac-paris.fr
 http://clg-gerard-philipe.scola.ac-paris.fr
 http://clg-jean-moulin.scola.ac-paris.fr
+http://clg-octave-greard.scola.ac-paris.fr
 http://clg-pmf.scola.ac-paris.fr
 http://clg-sonia-delaunay.scola.ac-paris.fr
 http://clg-yvonne-le-tac.scola.ac-paris.fr
@@ -5520,6 +5519,7 @@ https://cio.spip.ac-rouen.fr
 http://www.cio.spip.ac-rouen.fr
 https://colbert-lyc.spip.ac-rouen.fr
 https://coubertin-lyc.spip.ac-rouen.fr
+https://delamare-lyc.spip.ac-rouen.fr
 https://dumezil-lyc.spip.ac-rouen.fr
 https://emulation-lyc.spip.ac-rouen.fr
 https://erea-dolto.spip.ac-rouen.fr
@@ -5544,7 +5544,6 @@ http://www.lyc-bugatti-illzach.site.ac-strasbourg.fr
 http://www.lyc-coulanges-strasbourg.site.ac-strasbourg.fr
 http://www.lyc-monnet-strasbourg.site.ac-strasbourg.fr
 http://www.lyc-siegfried-haguenau.site.ac-strasbourg.fr
-http://www.lyc-yourcenar-erstein.site.ac-strasbourg.fr
 https://www.ac-strasbourg.fr
 https://pedagogie.ac-toulouse.fr
 https://www.ac-toulouse.fr
@@ -5571,7 +5570,6 @@ http://www.clg-boileau-st-michel.ac-versailles.fr
 http://www.clg-bosc-st-prix.ac-versailles.fr
 http://www.clg-brassens-persan.ac-versailles.fr
 http://www.clg-brassens-taverny.ac-versailles.fr
-http://www.clg-briand-domont.ac-versailles.fr
 http://www.clg-brossolette-chatenay.ac-versailles.fr
 http://www.clg-bruyeres-courbevoie.ac-versailles.fr
 http://www.clg-bude-yerres.ac-versailles.fr
@@ -5616,10 +5614,8 @@ http://www.clg-einstein-magny.ac-versailles.fr
 http://www.clg-eluard-evry.ac-versailles.fr
 http://www.clg-eluard-guyancourt.ac-versailles.fr
 http://www.clg-eluard-nanterre.ac-versailles.fr
-http://www.clg-eluard-ste-genevieve.ac-versailles.fr
 http://www.clg-explorateurs-cergy.ac-versailles.fr
 http://www.clg-exupery-ermont.ac-versailles.fr
-http://www.clg-ferry-eaubonne.ac-versailles.fr
 http://www.clg-ferry-mantes.ac-versailles.fr
 http://www.clg-ferry-ste-genevieve.ac-versailles.fr
 http://www.clg-flamel-pontoise.ac-versailles.fr
@@ -5630,18 +5626,15 @@ http://www.clg-france-clayes.ac-versailles.fr
 http://www.clg-france-sarcelles.ac-versailles.fr
 http://www.clg-franck-palaiseau.ac-versailles.fr
 http://www.clg-galilee-evry.ac-versailles.fr
-http://www.clg-galilee-limay.ac-versailles.fr
 http://www.clg-galois-bourg-la-reine.ac-versailles.fr
 http://www.clg-galois-nanterre.ac-versailles.fr
 http://www.clg-galois-sarcelles.ac-versailles.fr
 http://www.clg-garros-st-germain-arpajon.ac-versailles.fr
 http://www.clg-gassicourt-mantes.ac-versailles.fr
 http://www.clg-gatines-savigny.ac-versailles.fr
-http://www.clg-gerard-philipe-massy.ac-versailles.fr
 http://www.clg-gounod-st-cloud.ac-versailles.fr
 http://www.clg-goussons-gif.ac-versailles.fr
 http://www.clg-grands-champs-poissy.ac-versailles.fr
-http://www.clg-guettard-etampes.ac-versailles.fr
 http://www.clg-guillaumet-jouy.ac-versailles.fr
 http://www.clg-hautmesnil-montrouge.ac-versailles.fr
 http://www.clg-hugo-issy.ac-versailles.fr
@@ -5683,7 +5676,6 @@ http://www.clg-monet-argenteuil.ac-versailles.fr
 http://www.clg-monnet-briis.ac-versailles.fr
 http://www.clg-montaigne-conflans.ac-versailles.fr
 http://www.clg-montesquieu-evry.ac-versailles.fr
-http://www.clg-moquet-gennevilliers.ac-versailles.fr
 http://www.clg-moulin-arnouville.ac-versailles.fr
 http://www.clg-moulin-chaville.ac-versailles.fr
 http://www.clg-moulin-croissy.ac-versailles.fr
@@ -5695,7 +5687,6 @@ http://www.clg-nenuphars-breval.ac-versailles.fr
 http://www.clg-neruda-grigny.ac-versailles.fr
 http://www.clg-pagnol-montsoult.ac-versailles.fr
 http://www.clg-pagnol-rueil.ac-versailles.fr
-http://www.clg-pagnol-soa.ac-versailles.fr
 http://www.clg-paparemborde-colombes.ac-versailles.fr
 http://www.clg-pascal-massy.ac-versailles.fr
 http://www.clg-pascal-plaisir.ac-versailles.fr
@@ -5715,7 +5706,6 @@ http://www.clg-picasso-garges.ac-versailles.fr
 http://www.clg-plaisances-mantes.ac-versailles.fr
 http://www.clg-pmcurie-lepecq.ac-versailles.fr
 http://www.clg-poincare-versailles.ac-versailles.fr
-http://www.clg-pompidou-enghien.ac-versailles.fr
 http://www.clg-pompidou-villeneuve.ac-versailles.fr
 http://www.clg-pontdebois-st-cheron.ac-versailles.fr
 http://www.clg-prieure-maisons-laffitte.ac-versailles.fr
@@ -5725,17 +5715,13 @@ http://www.clg-racine-st-cyr.ac-versailles.fr
 http://www.clg-racine-viroflay.ac-versailles.fr
 http://www.clg-rameau-versailles.ac-versailles.fr
 http://www.clg-renardieres-courbevoie.ac-versailles.fr
-http://www.clg-renoir-boulogne.ac-versailles.fr
 http://www.clg-roby-stgermain.ac-versailles.fr
 http://www.clg-rolland-bagneux.ac-versailles.fr
 http://www.clg-rondeau-rambouillet.ac-versailles.fr
 http://www.clg-ronsard-montmorency.ac-versailles.fr
 http://www.clg-rostand-milly.ac-versailles.fr
 http://www.clg-rousseau-argenteuil.ac-versailles.fr
-http://www.clg-saint-exupery-vanves.ac-versailles.fr
 http://www.clg-sand-chatillon.ac-versailles.fr
-http://www.clg-sand-magnanville.ac-versailles.fr
-http://www.clg-saules-guyancourt.ac-versailles.fr
 http://www.clg-saussay-ballancourt.ac-versailles.fr
 http://www.clg-senghor-corbeil.ac-versailles.fr
 http://www.clg-serres-viry.ac-versailles.fr
@@ -5895,7 +5881,6 @@ http://www.lyc-vilar-plaisir.ac-versailles.fr
 http://www.lyc-vilgenis-massy.ac-versailles.fr
 http://www.lyc-villaroy-guyancourt.ac-versailles.fr
 http://www.lyc-villon-mureaux.ac-versailles.fr
-http://www.lyc-vinci-bagneux.ac-versailles.fr
 http://www.lyc-vinci-saint-germain.ac-versailles.fr
 http://www.lyc-vinci-st-michel.ac-versailles.fr
 http://www.lyc-vinci-st-witz.ac-versailles.fr
@@ -6006,7 +5991,6 @@ https://mediatheques.agglo-pau.fr
 https://pau-demarches.agglo-pau.fr
 https://www.agglo-paysdemeaux.fr
 http://agglo-plainecentrale94.fr
-http://www.agglo-plainecentrale94.fr
 https://www.agglo-plainevallee.fr
 https://www.agglo-porteduhainaut.fr
 https://www.agglo-pvm.fr
@@ -7110,7 +7094,6 @@ https://authon.fr
 https://www.authume.fr
 https://www.autoire.fr
 https://autolibmetropole.fr
-https://www.autolibmetropole.fr
 https://www.autorite-statistique-publique.fr
 https://www.autoritedelaconcurrence.fr
 https://autouillet.fr
@@ -8251,6 +8234,7 @@ https://www.beynost.fr
 https://beyrede-jumet.fr
 https://www.beyrede-jumet.fr
 https://beyren-gandren.fr
+https://beyries.fr
 https://www.beyries.fr
 http://bez-et-esparon.fr
 https://www.bezannes.fr
@@ -8590,7 +8574,6 @@ http://www.bouclans.fr
 https://www.boucledesmediatheques.fr
 https://www.boucoiranetnozieres.fr
 https://boudes.fr
-https://www.boudes.fr
 http://www.boudou.fr
 https://www.bouee.fr
 https://www.bouex.fr
@@ -9427,7 +9410,6 @@ http://cavanac.fr
 http://www.cavanac.fr
 https://www.cavignac.fr
 https://www.cayeux-sur-mer.fr
-https://www.cayrac.fr
 http://cayrols.fr
 http://www.cayrols.fr
 https://cazals46.fr
@@ -14967,7 +14949,7 @@ http://galey.fr
 http://www.galey.fr
 https://galfingue.fr
 https://www.galfingue.fr
-http://galgan.fr
+https://galgan.fr
 http://www.galgan.fr
 https://www.galgon.fr
 https://gallargues.fr
@@ -15376,10 +15358,12 @@ https://grist.incubateur.anct.gouv.fr
 https://dashlord.inclusion-numerique.incubateur.anct.gouv.fr
 https://v2.labase.incubateur.anct.gouv.fr
 https://dev.v2.labase.incubateur.anct.gouv.fr
+http://feat-component-link.v2.labase.incubateur.anct.gouv.fr
 https://feat-event-sourcing.v2.labase.incubateur.anct.gouv.fr
 http://feat-fixtures.v2.labase.incubateur.anct.gouv.fr
 http://feat-migration.v2.labase.incubateur.anct.gouv.fr
 https://feat-modal.v2.labase.incubateur.anct.gouv.fr
+https://feat-publish.v2.labase.incubateur.anct.gouv.fr
 http://feat-resource-edition.v2.labase.incubateur.anct.gouv.fr
 https://update-stack.v2.labase.incubateur.anct.gouv.fr
 https://matomo.incubateur.anct.gouv.fr
@@ -15395,7 +15379,6 @@ https://camel-case-modules.v2.monsuivisocial.incubateur.anct.gouv.fr
 https://dev.v2.monsuivisocial.incubateur.anct.gouv.fr
 https://fix-error.v2.monsuivisocial.incubateur.anct.gouv.fr
 https://fix-sorting-descendin.v2.monsuivisocial.incubateur.anct.gouv.fr
-https://local-inclusion-conne.v2.monsuivisocial.incubateur.anct.gouv.fr
 https://refactor-default-per.v2.monsuivisocial.incubateur.anct.gouv.fr
 http://refactor-sorting.v2.monsuivisocial.incubateur.anct.gouv.fr
 https://refactor-user-forms.v2.monsuivisocial.incubateur.anct.gouv.fr
@@ -15407,6 +15390,7 @@ https://feat-build-checks.solutionsdelus.incubateur.anct.gouv.fr
 https://fix-missing-images.solutionsdelus.incubateur.anct.gouv.fr
 https://stack.incubateur.anct.gouv.fr
 https://chore-packages.stack.incubateur.anct.gouv.fr
+https://codegouv-import.stack.incubateur.anct.gouv.fr
 https://contribution.stack.incubateur.anct.gouv.fr
 https://feat-breadcrumb.stack.incubateur.anct.gouv.fr
 https://feat-chromatic.stack.incubateur.anct.gouv.fr
@@ -15581,7 +15565,6 @@ https://suivi.aidantsconnect.beta.gouv.fr
 https://aides-territoires.beta.gouv.fr
 https://actioncoeurdeville.aides-territoires.beta.gouv.fr
 https://addna.aides-territoires.beta.gouv.fr
-https://aides-europeennes.aides-territoires.beta.gouv.fr
 https://alimentation-agriculture-guyane.aides-territoires.beta.gouv.fr
 https://arcinnovation.aides-territoires.beta.gouv.fr
 https://avenir-montagnes.aides-territoires.beta.gouv.fr
@@ -16191,7 +16174,6 @@ http://rec2022.cybermalveillance.gouv.fr
 http://cms.rec2022.cybermalveillance.gouv.fr
 http://sandbox.rec2022.cybermalveillance.gouv.fr
 https://www.cybermalveillance.gouv.fr
-http://cybermois.gouv.fr
 https://cyberveille-sante.gouv.fr
 https://www.cyberveille-sante.gouv.fr
 https://adresse.data.gouv.fr
@@ -16511,7 +16493,6 @@ https://enqueteur.cvrh-rouen.developpement-durable.gouv.fr
 https://enqueteur.cvrh-toulouse.developpement-durable.gouv.fr
 http://enqueteur.dde-drome.developpement-durable.gouv.fr
 http://enqueteur.dde-maine-et-loire.developpement-durable.gouv.fr
-http://enqueteur.deal971.developpement-durable.gouv.fr
 https://www.deb.developpement-durable.gouv.fr
 https://declarationindustrielsphyto.developpement-durable.gouv.fr
 https://demarches.developpement-durable.gouv.fr
@@ -16589,6 +16570,7 @@ https://nexus-forge-preprod.din.developpement-durable.gouv.fr
 https://exploitation.dir.nord.din.developpement-durable.gouv.fr
 https://oedipp.din.developpement-durable.gouv.fr
 https://preprod.ombel.din.developpement-durable.gouv.fr
+https://oscean.din.developpement-durable.gouv.fr
 https://info.osmose2.din.developpement-durable.gouv.fr
 https://partage.din.developpement-durable.gouv.fr
 https://pegase.din.developpement-durable.gouv.fr
@@ -17108,6 +17090,7 @@ https://www.passerelles.economie.gouv.fr
 https://passerelles-gestion.economie.gouv.fr
 https://www.passerelles-gestion.economie.gouv.fr
 https://presse.economie.gouv.fr
+https://rejoindrelesfinancespubliques.economie.gouv.fr
 https://ssi.economie.gouv.fr
 https://www.ssi.economie.gouv.fr
 https://dev.supportaife.economie.gouv.fr
@@ -17437,6 +17420,7 @@ https://preprod.convergence.esante.gouv.fr
 https://status.cps.esante.gouv.fr
 https://cybersurveillance.esante.gouv.fr
 https://ecoscore-appli.esante.gouv.fr
+https://edit.esante.gouv.fr
 http://emt.esante.gouv.fr
 https://diagcps.eservices.esante.gouv.fr
 https://link.pfc.eservices.esante.gouv.fr
@@ -17639,7 +17623,6 @@ https://mayotte.safire.fonction-publique.gouv.fr
 https://normandie.safire.fonction-publique.gouv.fr
 https://nouvelle-aquitaine.safire.fonction-publique.gouv.fr
 https://occitanie.safire.fonction-publique.gouv.fr
-https://paca.safire.fonction-publique.gouv.fr
 https://pays-de-la-loire.safire.fonction-publique.gouv.fr
 https://polynesie-francaise.safire.fonction-publique.gouv.fr
 https://reunion.safire.fonction-publique.gouv.fr
@@ -17649,7 +17632,6 @@ https://salonemploi-grandest.fonction-publique.gouv.fr
 https://salonemploi-hautsdefrance.fonction-publique.gouv.fr
 http://salonemploi-nouvelleaquitaine.fonction-publique.gouv.fr
 https://salonmobilite-antillesguyane.fonction-publique.gouv.fr
-https://salonmobilitepro-occitanie.fonction-publique.gouv.fr
 https://simulateur-entretiens.fonction-publique.gouv.fr
 https://www.tutorat.fonction-publique.gouv.fr
 https://www.fonction-publique.gouv.fr
@@ -17672,6 +17654,7 @@ https://www.france-sesame.gouv.fr
 https://france-visas.gouv.fr
 https://application-form.france-visas.gouv.fr
 https://francearchives.gouv.fr
+https://data-dump.francearchives.gouv.fr
 https://grafana.francearchives.gouv.fr
 https://kibana.francearchives.gouv.fr
 https://lb.francearchives.gouv.fr
@@ -17702,6 +17685,7 @@ https://www.plateforme-eolys.fse.gouv.fr
 https://www.pre-plateforme-elios.fse.gouv.fr
 https://www.pre-plateforme-eolys.fse.gouv.fr
 https://www.rec-plateforme-elios.fse.gouv.fr
+https://www.rec-plateforme-eolys.fse.gouv.fr
 https://www.gard.gouv.fr
 https://garde-nationale.gouv.fr
 https://www.geoportail.gouv.fr
@@ -17878,6 +17862,7 @@ https://qualification.formi.interieur.gouv.fr
 https://fourrieres.interieur.gouv.fr
 https://preproduction.fourrieres.interieur.gouv.fr
 https://qualification.fourrieres.interieur.gouv.fr
+https://admin.gendarmerie.interieur.gouv.fr
 https://www.boutique.gendarmerie.interieur.gouv.fr
 https://crl.gendarmerie.interieur.gouv.fr
 https://admin.gendcom.gendarmerie.interieur.gouv.fr
@@ -18139,7 +18124,6 @@ http://www.carte-de-voeux.justice.gouv.fr
 http://conference-consensus.justice.gouv.fr
 https://www.designation-prudhommes.justice.gouv.fr
 http://www.mediatheque.justice.gouv.fr
-http://www.metiers.justice.gouv.fr
 https://opm.justice.gouv.fr
 https://plano-atigip.justice.gouv.fr
 https://plex.justice.gouv.fr
@@ -18237,7 +18221,6 @@ https://administration.mentor.gouv.fr
 http://bbb-qua-1.mentor.gouv.fr
 https://via.mentor.gouv.fr
 https://video.mentor.gouv.fr
-https://video-pre.mentor.gouv.fr
 https://mer.gouv.fr
 https://contact.mer.gouv.fr
 https://formations.mer.gouv.fr
@@ -18350,6 +18333,7 @@ https://pad.dev.rizomo.numerique.gouv.fr
 http://pgadmin.dev.rizomo.numerique.gouv.fr
 http://pgweb.dev.rizomo.numerique.gouv.fr
 https://rizomo-integ-s3.dev.rizomo.numerique.gouv.fr
+http://rizomo-integ-s3-s3.dev.rizomo.numerique.gouv.fr
 https://upvote.dev.rizomo.numerique.gouv.fr
 https://rizomo-api-demo.numerique.gouv.fr
 https://rizomo-connect.numerique.gouv.fr
@@ -18408,7 +18392,6 @@ https://koha-test.documentation.pm.gouv.fr
 http://newsletter.pm.gouv.fr
 http://f.newsletter.pm.gouv.fr
 http://s.newsletter.pm.gouv.fr
-https://pnr.gouv.fr
 https://portail-immo.gouv.fr
 https://calculateur-cstb.portail-immo.gouv.fr
 https://estimation-gains-energetiques.portail-immo.gouv.fr
@@ -18578,7 +18561,6 @@ https://eps.sante.gouv.fr
 https://www.es-difficulte-sociale-collecte.sante.gouv.fr
 https://www.es-handicap-collecte.sante.gouv.fr
 https://esat.sante.gouv.fr
-https://finess.sante.gouv.fr
 https://silav.formation.sante.gouv.fr
 https://sise-erp.formation.sante.gouv.fr
 http://igc.sante.gouv.fr
@@ -23033,7 +23015,7 @@ https://www.mairie-cheminot.fr
 https://www.mairie-chepy.fr
 https://www.mairie-chereng.fr
 https://www.mairie-cherisy.fr
-http://mairie-cheroy.fr
+https://mairie-cheroy.fr
 https://mairie-chevillonsurhuillard.fr
 http://www.mairie-chevinay.fr
 https://mairie-chezysurmarne.fr
@@ -23401,8 +23383,7 @@ https://www.mairie-grigny69.fr
 https://www.mairie-grilly.fr
 https://www.mairie-grimaud.fr
 https://mairie-gros-chastang.fr
-http://mairie-groslay.fr
-http://www.mairie-groslay.fr
+https://www.mairie-groslay.fr
 https://www.mairie-grosrouvre.fr
 http://www.mairie-grossoeuvre.fr
 http://mairie-gruffy.fr
@@ -24371,6 +24352,7 @@ https://www.mairie-spezet.fr
 https://mairie-splc.fr
 https://mairie-spycker.fr
 https://mairie-st-caprais-allier.fr
+https://mairie-st-christophe-en-oisans.fr
 https://mairie-st-germer.fr
 https://www.mairie-st-germer.fr
 https://mairie-st-hilaire-en-morvan.fr
@@ -24629,7 +24611,6 @@ http://port-brillet.mairie53.fr
 http://www.port-brillet.mairie53.fr
 http://saint-sulpice.mairie53.fr
 http://www.saint-sulpice.mairie53.fr
-http://www.saintchristopheduluat.mairie53.fr
 http://mairie.livre.la.touche.mairie53.fr
 http://www.mairie.livre.la.touche.mairie53.fr
 http://villaines-la-juhel.mairie53.fr
@@ -28256,6 +28237,7 @@ https://www.paysdessorgues.fr
 https://www.paysdetroncais.fr
 https://www.paysdiois.fr
 https://www.paysdumans.fr
+https://www.paysduneubourg.fr
 https://paysdunois.fr
 https://www.paysdunois.fr
 https://www.paysduzerche.fr
@@ -28657,7 +28639,6 @@ https://plourivo.fr
 https://www.plourivo.fr
 http://www.plouvara.fr
 https://plouvien.fr
-https://www.plouvien.fr
 https://www.plouzevede.fr
 https://www.plovan.fr
 https://www.pluduno.fr
@@ -29299,7 +29280,6 @@ https://www.revigny-sur-ornain.fr
 https://rexpoede.fr
 https://www.rey78.fr
 https://www.reynes.fr
-http://www.reynies.fr
 https://reyrieux.fr
 https://www.reyrieux.fr
 https://reyvroz.fr
@@ -31921,7 +31901,6 @@ http://www.secheval.fr
 http://sechilienne.fr
 http://www.sechilienne.fr
 https://secondigny.fr
-https://secours17.fr
 http://sedan.fr
 http://www.sedan.fr
 https://sedze-maubecq.fr
@@ -32048,7 +32027,6 @@ http://www.septmoncel.fr
 https://www.sequedin.fr
 https://www.seraincourt95.fr
 https://www.serandon.fr
-https://seranon.fr
 https://www.serbannes.fr
 https://sercus.fr
 https://sercy.fr
@@ -32544,7 +32522,6 @@ https://st-quentin-de-caplong.fr
 https://www.st-quentin-de-caplong.fr
 https://www.st-quentin-fallavier.fr
 https://st-remy01.fr
-https://www.st-remy01.fr
 http://st-riquier-es-plains.fr
 http://www.st-sauveur.fr
 https://www.st-sauveur-la-sagne.fr
@@ -32566,7 +32543,6 @@ http://stambreuil.fr
 http://www.stambreuil.fr
 http://standresurcailly.fr
 https://standresurvieuxjonc.fr
-https://www.standresurvieuxjonc.fr
 https://stantoinesurlisle.fr
 https://www.stantoinesurlisle.fr
 http://www.staple.fr
@@ -34925,7 +34901,6 @@ https://www.ville-montlouis-loire.fr
 https://ville-montluel.fr
 https://www.ville-montluel.fr
 https://www.ville-montmorency.fr
-https://ville-montreuil-bellay.fr
 https://www.ville-montreuil-bellay.fr
 https://www.ville-montreuil-juigne.fr
 https://www.ville-montreuil-sur-mer.fr
@@ -35264,7 +35239,7 @@ https://ville-somain.fr
 https://www.ville-soreze.fr
 https://www.ville-sorinieres.fr
 https://ville-sottevast.fr
-http://www.ville-soultz.fr
+https://www.ville-soultz.fr
 http://www.ville-soultzmatt.fr
 https://ville-sous-anjou.fr
 http://www.ville-spay.fr
@@ -36426,7 +36401,6 @@ https://audioconf.incubateur.net
 https://dashlord.incubateur.net
 https://www.info-jeune.net
 http://info-jeunes.net
-http://www.info-jeunes.net
 https://infomairie.net
 https://www.infomairie.net
 https://bibliotheque.insee.net
@@ -36633,10 +36607,8 @@ https://www.venterol.net
 https://www.verzenay.net
 http://vignevieille.net
 https://www.villars-le-sec.net
-https://www.ville-fumay.net
 http://www.villefranche.net
 http://villelaure.net
-http://www.villelaure.net
 https://villeneuvesurcher.net
 https://www.vitry-le-francois.net
 https://www.vivadom.net
@@ -37031,7 +37003,6 @@ https://clic-igeac.org
 http://clicdespaysdebresse.org
 https://www.cliclivradoisforez.org
 https://www.clussaislapommeraie79.org
-https://cmarguadeloupe.org
 https://www.coeurcotefleurie.org
 https://www.college-marguerite-navarre.org
 http://collegedesalles.org
@@ -37279,7 +37250,7 @@ http://www.mlmedoc.org
 https://www.mlpm.org
 https://www.mlpnvs.org
 https://www.mlpvannes.org
-http://mlroanne.org
+https://mlroanne.org
 https://mlrse.org
 https://www.mlva.org
 https://www.mlvdl.org
