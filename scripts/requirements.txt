@@ -2,3 +2,4 @@ tqdm
 aiohttp
 validators
 psycopg2
+requests
