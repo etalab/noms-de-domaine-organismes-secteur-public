@@ -301,6 +301,7 @@ http://www.annay-sur-serein.com
 http://www.annayautrement.com
 https://www.annecylevieux.com
 http://annesse-et-beaulieu.com
+http://www.annesse-et-beaulieu.com
 https://www.annetsurmarne.com
 https://www.annot.com
 https://www.annoville.com
@@ -1314,7 +1315,7 @@ https://fanjeaux.com
 https://www.fanjeaux.com
 https://faramans38.com
 https://www.faramans38.com
-http://www.farebersviller.com
+https://www.farebersviller.com
 http://www.fareins.com
 https://www.fargues-de-langon.com
 https://faucon-du-caire.com
@@ -1545,6 +1546,7 @@ https://www.jalonsinfo.com
 https://www.jau-dignac-loirac.com
 https://jaulgonne.com
 https://www.jaulgonne.com
+http://www.jeanmoulin-thouars.com
 https://jeanmoulinchateaulin.com
 https://www.jenlain-mairie.com
 https://ijbelfort.jeunes-fc.com
@@ -2089,7 +2091,7 @@ http://www.mairie-braud.com
 https://www.mairie-brennilis.com
 http://www.mairie-brieres.com
 http://mairie-brouy.com
-https://www.mairie-brouy.com
+http://www.mairie-brouy.com
 http://mairie-buisson.com
 https://www.mairie-cales.com
 https://www.mairie-carisey-89.com
@@ -2945,7 +2947,6 @@ https://www.quemper-guezennec.com
 https://www.quessoy.com
 https://www.queven.com
 https://quibou.com
-https://www.quibou.com
 https://www.quincy-voisins.com
 https://www.quinsac33.com
 http://rabat-les-trois-seigneurs.com
@@ -2991,7 +2992,6 @@ https://www.rochefort73.com
 https://www.roimorvancommunaute.com
 https://www.romagne33.com
 https://rombas.com
-https://rombiesetmarchipont.com
 https://www.rombiesetmarchipont.com
 http://www.romorantin.com
 http://rontalon.com
@@ -3260,6 +3260,7 @@ http://saintvaastdelongmont.com
 http://www.saintvaastdelongmont.com
 https://www.saintvalerien.com
 https://saintvallierdethiey.com
+https://www.saintvictordemalcap.com
 https://saintvictorlacoste.com
 https://www.saintvictorlacoste.com
 https://www.saintvictorrouzaud.com
@@ -3274,7 +3275,6 @@ https://www.samatan-gers.com
 https://samonac.com
 https://www.sanarysurmer.com
 https://www.sanilhac-sagries.com
-http://sansac-veinazes.com
 https://www.sansais-lagarette.com
 https://www.sarcenas.com
 https://www.sargesurbraye.com
@@ -3316,6 +3316,7 @@ https://www.serans.com
 https://www.sereilhac.com
 https://www.serra-di-ferro.com
 http://www.serralongue.com
+http://serreponconvaldavance.com
 https://www.serrieres-en-chautagne.com
 http://serrieresdebriord.com
 http://www.serrieresdebriord.com
@@ -4808,6 +4809,7 @@ https://gastoncalmet.clg.ac-guadeloupe.fr
 https://generaldegaulle.clg.ac-guadeloupe.fr
 https://germainsaintruf.clg.ac-guadeloupe.fr
 https://mauricesatineau.clg.ac-guadeloupe.fr
+https://montdesaccords.clg.ac-guadeloupe.fr
 https://nelsonmandela.clg.ac-guadeloupe.fr
 https://nestordekermadec.clg.ac-guadeloupe.fr
 https://richardsamuel.clg.ac-guadeloupe.fr
@@ -4816,6 +4818,7 @@ https://saintjohnperse.clg.ac-guadeloupe.fr
 https://bertenejuminer.lyc.ac-guadeloupe.fr
 https://charlescoeffin.lyc.ac-guadeloupe.fr
 https://daniellajeffry.lyc.ac-guadeloupe.fr
+https://ducharmoy.lyc.ac-guadeloupe.fr
 https://faustinfleret.lyc.ac-guadeloupe.fr
 https://gervillereache.lyc.ac-guadeloupe.fr
 https://hyacinthebastaraud.lyc.ac-guadeloupe.fr
@@ -5387,7 +5390,6 @@ https://curie-bolbec-lyc.spip.ac-rouen.fr
 https://dumezil-lyc.spip.ac-rouen.fr
 https://emulation-lyc.spip.ac-rouen.fr
 https://gbrassens-lyc.spip.ac-rouen.fr
-https://igolf.spip.ac-rouen.fr
 https://palissy-lyc.spip.ac-rouen.fr
 https://www.ac-spm.fr
 http://www.col-hans-arp-strasbourg.ac-strasbourg.fr
@@ -6152,7 +6154,7 @@ http://neurofibromatoses.aphp.fr
 https://nutritiongastro-trousseau.aphp.fr
 https://obesite-robertdebre.aphp.fr
 https://orl-rothschild.aphp.fr
-http://otms-g02.aphp.fr
+https://otms-g02.aphp.fr
 https://paiement-en-ligne.aphp.fr
 https://patho-pro-garches.aphp.fr
 https://pharmacie-hospitaliere-ageps.aphp.fr
@@ -10160,6 +10162,7 @@ https://www.chasseneuilsurbonnieure.fr
 http://www.chassenon.fr
 https://www.chasserenbretagne.fr
 https://chasseur-vendeen.fr
+https://www.chasseurdelyonne.fr
 https://www.chasseurducentrevaldeloire.fr
 https://chasseurs-drome.fr
 https://www.chasseurs-drome.fr
@@ -10648,6 +10651,7 @@ https://www.clerval.fr
 https://clery.fr
 https://www.clery.fr
 https://clery-en-vexin.fr
+https://clerysursomme.fr
 http://www.clesse71.fr
 http://www.clesse79.fr
 https://clessy.fr
@@ -10692,6 +10696,7 @@ http://www.clic-plainedelain.fr
 https://www.clic-plateau-de-mormal.fr
 https://clic-rouen.fr
 https://www.clic-rouen.fr
+http://clic3-94.fr
 http://www.clic3-94.fr
 http://clicduhautbugey.fr
 http://www.clicduhautbugey.fr
@@ -11179,7 +11184,7 @@ https://www.commune-de-saint-pardoux-morterolles.fr
 https://commune-de-saint-romain.fr
 http://commune-de-senlisse.fr
 http://www.commune-de-senlisse.fr
-http://www.commune-de-soumensac.fr
+https://www.commune-de-soumensac.fr
 https://commune-de-toussaint.fr
 https://www.commune-de-toussaint.fr
 http://www.commune-de-val-de-dagne.fr
@@ -11369,7 +11374,7 @@ http://www.communefleury.fr
 https://www.communelacapellelesboulogne.fr
 https://communelesplantiers.fr
 http://www.communepujols33.fr
-http://communes-fursac.fr
+https://communes-fursac.fr
 http://www.communes-fursac.fr
 https://communesaintmaixentsurvie.fr
 https://communesaintoutrille.fr
@@ -13674,7 +13679,7 @@ https://www.esserts-blay.fr
 https://www.esseylesnancy.fr
 http://esson.fr
 http://www.esson.fr
-http://essone.fr
+https://essone.fr
 http://www.essone.fr
 https://www.essonne.fr
 https://essouvert.fr
@@ -13704,7 +13709,6 @@ https://www.estree-blanche.fr
 https://www.estreessaintdenis.fr
 https://www.estuaire-sillon.fr
 https://etables.fr
-https://www.etables.fr
 https://www.etagnac.fr
 https://etaing.fr
 https://www.etaing.fr
@@ -14674,7 +14678,6 @@ https://gennes-longuefuye.fr
 https://gennes-sur-seiche.fr
 https://gennes25.fr
 https://www.gennesvaldeloire.fr
-https://genouillac23.fr
 https://www.genouillac23.fr
 http://genouille17.fr
 http://www.genouille17.fr
@@ -14757,7 +14760,6 @@ https://www.gironcourtsurvraine.fr
 https://biblio.gironde.fr
 https://www.gironde.fr
 https://www.girondesurdropt.fr
-http://www.gironville-sur-essonne.fr
 https://giroussens81.fr
 https://giscos.fr
 https://www.giscos.fr
@@ -14784,6 +14786,7 @@ http://www.glamondans.fr
 https://www.glanes.fr
 http://www.glanville.fr
 http://glenat15.fr
+http://www.glenat15.fr
 https://glenic.fr
 https://www.glisolles.fr
 https://www.glos.fr
@@ -15008,7 +15011,7 @@ https://feat-migration-event.v2.labase.incubateur.anct.gouv.fr
 https://feat-modal.v2.labase.incubateur.anct.gouv.fr
 https://feat-publish.v2.labase.incubateur.anct.gouv.fr
 https://feat-published-resource.v2.labase.incubateur.anct.gouv.fr
-http://feat-resource-edition.v2.labase.incubateur.anct.gouv.fr
+https://feat-resource-edition.v2.labase.incubateur.anct.gouv.fr
 https://feat-resource-migration-statu.v2.labase.incubateur.anct.gouv.fr
 https://feat-text-content.v2.labase.incubateur.anct.gouv.fr
 https://feat-text-edition-ui.v2.labase.incubateur.anct.gouv.fr
@@ -15545,7 +15548,6 @@ https://www.calvados.gouv.fr
 https://www.rdv.cantal.gouv.fr
 https://www.cantal.gouv.fr
 https://link.carte-familles-nombreuses.gouv.fr
-http://www.cas.gouv.fr
 https://liste-diff.cee.gouv.fr
 http://centre-documentation-segur.gouv.fr
 http://www.centre-documentation-spm.gouv.fr
@@ -16509,7 +16511,6 @@ https://enqueteur.qcm.dt-dict.preprod.developpement-durable.gouv.fr
 https://elevage-ied.preprod.developpement-durable.gouv.fr
 http://cmvoa.projet.developpement-durable.gouv.fr
 https://dom.projet.developpement-durable.gouv.fr
-http://www.i-cites.projet.developpement-durable.gouv.fr
 https://qgis.projet.developpement-durable.gouv.fr
 https://sirh.projet.developpement-durable.gouv.fr
 http://cmvoa.projets.developpement-durable.gouv.fr
@@ -17115,7 +17116,6 @@ https://convergence.esante.gouv.fr
 https://preprod.convergence.esante.gouv.fr
 https://status.cps.esante.gouv.fr
 https://cybersurveillance.esante.gouv.fr
-https://ecoscore-appli.esante.gouv.fr
 https://edit.esante.gouv.fr
 http://emt.esante.gouv.fr
 https://diagcps.eservices.esante.gouv.fr
@@ -17353,7 +17353,6 @@ https://form.france-sesame.gouv.fr
 https://moa.france-sesame.gouv.fr
 https://pprod.france-sesame.gouv.fr
 https://www.france-sesame.gouv.fr
-http://france-visas.gouv.fr
 https://agent-connect.france-visas.gouv.fr
 https://application-form.france-visas.gouv.fr
 https://connect.france-visas.gouv.fr
@@ -20448,6 +20447,7 @@ https://www.lanfains.fr
 https://www.langan.fr
 http://langatte.fr
 https://langeais.fr
+https://www.langevin-la-seyne.fr
 http://www.langlade.fr
 https://www.langoiran.fr
 https://www.langon33.fr
@@ -21564,6 +21564,7 @@ https://www.loreedelabrie.fr
 https://www.loretzdargenton.fr
 https://loreux.fr
 https://lorges.fr
+http://lorgies.fr
 http://www.lorgies.fr
 https://www.loriolducomtat.fr
 https://lormaison.fr
@@ -22846,7 +22847,6 @@ https://mairie-dollot.fr
 https://www.mairie-dollot.fr
 https://www.mairie-domessargues.fr
 https://mairie-domfront-en-champagne.fr
-http://www.mairie-domgermain.fr
 https://www.mairie-dommartin.fr
 https://mairie-dompcevrin.fr
 https://www.mairie-dondas.fr
@@ -24892,7 +24892,6 @@ https://www.marines.fr
 https://marions.fr
 https://www.marions.fr
 https://www.marlenheim.fr
-http://www.marlesenbrie.fr
 https://marlhes.fr
 https://www.marlioz.fr
 https://www.marly.fr
@@ -27438,6 +27437,7 @@ https://ossages.fr
 https://www.ossages.fr
 https://osse.fr
 https://osseja.fr
+https://osselle.fr
 https://osselle-routelle.fr
 https://www.osselle-routelle.fr
 http://www.osserain-rivareyte.fr
@@ -28865,6 +28865,7 @@ https://rigney.fr
 https://www.rignieux-le-franc.fr
 http://rigny-usse.fr
 http://www.rigny-usse.fr
+http://www.rigny70.fr
 https://rigny71.fr
 https://www.rigny71.fr
 https://www.rij12.fr
@@ -29014,6 +29015,7 @@ https://www.roquebrun.fr
 https://roquebrune-cap-martin.fr
 https://www.roquebrune-cap-martin.fr
 https://www.roquebrune33.fr
+https://www.roquecor.fr
 https://www.roquecourbe.fr
 https://roquefixade.fr
 https://www.roquefixade.fr
@@ -29282,7 +29284,8 @@ http://www.saint-appolinard.fr
 http://www.saint-armel-35.fr
 https://saint-arnac.fr
 https://www.saint-arnoult76.fr
-http://saint-auban-sur-ouveze.fr
+https://www.saint-arroumex.fr
+https://saint-auban-sur-ouveze.fr
 http://www.saint-auban-sur-ouveze.fr
 https://saint-aubin.fr
 https://www.saint-aubin-celloville.fr
@@ -29440,7 +29443,7 @@ https://www.saint-dizier.fr
 https://www.saint-dye-sur-loire.fr
 https://www.saint-egreve.fr
 https://saint-eliph.fr
-http://saint-eloi-de-gy.fr
+https://saint-eloi-de-gy.fr
 http://www.saint-eloi-de-gy.fr
 https://saint-eloi58.fr
 https://saint-eloy.fr
@@ -33380,7 +33383,6 @@ https://www.verneuil-en-bourbonnais.fr
 https://www.verneuil-en-halatte.fr
 https://www.verneuil-sur-vienne.fr
 https://verniolle.fr
-https://vernon27.fr
 https://www.vernon27.fr
 https://www.vernon86.fr
 https://vernosc.fr
@@ -35147,7 +35149,6 @@ https://www.villy-le-pelloux.fr
 https://www.viltais.fr
 https://vimont.fr
 https://vimory.fr
-https://vimoutiers.fr
 http://www.vimy.fr
 https://vinantes.fr
 https://www.vinantes.fr
@@ -35985,7 +35986,6 @@ https://navailles-angos.net
 http://neuilly-saint-front.net
 https://www.neuvic-correze.net
 https://niaux.net
-https://www.niaux.net
 https://noizay.net
 https://www.noizay.net
 https://www.noyelles.net
@@ -36475,7 +36475,7 @@ http://www.cidff06.org
 https://www.cidff17.org
 https://www.cidffessonne.org
 https://www.ciejparis.org
-http://cija.org
+https://cija.org
 http://www.cija.org
 https://www.cio-montdemarsan.org
 https://www.cite-loewy.org
@@ -36591,7 +36591,6 @@ https://www.jeanperrin.org
 https://jeuneaniort.org
 https://www.jeuneaniort.org
 https://www.jeunesenlorraine.org
-https://jules-ferry.org
 https://www.l-a-p.org
 https://la-ferte-gaucher.org
 https://www.la-ferte-gaucher.org
