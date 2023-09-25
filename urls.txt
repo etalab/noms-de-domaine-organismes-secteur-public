@@ -25,7 +25,6 @@ https://passculture.app
 https://integration.passculture.app
 https://barreau.biz
 https://www.barreau.biz
-http://ww25.mairieviesly.biz
 https://www.allaire.bzh
 https://www.arzal.bzh
 https://beaussais-sur-mer.bzh
@@ -427,7 +426,7 @@ http://bajamont.com
 http://www.bajamont.com
 https://balaze.com
 https://www.balaze.com
-http://www.ban-sur-meurthe-clefcy.com
+https://www.ban-sur-meurthe-clefcy.com
 https://www.banize.com
 https://banvillars.com
 http://banyuls-sur-mer.com
@@ -513,7 +512,7 @@ http://blassac.com
 http://www.blassac.com
 http://www.blere-touraine.com
 https://blies-ebersing.com
-http://www.blies-ebersing.com
+https://www.blies-ebersing.com
 https://bliesbruck.com
 https://www.bliesbruck.com
 http://blog-mairiemoulezan.com
@@ -2016,7 +2015,6 @@ https://lyceefloratristan77.com
 https://www.lyceegeiler.com
 https://www.lyceegeorgesand.com
 https://lyceegilbertcourtois.com
-https://www.lyceegourdouleseurre.com
 https://www.lyceehorti41.com
 https://lyceejeanmoulinlbm.com
 https://www.lyceejeannedarcnancy.com
@@ -3315,6 +3313,7 @@ http://senonnes.com
 http://www.senonnes.com
 https://www.sepvret.com
 https://www.serans.com
+http://www.sercoeur.com
 https://www.sereilhac.com
 https://www.serra-di-ferro.com
 http://www.serralongue.com
@@ -4811,7 +4810,9 @@ https://excellencesportive.clg.ac-guadeloupe.fr
 https://gastoncalmet.clg.ac-guadeloupe.fr
 https://generaldegaulle.clg.ac-guadeloupe.fr
 https://germainsaintruf.clg.ac-guadeloupe.fr
+https://gourdeliane.clg.ac-guadeloupe.fr
 https://guenette.clg.ac-guadeloupe.fr
+https://josephpitat.clg.ac-guadeloupe.fr
 https://mauricesatineau.clg.ac-guadeloupe.fr
 https://montdesaccords.clg.ac-guadeloupe.fr
 https://nelsonmandela.clg.ac-guadeloupe.fr
@@ -8964,6 +8965,7 @@ https://www.castagnicciacasinca.fr
 https://www.castandet.fr
 https://www.castanet-tolosan.fr
 https://www.castanet12.fr
+http://casteil.fr
 http://www.casteil.fr
 https://www.castel-sarrazin.fr
 https://www.castelferrus.fr
@@ -9807,6 +9809,7 @@ http://www.cernoy-en-berry.fr
 https://cerny.fr
 https://www.ceron-bourgogne.fr
 https://www.cerons.fr
+http://certines.fr
 https://cervieres.fr
 https://www.cervon.fr
 http://cescau.fr
@@ -10523,7 +10526,6 @@ https://www.cibeins.fr
 https://cidff-89.fr
 https://www.cidff-89.fr
 https://cidff-somme.fr
-https://www.cidff-somme.fr
 http://www.cidff07.fr
 https://www.cidff26.fr
 https://cidff30.fr
@@ -13758,6 +13760,8 @@ https://www.etueffont.fr
 https://www.etupes.fr
 http://www.euffigneix.fr
 http://eure.fr
+http://www.eure.fr
+http://www.eureenligne.fr
 https://eureennormandie.fr
 https://eurelien.fr
 https://euzet-les-bains.fr
@@ -15988,6 +15992,7 @@ https://irba.sante.defense.gouv.fr
 https://ssa.sante.defense.gouv.fr
 https://entreprise-mobile-management.sca.defense.gouv.fr
 https://sepia.defense.gouv.fr
+https://auth.sepia.defense.gouv.fr
 https://www.bo.sga.defense.gouv.fr
 https://www.memoiredeshommes.sga.defense.gouv.fr
 https://presaje.sga.defense.gouv.fr
@@ -16263,7 +16268,6 @@ https://sandbox-ecocompose.din.developpement-durable.gouv.fr
 https://scm-forge.din.developpement-durable.gouv.fr
 http://scoopfr-itss.din.developpement-durable.gouv.fr
 http://seastats.din.developpement-durable.gouv.fr
-http://sem.din.developpement-durable.gouv.fr
 http://sem-bdx.din.developpement-durable.gouv.fr
 https://bidev.sid.din.developpement-durable.gouv.fr
 https://bipp.sid.din.developpement-durable.gouv.fr
@@ -17198,6 +17202,7 @@ https://support-industriels-preprod.esante.gouv.fr
 http://support-industriels-preprod-api.esante.gouv.fr
 https://validation-enreg.esante.gouv.fr
 http://ws.esante.gouv.fr
+http://ldap.ws.esante.gouv.fr
 https://data.esr.gouv.fr
 https://esgbu.esr.gouv.fr
 http://scanr-api.esr.gouv.fr
@@ -18433,6 +18438,7 @@ https://enfants-du-spectacle.fabrique.social.gouv.fr
 https://fce.fabrique.social.gouv.fr
 https://formulaire-enfants-du-spectacle.fabrique.social.gouv.fr
 https://gitlab.fabrique.social.gouv.fr
+https://gitlab-dev.fabrique.social.gouv.fr
 https://grafana.fabrique.social.gouv.fr
 https://graphiql-fce.fabrique.social.gouv.fr
 https://guyane-tumeplay.fabrique.social.gouv.fr
@@ -18601,6 +18607,7 @@ https://jpo.creps-toulouse.sports.gouv.fr
 https://mediatheque.creps-toulouse.sports.gouv.fr
 https://preinscription.creps-toulouse.sports.gouv.fr
 https://www.creps-toulouse.sports.gouv.fr
+https://xibo.creps-toulouse.sports.gouv.fr
 http://accueil.creps-vichy.sports.gouv.fr
 https://agregeps.creps-vichy.sports.gouv.fr
 http://cva.creps-vichy.sports.gouv.fr
@@ -19244,10 +19251,10 @@ http://www.haute-somme.fr
 https://www.haute-vienne.fr
 http://hauteamance.fr
 http://www.hauteamance.fr
-https://hauteavesnes.fr
 https://www.hautecorrezecommunaute.fr
 https://hautecour-savoie.fr
 http://hautecourt-romaneche.fr
+http://www.hautecourt-romaneche.fr
 http://hautefage-la-tour.fr
 http://www.hautefage-la-tour.fr
 https://www.hautefeuille.fr
@@ -21189,7 +21196,7 @@ https://www.leseyzies.fr
 https://www.lesfins.fr
 https://lesfontenelles.fr
 http://www.lesforetsduperche.fr
-http://lesforges56.fr
+https://lesforges56.fr
 http://www.lesforges56.fr
 https://lesfougerets.fr
 https://www.lesfougerets.fr
@@ -24881,7 +24888,7 @@ https://www.mariacasares.fr
 https://mariemauron.fr
 https://www.marignac.fr
 https://www.marignac-laspeyres.fr
-http://www.marignane.fr
+https://www.marignane.fr
 https://marigne-laille.fr
 https://www.marigne-laille.fr
 https://www.marignier.fr
@@ -26883,7 +26890,6 @@ https://www.nanterre.fr
 https://bm.nantes.fr
 https://metropole.nantes.fr
 https://www.nantes-terre-atlantique.fr
-http://nantesmetropole.fr
 https://museum.nantesmetropole.fr
 https://www.nantesmetropole.fr
 https://www.nantessaintnazaire.fr
@@ -27765,7 +27771,7 @@ https://www.paysapt-luberon.fr
 https://paysboulageois.fr
 https://www.paysboulageois.fr
 https://www.paysdebarr.fr
-http://paysdecommercy.fr
+https://paysdecommercy.fr
 http://www.paysdecommercy.fr
 https://www.paysdecraon.fr
 https://www.paysdefalaise.fr
@@ -29611,7 +29617,7 @@ https://www.saint-ignat.fr
 https://saint-illide.fr
 https://www.saint-illide.fr
 http://www.saint-ismier.fr
-http://www.saint-jacques-des-blats.fr
+https://www.saint-jacques-des-blats.fr
 http://www.saint-jans-cappel.fr
 https://www.saint-jean-cap-ferrat.fr
 https://www.saint-jean-de-blaignac.fr
@@ -31997,7 +32003,7 @@ https://www.st-didier-en-velay.fr
 https://www.st-etienne-cuines.fr
 https://www.st-etienne-de-crossey.fr
 http://www.st-etienne-de-fontbellon.fr
-http://www.st-etienne-du-bois.fr
+https://www.st-etienne-du-bois.fr
 https://www.st-etienne-vauvray.fr
 https://st-evroult-nd-du-bois.fr
 https://www.st-evroult-nd-du-bois.fr
@@ -32979,7 +32985,6 @@ http://uzemain.fr
 http://www.uzemain.fr
 https://www.uzer07.fr
 http://uzerche.fr
-http://www.uzerche.fr
 https://www.uzes.fr
 https://www.vaas.fr
 https://www.vabre.fr
@@ -33227,6 +33232,7 @@ https://www.vaucelles-et-beffecourt.fr
 http://vauchelles-les-quesnoy.fr
 http://www.vauchelles-les-quesnoy.fr
 https://www.vauciennes.fr
+https://www.vaucluse.fr
 https://vaucresson.fr
 https://www.vaucresson.fr
 https://vaudelnay.fr
@@ -33706,7 +33712,6 @@ https://www.ville-bagnolet.fr
 http://ville-baillargues.fr
 http://www.ville-baillargues.fr
 https://www.ville-bailleul.fr
-https://ville-balan.fr
 https://www.ville-balan.fr
 https://www.ville-balaruclevieux.fr
 https://www.ville-ballancourt.fr
@@ -35309,7 +35314,6 @@ https://www.voulmentin.fr
 https://www.voulon.fr
 https://voulx.fr
 https://vouneuil-sous-biard.fr
-http://www.vouneuil-sous-biard.fr
 https://www.vouneuil-sur-vienne.fr
 https://www.vourles.fr
 http://www.voutenay-sur-cure.fr
@@ -36556,7 +36560,6 @@ https://www.essarts-le-roi.org
 https://etigny.org
 https://www.euroguidance-france.org
 http://www.eyguieres.org
-https://www.face-alsace.org
 https://www.face-herault.org
 https://www.famillesrurales.org
 https://www.faremoutiers.org
