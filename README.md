@@ -45,6 +45,10 @@ https://sites.google.com/site/mairiedemacey/ d’y figurer.
 Ajoutez le ou les domaines que vous connaissez dans le fichier
 `domains.csv`.
 
+Pré-requis pour utiliser les scripts python :
+
+    pip install -r scripts/requirements.txt
+
 Ce fichier doit rester trié, pour le trier automatiquement utilisez :
 
     python scripts/sort.py
