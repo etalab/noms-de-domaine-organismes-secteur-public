@@ -6,16 +6,20 @@
 - Are all domains in domains.csv proper domain names?
 """
 
+import csv
 import sys
 from functools import cached_property
 from pathlib import Path
 
 import validators
-
 from public_domain import Domain, parse_files
+
+nb_errors = 0
 
 
 def err(*args, **kwargs):
+    global nb_errors
+    nb_errors += 1
     kwargs["file"] = sys.stderr
     print(*args, **kwargs)
 
@@ -84,10 +88,10 @@ class DuplicateChecker:
 
 def main():
     check_duplicate_line = DuplicateChecker()
-    lines = [
-        line.split(",")[0]
-        for line in Path("domains.csv").read_text(encoding="UTF-8").splitlines()[1:]
-    ]
+    with open("domains.csv", encoding="UTF-8") as domainsfile:
+        domainsreader = csv.reader(domainsfile)
+        next(domainsreader)  # Skip header
+        lines = [row[0] for row in domainsreader]
     check_is_sorted("domains.csv", lines)
     for lineno, line in enumerate(lines, start=2):
         check_is_valid_domain("domains.csv", lineno, line)
@@ -101,3 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    sys.exit(bool(nb_errors))
