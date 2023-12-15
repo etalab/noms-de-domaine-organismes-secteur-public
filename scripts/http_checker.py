@@ -160,6 +160,9 @@ def parse_args():
     parser.add_argument(
         "--grep", help="Test only domain matching this argument.", type=str, nargs="+"
     )
+    parser.add_argument("--new",        action="store_true",
+        help="Just check new domains.",
+)
     parser.add_argument(
         "--verbose",
         "-v",
@@ -203,9 +206,11 @@ async def rescan_domains(
 
 
 def filter_domains(
-        domains: set[Domain], limit: int, grep: list[str], partial: tuple[int, int]
+        domains: set[Domain], limit: int, grep: list[str], partial: tuple[int, int], new: bool
 ) -> list[Domain]:
     """Filter domains according to --limit and --grep command line args."""
+    if new:
+        domains = [domain for domain in domains if not domain.http_status]
     if grep:
         domains = [
             domain
@@ -228,7 +233,7 @@ def main():
         level=[logging.WARNING, logging.INFO, logging.DEBUG][args.verbose]
     )
     domains = parse_csv_file(args.file)
-    to_check = filter_domains(domains, args.limit, args.grep, args.partial)
+    to_check = filter_domains(domains, args.limit, args.grep, args.partial, args.new)
     try:
         asyncio.run(rescan_domains(to_check, args.kindness, args.verbose, args.silent))
     except KeyboardInterrupt:
