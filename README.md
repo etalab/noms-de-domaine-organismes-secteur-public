@@ -99,6 +99,9 @@ L’association [ADULLACT](https://adullact.org/) souhaite établir des statisti
 
 DashLord est né à la [Fabrique des ministères sociaux](https://fabrique.social.gouv.fr/) pour répondre aux besoins d’évaluation et de mise en œuvre des bonnes pratiques de développement web.
 
+### [Établi](https://etabli.incubateur.net/) : un annuaire des initiatives publiques numériques
+
+Service qui référence les initiatives publiques numériques françaises, ce afin d'augmenter leur découvrabilité et leur (ré)utilisation. Il a été réalisé au sein de l'équipe [beta.gouv.fr](https://beta.gouv.fr/).
 
 # Licence
 
