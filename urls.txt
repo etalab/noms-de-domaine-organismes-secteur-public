@@ -246,6 +246,7 @@ http://www.afpar.com
 https://www.afternic.com
 http://agglodieppe-maritime.com
 http://www.agglodieppe-maritime.com
+http://www.agonac.com
 http://www.aguilcourt.com
 https://aignay-le-duc.com
 http://aiguefonde.com
@@ -3293,7 +3294,7 @@ https://www.st-jean-mirabel.com
 https://www.st-just-en-chevalet.com
 https://www.st-laurent-de-brevedent.com
 http://st-laurent-de-la-cabrerisse.com
-https://www.st-laurent-de-la-cabrerisse.com
+http://www.st-laurent-de-la-cabrerisse.com
 https://www.st-martial.com
 http://st-martory.com
 http://www.st-martory.com
@@ -3321,6 +3322,7 @@ https://www.stmamet-lasalvetat.com
 https://stmartindarc.com
 https://stmartinlacaussade.com
 https://stop-punaises-delit.com
+https://stpierre-lafeuille.com
 https://www.stpierredesnids53.com
 https://www.stpriestligoure.com
 http://stseurinsurlisle.com
@@ -3503,7 +3505,6 @@ https://www.vicqsurbreuilh.com
 http://www.victorduruy.com
 https://www.vieillevigne44.com
 http://viesly.com
-http://www.viesly.com
 https://www.vigeois.com
 https://www.village-comps.com
 https://village-goudet.com
@@ -3841,7 +3842,7 @@ https://www.honoredurfe.eu
 https://www.illhaeusern.eu
 https://www.illkirch.eu
 https://ira-lille.eu
-https://www.ira-lille.eu
+http://www.ira-lille.eu
 http://kirrwiller.eu
 http://www.kirrwiller.eu
 https://lachataigneraie.eu
@@ -4582,7 +4583,6 @@ https://www.ia94.ac-creteil.fr
 https://louisemichelchampigny.ac-creteil.fr
 https://lyc-eugene-delacroix-drancy.ac-creteil.fr
 https://orientation.ac-creteil.fr
-https://st-exupery-ormesson.ac-creteil.fr
 https://www.ac-creteil.fr
 https://col21-champ-lumiere.ac-dijon.fr
 https://col21-champollion.ac-dijon.fr
@@ -4844,6 +4844,7 @@ https://trevoux.cio.ac-lyon.fr
 https://venissieux.cio.ac-lyon.fr
 https://charcot.etab.ac-lyon.fr
 https://college-aime-cesaire.etab.ac-lyon.fr
+https://college-bellecombe.etab.ac-lyon.fr
 https://college-brassens-decines.etab.ac-lyon.fr
 https://college-clemenceau.etab.ac-lyon.fr
 https://college-dolto-chaponost.etab.ac-lyon.fr
@@ -8050,7 +8051,7 @@ https://www.bozouls.fr
 https://bpascal.fr
 https://www.braches.fr
 https://www.bracieux.fr
-http://braconne-charente.fr
+https://braconne-charente.fr
 http://www.braconne-charente.fr
 http://www.bragassargues.fr
 https://www.bragayrac.fr
@@ -9743,6 +9744,8 @@ https://www.charente-limousine.fr
 https://la.charente-maritime.fr
 https://www.charenton.fr
 http://www.charentonducher.fr
+http://charentonlepont.fr
+http://www.charentonlepont.fr
 http://www.charge37.fr
 https://chargeylesgray.fr
 https://www.charlemagne-thionville.fr
@@ -10389,6 +10392,7 @@ https://cma-herault.fr
 https://www.cma-isere.fr
 https://www.cma-landes.fr
 https://www.cma-loire.fr
+https://www.cma-lozere.fr
 https://www.cma-lyonrhone.fr
 https://cma-meuse.fr
 https://cma-moselle.fr
@@ -13792,6 +13796,7 @@ http://wuenheim.free.fr
 http://rimbach.zell.free.fr
 http://commune.zigliara.free.fr
 http://zutkerque.free.fr
+http://moitron.free-h.fr
 https://www.fregouville.fr
 https://www.freissinieres.fr
 https://www.freix-anglards.fr
@@ -13898,7 +13903,6 @@ http://galey.fr
 http://www.galey.fr
 https://galfingue.fr
 https://www.galfingue.fr
-https://galgan.fr
 http://www.galgan.fr
 https://www.galgon.fr
 https://gallargues.fr
@@ -14099,7 +14103,7 @@ https://www.glaine-montaigut.fr
 http://www.glamondans.fr
 https://www.glanes.fr
 http://www.glanville.fr
-http://glenat15.fr
+https://glenat15.fr
 http://www.glenat15.fr
 https://glenic.fr
 https://www.glisolles.fr
@@ -14286,6 +14290,7 @@ https://incubateur.anct.gouv.fr
 https://zammad.aidantsconnect.incubateur.anct.gouv.fr
 https://zammad.base-adresse-locale.incubateur.anct.gouv.fr
 https://chat.incubateur.anct.gouv.fr
+https://coffre.incubateur.anct.gouv.fr
 https://landing.agents-intervention.dev.incubateur.anct.gouv.fr
 https://annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
 https://api.annuaire-des-collectivites.dev.incubateur.anct.gouv.fr
@@ -14340,6 +14345,7 @@ https://feat-collections-and-photos.v2.labase.incubateur.anct.gouv.fr
 https://feat-feedback-conditional-fie.v2.labase.incubateur.anct.gouv.fr
 https://feat-fixtures.v2.labase.incubateur.anct.gouv.fr
 https://feat-follows.v2.labase.incubateur.anct.gouv.fr
+https://feat-image-res.v2.labase.incubateur.anct.gouv.fr
 https://feat-images.v2.labase.incubateur.anct.gouv.fr
 https://feat-improve-update-ressource.v2.labase.incubateur.anct.gouv.fr
 https://feat-indexation-migration.v2.labase.incubateur.anct.gouv.fr
@@ -14508,6 +14514,7 @@ https://staging1.particulier.api.gouv.fr
 https://staging2.particulier.api.gouv.fr
 https://staging5.particulier.api.gouv.fr
 https://status.particulier.api.gouv.fr
+https://redir.api.gouv.fr
 https://staging.api.gouv.fr
 https://statut.api.gouv.fr
 https://preprod.ue.api.gouv.fr
@@ -14707,7 +14714,6 @@ https://carbure.beta.gouv.fr
 https://metabase.carbure.beta.gouv.fr
 https://carte-verte.beta.gouv.fr
 https://cer.beta.gouv.fr
-https://classe-a-12.beta.gouv.fr
 https://collectif-objets.beta.gouv.fr
 https://fichiers.collectif-objets.beta.gouv.fr
 https://www.collectif-objets.beta.gouv.fr
@@ -14864,6 +14870,7 @@ https://id.pass-emploi.beta.gouv.fr
 https://news.pass-emploi.beta.gouv.fr
 https://stats.pass-emploi.beta.gouv.fr
 https://web.pass-emploi.beta.gouv.fr
+https://proxy.pass-sport.beta.gouv.fr
 https://team.passculture-testing.beta.gouv.fr
 https://pcrs.beta.gouv.fr
 https://docs.pcrs.beta.gouv.fr
@@ -15323,6 +15330,7 @@ http://preprod.bibliotheques-numeriques.defense.gouv.fr
 http://formation.bibliotheques-numeriques-form.defense.gouv.fr
 https://contractuels.civils.defense.gouv.fr
 https://ict-tct.contractuels.civils.defense.gouv.fr
+https://www.civils.defense.gouv.fr
 https://combattrelesexismeordinaire.defense.gouv.fr
 https://www.combattrelesexismeordinaire.defense.gouv.fr
 https://czm-reunion.defense.gouv.fr
@@ -15411,7 +15419,6 @@ http://ent.etrs.terre.defense.gouv.fr
 https://mail.etrs.terre.defense.gouv.fr
 http://tools.etrs.terre.defense.gouv.fr
 http://www.etrs.terre.defense.gouv.fr
-https://www.gmp.terre.defense.gouv.fr
 https://www.info-reglement.terre.defense.gouv.fr
 https://www.lycee-militaire-autun.terre.defense.gouv.fr
 https://www.lycee-militaire-prytanee.terre.defense.gouv.fr
@@ -15822,6 +15829,7 @@ https://www.dre.paca.developpement-durable.gouv.fr
 https://enqueteur.paca.developpement-durable.gouv.fr
 https://www.paca.developpement-durable.gouv.fr
 https://participation.developpement-durable.gouv.fr
+https://www.datalabeau.pays-de-la-loire.developpement-durable.gouv.fr
 http://www.donnees.pays-de-la-loire.developpement-durable.gouv.fr
 https://enqueteur.pays-de-la-loire.developpement-durable.gouv.fr
 https://www.observatoire-transports.pays-de-la-loire.developpement-durable.gouv.fr
@@ -16115,6 +16123,7 @@ https://staging.partaj.ecologie.gouv.fr
 https://planification-territoires.ecologie.gouv.fr
 https://interne-cop.planification-territoires.ecologie.gouv.fr
 https://www.publicite-responsable.ecologie.gouv.fr
+https://recrutement.ecologie.gouv.fr
 https://preprod.recrutement.ecologie.gouv.fr
 https://territoires-en-transition.ecologie.gouv.fr
 https://demo.vosquestions.ecologie.gouv.fr
@@ -16329,6 +16338,7 @@ https://www.enseignementsup-recherche.gouv.fr
 https://a-madge.entreprises.gouv.fr
 https://cnac.entreprises.gouv.fr
 https://www.foiresetsalons.entreprises.gouv.fr
+https://formalites.entreprises.gouv.fr
 https://madge.entreprises.gouv.fr
 https://metrologie.entreprises.gouv.fr
 https://mnt.entreprises.gouv.fr
@@ -17084,7 +17094,6 @@ https://dev-gefira.ira-nantes.gouv.fr
 https://devops.ira-nantes.gouv.fr
 https://doc-gefira.ira-nantes.gouv.fr
 https://e-learning.ira-nantes.gouv.fr
-https://eleves.ira-nantes.gouv.fr
 https://employeurs.ira-nantes.gouv.fr
 https://extranet.ira-nantes.gouv.fr
 https://fas.ira-nantes.gouv.fr
@@ -17371,6 +17380,7 @@ http://imap.dev.ox.numerique.gouv.fr
 http://mail.dev.ox.numerique.gouv.fr
 https://main.dev.ox.numerique.gouv.fr
 https://monitor.dev.ox.numerique.gouv.fr
+http://mx.dev.ox.numerique.gouv.fr
 http://smtp.dev.ox.numerique.gouv.fr
 https://webmail.dev.ox.numerique.gouv.fr
 http://imap.ox.numerique.gouv.fr
@@ -17592,7 +17602,6 @@ https://www.baignades.sante.gouv.fr
 https://biomed.sante.gouv.fr
 https://cnitaat.sante.gouv.fr
 https://cnriph.sante.gouv.fr
-https://covid-19.sante.gouv.fr
 http://www-api.covid-19.sante.gouv.fr
 http://2019www.covid19.sante.gouv.fr
 https://widgets.dashboard.covid19.sante.gouv.fr
@@ -17778,6 +17787,7 @@ https://carnet-de-bord.fabrique.social.gouv.fr
 https://carnets.fabrique.social.gouv.fr
 https://cdtn-api.fabrique.social.gouv.fr
 https://cdtn-logs-kibana.fabrique.social.gouv.fr
+https://cje.fabrique.social.gouv.fr
 https://consommables.fabrique.social.gouv.fr
 https://covid.fabrique.social.gouv.fr
 https://dashboard-mano.fabrique.social.gouv.fr
@@ -18128,6 +18138,7 @@ https://www.liste-noire.travail-emploi.gouv.fr
 https://passeport-prevention.travail-emploi.gouv.fr
 https://poem.travail-emploi.gouv.fr
 https://post-ter.travail-emploi.gouv.fr
+https://sve.travail-emploi.gouv.fr
 https://transco.travail-emploi.gouv.fr
 https://www.trouvermonmaster.gouv.fr
 https://www.urbanisme-puca.gouv.fr
@@ -18443,7 +18454,6 @@ https://www.guidedesvacances.fr
 http://guignecourt.fr
 http://www.guignecourt.fr
 https://www.guignen.fr
-https://guigneville-sur-essonne.fr
 https://www.guilherand-granges.fr
 https://guillac.fr
 https://www.guillac.fr
@@ -18933,7 +18943,7 @@ https://internat-sourdun.fr
 https://inzinzac-lochrist.fr
 https://www.ipb.fr
 https://www.ipsl.fr
-https://ira-lille.fr
+http://ira-lille.fr
 https://promo50.ira-lille.fr
 https://www.ira-lille.fr
 https://www.ird.fr
@@ -19681,6 +19691,7 @@ https://www.laguerchedebretagne.fr
 https://laguiche.fr
 https://www.laguiole12.fr
 https://www.lagupie.fr
+http://lahas.fr
 https://www.lahauteville.fr
 https://lahayepesnel.fr
 https://laheuniere.fr
@@ -20543,7 +20554,7 @@ https://lesdamps.fr
 http://www.lesdeserts73.fr
 https://lesdiguieres.fr
 https://www.lesechelles.fr
-http://lesegur.fr
+https://lesegur.fr
 https://leseparres.fr
 https://www.lesequestre.fr
 https://www.lesestables.fr
@@ -22910,6 +22921,7 @@ https://www.mairie-pierres.fr
 https://www.mairie-pierrevert.fr
 https://www.mairie-pierreville.fr
 http://www.mairie-pin-balma.fr
+https://mairie-piolenc.fr
 https://www.mairie-pipriac.fr
 https://www.mairie-plaintel.fr
 https://www.mairie-plan.fr
@@ -23804,7 +23816,6 @@ https://www.mairiedesaintsenoch.fr
 https://www.mairiedesallues.fr
 https://www.mairiedesamoens.fr
 https://mairiedesanilhac.fr
-https://www.mairiedesare.fr
 https://mairiedesbreseux.fr
 https://www.mairiedesemens.fr
 https://www.mairiedesepmes.fr
@@ -23883,7 +23894,6 @@ https://mairielogrian-florian.fr
 http://www.mairielye.fr
 https://mairiemachault08.fr
 https://mairiemaillane.fr
-https://mairiemarseille1314.fr
 https://www.mairiemaubec-luberon.fr
 https://www.mairiemauvieres.fr
 https://www.mairiemauzacetgrandcastang.fr
@@ -24019,7 +24029,6 @@ https://malbosc.fr
 https://malbuisson.fr
 https://www.malemortducomtat.fr
 http://malemortsurcorreze.fr
-http://www.malemortsurcorreze.fr
 https://www.maleville.fr
 https://malguenac.fr
 https://www.malguenac.fr
@@ -26752,11 +26761,14 @@ https://cheppeslaprairie.pagesperso-orange.fr
 http://communedecambernon.pagesperso-orange.fr
 https://davaye.pagesperso-orange.fr
 http://infoslaubach.pagesperso-orange.fr
+http://maimbeville.pagesperso-orange.fr
 https://mairie-boury.pagesperso-orange.fr
+http://mairie-poyartin.pagesperso-orange.fr
 https://mairiedemamey.pagesperso-orange.fr
 https://saint-marc-a-loubaud.pagesperso-orange.fr
 http://stmauricestgermain.pagesperso-orange.fr
 https://villers-saint-genest.pagesperso-orange.fr
+http://templeux-la-fosse.mairie.pagespro-orange.fr
 https://pagnylechateau.fr
 https://www.pagnylechateau.fr
 https://pagnysurmeuse.fr
@@ -29905,6 +29917,7 @@ https://www.saintpierrelapalud.fr
 https://saintpierrelechastel.fr
 https://www.saintpierrelesbois.fr
 https://saintpierrelesnemours.fr
+https://saintpierrelevieux.fr
 https://www.saintpierrelevieux71.fr
 http://www.saintpierrequiberon.fr
 https://www.saintpoint.fr
@@ -31089,7 +31102,6 @@ https://souvignydetouraine.fr
 https://souyeaux.fr
 https://www.souzy.fr
 https://souzylabriche.fr
-https://www.souzylabriche.fr
 https://soyaux.fr
 http://www.soye-en-septaine.fr
 https://www.soyons.fr
@@ -32070,7 +32082,6 @@ https://www.urzy.fr
 https://us-en-vexin.fr
 https://www.usclas.fr
 https://www.usineachapeaux.fr
-https://ussac.fr
 https://www.ussac.fr
 https://www.usseau86.fr
 https://www.ussel.fr
@@ -33603,7 +33614,7 @@ https://www.ville-plainedespalmistes.fr
 https://www.ville-plaisir.fr
 https://www.ville-plerin.fr
 https://www.ville-ploumagoar.fr
-http://ville-plouzane.fr
+https://ville-plouzane.fr
 https://www.ville-plouzane.fr
 http://www.ville-pointeapitre.fr
 https://ville-poisat.fr
