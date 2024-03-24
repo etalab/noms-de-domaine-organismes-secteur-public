@@ -1,5 +1,5 @@
 tqdm
 aiohttp
-validators
+validators>=0.24.0  # where they introduced rfc_2782.
 psycopg2
 requests

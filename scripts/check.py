@@ -31,7 +31,7 @@ def check_is_sorted(file, lines):
 
 
 def check_is_valid_domain(file, lineno, line):
-    if not validators.domain(line):
+    if not validators.domain(line, rfc_2782=True):
         err(f"{file}:{lineno}: {line!r} does not looks like a domain name.")
 
 
