@@ -29,7 +29,6 @@ def warn(*args, **kwargs):
     print(*args, **kwargs)
 
 
-
 def check_is_valid_domain(file, lineno, line):
     if not validators.domain(line, rfc_2782=True):
         err(f"{file}:{lineno}: {line!r} does not looks like a domain name.")
@@ -108,19 +107,21 @@ class DuplicateChecker:
 
 def main():
     check_duplicate_line = DuplicateChecker()
-    check_is_sorted = SortedChecker()
+    checkers = [
+        check_duplicate_line,
+        check_is_valid_domain,
+        check_is_public_domain,
+        check_lowercased,
+        SortedChecker(),
+    ]
 
     with open("domains.csv", encoding="UTF-8") as domainsfile:
         domainsreader = csv.reader(domainsfile)
         next(domainsreader)  # Skip header
 
         for line in domainsreader:
-            lineno = domainsreader.line_num
-            check_is_valid_domain("domains.csv", lineno, line[0])
-            check_is_public_domain("domains.csv", lineno, line[0])
-            check_duplicate_line("domains.csv", lineno, line[0])
-            check_lowercased("domains.csv", lineno, line[0])
-            check_is_sorted("domains.csv", lineno, line[0])
+            for checker in checkers:
+                checker("domains.csv", domainsreader.line_num, line[0])
 
     for domain in parse_files(Path("urls.txt")) - check_duplicate_line.all_domains:
         err(f"urls.txt: {domain} not found in domains.csv.")
