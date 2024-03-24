@@ -30,7 +30,7 @@ def warn(*args, **kwargs):
 
 
 def check_is_sorted(file, lines):
-    domains = [Domain.from_file_line(file, line) for line in lines]
+    domains = [Domain.from_file_line(file, line[0]) for line in lines]
     if domains != sorted(domains):
         err(f"{file}: Is not sorted, run `python scripts/sort.py domains.csv`")
 
@@ -101,13 +101,18 @@ def main():
     with open("domains.csv", encoding="UTF-8") as domainsfile:
         domainsreader = csv.reader(domainsfile)
         next(domainsreader)  # Skip header
-        lines = [row[0] for row in domainsreader]
-    check_is_sorted("domains.csv", lines)
-    for lineno, line in enumerate(lines, start=2):
-        check_is_valid_domain("domains.csv", lineno, line)
-        check_is_public_domain("domains.csv", lineno, line)
-        check_duplicate_line("domains.csv", lineno, line)
-        check_lowercased("domains.csv", lineno, line)
+        check_is_sorted("domains.csv", list(domainsreader))
+
+    with open("domains.csv", encoding="UTF-8") as domainsfile:
+        domainsreader = csv.reader(domainsfile)
+        next(domainsreader)  # Skip header
+
+        for line in domainsreader:
+            lineno = domainsreader.line_num
+            check_is_valid_domain("domains.csv", lineno, line[0])
+            check_is_public_domain("domains.csv", lineno, line[0])
+            check_duplicate_line("domains.csv", lineno, line[0])
+            check_lowercased("domains.csv", lineno, line[0])
 
     for domain in parse_files(Path("urls.txt")) - check_duplicate_line.all_domains:
         err(f"urls.txt: {domain} not found in domains.csv.")
