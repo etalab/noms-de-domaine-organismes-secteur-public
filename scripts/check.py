@@ -24,6 +24,11 @@ def err(*args, **kwargs):
     print(*args, **kwargs)
 
 
+def warn(*args, **kwargs):
+    kwargs["file"] = sys.stderr
+    print(*args, **kwargs)
+
+
 def check_is_sorted(file, lines):
     domains = [Domain.from_file_line(file, line) for line in lines]
     if domains != sorted(domains):
@@ -33,6 +38,11 @@ def check_is_sorted(file, lines):
 def check_is_valid_domain(file, lineno, line):
     if not validators.domain(line, rfc_2782=True):
         err(f"{file}:{lineno}: {line!r} does not looks like a domain name.")
+    if not validators.domain(line):
+        warn(
+            f"{file}:{lineno}: {line!r} cannot be used in an URL,",
+            "it's either an DNS SRV record or a typo.",
+        )
 
 
 def check_lowercased(file, lineno, line):
