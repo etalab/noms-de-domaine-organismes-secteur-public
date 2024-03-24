@@ -29,11 +29,6 @@ def warn(*args, **kwargs):
     print(*args, **kwargs)
 
 
-def check_is_sorted(file, lines):
-    domains = [Domain.from_file_line(file, line[0]) for line in lines]
-    if domains != sorted(domains):
-        err(f"{file}: Is not sorted, run `python scripts/sort.py domains.csv`")
-
 
 def check_is_valid_domain(file, lineno, line):
     if not validators.domain(line, rfc_2782=True):
@@ -53,6 +48,21 @@ def check_lowercased(file, lineno, line):
 def check_is_public_domain(file, lineno, line):
     if Domain.from_file_line(file, line).is_not_public():
         err(f"{file}:{lineno}: {line!r} is not a public domain.")
+
+
+class SortedChecker:
+    def __init__(self):
+        self.previous = None
+        self.has_errored = False
+
+    def __call__(self, file, lineno, domain):
+        if self.has_errored:
+            return  # Don't flood
+        if self.previous is not None:
+            if self.previous > Domain.from_file_line(file, domain):
+                err(f"{file}: Is not sorted, run `python scripts/sort.py domains.csv`")
+                self.has_errored = True
+        self.previous = Domain.from_file_line(file, domain)
 
 
 class DuplicateChecker:
@@ -98,10 +108,7 @@ class DuplicateChecker:
 
 def main():
     check_duplicate_line = DuplicateChecker()
-    with open("domains.csv", encoding="UTF-8") as domainsfile:
-        domainsreader = csv.reader(domainsfile)
-        next(domainsreader)  # Skip header
-        check_is_sorted("domains.csv", list(domainsreader))
+    check_is_sorted = SortedChecker()
 
     with open("domains.csv", encoding="UTF-8") as domainsfile:
         domainsreader = csv.reader(domainsfile)
@@ -113,6 +120,7 @@ def main():
             check_is_public_domain("domains.csv", lineno, line[0])
             check_duplicate_line("domains.csv", lineno, line[0])
             check_lowercased("domains.csv", lineno, line[0])
+            check_is_sorted("domains.csv", lineno, line[0])
 
     for domain in parse_files(Path("urls.txt")) - check_duplicate_line.all_domains:
         err(f"urls.txt: {domain} not found in domains.csv.")
