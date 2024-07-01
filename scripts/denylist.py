@@ -79,6 +79,7 @@ NON_PUBLIC_DOMAINS = {
     "sioracderiberac.com",
     "varchetta.fr",  # squatte www.commune-la-chapelle-de-brain.fr
     "viteundevis.com",  # squatte mairiemarignaclasclares.fr
+    "vitry-sur-orne.com",  # domaine squatté
     "voxaly.com",
     "wewmanager.com",
 }
