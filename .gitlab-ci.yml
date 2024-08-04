@@ -61,6 +61,7 @@ refresh:
     - git remote set-url origin --push
           "$(git remote get-url origin | sed 's~https://.*@\([^/]\+\)/~git@\1:~g')"
     - git checkout "$CI_COMMIT_REF_NAME"
+    - ls -lah .git/logs/refs/heads/
     - git reset --hard "$CI_COMMIT_SHA"
 
     # Setup of private ssh key in case we need to push:
