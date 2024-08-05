@@ -43,28 +43,18 @@ refresh:
   # - CI_PIPELINE_SOURCE to schedule
   # - SSH_PRIVATE_KEY to an accepted private key
   stage: refresh
+  # We're cloning ourself for multiple reasons:
+  # - To avoid permission issues (gitlab would clone as root)
+  # - To be on a branch (gitlab would land us in detached head)
+  # - To simplify configuration (pushurl would be HTTP, we need SSH)
+  variables:
+    GIT_STRATEGY: none
   rules:
     - if: $CI_PIPELINE_SOURCE == "schedule"
   before_script:
-    # Git refuses to read `.git/` owned by other users unless explicitly
-    # marked as safe, that's the case here:
-    # - GitLab clones the repository as `root`.
-    # - The Docker image we use is logging us as the user `runner`.
-    # See CVE-2022-24765 for more information.
-    - git config --global --add safe.directory "$(pwd)"
-
     # If we need to commit, we'll need a username and an email:
     - git config --global user.name "${GITLAB_USER_NAME}"
     - git config --global user.email "${GITLAB_USER_EMAIL}"
-
-    # Tell git we're pushing over SSH, not over HTTP.
-    - git remote set-url origin --push
-          "$(git remote get-url origin | sed 's~https://.*@\([^/]\+\)/~git@\1:~g')"
-    - git checkout "$CI_COMMIT_REF_NAME"
-    - whoami
-    - ls -lah
-    - ls -lah .git/logs/refs/heads/
-    - git reset --hard "$CI_COMMIT_SHA"
 
     # Setup of private ssh key in case we need to push:
     - mkdir -p ~/.ssh/
@@ -72,12 +62,13 @@ refresh:
     - echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_ed25519
     - chmod 600 ~/.ssh/id_ed25519
 
-    # Just to see the user, email, and pushurl used:
-    - cat ~/.gitconfig
-    - cat .git/config
+    # Cloning the repo ourself
+    - git clone --depth 1 git@gitlab.adullact.net:dinum/noms-de-domaine-organismes-secteur-public.git
+    - cd noms-de-domaine-organismes-secteur-public
 
     # And while we're at showing debug information:
     - python3 --version
+
   script:
     - python3 -m venv .venv
     - .venv/bin/python -m pip install aiohttp tqdm
