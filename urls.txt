@@ -788,7 +788,7 @@ https://champagne-les-marais.com
 http://champagne-sur-loue.com
 https://champagne17620.com
 https://www.champagneymairie.com
-https://champduboult.com
+http://champduboult.com
 https://www.champeaux50.com
 https://champigne.com
 https://www.champignyenrochereau.com
@@ -1798,7 +1798,7 @@ https://www.lesmoitiersdallonne.com
 https://lesmontils.com
 https://www.lesmontils.com
 https://lesmontsdazur.com
-http://www.lesmontsdazur.com
+https://www.lesmontsdazur.com
 https://lesnoes.com
 https://www.lesnoes.com
 https://www.lesorres.com
@@ -2030,6 +2030,7 @@ https://mairie-de-mache.com
 https://www.mairie-de-mache.com
 https://www.mairie-de-manou.com
 https://www.mairie-de-massieux.com
+http://mairie-de-mesnil-st-denis.com
 https://www.mairie-de-sisco.com
 https://www.mairie-de-vezins.com
 https://www.mairie-de-voinsles.com
@@ -2248,7 +2249,6 @@ https://ww25.mairiedemeillard.com
 https://mairiedemodene.com
 https://www.mairiedemodene.com
 http://mairiedemontfort.com
-http://www.mairiedemontfort.com
 http://mairiedepamandzi.com
 http://www.mairiedepamandzi.com
 https://www.mairiedepoligny05500.com
@@ -2483,6 +2483,7 @@ https://montpezat-gers.com
 https://montracol.com
 https://montreal-en-bourgogne.com
 https://www.montreal-en-bourgogne.com
+https://montrejeau-pyrenees.com
 https://www.montrejeau-pyrenees.com
 https://www.montrichardvaldecher.com
 https://monts-sur-guesnes.com
@@ -3244,7 +3245,6 @@ https://smarves.com
 https://www.smitomga.com
 https://www.soinsante-limoges.com
 https://soleymieux.com
-https://sollieres-sardieres-mairie.com
 http://www.sommieres-vienne.com
 https://www.sorbollano.com
 http://sorgeat.com
@@ -3815,6 +3815,7 @@ https://clermontmetropole.eu
 https://clg-wallon-savignyletemple.eu
 https://www.commune-mothern.eu
 https://www.crecylachapelle.eu
+https://conde-sainte-libiaire.csime.eu
 https://www.conde-sainte-libiaire.csime.eu
 https://lumigny-nesles-ormeaux.csime.eu
 https://www.ee-strasbourg.eu
@@ -4548,7 +4549,7 @@ https://col21-lacaille.ac-dijon.fr
 https://col58-aumeuniermichot.ac-dijon.fr
 https://col58-genevoix.ac-dijon.fr
 https://col58-langevin.ac-dijon.fr
-https://col71-annefrank.ac-dijon.fr
+http://col71-antoine-stexupery.ac-dijon.fr
 https://col71-breart.ac-dijon.fr
 https://col71-bruyeres.ac-dijon.fr
 https://col71-copernic.ac-dijon.fr
@@ -5249,7 +5250,7 @@ https://aldo-carbone.ademe.fr
 https://auvergne-rhone-alpes.ademe.fr
 https://benefriches.ademe.fr
 https://bretagne.ademe.fr
-http://centre.ademe.fr
+https://centre.ademe.fr
 https://guadeloupe.ademe.fr
 http://hauts-de-france.ademe.fr
 https://longuevieauxobjets.ademe.fr
@@ -5369,7 +5370,6 @@ http://agglo-thionvillefensch.fr
 https://www.bibliotheques.agglo-tlp.fr
 https://www.agglo-tlp.fr
 https://agglo-tulle.fr
-https://agglo-valdebievre.fr
 https://www.agglo-valdefensch.fr
 https://www.agglo-valleedelamarne.fr
 http://agglo-var-esterel-mediterranee.fr
@@ -6922,6 +6922,7 @@ https://bage-dommartin.fr
 https://bagelechatel.fr
 https://www.bages.fr
 https://www.bages66.fr
+http://www.bagnac.fr
 https://www.bagneauxsurloing.fr
 https://www.bagneux92.fr
 https://www.bagnols63.fr
@@ -7748,7 +7749,6 @@ https://www.bonnes.fr
 https://bonnetable.fr
 http://www.bonnetage.fr
 https://www.bonnetan.fr
-https://bonneuil-en-france.fr
 http://www.bonneuil-les-eaux.fr
 https://www.bonneuil-matours.fr
 https://bonneuil83.fr
@@ -8628,7 +8628,6 @@ https://cbn-alpin-biblio.fr
 https://www.cc-1000etangs.fr
 http://cc-2v.fr
 http://www.cc-2v.fr
-http://www.cc-4rivieres.fr
 http://www.cc-aglyfenouilledes.fr
 https://www.cc-aireargonne.fr
 https://cc-alesia-seine.fr
@@ -9103,7 +9102,6 @@ https://ccvimeu.fr
 https://www.ccvl.fr
 https://ccvlv.fr
 https://www.ccvo.fr
-https://www.ccvo3f.fr
 https://www.ccvosgesdusud.fr
 https://www.ccvp.fr
 https://ccvs84.fr
@@ -9161,10 +9159,12 @@ https://cdg19.fr
 https://www.cdg19.fr
 https://cdg21.fr
 https://www.cdg21.fr
+https://www.cdg24.fr
 https://www.cdg26.fr
 https://www.cdg27.fr
 https://www.cdg28.fr
 https://www.cdg31.fr
+https://www.cdg32.fr
 https://www.cdg33.fr
 https://www.cdg34.fr
 https://www.cdg35.fr
@@ -10364,7 +10364,6 @@ https://www.college-diderot-massy.fr
 https://college-dunois.fr
 http://college-edmondnocard.fr
 https://college-edouard-herriot-luce.fr
-http://www.college-edouard-queau.fr
 https://www.college-elhuyar.fr
 https://college-etiennedolet.fr
 http://college-fernand-gregh.fr
@@ -10484,6 +10483,7 @@ https://collegeligueil.fr
 http://www.collegelouisarsenemeunier.fr
 https://www.collegelouispasteur.fr
 http://collegelucieaubrac.fr
+https://collegemitterrand.fr
 https://www.collegemonsegur.fr
 https://collegenelsonmandela.fr
 https://collegepablopicassobron.fr
@@ -10700,6 +10700,8 @@ https://www.commune-liez02.fr
 http://commune-loffre.fr
 https://www.commune-lohr.fr
 https://commune-loisy.fr
+https://www.commune-loupiac33.fr
+http://www.commune-louvemont.fr
 https://commune-loyettes.fr
 https://commune-lugos.fr
 https://www.commune-mainsat.fr
@@ -11123,8 +11125,7 @@ http://www.courtenay38.fr
 https://www.courtenay45.fr
 https://www.courteuil.fr
 https://www.courthezon.fr
-https://courtillers.fr
-http://www.courtisols.fr
+https://www.courtisols.fr
 https://www.courtois-sur-yonne.fr
 https://courtomer.fr
 https://courtonnelameurdrac.fr
@@ -11252,7 +11253,6 @@ https://crib44.fr
 https://www.cricqueboeuf.fr
 https://criel-sur-mer.fr
 https://www.criel-sur-mer.fr
-http://www.crij-alsace.fr
 https://crij-mayotte.fr
 https://crij-npdc.fr
 https://crijinfo.fr
@@ -14323,7 +14323,6 @@ https://sandbox1.entreprise.api.gouv.fr
 https://sandbox2.entreprise.api.gouv.fr
 https://sandbox3.entreprise.api.gouv.fr
 https://sandbox4.entreprise.api.gouv.fr
-https://sandbox5.entreprise.api.gouv.fr
 https://staging.entreprise.api.gouv.fr
 https://staging1.entreprise.api.gouv.fr
 https://staging2.entreprise.api.gouv.fr
@@ -14838,7 +14837,6 @@ https://choisirleservicepublic.gouv.fr
 https://avis.chorus-pro.gouv.fr
 https://ppd.avis.chorus-pro.gouv.fr
 https://qlf.avis.chorus-pro.gouv.fr
-https://rec.avis.chorus-pro.gouv.fr
 https://cessions.chorus-pro.gouv.fr
 https://ppd.cessions.chorus-pro.gouv.fr
 https://qlf.cessions.chorus-pro.gouv.fr
@@ -17335,7 +17333,6 @@ https://static.piste.gouv.fr
 https://track.piste.gouv.fr
 http://plan.gouv.fr
 https://koha.documentation.pm.gouv.fr
-https://koha-opac.documentation.pm.gouv.fr
 https://koha-test.documentation.pm.gouv.fr
 http://f.newsletter.pm.gouv.fr
 https://pnr.gouv.fr
@@ -18162,8 +18159,6 @@ https://www.gravelotte.fr
 https://graveron-semerville.fr
 https://graveson-provence.fr
 https://www.graveson-provence.fr
-https://gravieres.fr
-https://www.gravieres.fr
 https://gray.fr
 https://gray-la-ville.fr
 https://www.grayan.fr
@@ -20280,7 +20275,6 @@ https://www.lepout.fr
 https://www.lepouzin.fr
 http://www.lepuix.fr
 http://lepuyenvelay.fr
-https://bibliotheque.lepuyenvelay.fr
 https://www.lepuyenvelay.fr
 https://www.lequesnoy.fr
 https://www.lequesnoyvilleforte.fr
@@ -20928,7 +20922,6 @@ http://lupe.fr
 http://www.lupe.fr
 https://www.lupiac.fr
 http://luppy.fr
-http://www.luppy.fr
 https://luquet.fr
 http://luray.fr
 http://www.luray.fr
@@ -21835,7 +21828,6 @@ https://mairie-castillonnes.fr
 http://mairie-castres-gironde.fr
 https://mairie-cattenom.fr
 http://www.mairie-caudies-fenouilledes.fr
-http://mairie-caudry.fr
 https://www.mairie-cauge.fr
 https://mairie-caumont.fr
 https://mairie-caumont-02.fr
@@ -22648,7 +22640,6 @@ https://www.mairie-le-vibal.fr
 https://mairie-le-vignau.fr
 https://www.mairie-lebassegala.fr
 https://www.mairie-leboulou.fr
-http://mairie-lee.fr
 https://mairie-legecapferret.fr
 http://mairie-legua.fr
 https://www.mairie-lelamentin.fr
@@ -22946,7 +22937,6 @@ https://www.mairie-montrabe.fr
 https://www.mairie-montriond.fr
 https://www.mairie-montry.fr
 https://mairie-montsaintmartin.fr
-https://mairie-montselgues.fr
 https://www.mairie-montselgues.fr
 https://mairie-montvalezan.fr
 https://mairie-monze.fr
@@ -24230,6 +24220,8 @@ http://www.mairiemontbizot.fr
 https://mairiemontbolo.fr
 https://mairiemouzens.fr
 https://www.mairienangy.fr
+http://mairienantilly.fr
+http://www.mairienantilly.fr
 https://mairieneffes.fr
 https://mairieneuvic.fr
 https://www.mairieneuvic.fr
@@ -24265,7 +24257,7 @@ http://mairiesaintecroixvolvestre.fr
 https://www.mairiesaintefoydaigrefeuille.fr
 https://mairiesaintetiennedessorts.fr
 https://mairiesaintfroult.fr
-http://www.mairiesaintfroult.fr
+https://www.mairiesaintfroult.fr
 https://mairiesaintgeorgesmotel.fr
 https://mairiesaintgermainlamontagne.fr
 https://www.mairiesaintgermainlamontagne.fr
@@ -25216,6 +25208,7 @@ http://www.mogneville.fr
 https://www.mohon.fr
 https://www.moidieu-detourbe.fr
 https://moiransenmontagne.fr
+https://www.moiransenmontagne.fr
 https://moire-en-beaujolais.fr
 https://www.moisdon-la-riviere.fr
 https://www.moissac.fr
@@ -29353,7 +29346,6 @@ https://www.saint-symphorien-sur-coise.fr
 https://saint-symphorien35.fr
 https://www.saint-symphorien79.fr
 https://www.saint-theoffrey.fr
-https://www.saint-thierry.fr
 https://www.saint-thomas-31.fr
 https://saint-thonan.fr
 https://www.saint-thonan.fr
@@ -32348,6 +32340,7 @@ https://www.vallee-de-brezons.fr
 https://www.vallee-des-baux-alpilles.fr
 https://vallee2.fr
 http://valleedeclisson.fr
+http://bourg-bruche.valleedelabruche.fr
 http://www.bourg-bruche.valleedelabruche.fr
 https://cc.valleedelabruche.fr
 http://colroy-la-roche.valleedelabruche.fr
@@ -33655,7 +33648,6 @@ https://www.ville-moyenmoutier.fr
 https://ville-nangis.fr
 https://www.ville-naves.fr
 https://www.ville-nd-bondeville.fr
-https://www.ville-negrepelisse.fr
 http://ville-nerac.fr
 http://www.ville-nerac.fr
 https://ville-nesle.fr
@@ -35536,7 +35528,6 @@ https://association-aris.org
 https://www.association-aris.org
 http://association-cypres.org
 http://www.association-cypres.org
-http://associations-dunkerque.org
 https://associations-lpdl.org
 https://www.associations-lpdl.org
 https://www.associations37.org
@@ -35596,6 +35587,7 @@ https://mende-pom.c3rb.org
 https://neufchateau.c3rb.org
 https://soissons-pom.c3rb.org
 http://cabara.org
+http://www.cabara.org
 https://www.cacem.org
 http://www.caj-grand-font.org
 https://calade.org
