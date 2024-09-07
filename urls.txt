@@ -1882,7 +1882,6 @@ http://www.lycee-marechal-leclerc.com
 https://www.lycee-maritime-paimpol.com
 https://www.lycee-maupertuis.com
 http://www.lycee-morteau.com
-https://www.lycee-paul-augier.com
 https://www.lycee-pothier.com
 https://lycee-predecordy-sarlat.com
 https://lycee2pirae.com
@@ -2647,6 +2646,7 @@ https://www.owlgeeks.com
 https://www.oz-en-oisans.com
 https://padlet.com
 https://www.pagnylaville.com
+http://paladru.com
 http://www.paladru.com
 https://www.palaudelvidre.com
 https://palavaslesflots.com
@@ -2967,7 +2967,6 @@ https://saint-nazaire-en-royans.com
 https://www.saint-nicolas-des-biefs.com
 http://saint-oyen.com
 http://www.saint-oyen.com
-https://saint-pal.com
 https://www.saint-pal.com
 https://www.saint-pauldevence.com
 https://saint-perdon.com
@@ -4512,6 +4511,7 @@ http://collegehippolyteremy.ac-creteil.fr
 https://condorcet.ac-creteil.fr
 https://www.ia94.ac-creteil.fr
 https://louisemichelchampigny.ac-creteil.fr
+https://lyc-eugene-delacroix-drancy.ac-creteil.fr
 https://orientation.ac-creteil.fr
 https://www.ac-creteil.fr
 https://col21-champ-lumiere.ac-dijon.fr
@@ -4557,6 +4557,7 @@ https://lyc58-genevoix.ac-dijon.fr
 http://lyc58-montchatelet.ac-dijon.fr
 https://lyc89-fourier.ac-dijon.fr
 https://parcdeschaumes.ac-dijon.fr
+https://col71-rogerboyer.sd.ac-dijon.fr
 https://www.ac-dijon.fr
 https://cio.web.ac-grenoble.fr
 https://cite-scolaire-du-diois.web.ac-grenoble.fr
@@ -4741,7 +4742,6 @@ https://saint-chamond.cio.ac-lyon.fr
 https://saint-etienne.cio.ac-lyon.fr
 https://saint-priest.cio.ac-lyon.fr
 https://trevoux.cio.ac-lyon.fr
-https://venissieux.cio.ac-lyon.fr
 https://villefranche.cio.ac-lyon.fr
 https://charcot.etab.ac-lyon.fr
 https://college-bellecombe.etab.ac-lyon.fr
@@ -4763,7 +4763,6 @@ https://college-simone-lagrange.etab.ac-lyon.fr
 https://college-verrazane.etab.ac-lyon.fr
 https://collegegilbertdru.etab.ac-lyon.fr
 https://collegeraouldufy.etab.ac-lyon.fr
-https://csi-ferneyvoltaire.etab.ac-lyon.fr
 https://daubarede.etab.ac-lyon.fr
 https://eluardvenissieux.etab.ac-lyon.fr
 https://jean-giono.etab.ac-lyon.fr
@@ -4777,7 +4776,6 @@ https://lycee-eherriot.etab.ac-lyon.fr
 https://malfroy.etab.ac-lyon.fr
 https://maryse-bastie.etab.ac-lyon.fr
 https://mlkmions.etab.ac-lyon.fr
-https://ronsard.etab.ac-lyon.fr
 https://tonkin.etab.ac-lyon.fr
 https://vendome.etab.ac-lyon.fr
 https://www.ac-lyon.fr
@@ -4812,7 +4810,7 @@ https://www.clg-bellevue.ac-nice.fr
 https://www.clg-carnot.ac-nice.fr
 http://www.clg-emile-thomas.ac-nice.fr
 http://www.clg-francois-de-leusse.ac-nice.fr
-http://www.clg-francois-rabelais.ac-nice.fr
+https://www.clg-francois-rabelais.ac-nice.fr
 https://www.clg-genevieve-de-gaulle-anthonioz.ac-nice.fr
 https://www.clg-gerard-philipe-83.ac-nice.fr
 https://www.clg-henri-matisse-06.ac-nice.fr
@@ -4834,7 +4832,7 @@ https://www.lyc-albert-camus.ac-nice.fr
 http://www.lyc-alexis-de-tocqueville.ac-nice.fr
 http://www.lyc-anne-sophie-pic.ac-nice.fr
 http://www.lyc-du-golfe-de-saint-tropez.ac-nice.fr
-http://www.lyc-golf-hotel.ac-nice.fr
+https://www.lyc-golf-hotel.ac-nice.fr
 http://www.lyc-honore-d-estienne-d-orves.ac-nice.fr
 https://www.lyc-jean-aicard.ac-nice.fr
 https://www.lyc-val-d-argens.ac-nice.fr
@@ -4984,7 +4982,6 @@ http://lyc-claude-bernard.scola.ac-paris.fr
 http://lyc-paul-valery.scola.ac-paris.fr
 https://www.ac-paris.fr
 https://www.cio.ac-poitiers.fr
-https://etab.ac-poitiers.fr
 http://www.lyc-marcelinberthelot.ac-poitiers.fr
 https://ww2.ac-poitiers.fr
 https://www.ac-poitiers.fr
@@ -5318,7 +5315,6 @@ http://www.agglo-saintquentin.fr
 https://www.agglo-saintquentinois.fr
 https://www.agglo-sarreguemines.fr
 http://agglo-saumur.fr
-http://www.bibliotheques.agglo-saumur.fr
 http://www.agglo-saumur.fr
 https://www.agglo-seine-eure.fr
 https://www.agglo-sudsaintebaume.fr
@@ -5330,7 +5326,6 @@ https://www.agglo-tlp.fr
 https://agglo-tulle.fr
 https://www.agglo-valdefensch.fr
 https://www.agglo-valleedelamarne.fr
-http://agglo-var-esterel-mediterranee.fr
 http://agglo-vgp.fr
 https://agglo-villefranche.fr
 https://www.agglo-villefranche.fr
@@ -5836,6 +5831,8 @@ https://volontaire.aphp.fr
 http://web110.aphp.fr
 http://web111.aphp.fr
 http://web134.aphp.fr
+http://web143.aphp.fr
+http://web61.aphp.fr
 https://webbmr-raisin.aphp.fr
 https://www.aphp.fr
 https://aphp-international.fr
@@ -12829,6 +12826,7 @@ https://fabrezan.fr
 https://fagnieres.fr
 https://www.fagnieres.fr
 https://www.fains-veel.fr
+https://www.faire.fr
 https://www.falaise.fr
 https://www.falaisesdutalou.fr
 https://www.falicon.fr
@@ -13466,6 +13464,7 @@ http://encausse.les.thermes.free.fr
 http://thoisylaberchere.free.fr
 http://treziers.free.fr
 http://trinitethouberville.free.fr
+http://triors.free.fr
 http://trouville76.free.fr
 http://ubraye.free.fr
 http://utrillomontmagny.free.fr
@@ -14115,6 +14114,7 @@ https://fix-replace-side-menu.v2.labase.incubateur.anct.gouv.fr
 https://fix-resource-visibility.v2.labase.incubateur.anct.gouv.fr
 https://fix-search-results-without-in.v2.labase.incubateur.anct.gouv.fr
 https://fix-suivis-for-owner-only.v2.labase.incubateur.anct.gouv.fr
+https://fix-text.v2.labase.incubateur.anct.gouv.fr
 https://fix-update-resources-in-profi.v2.labase.incubateur.anct.gouv.fr
 https://fix-update-ressource-slug.v2.labase.incubateur.anct.gouv.fr
 https://fix-visibility-texts.v2.labase.incubateur.anct.gouv.fr
@@ -14213,6 +14213,7 @@ https://sandbox.datapass.api.gouv.fr
 https://sandbox1.datapass.api.gouv.fr
 https://sandbox2.datapass.api.gouv.fr
 https://sandbox3.datapass.api.gouv.fr
+https://sandbox4.datapass.api.gouv.fr
 https://sandbox5.datapass.api.gouv.fr
 https://staging.datapass.api.gouv.fr
 https://staging1.datapass.api.gouv.fr
@@ -14236,7 +14237,9 @@ https://sandbox2.v2.datapass.api.gouv.fr
 https://sandbox3.v2.datapass.api.gouv.fr
 https://sandbox4.v2.datapass.api.gouv.fr
 https://sandbox5.v2.datapass.api.gouv.fr
+https://staging.v2.datapass.api.gouv.fr
 https://staging1.v2.datapass.api.gouv.fr
+https://staging2.v2.datapass.api.gouv.fr
 https://staging3.v2.datapass.api.gouv.fr
 https://staging4.v2.datapass.api.gouv.fr
 http://back.datapass-staging.api.gouv.fr
@@ -14284,6 +14287,7 @@ https://sandbox4.particulier.api.gouv.fr
 https://sandbox5.particulier.api.gouv.fr
 https://staging.particulier.api.gouv.fr
 https://staging1.particulier.api.gouv.fr
+https://staging2.particulier.api.gouv.fr
 https://staging3.particulier.api.gouv.fr
 https://staging4.particulier.api.gouv.fr
 https://staging5.particulier.api.gouv.fr
@@ -15124,7 +15128,6 @@ https://eureka.defense.gouv.fr
 http://forum-innovation.defense.gouv.fr
 http://www.forum-innovation.defense.gouv.fr
 https://habillement.defense.gouv.fr
-https://int-lms-at.defense.gouv.fr
 http://lafabrique.defense.gouv.fr
 https://lesalpps.defense.gouv.fr
 https://lesmessages-marine.defense.gouv.fr
@@ -16221,7 +16224,6 @@ https://o3sis.esante.gouv.fr
 https://observatoire.esante.gouv.fr
 https://participez.esante.gouv.fr
 https://status.pre-prod.esante.gouv.fr
-http://minihds.ps.esante.gouv.fr
 https://api.bas.psc.esante.gouv.fr
 https://wallet.bas.psc.esante.gouv.fr
 https://status.psig.esante.gouv.fr
@@ -16398,7 +16400,6 @@ https://ira-inscription-test.fonction-publique.gouv.fr
 https://ira-jury.fonction-publique.gouv.fr
 https://ira-jury-test.fonction-publique.gouv.fr
 https://lienrh.fonction-publique.gouv.fr
-https://odaim.fonction-publique.gouv.fr
 https://www.pass.fonction-publique.gouv.fr
 http://recherche.fonction-publique.gouv.fr
 https://administration-centrale.safire.fonction-publique.gouv.fr
@@ -17427,6 +17428,7 @@ https://www.sarthe.gouv.fr
 https://www.savoie.gouv.fr
 http://www.arago.science.gouv.fr
 http://www.foucault.science.gouv.fr
+https://secnumacademie.gouv.fr
 https://autoecoles.securite-routiere.gouv.fr
 https://validation.autoecoles.securite-routiere.gouv.fr
 https://tr.email.securite-routiere.gouv.fr
@@ -20792,7 +20794,6 @@ https://luneville.fr
 http://lupe.fr
 http://www.lupe.fr
 https://www.lupiac.fr
-http://luppy.fr
 https://luquet.fr
 http://luray.fr
 http://www.luray.fr
@@ -22368,7 +22369,6 @@ https://mairie-jas.fr
 https://mairie-jaulges.fr
 https://www.mairie-jaulges.fr
 http://mairie-jaulgonne.fr
-https://www.mairie-javene.fr
 https://www.mairie-jeumont.fr
 https://mairie-joannas.fr
 https://mairie-joinville.fr
@@ -23734,7 +23734,6 @@ http://mairie-zetting.fr
 https://mairie15-16.fr
 https://www.mairie2alpes.fr
 https://www.erbray.mairie44.fr
-https://mairie49.fr
 http://lajailleyvon.mairie49.fr
 http://www.cuille.mairie53.fr
 http://www.la-bazouge-des-alleux.mairie53.fr
@@ -26066,7 +26065,6 @@ https://www.morsbronn-les-bains.fr
 https://morschwiller-le-bas.fr
 https://www.mortagne-sur-gironde.fr
 https://mortagne88.fr
-https://www.mortagnesursevre.fr
 http://www.mortain-bocage.fr
 http://www.mortcerf.fr
 https://www.morteaux-couliboeuf.fr
@@ -27664,7 +27662,6 @@ https://preaux36.fr
 https://www.preaux76.fr
 http://www.prechac.fr
 http://www.prechac65.fr
-https://prechacq-les-bains.fr
 https://www.precigne.fr
 https://precy-sous-thil.fr
 https://www.precysurmarne.fr
@@ -29297,7 +29294,6 @@ https://www.saintbrice95.fr
 https://saintbrieucdesiffs.fr
 https://www.saintbrisdesbois.fr
 http://saintcapraisdebordeaux.fr
-https://www.saintcapraisdebordeaux.fr
 https://saintcapraisdelerm.fr
 https://www.saintcapraisdelerm.fr
 https://saintcesairedegauzignan.fr
@@ -35016,7 +35012,6 @@ https://www.velaux.net
 http://veneuxlessablons.net
 http://www.veneuxlessablons.net
 https://www.venterol.net
-https://verdese.net
 https://www.verdese.net
 https://www.verzenay.net
 https://www.villars-le-sec.net
@@ -35108,7 +35103,6 @@ https://ae14.org
 https://ww25.afile77.org
 https://cartobio.agencebio.org
 https://www.aignan.org
-https://aire-sur-adour.org
 https://aissey.org
 https://www.aloess.org
 https://ad.ambafrance.org
@@ -35645,6 +35639,7 @@ https://www.mllorient.org
 https://www.mlma94.org
 https://mlmedoc.org
 https://www.mlmedoc.org
+http://mlmire.org
 http://www.mlmire.org
 https://www.mlnice-paca.org
 https://www.mlpnvs.org
@@ -35738,7 +35733,6 @@ http://scot-douaisis.org
 https://scot-region-grenoble.org
 https://www.scoters.org
 https://www.sded.org
-https://seingbouse.org
 http://semilly.org
 http://www.semilly.org
 https://www.sicaudieres.org
