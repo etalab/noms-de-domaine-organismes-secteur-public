@@ -1590,7 +1590,7 @@ http://www.la-renaudie.com
 https://la-roche-des-arnauds.com
 https://www.la-roche-des-arnauds.com
 https://www.la-romieu.com
-https://la-roque-esclapon.com
+http://la-roque-esclapon.com
 http://www.la-terrasse-sur-dorlay.com
 https://www.la-thuile.com
 https://la-toussuire.com
@@ -1740,6 +1740,7 @@ https://lecannetdesmaures.com
 https://www.lecannetdesmaures.com
 https://lechampdelapierre.com
 https://www.lechampdufeu.com
+https://www.lecrouais.com
 https://www.lecrozet.com
 https://www.ledeuix.com
 https://lefaouet.com
@@ -2542,6 +2543,7 @@ https://niedermodern.com
 https://nieuil-espoir.com
 https://www.nieuil-espoir.com
 https://www.nieulle-sur-seudre.com
+https://www.nivernais-bourbonnais.com
 https://www.nogent-le-phaye.com
 https://noironte.com
 https://www.noironte.com
@@ -2898,6 +2900,8 @@ https://www.rouziers-de-touraine.com
 http://ruffieu.com
 http://www.ruffieu.com
 http://www.sail-sous-couzan.com
+https://saint-affrique-les-montagnes.com
+https://www.saint-affrique-les-montagnes.com
 https://www.saint-agnan-vercors.com
 https://www.saint-andre-sur-orne.com
 https://www.saint-aulaye.com
@@ -3789,6 +3793,7 @@ https://www.commune-mothern.eu
 https://www.crecylachapelle.eu
 https://conde-sainte-libiaire.csime.eu
 https://www.conde-sainte-libiaire.csime.eu
+http://www.lumigny-nesles-ormeaux.csime.eu
 https://www.ee-strasbourg.eu
 https://www.enim.eu
 https://etreville.eu
@@ -4756,7 +4761,6 @@ https://college-mont-saint-rigaud-monsols.etab.ac-lyon.fr
 https://college-olivierdeserres.etab.ac-lyon.fr
 https://college-pierre-valdo.etab.ac-lyon.fr
 https://college-rene-cassin.etab.ac-lyon.fr
-https://college-simone-lagrange.etab.ac-lyon.fr
 https://college-verrazane.etab.ac-lyon.fr
 https://collegegilbertdru.etab.ac-lyon.fr
 https://collegeraouldufy.etab.ac-lyon.fr
@@ -4799,13 +4803,13 @@ https://cio44.heberge.ac-nantes.fr
 https://cio49.heberge.ac-nantes.fr
 https://cio53.heberge.ac-nantes.fr
 https://cio72.heberge.ac-nantes.fr
-https://cio85.heberge.ac-nantes.fr
+http://cio85.heberge.ac-nantes.fr
 https://www.ac-nantes.fr
 http://www.clg-albert-camus.ac-nice.fr
 https://www.clg-andre-maurois.ac-nice.fr
 https://www.clg-bellevue.ac-nice.fr
 https://www.clg-carnot.ac-nice.fr
-http://www.clg-emile-thomas.ac-nice.fr
+https://www.clg-emile-thomas.ac-nice.fr
 http://www.clg-francois-de-leusse.ac-nice.fr
 https://www.clg-francois-rabelais.ac-nice.fr
 https://www.clg-genevieve-de-gaulle-anthonioz.ac-nice.fr
@@ -4815,7 +4819,7 @@ http://www.clg-jean-baptiste-rusca.ac-nice.fr
 http://www.clg-jean-franco.ac-nice.fr
 https://www.clg-joseph-pagnol.ac-nice.fr
 https://www.clg-l-eau-vive.ac-nice.fr
-http://www.clg-l-eganaude.ac-nice.fr
+https://www.clg-l-eganaude.ac-nice.fr
 http://www.clg-la-fontonne.ac-nice.fr
 https://www.clg-les-breguieres.ac-nice.fr
 https://www.clg-les-campelieres.ac-nice.fr
@@ -4830,7 +4834,7 @@ http://www.lyc-alexis-de-tocqueville.ac-nice.fr
 http://www.lyc-anne-sophie-pic.ac-nice.fr
 http://www.lyc-du-golfe-de-saint-tropez.ac-nice.fr
 https://www.lyc-golf-hotel.ac-nice.fr
-http://www.lyc-honore-d-estienne-d-orves.ac-nice.fr
+https://www.lyc-honore-d-estienne-d-orves.ac-nice.fr
 https://www.lyc-jean-aicard.ac-nice.fr
 https://www.lyc-val-d-argens.ac-nice.fr
 https://www.lyc-vauban.ac-nice.fr
@@ -6147,7 +6151,6 @@ https://assac.fr
 https://www.assais-les-jumeaux.fr
 https://www.assas.fr
 https://www.assat.fr
-https://www.assemblee-afe.fr
 https://www.assemblee-nationale.fr
 https://www.asserac.fr
 https://www.assistance-domaine.fr
@@ -8535,7 +8538,6 @@ http://caussiniojouls.fr
 http://www.caussols.fr
 https://caussou.fr
 https://cauvignac.fr
-https://www.cauvignac.fr
 http://www.cauvigny.fr
 https://www.cauvillesurmer.fr
 https://caux.fr
@@ -11697,7 +11699,6 @@ https://www.duhort-bachen.fr
 https://www.duingt.fr
 https://duisans.fr
 https://www.duisans.fr
-https://dulcie-september.fr
 https://www.dullin.fr
 https://dun.fr
 https://www.dun.fr
@@ -13484,6 +13485,7 @@ http://commune.zigliara.free.fr
 http://zutkerque.free.fr
 https://www.fregouville.fr
 https://www.freissinieres.fr
+https://www.freix-anglards.fr
 https://freland.fr
 http://www.fremainville.fr
 https://fremecourt.fr
@@ -13651,7 +13653,6 @@ http://gemil.fr
 http://www.gemil.fr
 http://gemozac.fr
 http://www.gemozac.fr
-https://genac-bignac.fr
 https://www.genac-bignac.fr
 https://gencay.fr
 http://www.genebrieres.fr
@@ -14340,6 +14341,8 @@ https://ulm.dsac.aviation-civile.gouv.fr
 https://cadas-dev.dsna.aviation-civile.gouv.fr
 https://cadas-nc.dsna.aviation-civile.gouv.fr
 https://drive.dsna-dti.aviation-civile.gouv.fr
+https://eco-calculateur.aviation-civile.gouv.fr
+https://guichet-unique-obstacles.aviation-civile.gouv.fr
 https://immat.aviation-civile.gouv.fr
 http://monciel.aviation-civile.gouv.fr
 https://monespaceulm.aviation-civile.gouv.fr
@@ -14582,7 +14585,7 @@ https://statistiques.exposition.inserjeunes.beta.gouv.fr
 https://api.exposition-recette.inserjeunes.beta.gouv.fr
 https://documentation.exposition-recette.inserjeunes.beta.gouv.fr
 http://exposition-sandbox.inserjeunes.beta.gouv.fr
-https://api.exposition-sandbox.inserjeunes.beta.gouv.fr
+http://api.exposition-sandbox.inserjeunes.beta.gouv.fr
 http://documentation.exposition-sandbox.inserjeunes.beta.gouv.fr
 http://explorer.exposition-sandbox.inserjeunes.beta.gouv.fr
 http://prescripteur.exposition-sandbox.inserjeunes.beta.gouv.fr
@@ -15000,7 +15003,6 @@ https://evenement.cybermalveillance.gouv.fr
 https://event.cybermalveillance.gouv.fr
 https://pprd.cybermalveillance.gouv.fr
 https://www.cybermalveillance.gouv.fr
-https://www.cyberveille-sante.gouv.fr
 https://adresse.data.gouv.fr
 https://bal-admin.adresse.data.gouv.fr
 https://doc.adresse.data.gouv.fr
@@ -15097,6 +15099,7 @@ https://dems.academie.defense.gouv.fr
 https://www.alidade.defense.gouv.fr
 http://api-e-hotel.defense.gouv.fr
 https://archives.defense.gouv.fr
+https://www.armement.defense.gouv.fr
 https://auth.defense.gouv.fr
 https://backoffice-e-hotel.defense.gouv.fr
 https://bibliotheques-numeriques.defense.gouv.fr
@@ -17281,7 +17284,6 @@ https://www.prevention-dechets.gouv.fr
 https://www.primealaconversion.gouv.fr
 https://www.prix-carburants.gouv.fr
 https://prix-controle-technique.gouv.fr
-https://pro.prix-controle-technique.gouv.fr
 https://www.prix-controle-technique.gouv.fr
 https://proconnect.gouv.fr
 https://demonstrateur-dev.proconnect.gouv.fr
@@ -18970,7 +18972,6 @@ https://la-chapelle-glain.fr
 https://la-chapelle-montmartin.fr
 https://la-chapelle-mouliere.fr
 https://www.la-chapelle-rablais.fr
-https://www.la-chapelle-rambaud.fr
 https://la-chapelle-saint-sulpice.fr
 https://www.la-chapelle-saint-sulpice.fr
 https://www.la-chapelle-viviers.fr
@@ -19066,7 +19067,7 @@ https://www.la-wantzenau.fr
 https://www.la4c.fr
 https://labachellerie-perigord.fr
 https://www.labaconniere.fr
-http://www.labalmedesillingy.fr
+https://www.labalmedesillingy.fr
 https://www.labarben.fr
 https://www.labaroche.fr
 https://www.labarotte.fr
@@ -21589,7 +21590,6 @@ https://mairie-bousse.fr
 https://mairie-bousse72.fr
 http://mairie-boussenac.fr
 http://mairie-boussieres.fr
-http://mairie-boussières.fr
 https://mairie-boutervilliers.fr
 http://mairie-bouvignies.fr
 http://www.mairie-bouxieres-aux-dames.fr
@@ -21720,7 +21720,6 @@ https://www.mairie-cerelles.fr
 http://mairie-certilleux.fr
 https://mairie-cescau09.fr
 https://www.mairie-cessy.fr
-http://mediatheque.mairie-cestas.fr
 https://www.mairie-cestas.fr
 https://www.mairie-chaignay.fr
 https://www.mairie-chaillol.fr
@@ -26709,7 +26708,6 @@ https://www.oradour-sur-vayres.fr
 https://oraison.fr
 http://mairie.orange.fr
 http://glanon.monsite.orange.fr
-http://la-collancelle.monsite.orange.fr
 http://perso.orange.fr
 https://www.orbec.fr
 https://www.orbeil.fr
@@ -28137,6 +28135,7 @@ https://www.rivesdelyon.fr
 https://www.rivesdemoselle.fr
 https://www.rivesdesaone.fr
 https://www.rivesducouesnon.fr
+https://rivesduloireenanjou.fr
 https://rivesduloirenanjou.fr
 https://www.riviera-francaise.fr
 https://www.rivieradulevant.fr
@@ -29483,7 +29482,6 @@ https://sainteradegondedesnoyers.fr
 http://www.saintescobille.fr
 https://www.saintesteben.fr
 https://sainteterre.fr
-https://www.sainteterre.fr
 https://saintetherencebourg.fr
 https://www.saintetherencebourg.fr
 http://saintethorette.fr
@@ -29681,7 +29679,6 @@ https://www.saintleonarddesbois.fr
 https://www.saintleudesserent.fr
 https://saintlonlesmines.fr
 https://saintloubert.fr
-https://www.saintloubert.fr
 http://www.saintloup50.fr
 http://www.saintloupdenaud.fr
 https://www.saintlubinenvergonnois.fr
@@ -30769,6 +30766,7 @@ http://www.signy-abbaye.fr
 https://www.signy-signets.fr
 https://www.sigonce.fr
 https://sigoules-et-flaugeac.fr
+http://sigournais.fr
 http://www.sigournais.fr
 https://sij-montauban.fr
 https://www.sij-montauban.fr
@@ -32092,7 +32090,6 @@ https://valernes.fr
 https://www.valernes.fr
 https://www.valesdunes.fr
 https://valessonne.fr
-https://www.valeyrac.fr
 https://www.valeyrieux.fr
 https://valflaunes.fr
 https://www.valflaunes.fr
@@ -32769,7 +32766,6 @@ https://www.ville-boulazac.fr
 https://www.ville-bouliac.fr
 https://www.ville-boulogne-sur-gesse.fr
 https://www.ville-boulogne-sur-mer.fr
-https://ville-bouraysurjuine.fr
 https://www.ville-bourdon.fr
 https://ville-bourges.fr
 https://mediatheque.ville-bourges.fr
@@ -34488,7 +34484,6 @@ https://loire.cidff.info
 https://loireatlantique-nantes.cidff.info
 https://lozere.cidff.info
 https://marne.cidff.info
-http://www.marne.cidff.info
 https://meurtheetmoselle-luneville.cidff.info
 https://meurtheetmoselle-nancy.cidff.info
 https://meuse.cidff.info
@@ -34769,6 +34764,7 @@ http://www.fenouillet.net
 https://feuilleres.net
 https://fontanes.net
 https://www.fontenay-76.net
+https://franckell.net
 https://frdechateaubriand.net
 https://www.frdechateaubriand.net
 http://fressines.net
@@ -34779,7 +34775,6 @@ https://gahard.net
 https://www.gahard.net
 https://www.gaure.net
 https://gestasvillage.net
-https://zammad.dev.getinov.net
 https://ghisoni.net
 https://www.grainville-odon.net
 https://grandlandes.net
@@ -34954,7 +34949,6 @@ https://saint-etienne-roilaye.net
 https://www.saint-flour.net
 https://www.saint-germain-de-la-grange.net
 http://saint-geyrac.net
-http://www.saint-geyrac.net
 http://saint-martin-de-re.net
 http://www.saint-martin-de-re.net
 https://www.saint-maurice-la-souterraine.net
