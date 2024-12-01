@@ -81,6 +81,7 @@ https://laforest.bzh
 https://www.lamballe-armor.bzh
 https://www.lamballe-terre-mer.bzh
 https://lampaul-ploudalmezeau.bzh
+https://landeleau.bzh
 https://mediatheque.landerneau.bzh
 https://www.landerneau.bzh
 https://www.lanester.bzh
@@ -126,6 +127,7 @@ https://www.montfortcommunaute.bzh
 https://montreuil-le-gast.bzh
 https://www.morlaix-communaute.bzh
 https://moutiers.bzh
+https://www.moutiers.bzh
 https://www.oust-broceliande.bzh
 https://pays-broceliande.bzh
 https://www.pays-iroise.bzh
@@ -651,6 +653,7 @@ https://www.carla-bayle.com
 https://www.carlades.com
 https://www.carlucet-lot.com
 https://www.carnoux-en-provence.com
+https://bibliotheques-oussegabas.cassioweb.com
 https://www.castanetlehaut.com
 https://www.castelmoronsurlot.com
 https://castelnau-de-guers.com
@@ -1446,6 +1449,7 @@ https://conde-northen.jimdofree.com
 https://corbereaberes.jimdofree.com
 https://cormeilles60.jimdofree.com
 https://curac.jimdofree.com
+https://doix.jimdofree.com
 https://erea16.jimdofree.com
 https://fanlac.jimdofree.com
 https://fleurac.jimdofree.com
@@ -1528,7 +1532,6 @@ https://www.kernoues.com
 https://www.krautergersheim.com
 https://la-baume-de-transit.com
 https://www.la-canourgue.com
-http://ingolsheim.la-commune.com
 http://la-feuillade.com
 http://www.la-feuillade.com
 https://la-garde-adhemar.com
@@ -1994,7 +1997,6 @@ https://www.mairie-lachevroliere.com
 http://www.mairie-lalheue.com
 https://www.mairie-landry.com
 https://www.mairie-lautenbachzell-sengern.com
-https://www.mairie-laveuve.com
 https://mairie-lavieuxrue.com
 http://mairie-lehommetdarthenay.com
 http://www.mairie-lehommetdarthenay.com
@@ -2513,6 +2515,7 @@ https://www.ollieres-83.com
 http://omaje.com
 http://www.omaje.com
 https://bibliothequegraveson.opac-x.com
+https://bibliothequesaintflorentin.opac-x.com
 https://oraison.com
 https://orcet.com
 http://www.orchamps-vennes.com
@@ -2579,6 +2582,7 @@ https://www.pagnylaville.com
 http://paladru.com
 http://www.paladru.com
 http://palau-del-vidre.com
+http://www.palau-del-vidre.com
 https://www.palaudelvidre.com
 https://palavaslesflots.com
 https://www.pampelonne-tarn.com
@@ -2594,6 +2598,7 @@ https://ww25.parlement-bretagne.com
 https://passezalacte.com
 https://pastourisme71.com
 https://pauillac-medoc.com
+https://bibliofil.pays-ancenis.com
 https://www.pays-ancenis.com
 https://www.pays-beaumedrobie.com
 https://pays-bigouden.com
@@ -2646,7 +2651,6 @@ http://www.peche-manche.com
 https://www.peche-vaucluse.com
 https://www.peche33.com
 https://www.peche47.com
-https://www.peche59.com
 https://www.peche63.com
 https://peche80.com
 http://www.peche91.com
@@ -2709,7 +2713,6 @@ https://www.plouhinec.com
 https://plouvorn.com
 https://www.pnr-lorraine.com
 https://www.pnr-seine-normande.com
-http://poille-sur-vegre.com
 http://www.poille-sur-vegre.com
 https://www.poillylezgien.com
 https://poillysurserein.com
@@ -3213,6 +3216,7 @@ https://stop-punaises-delit.com
 https://stpierre-lafeuille.com
 https://stpriestligoure.com
 http://stseurinsurlisle.com
+https://www.mediatheque.stseurinsurlisle.com
 http://www.stseurinsurlisle.com
 https://stsimin.com
 https://stsorlinenvalloire.com
@@ -3282,7 +3286,6 @@ https://tournissan.com
 https://www.tournon-savoie.com
 https://tourrettessurloup.com
 https://touzac-lot.com
-https://www.touzac-lot.com
 https://trebry.com
 https://www.trebry.com
 https://www.trefflean.com
@@ -3531,6 +3534,7 @@ https://visseiche.com
 https://www.visseiche.com
 https://vivre-a-chail.com
 https://www.vivre-a-niort.com
+http://www.vmgg.com
 https://vonnas.com
 https://www.vonnas.com
 https://vosdomaines.com
@@ -4294,7 +4298,6 @@ https://camille-claudel-soissons.ac-amiens.fr
 https://cassini-clermont.ac-amiens.fr
 https://charles-de-bovelles-noyon.ac-amiens.fr
 https://charles-de-gaulle-compiegne.ac-amiens.fr
-https://charles-de-gaulle-montcornet.ac-amiens.fr
 https://chateau-potel-la-ferte-milon.ac-amiens.fr
 http://cio.ac-amiens.fr
 https://college-baie-de-somme.ac-amiens.fr
@@ -4755,6 +4758,7 @@ http://clg-du-chinchon-montargis.tice.ac-orleans-tours.fr
 http://clg-dumas-nerondes.tice.ac-orleans-tours.fr
 http://clg-ernest-bildstein-gien.tice.ac-orleans-tours.fr
 http://clg-florimond-brou.tice.ac-orleans-tours.fr
+http://clg-francois-rabelais-blois.tice.ac-orleans-tours.fr
 http://clg-gaston-jollet-salbris.tice.ac-orleans-tours.fr
 http://clg-gastoncoute-voves.tice.ac-orleans-tours.fr
 http://clg-georges-besse-loches.tice.ac-orleans-tours.fr
@@ -4796,6 +4800,7 @@ http://clg-les-provinces-blois.tice.ac-orleans-tours.fr
 http://clg-lorris.tice.ac-orleans-tours.fr
 http://clg-louis-bleriot-toury.tice.ac-orleans-tours.fr
 http://clg-louis-pasteur-moree.tice.ac-orleans-tours.fr
+http://clg-louis-pergaud-courville-sur-eure.tice.ac-orleans-tours.fr
 http://clg-louis-pergaud-ste-severe-sur-indre.tice.ac-orleans-tours.fr
 http://clg-marcel-carne-vineuil.tice.ac-orleans-tours.fr
 http://clg-marcel-pagnol-vernouillet.tice.ac-orleans-tours.fr
@@ -4822,9 +4827,7 @@ http://clg-rene-cassin-ouzouer-le-marche.tice.ac-orleans-tours.fr
 http://clg-robert-goupil-beaugency.tice.ac-orleans-tours.fr
 http://clg-robert-lasneau-vendome.tice.ac-orleans-tours.fr
 http://clg-roger-jahan-descartes.tice.ac-orleans-tours.fr
-http://clg-roger-martin-du-gard-sancergues.tice.ac-orleans-tours.fr
 http://clg-romain-rolland-deols.tice.ac-orleans-tours.fr
-http://clg-ronsard-mer.tice.ac-orleans-tours.fr
 http://clg-rosa-parks-chateauroux.tice.ac-orleans-tours.fr
 http://clg-rostand-orleans.tice.ac-orleans-tours.fr
 http://clg-rschuman-amilly.tice.ac-orleans-tours.fr
@@ -5567,7 +5570,6 @@ https://cancer-seniors-paris-est.aphp.fr
 https://chirurgie-digestive-sat.aphp.fr
 https://chu-mondor.aphp.fr
 https://cme.aphp.fr
-https://cmfplastique-enfant.aphp.fr
 https://compare.aphp.fr
 https://concours.aphp.fr
 https://corevih-idfcentre.aphp.fr
@@ -5585,6 +5587,7 @@ https://lactarium-idf.aphp.fr
 https://langage-apprentissages.aphp.fr
 https://maladiesrares-paris-saclay.aphp.fr
 https://maternite-beclere.aphp.fr
+https://maternite-lariboisiere.aphp.fr
 https://mobilestore.aphp.fr
 https://mon.aphp.fr
 https://nutritiongastro-trousseau.aphp.fr
@@ -6056,6 +6059,7 @@ https://www.audun-le-tiche.fr
 https://audunleroman.fr
 https://www.auffay.fr
 https://aufferville.fr
+https://www.aufferville.fr
 http://www.auffreville-brasseuil.fr
 https://augersaintvincent.fr
 https://augerville-la-riviere.fr
@@ -7239,17 +7243,21 @@ https://mediatheques-coeurdeloire.bibenligne.fr
 https://morance.bibenligne.fr
 https://pontducasse.bibenligne.fr
 https://pontdugard.bibenligne.fr
+https://rustenhart.bibenligne.fr
 https://saintvit.bibenligne.fr
 https://sennecey-laives.bibenligne.fr
 https://sourceschretiennes.bibenligne.fr
+https://steloy.bibenligne.fr
 https://stjeandelaporte.bibenligne.fr
 https://stjeandillac.bibenligne.fr
+https://terres-auxois.bibenligne.fr
 https://beaune.bibli.fr
 https://lagrangeauxlivres.bibli.fr
 https://le-portel.bibli.fr
 https://limeray.bibli.fr
 https://mediathequedescoteaux.bibli.fr
 https://montereau77.bibli.fr
+https://notredamedoe.bibli.fr
 https://ronchin.bibli.fr
 https://seyssel.bibli.fr
 https://st-martin-le-beau.bibli.fr
@@ -7270,18 +7278,23 @@ https://bibliotheque-arsac.fr
 https://www.bibliotheque-cancale.fr
 https://www.bibliotheque-castelculier.fr
 https://www.bibliotheque-conde.fr
+https://bibliotheque-cotichiavari.fr
 https://bibliotheque-crottet.fr
 https://bibliotheque-dannemariesurcrete.fr
+https://bibliotheque-de-melisey.fr
 https://www.bibliotheque-diderot.fr
+https://www.bibliotheque-forgues.fr
 https://bibliotheque-gries.fr
 https://bibliotheque-hostun.fr
 https://bibliotheque-injoux-genissiat.fr
+https://www.bibliotheque-lacellesaintcloud.fr
 https://bibliotheque-les-auxons.fr
 https://www.bibliotheque-limoux.fr
 https://www.bibliotheque-loguivy-plougras.fr
 https://www.bibliotheque-mazarine.fr
 https://www.bibliotheque-montreuil.fr
 https://www.bibliotheque-polonaise-paris-shlp.fr
+https://www.bibliotheque-portesdevassiviere.fr
 https://bibliotheque-rougier.fr
 https://www.bibliotheque-sainturbain29.fr
 https://www.bibliotheque-st-leonard-de-noblat.fr
@@ -8268,6 +8281,7 @@ https://cascastelchateau.fr
 http://www.caseneuve.fr
 https://www.casesdepene.fr
 https://cassagnas.fr
+https://www.cassagnas.fr
 https://cassagne-31.fr
 https://cassagnes.fr
 https://www.cassagnes.fr
@@ -8424,6 +8438,7 @@ https://cc-cln.fr
 https://www.cc-cln.fr
 https://cc-coeurdefrance.fr
 https://www.cc-coeurdegaronne.fr
+https://www.bibliotheque.cc-coeurdostrevent.fr
 http://www.cc-coeurdostrevent.fr
 http://lachatelaine.cc-coeurdujura.fr
 https://pupillin.cc-coeurdujura.fr
@@ -8730,7 +8745,6 @@ http://www.touraine.cci.fr
 http://yonne.cci.fr
 https://www.entreprises.cci-paris-idf.fr
 https://www.cci-paris-idf.fr
-https://cci28.fr
 https://www.cci47.fr
 https://www.cci89.fr
 https://ccidl.fr
@@ -9213,7 +9227,6 @@ https://dordogne.chambre-agriculture.fr
 https://gard.chambre-agriculture.fr
 https://gers.chambre-agriculture.fr
 https://gironde.chambre-agriculture.fr
-https://guadeloupe.chambre-agriculture.fr
 https://hapy.chambre-agriculture.fr
 https://hautegaronne.chambre-agriculture.fr
 https://hautsdefrance.chambre-agriculture.fr
@@ -9390,6 +9403,7 @@ https://charmont-en-beauce.fr
 https://www.charmoy89.fr
 https://charnay-en-beaujolais.fr
 https://charnecles.fr
+https://www.charnecles.fr
 https://www.charnizay37.fr
 http://www.charny77.fr
 https://mairie.charols.fr
@@ -9698,6 +9712,7 @@ https://www.chilhac.fr
 http://chille.fr
 http://www.chille.fr
 https://chilleurs-aux-bois.fr
+https://bibliotheque.chilleurs-aux-bois.fr
 https://chillylevignoble.fr
 https://chimilin.fr
 https://www.chindrieux.fr
@@ -9991,7 +10006,6 @@ https://cma-meuse.fr
 https://cma-moselle.fr
 https://www.cma-moselle.fr
 https://www.cma-paris.fr
-https://www.cma-savoie.fr
 https://cma-vosges.fr
 https://www.cma18.fr
 https://www.cma28.fr
@@ -10853,6 +10867,7 @@ https://cournonsec.fr
 https://courpalay.fr
 https://www.courpalay.fr
 https://coursac.fr
+https://www.coursac.fr
 https://www.coursan.fr
 https://coursdepile.fr
 https://courslesbains.fr
@@ -10872,6 +10887,7 @@ https://courtonnelameurdrac.fr
 https://www.courville-sur-eure.fr
 http://www.cousanceslesforges.fr
 https://couserans-pyrenees.fr
+https://bibliotheques.couserans-pyrenees.fr
 https://cousolre.fr
 https://www.coussac-bonneval.fr
 https://www.coussay-les-bois.fr
@@ -11089,6 +11105,7 @@ https://ctlf.fr
 https://cubieres.fr
 https://cubieres-sur-cinoble.fr
 http://cublize.fr
+https://www.cublize.fr
 https://cubzaclesponts.fr
 https://www.cubzaclesponts.fr
 https://cucq.fr
@@ -12450,6 +12467,7 @@ https://www.escaudes.fr
 https://www.escaudoeuvres.fr
 https://www.escautpont.fr
 https://www.escazeaux.fr
+https://mediatheque.eschau.fr
 https://www.eschau.fr
 https://eschbourg-graufthal.fr
 https://www.eschentzwiller.fr
@@ -12833,6 +12851,7 @@ https://flexanville.fr
 https://fley.fr
 https://www.fley.fr
 http://flinssurseine.fr
+https://www.flinssurseine.fr
 https://flize.fr
 https://www.flize.fr
 https://flogny-la-chapelle.fr
@@ -13531,6 +13550,7 @@ https://gilhocsurormeze.fr
 https://gilley.fr
 https://gillonnay.fr
 https://gilly.fr
+https://www.gilly.fr
 http://www.gillylesciteaux.fr
 https://gilocourt.fr
 https://gimbrede.fr
@@ -13623,6 +13643,7 @@ https://www.goudelin.fr
 https://gouex.fr
 https://www.gouffernenauge.fr
 https://gougenheim.fr
+https://www.gougenheim.fr
 https://gouhenans.fr
 https://goujounac.fr
 https://www.goujounac.fr
@@ -13840,6 +13861,7 @@ https://outline.incubateur.anct.gouv.fr
 https://search.incubateur.anct.gouv.fr
 https://sentry.incubateur.anct.gouv.fr
 https://dev.solutionsdelus.incubateur.anct.gouv.fr
+https://feat-region-thematique-p.solutionsdelus.incubateur.anct.gouv.fr
 https://fix-missing-images.solutionsdelus.incubateur.anct.gouv.fr
 https://landing.solutionsdelus.incubateur.anct.gouv.fr
 https://stack.incubateur.anct.gouv.fr
@@ -13915,6 +13937,7 @@ https://staging4.datapass.api.gouv.fr
 https://staging5.datapass.api.gouv.fr
 https://status.datapass.api.gouv.fr
 https://v2.datapass.api.gouv.fr
+https://annuaire-entreprises.v2.datapass.api.gouv.fr
 https://api-entreprise.v2.datapass.api.gouv.fr
 https://sandbox.api-entreprise.v2.datapass.api.gouv.fr
 https://staging.api-entreprise.v2.datapass.api.gouv.fr
@@ -14358,7 +14381,6 @@ https://faq.mobilic.beta.gouv.fr
 https://metabase.mobilic.beta.gouv.fr
 https://sandbox.mobilic.beta.gouv.fr
 https://staging.mobilic.beta.gouv.fr
-https://mon-suivi-justice.beta.gouv.fr
 https://agents.mon-suivi-justice.beta.gouv.fr
 https://decouvrir.mon-suivi-justice.beta.gouv.fr
 https://documentation.mon-suivi-justice.beta.gouv.fr
@@ -14623,7 +14645,6 @@ https://webconf03.comu.gouv.fr
 https://webconf04.comu.gouv.fr
 https://concertation-strategie-energie-climat.gouv.fr
 https://archivephase1.concertation-strategie-energie-climat.gouv.fr
-https://www.conseil-national-industrie.gouv.fr
 http://www.conseilculturel-upm.gouv.fr
 https://conseiller-numerique.gouv.fr
 https://aide.conseiller-numerique.gouv.fr
@@ -14992,7 +15013,6 @@ https://www.stages.defense.gouv.fr
 https://www.c-dec.terre.defense.gouv.fr
 http://messagerie.dcmat.terre.defense.gouv.fr
 https://www.dlem.terre.defense.gouv.fr
-https://www.emsome.terre.defense.gouv.fr
 http://cas.etrs.terre.defense.gouv.fr
 https://mail.etrs.terre.defense.gouv.fr
 http://tools.etrs.terre.defense.gouv.fr
@@ -15811,6 +15831,7 @@ https://sumitfrs.phm.education.gouv.fr
 https://sumitjes.phm.education.gouv.fr
 https://sumitonisep.phm.education.gouv.fr
 https://sumitos.phm.education.gouv.fr
+https://sumitsud.phm.education.gouv.fr
 https://videodiff.phm.education.gouv.fr
 https://visio-concours-01.phm.education.gouv.fr
 https://wa.phm.education.gouv.fr
@@ -16075,7 +16096,6 @@ https://eye.prosanteconnect.esante.gouv.fr
 https://forms.prosanteconnect.esante.gouv.fr
 https://img.prosanteconnect.esante.gouv.fr
 https://landings.prosanteconnect.esante.gouv.fr
-http://manager.ps.esante.gouv.fr
 http://minihds.ps.esante.gouv.fr
 http://reload.ps.esante.gouv.fr
 https://api.bas.psc.esante.gouv.fr
@@ -16882,7 +16902,6 @@ https://www.notre-environnement.gouv.fr
 https://enquete.nouvelle-caledonie.gouv.fr
 https://www.nouvelle-caledonie.gouv.fr
 https://www.nouvelles-chances.gouv.fr
-https://nrbc-e.gouv.fr
 https://www.nrbc-e.gouv.fr
 https://accessibilite.numerique.gouv.fr
 https://alliance.numerique.gouv.fr
@@ -16940,11 +16959,11 @@ http://imap.system.osprod.dimail1.numerique.gouv.fr
 https://backup.ovhdev.dimail1.numerique.gouv.fr
 https://main.ovhdev.dimail1.numerique.gouv.fr
 https://monitor.ovhdev.dimail1.numerique.gouv.fr
-http://imap.system.ovhdev.dimail1.numerique.gouv.fr
 http://smtp.system.ovhdev.dimail1.numerique.gouv.fr
 http://imap.testing.ovhdev.dimail1.numerique.gouv.fr
 http://smtp.testing.ovhdev.dimail1.numerique.gouv.fr
 https://webmail.testing.ovhdev.dimail1.numerique.gouv.fr
+https://webmail.testing.ovhprod.dimail1.numerique.gouv.fr
 https://docs.numerique.gouv.fr
 https://domaines-lasuite.numerique.gouv.fr
 https://ecoresponsable.numerique.gouv.fr
@@ -16964,7 +16983,7 @@ https://portail.hubee.numerique.gouv.fr
 https://supervision-hub.hubee.numerique.gouv.fr
 https://supervision-technique-hub.hubee.numerique.gouv.fr
 https://www.hubee.numerique.gouv.fr
-http://imap.numerique.gouv.fr
+https://imap.numerique.gouv.fr
 https://jedonnemonavis.numerique.gouv.fr
 http://lancementdinum.numerique.gouv.fr
 https://demarrage.lapastille.numerique.gouv.fr
@@ -18569,6 +18588,7 @@ https://www.mediatheque.issoudun.fr
 https://www.issoudun.fr
 https://issyleveque.fr
 https://www.issyleveque.fr
+https://www.istres.fr
 https://www.it04.fr
 https://www.iteuil.fr
 http://www.ittenheim.fr
@@ -18676,7 +18696,6 @@ https://josephgaillardweb.fr
 https://josse.fr
 https://www.josse.fr
 https://jossigny.fr
-https://jouarre.fr
 https://jouars-pontchartrain.fr
 https://joucas.fr
 https://www.joue-du-plain.fr
@@ -18789,7 +18808,7 @@ https://keskastel.fr
 https://www.keskastel.fr
 https://kesseldorf.fr
 http://kienheim.fr
-http://www.kienheim.fr
+https://www.kienheim.fr
 https://www.kiffis.fr
 https://www.killem.fr
 https://www.kilstett.fr
@@ -19846,6 +19865,7 @@ https://www.lecres.fr
 https://www.lecrest.fr
 https://lecrocq.fr
 https://lecroisic.fr
+https://www.lecroisic.fr
 https://lectoure.fr
 https://www.lecuing.fr
 https://ledenon.fr
@@ -20103,7 +20123,7 @@ http://www.lescitesunies.fr
 https://lesclayessousbois.fr
 https://www.lesclayessousbois.fr
 http://lescoteauxperigourdins.fr
-http://www.lescoteauxperigourdins.fr
+https://www.lescoteauxperigourdins.fr
 http://www.lescotesdarey.fr
 https://www.lescouet-gouarec.fr
 https://lescout.fr
@@ -20180,6 +20200,7 @@ https://lessard-le-national.fr
 https://www.lessard-le-national.fr
 http://www.lessauvages.fr
 https://lessay.fr
+https://www.lessay.fr
 https://www.lessieges.fr
 https://lestaillades.fr
 https://lestelle-betharram.fr
@@ -20652,6 +20673,7 @@ http://www.lugarde.fr
 http://www.lugny-en-maconnais.fr
 https://www.luisant.fr
 https://luitre-dompierre.fr
+https://www.luitre-dompierre.fr
 https://www.lullin.fr
 https://lumbin.fr
 https://www.lumes.fr
@@ -20690,6 +20712,7 @@ http://www.lussat23.fr
 https://lussat63.fr
 https://luthenay.fr
 https://lutterbach.fr
+https://bibliotheque.lutterbach.fr
 https://www.lutzelbourg.fr
 https://lux71.fr
 https://www.lux71.fr
@@ -21868,6 +21891,7 @@ https://www.mairie-deauville.fr
 https://mairie-degre.fr
 https://www.mairie-delme.fr
 https://mairie-denat.fr
+https://www.mairie-denat.fr
 https://mairie-denee.fr
 https://mairie-desertines.fr
 https://mairie-deuillabarre.fr
@@ -22169,7 +22193,7 @@ https://mairie-heuringhem.fr
 https://www.mairie-hiersac.fr
 https://mairie-hillion.fr
 http://mairie-hoedic.fr
-http://www.mairie-holnon.fr
+https://www.mairie-holnon.fr
 http://mairie-homecourt.fr
 https://www.mairie-hondainville.fr
 http://www.mairie-hornaing.fr
@@ -22234,7 +22258,7 @@ https://www.mairie-jeumont.fr
 https://mairie-joannas.fr
 http://mairie-joinville.fr
 https://www.mairie-jons.fr
-https://mairie-jort.fr
+http://mairie-jort.fr
 https://www.mairie-jort.fr
 https://www.mairie-jouarspontchartrain.fr
 https://www.mairie-jouetsurlaubois.fr
@@ -22314,6 +22338,7 @@ https://mairie-languenan.fr
 https://www.mairie-languenan.fr
 https://www.mairie-lanquetot.fr
 https://www.mairie-lansenvercors.fr
+https://mediatheque.mairie-lanton.fr
 https://www.mairie-lanton.fr
 https://mairie-lapalud.fr
 https://www.mairie-lapalud.fr
@@ -23934,8 +23959,10 @@ https://mairielesventes27.fr
 http://www.mairielhotellerie.fr
 http://www.mairielhotellerie14.fr
 https://mairielogrian-florian.fr
+https://bibliotheque.mairielozanne.fr
 http://www.mairielye.fr
 http://mairiemachault08.fr
+https://mediatheque.mairiemaringues.fr
 https://mairiemarseille1314.fr
 https://www.mairiemaubec-luberon.fr
 https://www.mairiemauvieres.fr
@@ -24075,7 +24102,6 @@ https://www.malissard.fr
 https://mallefougasse.fr
 https://www.mallefougasse.fr
 https://www.malleloy.fr
-https://www.mallievre.fr
 https://www.malling.fr
 https://malons-et-elze.fr
 https://malroy57.fr
@@ -24375,7 +24401,6 @@ https://www.mayran.fr
 https://mayres-ardeche.fr
 https://www.mayres-savel.fr
 https://www.mayres63.fr
-https://www.mayrinhac-lentour.fr
 https://maysel.fr
 https://www.mazan.fr
 https://mazange.fr
@@ -24461,6 +24486,7 @@ https://www.mediatheque-conflans.fr
 https://www.mediatheque-decines.fr
 https://www.mediatheque-dives.fr
 http://www.mediatheque-douarnenez.fr
+https://www.mediatheque-fontcouverte17.fr
 https://www.mediatheque-gap.fr
 https://www.mediatheque-hautjurasaintclaude.fr
 https://mediatheque-hulluch.fr
@@ -24472,6 +24498,7 @@ https://www.mediatheque-lecateau.fr
 https://www.mediatheque-lecreusot.fr
 https://mediatheque-lelamentin.fr
 https://www.mediatheque-longeville-les-metz.fr
+https://www.mediatheque-mairie-dieulefit.fr
 http://www.mediatheque-margnylescompiegne.fr
 https://mediatheque-marmande.fr
 https://www.mediatheque-martigues.fr
@@ -24490,9 +24517,11 @@ https://mediatheque-st-seine-labbaye.fr
 https://www.mediatheque-suresnes.fr
 https://www.mediatheque-tampon.fr
 https://www.mediatheque-thouars.fr
+https://mediatheque-ustaritz.fr
 https://www.mediatheque-vallee-munster.fr
 https://www.mediatheque-vierzon.fr
 https://www.mediatheque-ville-romainville.fr
+https://mediatheque-warhem.fr
 https://www.mediatheque-wormhout.fr
 https://saintblaise.mediatheque06.fr
 https://saintetiennedetinee.mediatheque06.fr
@@ -24503,6 +24532,7 @@ https://mediathequechazay.fr
 http://www.mediathequederoubaix.fr
 https://mediathequedewittelsheim.fr
 https://www.mediathequelamadeleine.fr
+https://mediathequemillau.fr
 https://www.mediathequeouestprovence.fr
 https://mediathequepierrebenite.fr
 http://www.mediathequeprotestante.fr
@@ -24718,6 +24748,7 @@ https://www.meyrueis.fr
 https://www.meys.fr
 https://www.meyssac.fr
 https://meysse.fr
+https://www.meysse.fr
 https://www.meyzieu.fr
 https://www.mezencloiremeygal.fr
 https://mezeriat.fr
@@ -25989,7 +26020,6 @@ http://moulins-les-metz.fr
 http://www.moulins-les-metz.fr
 https://moulins35.fr
 http://www.moulle.fr
-https://www.moumour.fr
 https://www.mourenx.fr
 https://mouret-aveyron.fr
 https://moureuille.fr
@@ -26585,6 +26615,7 @@ http://s582979323.onlinehome.fr
 https://onnaing.fr
 http://www.onnion.fr
 https://onpl.fr
+https://bibliothequechampssuryonne.opac-x.fr
 https://bibliagd.opac3d.fr
 https://biblio-stbenoit35.opac3d.fr
 https://domene.opac3d.fr
@@ -26659,6 +26690,7 @@ http://www.orsonville.fr
 https://ortale.fr
 https://www.orthevielle.fr
 https://orthoux-serignac-quilhan.fr
+https://www.orthoux-serignac-quilhan.fr
 https://ortiporio.fr
 https://www.orvault.fr
 https://www.oslon.fr
@@ -27273,6 +27305,7 @@ https://www.plemy.fr
 https://www.plenee-jugon.fr
 https://www.pleneuf-val-andre.fr
 https://www.plerguer.fr
+http://plescop.fr
 https://plesder.fr
 https://www.pleslin-trigavou.fr
 https://www.pleucadeuc.fr
@@ -27578,6 +27611,7 @@ https://prenois.fr
 https://www.prenois.fr
 https://www.presilly.fr
 https://presles-et-thierny.fr
+https://www.presles-et-thierny.fr
 https://presnoy.fr
 http://www.pressagny-l-orgueilleux.fr
 https://www.pressigny-les-pins.fr
@@ -28233,6 +28267,7 @@ https://rouvres-en-plaine.fr
 https://www.rouvres-en-plaine.fr
 https://rouvres77.fr
 https://rouvroy-les-merles.fr
+https://www.rouvroy-les-merles.fr
 https://www.rouxmesnil-bouteilles.fr
 https://www.royanatlantique.fr
 https://royas.fr
@@ -29429,6 +29464,7 @@ https://www.saintgeorgesdedidonne.fr
 http://www.saintgeorgesdereneins.fr
 https://saintgeorgesderex.fr
 https://www.saintgeorgesderouelley.fr
+https://mediatheque.saintgeorgesdescoteaux.fr
 https://www.saintgeorgesdescoteaux.fr
 https://www.saintgeorgesdesperanche.fr
 https://saintgeorgesdhurtieres.fr
@@ -29626,6 +29662,7 @@ https://www.saintmartindelacluze.fr
 https://saintmartindelaye.fr
 https://www.saintmartindelif.fr
 https://saintmartindesaintmaixent.fr
+https://www.saintmartindesaintmaixent.fr
 https://www.saintmartindeseignanx.fr
 https://www.saintmartindesentrees.fr
 https://www.saintmartindesnoyers.fr
@@ -30185,6 +30222,7 @@ https://www.sauzet-gard.fr
 https://sauzon.fr
 https://www.sauzon.fr
 http://savasse.fr
+https://www.savasse.fr
 http://www.savenes.fr
 https://www.saverne.fr
 https://savianges.fr
@@ -30678,6 +30716,7 @@ https://solerieux.fr
 https://www.solerieux.fr
 https://solers.fr
 https://solesmes.fr
+https://www.solesmes.fr
 https://www.solesmes72.fr
 http://www.soleymieu.fr
 http://www.solgne.fr
@@ -31247,6 +31286,7 @@ http://www.thenezay.fr
 https://www.thenioux.fr
 https://www.thennes.fr
 https://thenouville.fr
+https://www.thenouville.fr
 https://theoule-sur-mer.fr
 http://www.therdonne.fr
 https://www.thereval.fr
@@ -32398,7 +32438,6 @@ https://www.villandraut.fr
 https://www.villandry.fr
 https://www.villard-bonnot.fr
 https://www.villard-de-lans.fr
-https://www.villard-reymond.fr
 https://www.villard-saint-christophe.fr
 http://www.villard74.fr
 https://villardarene.fr
@@ -32897,7 +32936,6 @@ https://www.ville-guesnain.fr
 https://www.ville-guignemicourt.fr
 https://www.ville-guignes.fr
 https://mediatheque.ville-guingamp.fr
-https://www.ville-guise.fr
 https://ville-gujanmestras.fr
 https://www.ville-guyancourt.fr
 https://ville-hagondange.fr
@@ -33302,6 +33340,7 @@ http://www.ville-rhinau.fr
 https://www.ville-richelieu.fr
 http://ville-riedisheim.fr
 http://www.ville-riedisheim.fr
+https://mediatheque.ville-rieumes.fr
 https://www.ville-rieumes.fr
 https://www.ville-riez.fr
 https://www.ville-rimplas.fr
@@ -33522,6 +33561,7 @@ https://ville-tanus.fr
 https://www.ville-tanus.fr
 https://ville-tarare.fr
 https://bibliotheque.ville-tarnos.fr
+https://mediatheque.ville-tarnos.fr
 https://www.ville-tarnos.fr
 http://www.ville-tavaux.fr
 https://www.ville-taverny.fr
@@ -33796,6 +33836,7 @@ https://www.villequiers.fr
 https://www.villerangdufliers.fr
 https://www.villerbon.fr
 https://www.villereau.fr
+https://mediatheque.villerest.fr
 https://www.villerest.fr
 https://villeron.fr
 https://www.villeron.fr
@@ -34054,7 +34095,6 @@ https://www.waltenheim68.fr
 https://www.wambrechies.fr
 https://wandignies-hamage.fr
 http://www.wangenbourg-engenthal.fr
-https://www.wannehain.fr
 https://wanquetin.fr
 https://www.warcq.fr
 http://wardrecques.fr
@@ -34151,6 +34191,7 @@ https://www.wolxheim.fr
 https://www.woustviller.fr
 https://wy-dit-joli-village.fr
 https://www.wy-dit-joli-village.fr
+https://mediatheque.xaintrie-val-dordogne.fr
 https://www.xaintrie-val-dordogne.fr
 https://www.xambes.fr
 https://xantonchassenon.fr
@@ -34441,9 +34482,11 @@ https://www.bibliotheque-paraylemonial.net
 https://www.bibliotheque-saint-pryve.net
 https://www.bibliothequepaysducoquelicot.net
 https://opac-x-bibliothequerue.biblix.net
+https://opac-x-bibliothequesaintclement.biblix.net
 https://opac-x-bibliothequemaillane.biblixnet.net
 https://opac-x-bibliothequesaintgalmier.biblixnet.net
 https://opac-x-bibliothequesinlenoble.biblixnet.net
+https://opac-x-bmlesessartsleroi.biblixnet.net
 https://bizanet.net
 https://www.bizanet.net
 https://www.bm-aixlesbains.net
@@ -34642,6 +34685,7 @@ https://www.mairie-saint-bonnet.net
 https://mairieazillanet.net
 https://www.mairiedecadillac.net
 https://mairiedelapleau-correze.net
+https://www.mairiedelapleau-correze.net
 https://www.mairiederoussayrolles.net
 http://www.mairielepin.net
 https://www.mairiepontcarre.net
@@ -34718,7 +34762,6 @@ https://www.saint-flour.net
 https://www.saint-germain-de-la-grange.net
 http://saint-geyrac.net
 http://www.saint-geyrac.net
-http://www.saint-mariens.net
 http://saint-martin-de-re.net
 http://www.saint-martin-de-re.net
 https://www.saint-maurice-la-souterraine.net
@@ -35079,6 +35122,7 @@ https://www.breville.org
 http://brouzetlesales.org
 http://www.brouzetlesales.org
 https://abbeville-pom.c3rb.org
+https://ambes.c3rb.org
 https://baud.c3rb.org
 https://beaucaire-pom.c3rb.org
 https://bibliotheque-lamorlaye.c3rb.org
@@ -35094,12 +35138,15 @@ https://gournay-en-bray-pom.c3rb.org
 https://la-croix-valmer-pom.c3rb.org
 https://laronde-pom.c3rb.org
 https://laz-pom.c3rb.org
+https://leynes-pom.c3rb.org
 https://mauges-sur-loire-pom.c3rb.org
 https://mediatheque-dives.c3rb.org
 https://mediatheque-malesherbes.c3rb.org
 https://mediatheque-orange-pom.c3rb.org
 https://mediatheque-sorgues.c3rb.org
 https://mediatheque-troissereux.c3rb.org
+https://mediatheques-asnieres.c3rb.org
+https://mediathequesmb.c3rb.org
 https://mende-pom.c3rb.org
 https://neufchateau.c3rb.org
 https://reseaumedia.c3rb.org
@@ -35431,6 +35478,7 @@ https://www.montaut.org
 https://montesquiou.org
 https://montsauche-les-settons.org
 https://www.montsauche-les-settons.org
+https://mediatheque.morteau.org
 https://www.morteau.org
 https://moutiers.org
 https://nailloux.org
@@ -35447,6 +35495,7 @@ https://www.patrimoineaurhalpin.org
 http://www.pays-vignoble-nantais.org
 https://www.paysdebray.org
 https://paysdolmes.org
+https://www.paysdolmes.org
 https://www.peche17.org
 https://peche66.org
 https://www.peche66.org
@@ -35554,7 +35603,7 @@ https://www.ville-loonplage.org
 https://ville-saint-martin-auxigny.org
 http://ville-verberie.org
 https://ville-verdon.org
-http://www.ville-verdon.org
+https://www.ville-verdon.org
 https://villeseque.org
 https://www.villeseque.org
 https://www.vinci-melun.org
