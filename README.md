@@ -1,3 +1,5 @@
+⚠️ Ce dépôt est désormais maintenu sur [la forge de l'ADULLACT](https://gitlab.adullact.net/dinum/noms-de-domaine-organismes-secteur-public).
+
 # Liste de noms de domaine de la sphère publique
 
 Ce dépôt contient une liste de noms de domaine d’organismes
